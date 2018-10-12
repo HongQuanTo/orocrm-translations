@@ -1,0 +1,400 @@
+entities,region.GB-EDH,,"Edinburgh, City of",0
+entities,region.GB-EDU,,"East Dunbartonshire",0
+entities,region.GB-ELN,,"East Lothian",0
+entities,region.GB-ELS,,"Eilean Siar",0
+entities,region.GB-ENF,,Enfield,0
+entities,region.GB-ERW,,"East Renfrewshire",0
+entities,region.GB-ERY,,"East Riding of Yorkshire",0
+entities,region.GB-ESS,,Essex,0
+entities,region.GB-ESX,,"East Sussex",0
+entities,region.GB-FAL,,Falkirk,0
+entities,region.GB-FER,,Fermanagh,0
+entities,region.GB-FIF,,Fife,0
+entities,region.GB-FLN,,"Flintshire;Sir y Fflint",0
+entities,region.GB-GAT,,Gateshead,0
+entities,region.GB-GBN,,"Great Britain",0
+entities,region.GB-GLG,,"Glasgow City",0
+entities,region.GB-GLS,,Gloucestershire,0
+entities,region.GB-GRE,,Greenwich,0
+entities,region.GB-GWN,,Gwynedd,0
+entities,region.GB-HAL,,Halton,0
+entities,region.GB-HAM,,Hampshire,0
+entities,region.GB-HAV,,Havering,0
+entities,region.GB-HCK,,Hackney,0
+entities,region.GB-HED,,Highland,0
+entities,region.GB-HEF,,Herefordshire,0
+entities,region.GB-HIL,,Hillingdon,0
+entities,region.GB-HMF,,"Hammersmith and Fulham",0
+entities,region.GB-HNS,,Hounslow,0
+entities,region.GB-HPL,,Hartlepool,0
+entities,region.GB-HRT,,Hertfordshire,0
+entities,region.GB-HRW,,Harrow,0
+entities,region.GB-HRY,,Haringey,0
+entities,region.GB-IOW,,"Isle of Wight",0
+entities,region.GB-ISL,,Islington,0
+entities,region.GB-IVC,,Inverclyde,0
+entities,region.GB-KEC,,"Kensington and Chelsea",0
+entities,region.GB-KEN,,Kent,0
+entities,region.GB-KHL,,"Kingston upon Hull",0
+entities,region.GB-KIR,,Kirklees,0
+entities,region.GB-KTT,,"Kingston upon Thames",0
+entities,region.GB-KWL,,Knowsley,0
+entities,region.GB-LAN,,Lancashire,0
+entities,region.GB-LBH,,Lambeth,0
+entities,region.GB-LCE,,Leicester,0
+entities,region.GB-LDS,,Leeds,0
+entities,region.GB-LEC,,Leicestershire,0
+entities,region.GB-LEW,,Lewisham,0
+entities,region.GB-LIN,,Lincolnshire,0
+entities,region.GB-LIV,,Liverpool,0
+entities,region.GB-LMV,,Limavady,0
+entities,region.GB-LND,,"London, City of",0
+entities,region.GB-LRN,,Larne,0
+entities,region.GB-LSB,,Lisburn,0
+entities,region.GB-LUT,,Luton,0
+entities,region.GB-MAN,,Manchester,0
+entities,region.GB-MDB,,Middlesbrough,0
+entities,region.GB-MDW,,Medway,0
+entities,region.GB-MFT,,Magherafelt,0
+entities,region.GB-MIK,,"Milton Keynes",0
+entities,region.GB-MLN,,Midlothian,0
+entities,region.GB-MON,,"Monmouthshire;Sir Fynwy",0
+entities,region.GB-MRT,,Merton,0
+entities,region.GB-MRY,,Moray,0
+entities,region.GB-MTY,,"Merthyr Tydfil;Merthyr Tudful",0
+entities,region.GB-MYL,,Moyle,0
+entities,region.GB-NAY,,"North Ayrshire",0
+entities,region.GB-NBL,,Northumberland,0
+entities,region.GB-NDN,,"North Down",0
+entities,region.GB-NEL,,"North East Lincolnshire",0
+entities,region.GB-NET,,"Newcastle upon Tyne",0
+entities,region.GB-NFK,,Norfolk,0
+entities,region.GB-NGM,,Nottingham,0
+entities,region.GB-NIR,,"Northern Ireland",0
+entities,region.GB-NLK,,"North Lanarkshire",0
+entities,region.GB-NLN,,"North Lincolnshire",0
+entities,region.GB-NSM,,"North Somerset",0
+entities,region.GB-NTA,,Newtownabbey,0
+entities,region.GB-NTH,,Northamptonshire,0
+entities,region.GB-NTL,,"Neath Port Talbot;Castell-nedd Port Talbot",0
+entities,region.GB-NTT,,Nottinghamshire,0
+entities,region.GB-NTY,,"North Tyneside",0
+entities,region.GB-NWM,,Newham,0
+entities,region.GB-NWP,,Newport;Casnewydd,0
+entities,region.GB-NYK,,"North Yorkshire",0
+entities,region.GB-NYM,,"Newry and Mourne",0
+entities,region.GB-OLD,,Oldham,0
+entities,region.GB-OMH,,Omagh,0
+entities,region.GB-ORR,,"Orkney Islands",0
+entities,region.GB-OXF,,Oxfordshire,0
+entities,region.GB-PEM,,"Pembrokeshire;Sir Benfro",0
+entities,region.GB-PKN,,"Perth and Kinross",0
+entities,region.GB-PLY,,Plymouth,0
+entities,region.GB-POL,,Poole,0
+entities,region.GB-POR,,Portsmouth,0
+entities,region.GB-POW,,Powys,0
+entities,region.GB-PTE,,Peterborough,0
+entities,region.GB-RCC,,"Redcar and Cleveland",0
+entities,region.GB-RCH,,Rochdale,0
+entities,region.GB-RCT,,"Rhondda, Cynon, Taff;Rhondda, Cynon,Taf",0
+entities,region.GB-RDB,,Redbridge,0
+entities,region.GB-RDG,,Reading,0
+entities,region.GB-RFW,,Renfrewshire,0
+entities,region.GB-RIC,,"Richmond upon Thames",0
+entities,region.GB-ROT,,Rotherham,0
+entities,region.GB-RUT,,Rutland,0
+entities,region.GB-SAW,,Sandwell,0
+entities,region.GB-SAY,,"South Ayrshire",0
+entities,region.GB-SCB,,"Scottish Borders, The",0
+entities,region.GB-SCT,,Scotland,0
+entities,region.GB-SFK,,Suffolk,0
+entities,region.GB-SFT,,Sefton,0
+entities,region.GB-SGC,,"South Gloucestershire",0
+entities,region.GB-SHF,,Sheffield,0
+entities,region.GB-SHN,,"St. Helens",0
+entities,region.GB-SHR,,Shropshire,0
+entities,region.GB-SKP,,Stockport,0
+entities,region.GB-SLF,,Salford,0
+entities,region.GB-SLG,,Slough,0
+entities,region.GB-SLK,,"South Lanarkshire",0
+entities,region.GB-SND,,Sunderland,0
+entities,region.GB-SOL,,Solihull,0
+entities,region.GB-SOM,,Somerset,0
+entities,region.GB-SOS,,Southend-on-Sea,0
+entities,region.GB-SRY,,Surrey,0
+entities,region.GB-STB,,Strabane,0
+entities,region.GB-STE,,Stoke-on-Trent,0
+entities,region.GB-STG,,Stirling,0
+entities,region.GB-STH,,Southampton,0
+entities,region.GB-STN,,Sutton,0
+entities,region.GB-STS,,Staffordshire,0
+entities,region.GB-STT,,Stockton-on-Tees,0
+entities,region.GB-STY,,"South Tyneside",0
+entities,region.GB-SWA,,Swansea;Abertawe,0
+entities,region.GB-SWD,,Swindon,0
+entities,region.GB-SWK,,Southwark,0
+entities,region.GB-TAM,,Tameside,0
+entities,region.GB-TFW,,"Telford and Wrekin",0
+entities,region.GB-THR,,Thurrock,0
+entities,region.GB-TOB,,Torbay,0
+entities,region.GB-TOF,,Torfaen;Tor-faen,0
+entities,region.GB-TRF,,Trafford,0
+entities,region.GB-TWH,,"Tower Hamlets",0
+entities,region.GB-UKM,,"United Kingdom",0
+entities,region.GB-VGL,,"Vale of Glamorgan, The;Bro Morgannwg",0
+entities,region.GB-WAR,,Warwickshire,0
+entities,region.GB-WBX,,"West Berkshire",0
+entities,region.GB-WDU,,"West Dunbartonshire",0
+entities,region.GB-WFT,,"Waltham Forest",0
+entities,region.GB-WGN,,Wigan,0
+entities,region.GB-WKF,,Wakefield,0
+entities,region.GB-WLL,,Walsall,0
+entities,region.GB-WLN,,"West Lothian",0
+entities,region.GB-WLS,,Wales,0
+entities,region.GB-WLV,,Wolverhampton,0
+entities,region.GB-WND,,Wandsworth,0
+entities,region.GB-WNM,,"Windsor and Maidenhead",0
+entities,region.GB-WOK,,Wokingham,0
+entities,region.GB-WOR,,Worcestershire,0
+entities,region.GB-WRL,,Wirral,0
+entities,region.GB-WRT,,Warrington,0
+entities,region.GB-WRX,,Wrexham;Wrecsam,0
+entities,region.GB-WSM,,Westminster,0
+entities,region.GB-WSX,,"West Sussex",0
+entities,region.GB-YOR,,York,0
+entities,region.GB-ZET,,"Shetland Islands",0
+entities,region.GD-01,,"Saint Andrew",0
+entities,region.GD-02,,"Saint David",0
+entities,region.GD-03,,"Saint George",0
+entities,region.GD-04,,"Saint John",0
+entities,region.GD-05,,"Saint Mark",0
+entities,region.GD-06,,"Saint Patrick",0
+entities,region.GD-10,,"Southern Grenadine Islands",0
+entities,region.GE-AB,,Abkhazia,0
+entities,region.GE-AJ,,Ajaria,0
+entities,region.GE-GU,,Guria,0
+entities,region.GE-IM,,Imeret’i,0
+entities,region.GE-KA,,Kakhet’i,0
+entities,region.GE-KK,,"K’vemo K’art’li",0
+entities,region.GE-MM,,Mts’khet’a-Mt’ianet’i,0
+entities,region.GE-RL,,"Racha-Lech’khumi-K’vemo Svanet’i",0
+entities,region.GE-SJ,,Samts’khe-Javakhet’i,0
+entities,region.GE-SK,,"Shida K’art’li",0
+entities,region.GE-SZ,,"Samegrelo-Zemo Svanet’i",0
+entities,region.GE-TB,,T’bilisi,0
+entities,region.GH-AA,,"Greater Accra",0
+entities,region.GH-AH,,Ashanti,0
+entities,region.GH-BA,,Brong-Ahafo,0
+entities,region.GH-CP,,Central,0
+entities,region.GH-EP,,Eastern,0
+entities,region.GH-NP,,Northern,0
+entities,region.GH-TV,,Volta,0
+entities,region.GH-UE,,"Upper East",0
+entities,region.GH-UW,,"Upper West",0
+entities,region.GH-WP,,Western,0
+entities,region.GL-KU,,"Kommune Kujalleq",0
+entities,region.GL-QA,,"Qaasuitsup Kommunia",0
+entities,region.GL-QE,,"Qeqqata Kommunia",0
+entities,region.GL-SM,,"Kommuneqarfik Sermersooq",0
+entities,region.GM-B,,Banjul,0
+entities,region.GM-L,,"Lower River",0
+entities,region.GM-M,,"Central River",0
+entities,region.GM-N,,"North Bank",0
+entities,region.GM-U,,"Upper River",0
+entities,region.GM-W,,Western,0
+entities,region.GN-B,,Boké,0
+entities,region.GN-BE,,Beyla,0
+entities,region.GN-BF,,Boffa,0
+entities,region.GN-BK,,Boké,0
+entities,region.GN-C,,Conakry,0
+entities,region.GN-CO,,Coyah,0
+entities,region.GN-D,,Kindia,0
+entities,region.GN-DB,,Dabola,0
+entities,region.GN-DI,,Dinguiraye,0
+entities,region.GN-DL,,Dalaba,0
+entities,region.GN-DU,,Dubréka,0
+entities,region.GN-F,,Faranah,0
+entities,region.GN-FA,,Faranah,0
+entities,region.GN-FO,,Forécariah,0
+entities,region.GN-FR,,Fria,0
+entities,region.GN-GA,,Gaoual,0
+entities,region.GN-GU,,Guékédou,0
+entities,region.GN-K,,Kankan,0
+entities,region.GN-KA,,Kankan,0
+entities,region.GN-KB,,Koubia,0
+entities,region.GN-KD,,Kindia,0
+entities,region.GN-KE,,Kérouané,0
+entities,region.GN-KN,,Koundara,0
+entities,region.GN-KO,,Kouroussa,0
+entities,region.GN-KS,,Kissidougou,0
+entities,region.GN-L,,Labé,0
+entities,region.GN-LA,,Labé,0
+entities,region.GN-LE,,Lélouma,0
+entities,region.GN-LO,,Lola,0
+entities,region.GN-M,,Mamou,0
+entities,region.GN-MC,,Macenta,0
+entities,region.GN-MD,,Mandiana,0
+entities,region.GN-ML,,Mali,0
+entities,region.GN-MM,,Mamou,0
+entities,region.GN-N,,Nzérékoré,0
+entities,region.GN-NZ,,Nzérékoré,0
+entities,region.GN-PI,,Pita,0
+entities,region.GN-SI,,Siguiri,0
+entities,region.GN-TE,,Télimélé,0
+entities,region.GN-TO,,Tougué,0
+entities,region.GN-YO,,Yomou,0
+entities,region.GQ-AN,,Annobón,0
+entities,region.GQ-BN,,"Bioko Norte",0
+entities,region.GQ-BS,,"Bioko Sur",0
+entities,region.GQ-C,,"Región Continental",0
+entities,region.GQ-CS,,"Centro Sur",0
+entities,region.GQ-I,,"Región Insular",0
+entities,region.GQ-KN,,Kié-Ntem,0
+entities,region.GQ-LI,,Litoral,0
+entities,region.GQ-WN,,Wele-Nzás,0
+entities,region.GR-01,,"Aitolia kai Akarnania",0
+entities,region.GR-03,,Voiotia,0
+entities,region.GR-04,,Evvoias,0
+entities,region.GR-05,,Evrytania,0
+entities,region.GR-06,,Fthiotida,0
+entities,region.GR-07,,Fokida,0
+entities,region.GR-11,,Argolida,0
+entities,region.GR-12,,Arkadia,0
+entities,region.GR-13,,Achaïa,0
+entities,region.GR-14,,Ileia,0
+entities,region.GR-15,,Korinthia,0
+entities,region.GR-16,,Lakonia,0
+entities,region.GR-17,,Messinia,0
+entities,region.GR-21,,Zakynthos,0
+entities,region.GR-22,,Kerkyra,0
+entities,region.GR-23,,Kefallonia,0
+entities,region.GR-24,,Lefkada,0
+entities,region.GR-31,,Arta,0
+entities,region.GR-32,,Thesprotia,0
+entities,region.GR-33,,Ioannina,0
+entities,region.GR-34,,Preveza,0
+entities,region.GR-41,,Karditsa,0
+entities,region.GR-42,,Larisa,0
+entities,region.GR-43,,Magnisia,0
+entities,region.GR-44,,Trikala,0
+entities,region.GR-51,,Grevena,0
+entities,region.GR-52,,Drama,0
+entities,region.GR-53,,Imathia,0
+entities,region.GR-54,,Thessaloniki,0
+entities,region.GR-55,,Kavala,0
+entities,region.GR-56,,Kastoria,0
+entities,region.GR-57,,Kilkis,0
+entities,region.GR-58,,Kozani,0
+entities,region.GR-59,,Pella,0
+entities,region.GR-61,,Pieria,0
+entities,region.GR-62,,Serres,0
+entities,region.GR-63,,Florina,0
+entities,region.GR-64,,Chalkidiki,0
+entities,region.GR-69,,"Agio Oros",0
+entities,region.GR-71,,Evros,0
+entities,region.GR-72,,Xanthi,0
+entities,region.GR-73,,Rodopi,0
+entities,region.GR-81,,Dodekanisos,0
+entities,region.GR-82,,Kyklades,0
+entities,region.GR-83,,Lesvos,0
+entities,region.GR-84,,Samos,0
+entities,region.GR-85,,Chios,0
+entities,region.GR-91,,Irakleio,0
+entities,region.GR-92,,Lasithi,0
+entities,region.GR-93,,Rethymno,0
+entities,region.GR-94,,Chania,0
+entities,region.GR-A,,"Anatoliki Makedonia kai Thraki",0
+entities,region.GR-A1,,Attiki,0
+entities,region.GR-B,,"Kentriki Makedonia",0
+entities,region.GR-C,,"Dytiki Makedonia",0
+entities,region.GR-D,,Ipeiros,0
+entities,region.GR-E,,Thessalia,0
+entities,region.GR-F,,"Ionia Nisia",0
+entities,region.GR-G,,"Dytiki Ellada",0
+entities,region.GR-H,,"Sterea Ellada",0
+entities,region.GR-I,,Attiki,0
+entities,region.GR-J,,Peloponnisos,0
+entities,region.GR-K,,"Voreio Aigaio",0
+entities,region.GR-L,,"Notio Aigaio",0
+entities,region.GR-M,,Kriti,0
+entities,region.GT-AV,,"Alta Verapaz",0
+entities,region.GT-BV,,"Baja Verapaz",0
+entities,region.GT-CM,,Chimaltenango,0
+entities,region.GT-CQ,,Chiquimula,0
+entities,region.GT-ES,,Escuintla,0
+entities,region.GT-GU,,Guatemala,0
+entities,region.GT-HU,,Huehuetenango,0
+entities,region.GT-IZ,,Izabal,0
+entities,region.GT-JA,,Jalapa,0
+entities,region.GT-JU,,Jutiapa,0
+entities,region.GT-PE,,Petén,0
+entities,region.GT-PR,,"El Progreso",0
+entities,region.GT-QC,,Quiché,0
+entities,region.GT-QZ,,Quetzaltenango,0
+entities,region.GT-RE,,Retalhuleu,0
+entities,region.GT-SA,,Sacatepéquez,0
+entities,region.GT-SM,,"San Marcos",0
+entities,region.GT-SO,,Sololá,0
+entities,region.GT-SR,,"Santa Rosa",0
+entities,region.GT-SU,,Suchitepéquez,0
+entities,region.GT-TO,,Totonicapán,0
+entities,region.GT-ZA,,Zacapa,0
+entities,region.GW-BA,,Bafatá,0
+entities,region.GW-BL,,Bolama,0
+entities,region.GW-BM,,Biombo,0
+entities,region.GW-BS,,Bissau,0
+entities,region.GW-CA,,Cacheu,0
+entities,region.GW-GA,,Gabú,0
+entities,region.GW-L,,Leste,0
+entities,region.GW-N,,Norte,0
+entities,region.GW-OI,,Oio,0
+entities,region.GW-QU,,Quinara,0
+entities,region.GW-S,,Sul,0
+entities,region.GW-TO,,Tombali,0
+entities,region.GY-BA,,Barima-Waini,0
+entities,region.GY-CU,,Cuyuni-Mazaruni,0
+entities,region.GY-DE,,Demerara-Mahaica,0
+entities,region.GY-EB,,"East Berbice-Corentyne",0
+entities,region.GY-ES,,"Essequibo Islands-West Demerara",0
+entities,region.GY-MA,,Mahaica-Berbice,0
+entities,region.GY-PM,,Pomeroon-Supenaam,0
+entities,region.GY-PT,,Potaro-Siparuni,0
+entities,region.GY-UD,,"Upper Demerara-Berbice",0
+entities,region.GY-UT,,"Upper Takutu-Upper Essequibo",0
+entities,region.HN-AT,,Atlántida,0
+entities,region.HN-CH,,Choluteca,0
+entities,region.HN-CL,,Colón,0
+entities,region.HN-CM,,Comayagua,0
+entities,region.HN-CP,,Copán,0
+entities,region.HN-CR,,Cortés,0
+entities,region.HN-EP,,"El Paraíso",0
+entities,region.HN-FM,,"Francisco Morazán",0
+entities,region.HN-GD,,"Gracias a Dios",0
+entities,region.HN-IB,,"Islas de la Bahía",0
+entities,region.HN-IN,,Intibucá,0
+entities,region.HN-LE,,Lempira,0
+entities,region.HN-LP,,"La Paz",0
+entities,region.HN-OC,,Ocotepeque,0
+entities,region.HN-OL,,Olancho,0
+entities,region.HN-SB,,"Santa Bárbara",0
+entities,region.HN-VA,,Valle,0
+entities,region.HN-YO,,Yoro,0
+entities,region.HR-01,,"Zagrebačka županija",0
+entities,region.HR-02,,"Krapinsko-zagorska županija",0
+entities,region.HR-03,,"Sisačko-moslavačka županija",0
+entities,region.HR-04,,"Karlovačka županija",0
+entities,region.HR-05,,"Varaždinska županija",0
+entities,region.HR-06,,"Koprivničko-križevačka županija",0
+entities,region.HR-07,,"Bjelovarsko-bilogorska županija",0
+entities,region.HR-08,,"Primorsko-goranska županija",0
+entities,region.HR-09,,"Ličko-senjska županija",0
+entities,region.HR-10,,"Virovitičko-podravska županija",0
+entities,region.HR-11,,"Požeško-slavonska županija",0
+entities,region.HR-12,,"Brodsko-posavska županija",0
+entities,region.HR-13,,"Zadarska županija",0
+entities,region.HR-14,,"Osječko-baranjska županija",0
+entities,region.HR-15,,"Šibensko-kninska županija",0
+entities,region.HR-16,,"Vukovarsko-srijemska županija",0
+entities,region.HR-17,,"Splitsko-dalmatinska županija",0
+entities,region.HR-18,,"Istarska županija",0
+entities,region.HR-19,,"Dubrovačko-neretvanska županija",0

@@ -1,0 +1,400 @@
+messages,oro.entity.entity_config.entity.field.items.label,,Label,0
+messages,oro.entity.entity_config.entity.field.items.label.tooltip,,"To keep the attribute content unlabeled on the Front Store, prefix the label text with an underscore (e.g. _Video Review, _Img Front View, _Img Rare View).",0
+messages,oro.entity.entity_config.form.field.items.is_enabled,,"Show on form",0
+messages,oro.entity.entity_config.view.field.items.is_displayable,,"Show on view",0
+messages,oro.entity.entity_config.view.field.items.priority,,Priority,0
+messages,oro.entity.entityfieldfallbackvalue.array_value.description,,"The array value for the field",0
+messages,oro.entity.entityfieldfallbackvalue.array_value.label,,"Array value",0
+messages,oro.entity.entityfieldfallbackvalue.entity_label,,"Entity fallback value",0
+messages,oro.entity.entityfieldfallbackvalue.entity_plural_label,,"Entity fallback values",0
+messages,oro.entity.entityfieldfallbackvalue.fallback.description,,"The value for the fallback",0
+messages,oro.entity.entityfieldfallbackvalue.fallback.label,,Fallback,0
+messages,oro.entity.entityfieldfallbackvalue.id.label,,Id,0
+messages,oro.entity.entityfieldfallbackvalue.scalar_value.description,,"The scalar value for the field",0
+messages,oro.entity.entityfieldfallbackvalue.scalar_value.label,,"Scalar value",0
+messages,oro.entity.fallback.system_config.label,,"System Config",0
+messages,oro.entity.fallback.use_fallback.label,,Use,0
+messages,oro.entity.form.choose_entity,,"Choose an entity...",0
+messages,oro.entity.form.choose_entity_field,,"Choose a field...",0
+messages,oro.entity.form.choose_entity_fields,,"Choose fields...",0
+messages,oro.entity.form.entity_fields,,Fields,0
+messages,oro.entity.form.entity_related,,Related,0
+messages,oro.entity.item,,"Item #%id%",0
+messages,oro.entity.plural_label,,Entities,0
+messages,oro.entity.validation.unique_field,,"Value for field ""%field%"" must be unique|Combination of values for ""%field%"" fields must be unique",0
+messages,oro.entity_config.action.field_search,,"Return varchar type field(s) in given entity",0
+messages,oro.entity_config.action.manage,,"Access entity management",0
+messages,oro.entity_config.action.update_entity,,"Update configurable entity",0
+messages,oro.entity_config.action.update_entity_field,,"Update configurable entity field",0
+messages,oro.entity_config.action.view_entities,,"View configurable entities",0
+messages,oro.entity_config.action.view_entity,,"View configurable entity",0
+messages,oro.entity_config.attribute.cannot_be_restored,,"This attribute cannot be restored because an attribute with similar name exists.",0
+messages,oro.entity_config.attribute.confirm_delete,,"Do you really want to delete this attribute?",0
+messages,oro.entity_config.attribute.entity_label,,Attribute,0
+messages,oro.entity_config.attribute.entity_not_supported,,"This entity does not support attributes",0
+messages,oro.entity_config.attribute.entity_plural_label,,Attributes,0
+messages,oro.entity_config.attribute.not_attribute,,"This field is not an attribute",0
+messages,oro.entity_config.attribute.successfully_deleted,,"Attribute successfully deleted",0
+messages,oro.entity_config.attribute.successfully_saved,,"Attribute was successfully saved",0
+messages,oro.entity_config.attribute.was_restored,,"Attribute was restored",0
+messages,oro.entity_config.attribute_family.attribute_groups.label,,"Attribute Groups",0
+messages,oro.entity_config.attribute_family.code.label,,Code,0
+messages,oro.entity_config.attribute_family.enabled.label,,Enabled,0
+messages,oro.entity_config.attribute_family.entity_label,,"Product Family",0
+messages,oro.entity_config.attribute_family.entity_plural_label,,"Product Families",0
+messages,oro.entity_config.attribute_family.image.label,,Image,0
+messages,oro.entity_config.attribute_family.labels.label,,Label,0
+messages,oro.entity_config.attribute_family.message.cant_delete,,"Can not be deleted",0
+messages,oro.entity_config.attribute_family.message.deleted,,"Successfully deleted",0
+messages,oro.entity_config.attribute_family.message.updated,,"Successfully updated",0
+messages,oro.entity_config.attribute_group.attribute_relations.label,,Attributes,0
+messages,oro.entity_config.attribute_group.code.label,,Code,0
+messages,oro.entity_config.attribute_group.is_visible.label,,Visible,0
+messages,oro.entity_config.attribute_group.labels.label,,Label,0
+messages,oro.entity_config.block_titles.associations.label,,"Communication & Collaboration",0
+messages,oro.entity_config.block_titles.attribute.label,,Attribute,0
+messages,oro.entity_config.block_titles.fields.label,,Fields,0
+messages,oro.entity_config.block_titles.general.label,,"General Information",0
+messages,oro.entity_config.block_titles.other.label,,Other,0
+messages,oro.entity_config.config_log.diffs.label,,Diffs,0
+messages,oro.entity_config.config_log.logged_at.label,,"Logged at",0
+messages,oro.entity_config.config_log.user.label,,Author,0
+messages,oro.entity_config.controller.attribute_family.message.saved,,"Product Family was successfully saved",0
+messages,oro.entity_config.controller.attribute_family.message.update,,"Product Family successfully updated",0
+messages,oro.entity_config.controller.config_entity.message.saved,,"Entity saved",0
+messages,oro.entity_config.controller.config_entity.message.update,,"Schema updated",0
+messages,oro.entity_config.controller.config_field.message.saved,,"Field saved",0
+messages,oro.entity_config.entity.information.label,,"Entity Information",0
+messages,oro.entity_config.entity.plural_label,,Entities,0
+messages,oro.entity_config.entity.unique.label,,"Unique Keys",0
+messages,oro.entity_config.entity_config.attribute.field.items.enabled,,Enabled,0
+messages,oro.entity_config.entity_config.attribute.field.items.filter_by.label,,"Filter by",0
+messages,oro.entity_config.entity_config.attribute.field.items.filter_by.tooltip,,"This field defines the type of filtering to be applied to the attribute. It will be applied only to fields that have string representation in the search index.",0
+messages,oro.entity_config.entity_config.attribute.field.items.filterable,,Filterable,0
+messages,oro.entity_config.entity_config.attribute.field.items.is_attribute,,Attribute,0
+messages,oro.entity_config.entity_config.attribute.field.items.searchable,,Searchable,0
+messages,oro.entity_config.entity_config.attribute.field.items.sortable,,Sortable,0
+messages,oro.entity_config.entity_config.attribute.field.items.visible,,Visible,0
+messages,oro.entity_config.entity_config.attribute.grid_action.remove,,Remove,0
+messages,oro.entity_config.entity_config.attribute.grid_action.restore,,Restore,0
+messages,oro.entity_config.entity_config.entity_name.label,,Name,0
+messages,oro.entity_config.entity_config.module_name.label,,Module,0
+messages,oro.entity_config.field_config.field_name.label,,Name,0
+messages,oro.entity_config.field_config.filter_by.exact_value.label,,"Exact value",0
+messages,oro.entity_config.field_config.filter_by.fuzzy_search.label,,"Fuzzy search",0
+messages,oro.entity_config.field_config.records_count.label,,"Number of records",0
+messages,oro.entity_config.field_config.type.label,,"Data Type",0
+messages,oro.entity_config.form.default_group_label,,General,0
+messages,oro.entity_config.form.name.label,,Name,0
+messages,oro.entity_config.form.type.label,,Type,0
+messages,oro.entity_config.import.label,,"Import Fields",0
+messages,oro.entity_config.import.message.invalid_field_type,,"Invalid field type.",0
+messages,oro.entity_config.import.message.require_update_schema,,"Please, click 'Update Schema' to apply changes",0
+messages,oro.entity_config.import.title,,"Import Entity Fields",0
+messages,oro.entity_config.info.new_field.label,,"New Field",0
+messages,oro.entity_config.info.records_count.label,,"Number of records: %count%",0
+messages,oro.entity_config.menu.attributes_list.label,,Attributes,0
+messages,oro.entity_config.menu.entities_list.description,,"List of entities",0
+messages,oro.entity_config.menu.entities_list.label,,Entities,0
+messages,oro.entity_config.menu.entity_management.description,,"List of entities",0
+messages,oro.entity_config.menu.entity_management.label,,"Entity Management",0
+messages,oro.entity_config.sections.attribute_family.attributes,,Attributes,0
+messages,oro.entity_config.sections.attribute_family.settings,,Settings,0
+messages,oro.entity_extend.action.apply_attribute_schema_changes,,"Apply attributes changes",0
+messages,oro.entity_extend.action.apply_changes,,"Apply entityconfig changes",0
+messages,oro.entity_extend.action.config_entity_grid.create,,"Create custom entity",0
+messages,oro.entity_extend.action.config_entity_grid.remove,,"Remove custom entity",0
+messages,oro.entity_extend.action.config_entity_grid.unique,,"Unique entity unique keys",0
+messages,oro.entity_extend.action.config_entity_grid.unremove,,"Unremove custom entity",0
+messages,oro.entity_extend.action.config_field_grid.create,,"Create custom field",0
+messages,oro.entity_extend.action.config_field_grid.remove,,"Remove custom field",0
+messages,oro.entity_extend.action.config_field_grid.unremove,,"UnRemove custom field",0
+messages,oro.entity_extend.action.config_field_grid.update,,"Update custom field",0
+messages,oro.entity_extend.config_grid.entities,,Entities,0
+messages,oro.entity_extend.config_grid.new_entity,,"New entity",0
+messages,oro.entity_extend.config_grid.new_field,,"New field",0
+messages,oro.entity_extend.config_grid.unique_keys,,"Unique keys",0
+messages,oro.entity_extend.controller.config_entity.message.saved,,"Entity saved",0
+messages,oro.entity_extend.controller.config_field.message.cannot_be_restored,,"This field cannot be restored because a field with similar name exists.",0
+messages,oro.entity_extend.controller.config_field.message.deleted,,"Field successfully deleted",0
+messages,oro.entity_extend.controller.config_field.message.restored,,"Field was restored",0
+messages,oro.entity_extend.controller.config_field.message.saved,,"Field saved",0
+messages,oro.entity_extend.datagrid.dictionary.filter.empty,,None,0
+messages,oro.entity_extend.datagrid.enum.filter.empty,,None,0
+messages,oro.entity_extend.entity_config.extend.entity.grid_action.remove,,Remove,0
+messages,oro.entity_extend.entity_config.extend.entity.grid_action.restore,,Restore,0
+messages,oro.entity_extend.entity_config.extend.entity.items.is_deleted,,Deleted,0
+messages,oro.entity_extend.entity_config.extend.entity.items.is_extend,,"Is Extend",0
+messages,oro.entity_extend.entity_config.extend.entity.items.owner,,Type,0
+messages,oro.entity_extend.entity_config.extend.entity.items.state,,"Schema status",0
+messages,oro.entity_extend.entity_config.extend.entity.layout_action.create_entity,,"Create entity",0
+messages,oro.entity_extend.entity_config.extend.field.grid_action.remove,,Remove,0
+messages,oro.entity_extend.entity_config.extend.field.grid_action.restore,,Restore,0
+messages,oro.entity_extend.entity_config.extend.field.items.bidirectional,,Bidirectional,0
+messages,oro.entity_extend.entity_config.extend.field.items.is_deleted,,Deleted,0
+messages,oro.entity_extend.entity_config.extend.field.items.length,,Length,0
+messages,oro.entity_extend.entity_config.extend.field.items.owner,,Type,0
+messages,oro.entity_extend.entity_config.extend.field.items.precision,,Precision,0
+messages,oro.entity_extend.entity_config.extend.field.items.scale,,Scale,0
+messages,oro.entity_extend.entity_config.extend.field.items.state,,"Schema status",0
+messages,oro.entity_extend.entity_config.extend.field.layout_action.create_field,,"Create field",0
+messages,oro.entity_extend.entity_config.extend.field.layout_action.manage_unique_keys,,"Manage unique keys",0
+messages,oro.entity_extend.entity_config.extend.field.layout_action.update_schema,,"Update schema",0
+messages,oro.entity_extend.entity_config.search.entity.items.searchable.tooltip,,"The entity will appear in search results after the completion of reindex job that might take some time.",0
+messages,oro.entity_extend.entity_config.search.field.items.searchable,,Searchable,0
+messages,oro.entity_extend.entity_config.search.field.items.searchable.tooltip,,"The field will appear in search results after the completion of reindex job that might take some time.",0
+messages,oro.entity_extend.entity_config.search.field.items.title_field,,"The search result title (deprecated)",0
+messages,oro.entity_extend.entity_config.search.field.items.title_field.tooltip,,"This setting is deprecated since 2.0. Create table-column string fields instead to be used as human-readable title.",0
+messages,oro.entity_extend.enum_name,,"Option Set Name",0
+messages,oro.entity_extend.enum_name.tooltip,,,0
+messages,oro.entity_extend.enum_options,,Options,0
+messages,oro.entity_extend.enum_options.default.tooltip,,"If marked, this option will be selected by default for new records.",0
+messages,oro.entity_extend.enum_options.priority.tooltip,,"Click and drag to reorder.",0
+messages,oro.entity_extend.enum_options.tooltip,,"Some options could be defined as system and can't be deleted. Deleting an option will remove it from all records that use it.",0
+messages,oro.entity_extend.enum_public,,Public,0
+messages,oro.entity_extend.enum_public.tooltip,,"Public option sets can be reused in other entities.",0
+messages,oro.entity_extend.form.data_type.array,,"Binary (Array)",0
+messages,oro.entity_extend.form.data_type.bigint,,BigInt,0
+messages,oro.entity_extend.form.data_type.boolean,,Boolean,0
+messages,oro.entity_extend.form.data_type.choose_value,,"Choose a field type...",0
+messages,oro.entity_extend.form.data_type.currency,,Currency,0
+messages,oro.entity_extend.form.data_type.date,,Date,0
+messages,oro.entity_extend.form.data_type.datetime,,DateTime,0
+messages,oro.entity_extend.form.data_type.decimal,,Decimal,0
+messages,oro.entity_extend.form.data_type.duration,,Duration,0
+messages,oro.entity_extend.form.data_type.enum,,Select,0
+messages,oro.entity_extend.form.data_type.file,,File,0
+messages,oro.entity_extend.form.data_type.float,,Float,0
+messages,oro.entity_extend.form.data_type.html_escaped,,HTML,0
+messages,oro.entity_extend.form.data_type.image,,Image,0
+messages,oro.entity_extend.form.data_type.integer,,Integer,0
+messages,oro.entity_extend.form.data_type.inverse_relation,,"Reuse ""%field_name%"" of %entity_name%",0
+messages,oro.entity_extend.form.data_type.json_array,,"Binary (JSON array)",0
+messages,oro.entity_extend.form.data_type.manyToMany,,"Many to many",0
+messages,oro.entity_extend.form.data_type.manyToOne,,"Many to one",0
+messages,oro.entity_extend.form.data_type.money,,Currency,0
+messages,oro.entity_extend.form.data_type.money_value,,Money,0
+messages,oro.entity_extend.form.data_type.multiEnum,,Multi-Select,0
+messages,oro.entity_extend.form.data_type.object,,"Binary (Object)",0
+messages,oro.entity_extend.form.data_type.oneToMany,,"One to many",0
+messages,oro.entity_extend.form.data_type.oneToOne,,"One to one",0
+messages,oro.entity_extend.form.data_type.percent,,Percent,0
+messages,oro.entity_extend.form.data_type.ref-many,,"System relation",0
+messages,oro.entity_extend.form.data_type.ref-one,,"System relation",0
+messages,oro.entity_extend.form.data_type.simple_array,,"Binary (Simple array)",0
+messages,oro.entity_extend.form.data_type.smallint,,SmallInt,0
+messages,oro.entity_extend.form.data_type.string,,String,0
+messages,oro.entity_extend.form.data_type.text,,Text,0
+messages,oro.entity_extend.form.data_type.time,,Time,0
+messages,oro.entity_extend.form.data_type_group.fields,,Fields,0
+messages,oro.entity_extend.form.data_type_group.relations,,Relations,0
+messages,oro.entity_extend.form.field_name.label,,"Field name",0
+messages,oro.entity_extend.form.key.label,,Key,0
+messages,oro.entity_extend.form.name.label,,Name,0
+messages,oro.entity_extend.form.relation.entity_data_fields,,"Related entity data fields",0
+messages,oro.entity_extend.form.relation.entity_detailed,,"Related entity detailed",0
+messages,oro.entity_extend.form.relation.entity_info_title,,"Related entity info title",0
+messages,oro.entity_extend.form.target_entity,,"Target entity",0
+messages,oro.entity_extend.form.target_field,,"Target field",0
+messages,oro.entity_extend.unique_keys,,"Unique Keys",0
+messages,oro.entity_merge.acl.merge,,"Merge entities",0
+messages,oro.entity_merge.action.merge,,"Merge {{ label }}",0
+messages,oro.entity_merge.controller.merged_successful,,"Entities were successfully merged.",0
+messages,oro.entity_merge.controller.select_error,,"Select entities to merge.",0
+messages,oro.entity_merge.form.empty,,Empty,0
+messages,oro.entity_merge.form.master_record,,"Master Record",0
+messages,oro.entity_merge.form.master_record.tooltip,,"Field values from all records will be merged to Master Record, all other records will be deleted.",0
+messages,oro.entity_merge.form.merge_button,,Merge,0
+messages,oro.entity_merge.form.merge_values,,"Merge Values",0
+messages,oro.entity_merge.form.select_all,,"Select All Values",0
+messages,oro.entity_merge.form.strategy,,Strategy,0
+messages,oro.entity_merge.form.strategy.tooltip,,"“Replace” strategy will use the selected value as the new value of the selected field. “Append” strategy will сombine selected values and set them as new value.",0
+messages,oro.entity_merge.hint.other_related_entities,,"All other related entities will be merged using an append strategy",0
+messages,oro.entity_merge.merge_modes.activity_replace,,Replace,0
+messages,oro.entity_merge.merge_modes.activity_unite,,Append,0
+messages,oro.entity_merge.merge_modes.notes_replace,,Replace,0
+messages,oro.entity_merge.merge_modes.notes_unite,,Append,0
+messages,oro.entity_merge.merge_modes.replace,,Replace,0
+messages,oro.entity_merge.merge_modes.unite,,Append,0
+messages,oro.entity_pagination.first,,First,0
+messages,oro.entity_pagination.last,,Last,0
+messages,oro.entity_pagination.message.not_accessible,,"You do not have sufficient permissions to access records.",0
+messages,oro.entity_pagination.message.not_available,,"Some of the records are no longer available.",0
+messages,oro.entity_pagination.message.stats_changed_view_to_edit,,"You do not have sufficient permissions to edit all selected records.",0
+messages,oro.entity_pagination.message.stats_number_edit_%count%_record|stats_number_edit_%count%_records,,"You are now editing %count% record.|You are now editing %count% records.",0
+messages,oro.entity_pagination.message.stats_number_view_%count%_record|stats_number_view_%count%_records,,"You are now viewing %count% record.|You are now viewing %count% records.",0
+messages,oro.entity_pagination.pager_of_%total%_record|pager_of_%total%_records,,"of %total% Record|of %total% Records",0
+messages,oro.entity_pagination.system_configuration.fields.enabled.label,,"Record Pagination",0
+messages,oro.entity_pagination.system_configuration.fields.enabled.tooltip,,"Navigate to the previous or the next record from a view page",0
+messages,oro.entity_pagination.system_configuration.fields.limit.label,,"Record Pagination limit",0
+messages,oro.entity_pagination.system_configuration.fields.limit.tooltip,,"The maximum number of records supported by Record Pagination",0
+messages,oro.entity_serialized_fields.data.label,,"Serilized data",0
+messages,oro.entity_serialized_fields.field.is_serialized.tooltip,,"Selection of ""Table column"" will allow to use field in reports, segments, grid filters as well as building relations on it. This will require schema update.",0
+messages,oro.entity_serialized_fields.form.is_serialized.database,,"Table column",0
+messages,oro.entity_serialized_fields.form.is_serialized.label,,"Storage type",0
+messages,oro.entity_serialized_fields.form.is_serialized.serialized,,"Serialized field",0
+messages,oro.entityconfig.attribute.entity.attributefamily.attribute_groups.label,,Group,0
+messages,oro.entityconfig.attribute.entity.attributefamily.code.description,,"The code of the attribute family.",0
+messages,oro.entityconfig.attribute.entity.attributefamily.code.label,,Code,0
+messages,oro.entityconfig.attribute.entity.attributefamily.entity_class.description,,"The entity class of the attribute family.",0
+messages,oro.entityconfig.attribute.entity.attributefamily.entity_class.label,,AttributeFamily,0
+messages,oro.entityconfig.attribute.entity.attributefamily.entity_description,,"A product family is a set of the <a href=""https://www.oroinc.com/doc/orocommerce/current/user-guide/products/product-families#products-product-families"">product attributes</a> that are enough to store complete information about the products of a similar type (e.g., TV attributes vs T-shirts attributes). In the product family, attributes are organized into attribute groups that are displayed as titled sections on the OroCommerce front store.",0
+messages,oro.entityconfig.attribute.entity.attributefamily.entity_label,,"Product Family",0
+messages,oro.entityconfig.attribute.entity.attributefamily.entity_plural_label,,"Product Families",0
+messages,oro.entityconfig.attribute.entity.attributefamily.id.label,,ID,0
+messages,oro.entityconfig.attribute.entity.attributefamily.image.description,,"The image of the attribute family.",0
+messages,oro.entityconfig.attribute.entity.attributefamily.image.label,,Image,0
+messages,oro.entityconfig.attribute.entity.attributefamily.is_enabled.description,,"A flag that says if the attribute family is available or not.",0
+messages,oro.entityconfig.attribute.entity.attributefamily.is_enabled.label,,"Is enabled",0
+messages,oro.entityconfig.attribute.entity.attributefamily.labels.description,,"The labels of the attribute family.",0
+messages,oro.entityconfig.attribute.entity.attributefamily.labels.label,,Labels,0
+messages,oro.entityconfig.attribute.entity.attributefamily.organization.label,,Organization,0
+messages,oro.entityconfig.attribute.entity.attributefamily.owner.label,,Owner,0
+messages,oro.entityextend.enums.lead_source.entity_description,,"Represents a list of all lead sources",0
+messages,oro.entityextend.enums.lead_source.entity_label,,"Lead Source",0
+messages,oro.entityextend.enums.lead_source.entity_plural_label,,"Lead Sources",0
+messages,oro.entityextend.enumvalue.default.description,,"Determines if this option is selected by default for new records",0
+messages,oro.entityextend.enumvalue.default.label,,"Is Default",0
+messages,oro.entityextend.enumvalue.id.description,,"The unique identifier of the option",0
+messages,oro.entityextend.enumvalue.id.label,,Id,0
+messages,oro.entityextend.enumvalue.name.description,,"The option name",0
+messages,oro.entityextend.enumvalue.name.label,,Name,0
+messages,oro.entityextend.enumvalue.priority.description,,"A number is used to sort options",0
+messages,oro.entityextend.enumvalue.priority.label,,Priority,0
+messages,oro.filter.date.info,,"In addition to exact dates, the filter supports entry of days and months. Delete the year from the date in order to filter records that fall into this date of any year (e.g. customers that have birthdays on November 15th); delete the year and the day to filter records by entire months (e.g. all orders placed between January and March). Both long and short month names are supported.",0
+messages,oro.filter.form.label_date_part.day,,"day of month",0
+messages,oro.filter.form.label_date_part.dayofweek,,"day of week",0
+messages,oro.filter.form.label_date_part.dayofyear,,"day of year",0
+messages,oro.filter.form.label_date_part.month,,month,0
+messages,oro.filter.form.label_date_part.quarter,,quarter,0
+messages,oro.filter.form.label_date_part.source,,source,0
+messages,oro.filter.form.label_date_part.value,,value,0
+messages,oro.filter.form.label_date_part.week,,week,0
+messages,oro.filter.form.label_date_part.year,,year,0
+messages,oro.filter.form.label_date_type_between,,between,0
+messages,oro.filter.form.label_date_type_equals,,equals,0
+messages,oro.filter.form.label_date_type_less_than,,"earlier than",0
+messages,oro.filter.form.label_date_type_more_than,,"later than",0
+messages,oro.filter.form.label_date_type_not_between,,"not between",0
+messages,oro.filter.form.label_date_type_not_equals,,"not equals",0
+messages,oro.filter.form.label_date_var.now,,now,0
+messages,oro.filter.form.label_date_var.som,,"start of the month",0
+messages,oro.filter.form.label_date_var.soq,,"start of the quarter",0
+messages,oro.filter.form.label_date_var.sow,,"start of the week",0
+messages,oro.filter.form.label_date_var.soy,,"start of the year",0
+messages,oro.filter.form.label_date_var.this_day,,"current day",0
+messages,oro.filter.form.label_date_var.this_day_w_y,,"this day without year",0
+messages,oro.filter.form.label_date_var.this_fdq,,"first day of quarter",0
+messages,oro.filter.form.label_date_var.this_fmq,,"first month of quarter",0
+messages,oro.filter.form.label_date_var.this_month,,"current month",0
+messages,oro.filter.form.label_date_var.this_month_w_y,,"current month without year",0
+messages,oro.filter.form.label_date_var.this_quarter,,"current quarter",0
+messages,oro.filter.form.label_date_var.this_week,,"current week",0
+messages,oro.filter.form.label_date_var.this_year,,"current year",0
+messages,oro.filter.form.label_date_var.today,,today,0
+messages,oro.filter.form.label_not_selected,,"Not Selected",0
+messages,oro.filter.form.label_selected,,Selected,0
+messages,oro.filter.form.label_type_contains,,contains,0
+messages,oro.filter.form.label_type_empty,,"is empty",0
+messages,oro.filter.form.label_type_end_with,,"ends with",0
+messages,oro.filter.form.label_type_equal,,equals,0
+messages,oro.filter.form.label_type_equals,,"is equal to",0
+messages,oro.filter.form.label_type_greater_equal,,"equals or greater than",0
+messages,oro.filter.form.label_type_greater_than,,"greater than",0
+messages,oro.filter.form.label_type_in,,"is any of",0
+messages,oro.filter.form.label_type_less_equal,,"equals or less than",0
+messages,oro.filter.form.label_type_less_than,,"less than",0
+messages,oro.filter.form.label_type_no,,No,0
+messages,oro.filter.form.label_type_not_contains,,"does not contain",0
+messages,oro.filter.form.label_type_not_empty,,"is not empty",0
+messages,oro.filter.form.label_type_not_equal,,"not equals",0
+messages,oro.filter.form.label_type_not_in,,"is not any of",0
+messages,oro.filter.form.label_type_range_between,,between,0
+messages,oro.filter.form.label_type_range_equals,,equals,0
+messages,oro.filter.form.label_type_range_less_equals,,"equals or less than",0
+messages,oro.filter.form.label_type_range_less_than,,"less than",0
+messages,oro.filter.form.label_type_range_more_equals,,"equals or more than",0
+messages,oro.filter.form.label_type_range_more_than,,"more than",0
+messages,oro.filter.form.label_type_range_not_between,,"not between",0
+messages,oro.filter.form.label_type_range_not_equals,,"not equals",0
+messages,oro.filter.form.label_type_start_with,,"starts with",0
+messages,oro.filter.form.label_type_yes,,Yes,0
+messages,oro.filter.reset.label,,"Clear All Filters",0
+messages,oro.form.choose_date,,"Choose a date",0
+messages,oro.form.choose_time,,time,0
+messages,oro.form.choose_value,,"Choose a value...",0
+messages,oro.form.click_here_to_select,,"Click here to select...",0
+messages,oro.form.collection.add,,Add,0
+messages,oro.form.collection.add_all,,"Add All",0
+messages,oro.form.color.blue,,Blue,0
+messages,oro.form.color.bold_blue,,"Bold blue",0
+messages,oro.form.color.bold_green,,"Bold green",0
+messages,oro.form.color.bold_red,,"Bold red",0
+messages,oro.form.color.custom,,"Custom color...",0
+messages,oro.form.color.gray,,Gray,0
+messages,oro.form.color.green,,Green,0
+messages,oro.form.color.orange,,Orange,0
+messages,oro.form.color.purple,,Purple,0
+messages,oro.form.color.red,,Red,0
+messages,oro.form.color.turquoise,,Turquoise,0
+messages,oro.form.color.yellow,,Yellow,0
+messages,oro.form.custom_value,,Custom,0
+messages,oro.form.icon_select.adjust,,adjust,0
+messages,oro.form.icon_select.anchor,,anchor,0
+messages,oro.form.icon_select.archive,,archive,0
+messages,oro.form.icon_select.asterisk,,asterisk,0
+messages,oro.form.icon_select.ban-circle,,"ban circle",0
+messages,oro.form.icon_select.bar-chart,,"bar chart",0
+messages,oro.form.icon_select.barcode,,barcode,0
+messages,oro.form.icon_select.beaker,,beaker,0
+messages,oro.form.icon_select.beer,,beer,0
+messages,oro.form.icon_select.bell,,bell,0
+messages,oro.form.icon_select.bell-alt,,"bell alt",0
+messages,oro.form.icon_select.bolt,,bolt,0
+messages,oro.form.icon_select.book,,book,0
+messages,oro.form.icon_select.bookmark,,bookmark,0
+messages,oro.form.icon_select.bookmark-empty,,"bookmark empty",0
+messages,oro.form.icon_select.briefcase,,briefcase,0
+messages,oro.form.icon_select.bug,,bug,0
+messages,oro.form.icon_select.building,,building,0
+messages,oro.form.icon_select.bullhorn,,bullhorn,0
+messages,oro.form.icon_select.bullseye,,bullseye,0
+messages,oro.form.icon_select.calendar,,calendar,0
+messages,oro.form.icon_select.calendar-empty,,"calendar empty",0
+messages,oro.form.icon_select.camera,,camera,0
+messages,oro.form.icon_select.camera-retro,,"camera retro",0
+messages,oro.form.icon_select.certificate,,certificate,0
+messages,oro.form.icon_select.check,,check,0
+messages,oro.form.icon_select.check-empty,,"check empty",0
+messages,oro.form.icon_select.check-minus,,"check minus",0
+messages,oro.form.icon_select.check-sign,,"check sign",0
+messages,oro.form.icon_select.circle,,circle,0
+messages,oro.form.icon_select.circle-blank,,"circle blank",0
+messages,oro.form.icon_select.cloud,,cloud,0
+messages,oro.form.icon_select.cloud-download,,"cloud download",0
+messages,oro.form.icon_select.cloud-upload,,"cloud upload",0
+messages,oro.form.icon_select.code,,code,0
+messages,oro.form.icon_select.code-fork,,"code fork",0
+messages,oro.form.icon_select.coffee,,coffee,0
+messages,oro.form.icon_select.cog,,cog,0
+messages,oro.form.icon_select.cogs,,cogs,0
+messages,oro.form.icon_select.collapse,,collapse,0
+messages,oro.form.icon_select.collapse-alt,,"collapse alt",0
+messages,oro.form.icon_select.collapse-top,,"collapse top",0
+messages,oro.form.icon_select.comment,,comment,0
+messages,oro.form.icon_select.comment-alt,,"comment alt",0
+messages,oro.form.icon_select.comments,,comments,0
+messages,oro.form.icon_select.comments-alt,,"comments alt",0
+messages,oro.form.icon_select.compass,,compass,0
+messages,oro.form.icon_select.credit-card,,"credit card",0
+messages,oro.form.icon_select.crop,,crop,0
+messages,oro.form.icon_select.dashboard,,dashboard,0
+messages,oro.form.icon_select.desktop,,desktop,0
+messages,oro.form.icon_select.download,,download,0
+messages,oro.form.icon_select.download-alt,,"download alt",0
+messages,oro.form.icon_select.edit,,edit,0
+messages,oro.form.icon_select.edit-sign,,"edit sign",0
+messages,oro.form.icon_select.ellipsis-horizontal,,"ellipsis horizontal",0
+messages,oro.form.icon_select.ellipsis-vertical,,"ellipsis vertical",0
+messages,oro.form.icon_select.envelope,,envelope,0
+messages,oro.form.icon_select.envelope-alt,,"envelope alt",0

@@ -1,0 +1,400 @@
+entities,region.MD-RI,,Rîșcani,0
+entities,region.MD-SD,,Șoldănești,0
+entities,region.MD-SI,,Sîngerei,0
+entities,region.MD-SN,,"Stînga Nistrului, unitatea teritorială din",0
+entities,region.MD-SO,,Soroca,0
+entities,region.MD-ST,,Strășeni,0
+entities,region.MD-SV,,"Ștefan Vodă",0
+entities,region.MD-TA,,Taraclia,0
+entities,region.MD-TE,,Telenești,0
+entities,region.MD-UN,,Ungheni,0
+entities,region.ME-01,,Andrijevica,0
+entities,region.ME-02,,Bar,0
+entities,region.ME-03,,Berane,0
+entities,region.ME-04,,"Bijelo Polje",0
+entities,region.ME-05,,Budva,0
+entities,region.ME-06,,Cetinje,0
+entities,region.ME-07,,Danilovgrad,0
+entities,region.ME-08,,Herceg-Novi,0
+entities,region.ME-09,,Kolašin,0
+entities,region.ME-10,,Kotor,0
+entities,region.ME-11,,Mojkovac,0
+entities,region.ME-12,,Nikšić,0
+entities,region.ME-13,,Plav,0
+entities,region.ME-14,,Pljevlja,0
+entities,region.ME-15,,Plužine,0
+entities,region.ME-16,,Podgorica,0
+entities,region.ME-17,,Rožaje,0
+entities,region.ME-18,,Šavnik,0
+entities,region.ME-19,,Tivat,0
+entities,region.ME-20,,Ulcinj,0
+entities,region.ME-21,,Žabljak,0
+entities,region.MG-A,,Toamasina,0
+entities,region.MG-D,,Antsiranana,0
+entities,region.MG-F,,Fianarantsoa,0
+entities,region.MG-M,,Mahajanga,0
+entities,region.MG-T,,Antananarivo,0
+entities,region.MG-U,,Toliara,0
+entities,region.MH-ALK,,Ailuk,0
+entities,region.MH-ALL,,Ailinglaplap,0
+entities,region.MH-ARN,,Arno,0
+entities,region.MH-AUR,,Aur,0
+entities,region.MH-EBO,,Ebon,0
+entities,region.MH-ENI,,Enewetak,0
+entities,region.MH-JAB,,Jabat,0
+entities,region.MH-JAL,,Jaluit,0
+entities,region.MH-KIL,,Kili,0
+entities,region.MH-KWA,,Kwajalein,0
+entities,region.MH-L,,"Ralik chain",0
+entities,region.MH-LAE,,Lae,0
+entities,region.MH-LIB,,Lib,0
+entities,region.MH-LIK,,Likiep,0
+entities,region.MH-MAJ,,Majuro,0
+entities,region.MH-MAL,,Maloelap,0
+entities,region.MH-MEJ,,Mejit,0
+entities,region.MH-MIL,,Mili,0
+entities,region.MH-NMK,,Namdrik,0
+entities,region.MH-NMU,,Namu,0
+entities,region.MH-RON,,Rongelap,0
+entities,region.MH-T,,"Ratak chain",0
+entities,region.MH-UJA,,Ujae,0
+entities,region.MH-UTI,,Utirik,0
+entities,region.MH-WTJ,,Wotje,0
+entities,region.MH-WTN,,Wotho,0
+entities,region.MK-01,,Aerodrom,0
+entities,region.MK-02,,Aračinovo,0
+entities,region.MK-03,,Berovo,0
+entities,region.MK-04,,Bitola,0
+entities,region.MK-05,,Bogdanci,0
+entities,region.MK-06,,Bogovinje,0
+entities,region.MK-07,,Bosilovo,0
+entities,region.MK-08,,Brvenica,0
+entities,region.MK-09,,Butel,0
+entities,region.MK-10,,Valandovo,0
+entities,region.MK-11,,Vasilevo,0
+entities,region.MK-12,,Vevčani,0
+entities,region.MK-13,,Veles,0
+entities,region.MK-14,,Vinica,0
+entities,region.MK-15,,Vraneštica,0
+entities,region.MK-16,,Vrapčište,0
+entities,region.MK-17,,"Gazi Baba",0
+entities,region.MK-18,,Gevgelija,0
+entities,region.MK-19,,Gostivar,0
+entities,region.MK-20,,Gradsko,0
+entities,region.MK-21,,Debar,0
+entities,region.MK-22,,Debarca,0
+entities,region.MK-23,,Delčevo,0
+entities,region.MK-24,,"Demir Kapija",0
+entities,region.MK-25,,"Demir Hisar",0
+entities,region.MK-26,,Dojran,0
+entities,region.MK-27,,Dolneni,0
+entities,region.MK-28,,Drugovo,0
+entities,region.MK-29,,"Gjorče Petrov",0
+entities,region.MK-30,,Želino,0
+entities,region.MK-31,,Zajas,0
+entities,region.MK-32,,Zelenikovo,0
+entities,region.MK-33,,Zrnovci,0
+entities,region.MK-34,,Ilinden,0
+entities,region.MK-35,,Jegunovce,0
+entities,region.MK-36,,Kavadarci,0
+entities,region.MK-37,,Karbinci,0
+entities,region.MK-38,,Karpoš,0
+entities,region.MK-39,,"Kisela Voda",0
+entities,region.MK-40,,Kičevo,0
+entities,region.MK-41,,Konče,0
+entities,region.MK-42,,Kočani,0
+entities,region.MK-43,,Kratovo,0
+entities,region.MK-44,,"Kriva Palanka",0
+entities,region.MK-45,,Krivogaštani,0
+entities,region.MK-46,,Kruševo,0
+entities,region.MK-47,,Kumanovo,0
+entities,region.MK-48,,Lipkovo,0
+entities,region.MK-49,,Lozovo,0
+entities,region.MK-50,,Mavrovo-i-Rostuša,0
+entities,region.MK-51,,"Makedonska Kamenica",0
+entities,region.MK-52,,"Makedonski Brod",0
+entities,region.MK-53,,Mogila,0
+entities,region.MK-54,,Negotino,0
+entities,region.MK-55,,Novaci,0
+entities,region.MK-56,,"Novo Selo",0
+entities,region.MK-57,,Oslomej,0
+entities,region.MK-58,,Ohrid,0
+entities,region.MK-59,,Petrovec,0
+entities,region.MK-60,,Pehčevo,0
+entities,region.MK-61,,Plasnica,0
+entities,region.MK-62,,Prilep,0
+entities,region.MK-63,,Probištip,0
+entities,region.MK-64,,Radoviš,0
+entities,region.MK-65,,Rankovce,0
+entities,region.MK-66,,Resen,0
+entities,region.MK-67,,Rosoman,0
+entities,region.MK-68,,Saraj,0
+entities,region.MK-69,,"Sveti Nikole",0
+entities,region.MK-70,,Sopište,0
+entities,region.MK-71,,"Staro Nagoričane",0
+entities,region.MK-72,,Struga,0
+entities,region.MK-73,,Strumica,0
+entities,region.MK-74,,Studeničani,0
+entities,region.MK-75,,Tearce,0
+entities,region.MK-76,,Tetovo,0
+entities,region.MK-77,,Centar,0
+entities,region.MK-78,,"Centar Župa",0
+entities,region.MK-79,,Čair,0
+entities,region.MK-80,,Čaška,0
+entities,region.MK-81,,Češinovo-Obleševo,0
+entities,region.MK-82,,"Čučer Sandevo",0
+entities,region.MK-83,,Štip,0
+entities,region.MK-84,,"Šuto Orizari",0
+entities,region.ML-1,,Kayes,0
+entities,region.ML-2,,Koulikoro,0
+entities,region.ML-3,,Sikasso,0
+entities,region.ML-4,,Ségou,0
+entities,region.ML-5,,Mopti,0
+entities,region.ML-6,,Tombouctou,0
+entities,region.ML-7,,Gao,0
+entities,region.ML-8,,Kidal,0
+entities,region.ML-BK0,,Bamako,0
+entities,region.MM-01,,Sagaing,0
+entities,region.MM-02,,Bago,0
+entities,region.MM-03,,Magway,0
+entities,region.MM-04,,Mandalay,0
+entities,region.MM-05,,Tanintharyi,0
+entities,region.MM-06,,Yangon,0
+entities,region.MM-07,,Ayeyarwady,0
+entities,region.MM-11,,Kachin,0
+entities,region.MM-12,,Kayah,0
+entities,region.MM-13,,Kayin,0
+entities,region.MM-14,,Chin,0
+entities,region.MM-15,,Mon,0
+entities,region.MM-16,,Rakhine,0
+entities,region.MM-17,,Shan,0
+entities,region.MN-035,,Orhon,0
+entities,region.MN-037,,"Darhan uul",0
+entities,region.MN-039,,Hentiy,0
+entities,region.MN-041,,Hövsgöl,0
+entities,region.MN-043,,Hovd,0
+entities,region.MN-046,,Uvs,0
+entities,region.MN-047,,Töv,0
+entities,region.MN-049,,Selenge,0
+entities,region.MN-051,,Sühbaatar,0
+entities,region.MN-053,,Ömnögovi,0
+entities,region.MN-055,,Övörhangay,0
+entities,region.MN-057,,Dzavhan,0
+entities,region.MN-059,,Dundgovi,0
+entities,region.MN-061,,Dornod,0
+entities,region.MN-063,,Dornogovi,0
+entities,region.MN-064,,Govi-Sumber,0
+entities,region.MN-065,,Govi-Altay,0
+entities,region.MN-067,,Bulgan,0
+entities,region.MN-069,,Bayanhongor,0
+entities,region.MN-071,,Bayan-Ölgiy,0
+entities,region.MN-073,,Arhangay,0
+entities,region.MN-1,,Ulanbaatar,0
+entities,region.MR-01,,"Hodh ech Chargui",0
+entities,region.MR-02,,"Hodh el Charbi",0
+entities,region.MR-03,,Assaba,0
+entities,region.MR-04,,Gorgol,0
+entities,region.MR-05,,Brakna,0
+entities,region.MR-06,,Trarza,0
+entities,region.MR-07,,Adrar,0
+entities,region.MR-08,,"Dakhlet Nouadhibou",0
+entities,region.MR-09,,Tagant,0
+entities,region.MR-10,,Guidimaka,0
+entities,region.MR-11,,"Tiris Zemmour",0
+entities,region.MR-12,,Inchiri,0
+entities,region.MR-NKC,,Nouakchott,0
+entities,region.MT-01,,Attard,0
+entities,region.MT-02,,Balzan,0
+entities,region.MT-03,,Birgu,0
+entities,region.MT-04,,Birkirkara,0
+entities,region.MT-05,,Birżebbuġa,0
+entities,region.MT-06,,Bormla,0
+entities,region.MT-07,,Dingli,0
+entities,region.MT-08,,Fgura,0
+entities,region.MT-09,,Floriana,0
+entities,region.MT-10,,Fontana,0
+entities,region.MT-11,,Gudja,0
+entities,region.MT-12,,Gżira,0
+entities,region.MT-13,,Għajnsielem,0
+entities,region.MT-14,,Għarb,0
+entities,region.MT-15,,Għargħur,0
+entities,region.MT-16,,Għasri,0
+entities,region.MT-17,,Għaxaq,0
+entities,region.MT-18,,Ħamrun,0
+entities,region.MT-19,,Iklin,0
+entities,region.MT-20,,Isla,0
+entities,region.MT-21,,Kalkara,0
+entities,region.MT-22,,Kerċem,0
+entities,region.MT-23,,Kirkop,0
+entities,region.MT-24,,Lija,0
+entities,region.MT-25,,Luqa,0
+entities,region.MT-26,,Marsa,0
+entities,region.MT-27,,Marsaskala,0
+entities,region.MT-28,,Marsaxlokk,0
+entities,region.MT-29,,Mdina,0
+entities,region.MT-30,,Mellieħa,0
+entities,region.MT-31,,Mġarr,0
+entities,region.MT-32,,Mosta,0
+entities,region.MT-33,,Mqabba,0
+entities,region.MT-34,,Msida,0
+entities,region.MT-35,,Mtarfa,0
+entities,region.MT-36,,Munxar,0
+entities,region.MT-37,,Nadur,0
+entities,region.MT-38,,Naxxar,0
+entities,region.MT-39,,Paola,0
+entities,region.MT-40,,Pembroke,0
+entities,region.MT-41,,Pietà,0
+entities,region.MT-42,,Qala,0
+entities,region.MT-43,,Qormi,0
+entities,region.MT-44,,Qrendi,0
+entities,region.MT-45,,"Rabat Għawdex",0
+entities,region.MT-46,,"Rabat Malta",0
+entities,region.MT-47,,Safi,0
+entities,region.MT-48,,"San Ġiljan",0
+entities,region.MT-49,,"San Ġwann",0
+entities,region.MT-50,,"San Lawrenz",0
+entities,region.MT-51,,"San Pawl il-Baħar",0
+entities,region.MT-52,,Sannat,0
+entities,region.MT-53,,"Santa Luċija",0
+entities,region.MT-54,,"Santa Venera",0
+entities,region.MT-55,,Siġġiewi,0
+entities,region.MT-56,,Sliema,0
+entities,region.MT-57,,Swieqi,0
+entities,region.MT-58,,"Ta’ Xbiex",0
+entities,region.MT-59,,Tarxien,0
+entities,region.MT-60,,Valletta,0
+entities,region.MT-61,,Xagħra,0
+entities,region.MT-62,,Xewkija,0
+entities,region.MT-63,,Xgħajra,0
+entities,region.MT-64,,Żabbar,0
+entities,region.MT-65,,"Żebbuġ Għawdex",0
+entities,region.MT-66,,"Żebbuġ Malta",0
+entities,region.MT-67,,Żejtun,0
+entities,region.MT-68,,Żurrieq,0
+entities,region.MU-AG,,"Agalega Islands",0
+entities,region.MU-BL,,"Black River",0
+entities,region.MU-BR,,"Beau Bassin-Rose Hill",0
+entities,region.MU-CC,,"Cargados Carajos Shoals",0
+entities,region.MU-CU,,Curepipe,0
+entities,region.MU-FL,,Flacq,0
+entities,region.MU-GP,,"Grand Port",0
+entities,region.MU-MO,,Moka,0
+entities,region.MU-PA,,Pamplemousses,0
+entities,region.MU-PL,,"Port Louis",0
+entities,region.MU-PU,,"Port Louis",0
+entities,region.MU-PW,,"Plaines Wilhems",0
+entities,region.MU-QB,,"Quatre Bornes",0
+entities,region.MU-RO,,"Rodrigues Island",0
+entities,region.MU-RP,,"Rivière du Rempart",0
+entities,region.MU-SA,,Savanne,0
+entities,region.MU-VP,,Vacoas-Phoenix,0
+entities,region.MV-01,,Seenu,0
+entities,region.MV-02,,Alif,0
+entities,region.MV-03,,Lhaviyani,0
+entities,region.MV-04,,Vaavu,0
+entities,region.MV-05,,Laamu,0
+entities,region.MV-07,,"Haa Alif",0
+entities,region.MV-08,,Thaa,0
+entities,region.MV-12,,Meemu,0
+entities,region.MV-13,,Raa,0
+entities,region.MV-14,,Faafu,0
+entities,region.MV-17,,Dhaalu,0
+entities,region.MV-20,,Baa,0
+entities,region.MV-23,,"Haa Dhaalu",0
+entities,region.MV-24,,Shaviyani,0
+entities,region.MV-25,,Noonu,0
+entities,region.MV-26,,Kaafu,0
+entities,region.MV-27,,"Gaafu Aliff",0
+entities,region.MV-28,,"Gaafu Daalu",0
+entities,region.MV-29,,Gnaviyani,0
+entities,region.MV-MLE,,Male,0
+entities,region.MW-BA,,Balaka,0
+entities,region.MW-BL,,Blantyre,0
+entities,region.MW-C,,"Central Region",0
+entities,region.MW-CK,,Chikwawa,0
+entities,region.MW-CR,,Chiradzulu,0
+entities,region.MW-CT,,Chitipa,0
+entities,region.MW-DE,,Dedza,0
+entities,region.MW-DO,,Dowa,0
+entities,region.MW-KR,,Karonga,0
+entities,region.MW-KS,,Kasungu,0
+entities,region.MW-LI,,Lilongwe,0
+entities,region.MW-LK,,Likoma,0
+entities,region.MW-MC,,Mchinji,0
+entities,region.MW-MG,,Mangochi,0
+entities,region.MW-MH,,Machinga,0
+entities,region.MW-MU,,Mulanje,0
+entities,region.MW-MW,,Mwanza,0
+entities,region.MW-MZ,,Mzimba,0
+entities,region.MW-N,,"Northern Region",0
+entities,region.MW-NB,,"Nkhata Bay",0
+entities,region.MW-NE,,Neno,0
+entities,region.MW-NI,,Ntchisi,0
+entities,region.MW-NK,,Nkhotakota,0
+entities,region.MW-NS,,Nsanje,0
+entities,region.MW-NU,,Ntcheu,0
+entities,region.MW-PH,,Phalombe,0
+entities,region.MW-RU,,Rumphi,0
+entities,region.MW-S,,"Southern Region",0
+entities,region.MW-SA,,Salima,0
+entities,region.MW-TH,,Thyolo,0
+entities,region.MW-ZO,,Zomba,0
+entities,region.MX-AGU,,Aguascalientes,0
+entities,region.MX-BCN,,"Baja California",0
+entities,region.MX-BCS,,"Baja California Sur",0
+entities,region.MX-CAM,,Campeche,0
+entities,region.MX-CHH,,Chihuahua,0
+entities,region.MX-CHP,,Chiapas,0
+entities,region.MX-COA,,Coahuila,0
+entities,region.MX-COL,,Colima,0
+entities,region.MX-DIF,,"Distrito Federal",0
+entities,region.MX-DUR,,Durango,0
+entities,region.MX-GRO,,Guerrero,0
+entities,region.MX-GUA,,Guanajuato,0
+entities,region.MX-HID,,Hidalgo,0
+entities,region.MX-JAL,,Jalisco,0
+entities,region.MX-MEX,,México,0
+entities,region.MX-MIC,,Michoacán,0
+entities,region.MX-MOR,,Morelos,0
+entities,region.MX-NAY,,Nayarit,0
+entities,region.MX-NLE,,"Nuevo León",0
+entities,region.MX-OAX,,Oaxaca,0
+entities,region.MX-PUE,,Puebla,0
+entities,region.MX-QUE,,Querétaro,0
+entities,region.MX-ROO,,"Quintana Roo",0
+entities,region.MX-SIN,,Sinaloa,0
+entities,region.MX-SLP,,"San Luis Potosí",0
+entities,region.MX-SON,,Sonora,0
+entities,region.MX-TAB,,Tabasco,0
+entities,region.MX-TAM,,Tamaulipas,0
+entities,region.MX-TLA,,Tlaxcala,0
+entities,region.MX-VER,,Veracruz,0
+entities,region.MX-YUC,,Yucatán,0
+entities,region.MX-ZAC,,Zacatecas,0
+entities,region.MY-01,,Johor,0
+entities,region.MY-02,,Kedah,0
+entities,region.MY-03,,Kelantan,0
+entities,region.MY-04,,Melaka,0
+entities,region.MY-05,,"Negeri Sembilan",0
+entities,region.MY-06,,Pahang,0
+entities,region.MY-07,,"Pulau Pinang",0
+entities,region.MY-08,,Perak,0
+entities,region.MY-09,,Perlis,0
+entities,region.MY-10,,Selangor,0
+entities,region.MY-11,,Terengganu,0
+entities,region.MY-12,,Sabah,0
+entities,region.MY-13,,Sarawak,0
+entities,region.MY-14,,"Wilayah Persekutuan Kuala Lumpur",0
+entities,region.MY-15,,"Wilayah Persekutuan Labuan",0
+entities,region.MY-16,,"Wilayah Persekutuan Putrajaya",0
+entities,region.MZ-A,,Niassa,0
+entities,region.MZ-B,,Manica,0
+entities,region.MZ-G,,Gaza,0
+entities,region.MZ-I,,Inhambane,0
+entities,region.MZ-L,,Maputo,0
+entities,region.MZ-MPM,,"Maputo (city)",0
+entities,region.MZ-N,,Numpula,0
+entities,region.MZ-P,,"Cabo Delgado",0
+entities,region.MZ-Q,,Zambezia,0
+entities,region.MZ-S,,Sofala,0
+entities,region.MZ-T,,Tete,0

@@ -1,0 +1,400 @@
+entities,region.SI-130,,Trebnje,0
+entities,region.SI-131,,Tržič,0
+entities,region.SI-132,,Turnišče,0
+entities,region.SI-133,,Velenje,0
+entities,region.SI-134,,"Velike Lašče",0
+entities,region.SI-135,,Videm,0
+entities,region.SI-136,,Vipava,0
+entities,region.SI-137,,Vitanje,0
+entities,region.SI-138,,Vodice,0
+entities,region.SI-139,,Vojnik,0
+entities,region.SI-140,,Vrhnika,0
+entities,region.SI-141,,Vuzenica,0
+entities,region.SI-142,,"Zagorje ob Savi",0
+entities,region.SI-143,,Zavrč,0
+entities,region.SI-144,,Zreče,0
+entities,region.SI-146,,Železniki,0
+entities,region.SI-147,,Žiri,0
+entities,region.SI-148,,Benedikt,0
+entities,region.SI-149,,"Bistrica ob Sotli",0
+entities,region.SI-150,,Bloke,0
+entities,region.SI-151,,Braslovče,0
+entities,region.SI-152,,Cankova,0
+entities,region.SI-153,,Cerkvenjak,0
+entities,region.SI-154,,Dobje,0
+entities,region.SI-155,,Dobrna,0
+entities,region.SI-156,,Dobrovnik/Dobronak,0
+entities,region.SI-157,,"Dolenjske Toplice",0
+entities,region.SI-158,,Grad,0
+entities,region.SI-159,,Hajdina,0
+entities,region.SI-160,,Hoče-Slivnica,0
+entities,region.SI-161,,Hodoš/Hodos,0
+entities,region.SI-162,,Horjul,0
+entities,region.SI-163,,Jezersko,0
+entities,region.SI-164,,Komenda,0
+entities,region.SI-165,,Kostel,0
+entities,region.SI-166,,Križevci,0
+entities,region.SI-167,,"Lovrenc na Pohorju",0
+entities,region.SI-168,,Markovci,0
+entities,region.SI-169,,"Miklavž na Dravskem polju",0
+entities,region.SI-170,,"Mirna Peč",0
+entities,region.SI-171,,Oplotnica,0
+entities,region.SI-172,,Podlehnik,0
+entities,region.SI-173,,Polzela,0
+entities,region.SI-174,,Prebold,0
+entities,region.SI-175,,Prevalje,0
+entities,region.SI-176,,Razkrižje,0
+entities,region.SI-177,,"Ribnica na Pohorju",0
+entities,region.SI-178,,"Selnica ob Dravi",0
+entities,region.SI-179,,Sodražica,0
+entities,region.SI-180,,Solčava,0
+entities,region.SI-181,,"Sveta Ana",0
+entities,region.SI-182,,"Sveta Andraž v Slovenskih Goricah",0
+entities,region.SI-183,,Šempeter-Vrtojba,0
+entities,region.SI-184,,Tabor,0
+entities,region.SI-185,,"Trnovska vas",0
+entities,region.SI-186,,Trzin,0
+entities,region.SI-187,,"Velika Polana",0
+entities,region.SI-188,,Veržej,0
+entities,region.SI-189,,Vransko,0
+entities,region.SI-190,,Žalec,0
+entities,region.SI-191,,Žetale,0
+entities,region.SI-192,,Žirovnica,0
+entities,region.SI-193,,Žužemberk,0
+entities,region.SI-194,,"Šmartno pri Litiji",0
+entities,region.SI-195,,Apače,0
+entities,region.SI-196,,Cirkulane,0
+entities,region.SI-197,,"Kosanjevica na Krki",0
+entities,region.SI-198,,Makole,0
+entities,region.SI-199,,Mokronog-Trebelno,0
+entities,region.SI-200,,Poljčane,0
+entities,region.SI-201,,Renče-Vogrsko,0
+entities,region.SI-202,,"Središče ob Dravi",0
+entities,region.SI-203,,Straža,0
+entities,region.SI-204,,"Sveta Trojica v Slovenskih Goricah",0
+entities,region.SI-205,,"Sveti Tomaž",0
+entities,region.SI-206,,"Šmarjeske Topliče",0
+entities,region.SI-207,,Gorje,0
+entities,region.SI-208,,Log-Dragomer,0
+entities,region.SI-209,,"Rečica ob Savinji",0
+entities,region.SI-210,,"Sveti Jurij v Slovenskih Goricah",0
+entities,region.SI-211,,Šentrupert,0
+entities,region.SK-BC,,"Banskobystrický kraj",0
+entities,region.SK-BL,,"Bratislavský kraj",0
+entities,region.SK-KI,,"Košický kraj",0
+entities,region.SK-NJ,,"Nitriansky kraj",0
+entities,region.SK-PV,,"Prešovský kraj",0
+entities,region.SK-TA,,"Trnavský kraj",0
+entities,region.SK-TC,,"Trenčiansky kraj",0
+entities,region.SK-ZI,,"Žilinský kraj",0
+entities,region.SL-E,,Eastern,0
+entities,region.SL-N,,Northern,0
+entities,region.SL-S,,"Southern (Sierra Leone)",0
+entities,region.SL-W,,"Western Area (Freetown)",0
+entities,region.SM-01,,Acquaviva,0
+entities,region.SM-02,,Chiesanuova,0
+entities,region.SM-03,,Domagnano,0
+entities,region.SM-04,,Faetano,0
+entities,region.SM-05,,Fiorentino,0
+entities,region.SM-06,,"Borgo Maggiore",0
+entities,region.SM-07,,"San Marino",0
+entities,region.SM-08,,Montegiardino,0
+entities,region.SM-09,,Serravalle,0
+entities,region.SN-DB,,Diourbel,0
+entities,region.SN-DK,,Dakar,0
+entities,region.SN-FK,,Fatick,0
+entities,region.SN-KA,,Kaffrine,0
+entities,region.SN-KD,,Kolda,0
+entities,region.SN-KE,,Kédougou,0
+entities,region.SN-KL,,Kaolack,0
+entities,region.SN-LG,,Louga,0
+entities,region.SN-MT,,Matam,0
+entities,region.SN-SE,,Sédhiou,0
+entities,region.SN-SL,,Saint-Louis,0
+entities,region.SN-TC,,Tambacounda,0
+entities,region.SN-TH,,Thiès,0
+entities,region.SN-ZG,,Ziguinchor,0
+entities,region.SO-AW,,Awdal,0
+entities,region.SO-BK,,Bakool,0
+entities,region.SO-BN,,Banaadir,0
+entities,region.SO-BR,,Bari,0
+entities,region.SO-BY,,Bay,0
+entities,region.SO-GA,,Galguduud,0
+entities,region.SO-GE,,Gedo,0
+entities,region.SO-HI,,Hiirsan,0
+entities,region.SO-JD,,"Jubbada Dhexe",0
+entities,region.SO-JH,,"Jubbada Hoose",0
+entities,region.SO-MU,,Mudug,0
+entities,region.SO-NU,,Nugaal,0
+entities,region.SO-SA,,Saneag,0
+entities,region.SO-SD,,"Shabeellaha Dhexe",0
+entities,region.SO-SH,,"Shabeellaha Hoose",0
+entities,region.SO-SO,,Sool,0
+entities,region.SO-TO,,Togdheer,0
+entities,region.SO-WO,,"Woqooyi Galbeed",0
+entities,region.SR-BR,,Brokopondo,0
+entities,region.SR-CM,,Commewijne,0
+entities,region.SR-CR,,Coronie,0
+entities,region.SR-MA,,Marowijne,0
+entities,region.SR-NI,,Nickerie,0
+entities,region.SR-PM,,Paramaribo,0
+entities,region.SR-PR,,Para,0
+entities,region.SR-SA,,Saramacca,0
+entities,region.SR-SI,,Sipaliwini,0
+entities,region.SR-WA,,Wanica,0
+entities,region.ST-P,,Príncipe,0
+entities,region.ST-S,,"São Tomé",0
+entities,region.SV-AH,,Ahuachapán,0
+entities,region.SV-CA,,Cabañas,0
+entities,region.SV-CH,,Chalatenango,0
+entities,region.SV-CU,,Cuscatlán,0
+entities,region.SV-LI,,"La Libertad",0
+entities,region.SV-MO,,Morazán,0
+entities,region.SV-PA,,"La Paz",0
+entities,region.SV-SA,,"Santa Ana",0
+entities,region.SV-SM,,"San Miguel",0
+entities,region.SV-SO,,Sonsonate,0
+entities,region.SV-SS,,"San Salvador",0
+entities,region.SV-SV,,"San Vicente",0
+entities,region.SV-UN,,"La Unión",0
+entities,region.SV-US,,Usulután,0
+entities,region.SY-DI,,Dimashq,0
+entities,region.SY-DR,,Dar'a,0
+entities,region.SY-DY,,"Dayr az Zawr",0
+entities,region.SY-HA,,"Al Hasakah",0
+entities,region.SY-HI,,Homs,0
+entities,region.SY-HL,,Halab,0
+entities,region.SY-HM,,Hamah,0
+entities,region.SY-ID,,Idlib,0
+entities,region.SY-LA,,"Al Ladhiqiyah",0
+entities,region.SY-QU,,"Al Qunaytirah",0
+entities,region.SY-RA,,"Ar Raqqah",0
+entities,region.SY-RD,,"Rif Dimashq",0
+entities,region.SY-SU,,"As Suwayda'",0
+entities,region.SY-TA,,Tartus,0
+entities,region.SZ-HH,,Hhohho,0
+entities,region.SZ-LU,,Lubombo,0
+entities,region.SZ-MA,,Manzini,0
+entities,region.SZ-SH,,Shiselweni,0
+entities,region.TD-BA,,"Al Baṭḩah",0
+entities,region.TD-BG,,"Baḩr al Ghazāl",0
+entities,region.TD-BO,,Būrkū,0
+entities,region.TD-CB,,"Shārī Bāqirmī",0
+entities,region.TD-EN,,Innīdī,0
+entities,region.TD-GR,,Qīrā,0
+entities,region.TD-HL,,"Ḥajjar Lamīs",0
+entities,region.TD-KA,,Kānim,0
+entities,region.TD-LC,,"Al Buḩayrah",0
+entities,region.TD-LO,,"Lūqūn al Gharbī",0
+entities,region.TD-LR,,"Lūqūn ash Sharqī",0
+entities,region.TD-MA,,Māndūl,0
+entities,region.TD-MC,,"Shārī al Awsaṭ",0
+entities,region.TD-ME,,"Māyū Kībbī ash Sharqī",0
+entities,region.TD-MO,,"Māyū Kībbī al Gharbī",0
+entities,region.TD-ND,,"Madīnat Injamīnā",0
+entities,region.TD-OD,,Waddāy,0
+entities,region.TD-SA,,Salāmāt,0
+entities,region.TD-SI,,Sīlā,0
+entities,region.TD-TA,,Tānjilī,0
+entities,region.TD-TI,,Tibastī,0
+entities,region.TD-WF,,"Wādī Fīrā",0
+entities,region.TG-C,,"Région du Centre",0
+entities,region.TG-K,,"Région de la Kara",0
+entities,region.TG-M,,"Région Maritime",0
+entities,region.TG-P,,"Région des Plateaux",0
+entities,region.TG-S,,"Région des Savannes",0
+entities,region.TH-10,,"Krung Thep Maha Nakhon Bangkok",0
+entities,region.TH-11,,"Samut Prakan",0
+entities,region.TH-12,,Nonthaburi,0
+entities,region.TH-13,,"Pathum Thani",0
+entities,region.TH-14,,"Phra Nakhon Si Ayutthaya",0
+entities,region.TH-15,,"Ang Thong",0
+entities,region.TH-16,,"Lop Buri",0
+entities,region.TH-17,,"Sing Buri",0
+entities,region.TH-18,,"Chai Nat",0
+entities,region.TH-19,,Saraburi,0
+entities,region.TH-20,,"Chon Buri",0
+entities,region.TH-21,,Rayong,0
+entities,region.TH-22,,Chanthaburi,0
+entities,region.TH-23,,Trat,0
+entities,region.TH-24,,Chachoengsao,0
+entities,region.TH-25,,"Prachin Buri",0
+entities,region.TH-26,,"Nakhon Nayok",0
+entities,region.TH-27,,"Sa Kaeo",0
+entities,region.TH-30,,"Nakhon Ratchasima",0
+entities,region.TH-31,,"Buri Ram",0
+entities,region.TH-32,,Surin,0
+entities,region.TH-33,,"Si Sa Ket",0
+entities,region.TH-34,,"Ubon Ratchathani",0
+entities,region.TH-35,,Yasothon,0
+entities,region.TH-36,,Chaiyaphum,0
+entities,region.TH-37,,"Amnat Charoen",0
+entities,region.TH-39,,"Nong Bua Lam Phu",0
+entities,region.TH-40,,"Khon Kaen",0
+entities,region.TH-41,,"Udon Thani",0
+entities,region.TH-42,,Loei,0
+entities,region.TH-43,,"Nong Khai",0
+entities,region.TH-44,,"Maha Sarakham",0
+entities,region.TH-45,,"Roi Et",0
+entities,region.TH-46,,Kalasin,0
+entities,region.TH-47,,"Sakon Nakhon",0
+entities,region.TH-48,,"Nakhon Phanom",0
+entities,region.TH-49,,Mukdahan,0
+entities,region.TH-50,,"Chiang Mai",0
+entities,region.TH-51,,Lamphun,0
+entities,region.TH-52,,Lampang,0
+entities,region.TH-53,,Uttaradit,0
+entities,region.TH-54,,Phrae,0
+entities,region.TH-55,,Nan,0
+entities,region.TH-56,,Phayao,0
+entities,region.TH-57,,"Chiang Rai",0
+entities,region.TH-58,,"Mae Hong Son",0
+entities,region.TH-60,,"Nakhon Sawan",0
+entities,region.TH-61,,"Uthai Thani",0
+entities,region.TH-62,,"Kamphaeng Phet",0
+entities,region.TH-63,,Tak,0
+entities,region.TH-64,,Sukhothai,0
+entities,region.TH-65,,Phitsanulok,0
+entities,region.TH-66,,Phichit,0
+entities,region.TH-67,,Phetchabun,0
+entities,region.TH-70,,Ratchaburi,0
+entities,region.TH-71,,Kanchanaburi,0
+entities,region.TH-72,,"Suphan Buri",0
+entities,region.TH-73,,"Nakhon Pathom",0
+entities,region.TH-74,,"Samut Sakhon",0
+entities,region.TH-75,,"Samut Songkhram",0
+entities,region.TH-76,,Phetchaburi,0
+entities,region.TH-77,,"Prachuap Khiri Khan",0
+entities,region.TH-80,,"Nakhon Si Thammarat",0
+entities,region.TH-81,,Krabi,0
+entities,region.TH-82,,Phangnga,0
+entities,region.TH-83,,Phuket,0
+entities,region.TH-84,,"Surat Thani",0
+entities,region.TH-85,,Ranong,0
+entities,region.TH-86,,Chumphon,0
+entities,region.TH-90,,Songkhla,0
+entities,region.TH-91,,Satun,0
+entities,region.TH-92,,Trang,0
+entities,region.TH-93,,Phatthalung,0
+entities,region.TH-94,,Pattani,0
+entities,region.TH-95,,Yala,0
+entities,region.TH-96,,Narathiwat,0
+entities,region.TH-S,,Phatthaya,0
+entities,region.TJ-GB,,Gorno-Badakhshan,0
+entities,region.TJ-KT,,Khatlon,0
+entities,region.TJ-SU,,Sughd,0
+entities,region.TL-AL,,Aileu,0
+entities,region.TL-AN,,Ainaro,0
+entities,region.TL-BA,,Baucau,0
+entities,region.TL-BO,,Bobonaro,0
+entities,region.TL-CO,,"Cova Lima",0
+entities,region.TL-DI,,Dili,0
+entities,region.TL-ER,,Ermera,0
+entities,region.TL-LA,,Lautem,0
+entities,region.TL-LI,,Liquiça,0
+entities,region.TL-MF,,Manufahi,0
+entities,region.TL-MT,,Manatuto,0
+entities,region.TL-OE,,Oecussi,0
+entities,region.TL-VI,,Viqueque,0
+entities,region.TM-A,,Ahal,0
+entities,region.TM-B,,Balkan,0
+entities,region.TM-D,,Daşoguz,0
+entities,region.TM-L,,Lebap,0
+entities,region.TM-M,,Mary,0
+entities,region.TM-S,,Aşgabat,0
+entities,region.TN-11,,Tunis,0
+entities,region.TN-12,,L'Ariana,0
+entities,region.TN-13,,"Ben Arous",0
+entities,region.TN-14,,"La Manouba",0
+entities,region.TN-21,,Nabeul,0
+entities,region.TN-22,,Zaghouan,0
+entities,region.TN-23,,Bizerte,0
+entities,region.TN-31,,Béja,0
+entities,region.TN-32,,Jendouba,0
+entities,region.TN-33,,"Le Kef",0
+entities,region.TN-34,,Siliana,0
+entities,region.TN-41,,Kairouan,0
+entities,region.TN-42,,Kasserine,0
+entities,region.TN-43,,"Sidi Bouzid",0
+entities,region.TN-51,,Sousse,0
+entities,region.TN-52,,Monastir,0
+entities,region.TN-53,,Mahdia,0
+entities,region.TN-61,,Sfax,0
+entities,region.TN-71,,Gafsa,0
+entities,region.TN-72,,Tozeur,0
+entities,region.TN-73,,Kebili,0
+entities,region.TN-81,,Gabès,0
+entities,region.TN-82,,Medenine,0
+entities,region.TN-83,,Tataouine,0
+entities,region.TO-01,,'Eua,0
+entities,region.TO-02,,Ha'apai,0
+entities,region.TO-03,,Niuas,0
+entities,region.TO-04,,Tongatapu,0
+entities,region.TO-05,,Vava'u,0
+entities,region.TR-01,,Adana,0
+entities,region.TR-02,,Adıyaman,0
+entities,region.TR-03,,Afyon,0
+entities,region.TR-04,,Ağrı,0
+entities,region.TR-05,,Amasya,0
+entities,region.TR-06,,Ankara,0
+entities,region.TR-07,,Antalya,0
+entities,region.TR-08,,Artvin,0
+entities,region.TR-09,,Aydın,0
+entities,region.TR-10,,Balıkesir,0
+entities,region.TR-11,,Bilecik,0
+entities,region.TR-12,,Bingöl,0
+entities,region.TR-13,,Bitlis,0
+entities,region.TR-14,,Bolu,0
+entities,region.TR-15,,Burdur,0
+entities,region.TR-16,,Bursa,0
+entities,region.TR-17,,Çanakkale,0
+entities,region.TR-18,,Çankırı,0
+entities,region.TR-19,,Çorum,0
+entities,region.TR-20,,Denizli,0
+entities,region.TR-21,,Diyarbakır,0
+entities,region.TR-22,,Edirne,0
+entities,region.TR-23,,Elazığ,0
+entities,region.TR-24,,Erzincan,0
+entities,region.TR-25,,Erzurum,0
+entities,region.TR-26,,Eskişehir,0
+entities,region.TR-27,,Gaziantep,0
+entities,region.TR-28,,Giresun,0
+entities,region.TR-29,,Gümüşhane,0
+entities,region.TR-30,,Hakkâri,0
+entities,region.TR-31,,Hatay,0
+entities,region.TR-32,,Isparta,0
+entities,region.TR-33,,İçel,0
+entities,region.TR-34,,İstanbul,0
+entities,region.TR-35,,İzmir,0
+entities,region.TR-36,,Kars,0
+entities,region.TR-37,,Kastamonu,0
+entities,region.TR-38,,Kayseri,0
+entities,region.TR-39,,Kırklareli,0
+entities,region.TR-40,,Kırşehir,0
+entities,region.TR-41,,Kocaeli,0
+entities,region.TR-42,,Konya,0
+entities,region.TR-43,,Kütahya,0
+entities,region.TR-44,,Malatya,0
+entities,region.TR-45,,Manisa,0
+entities,region.TR-46,,Kahramanmaraş,0
+entities,region.TR-47,,Mardin,0
+entities,region.TR-48,,Muğla,0
+entities,region.TR-49,,Muş,0
+entities,region.TR-50,,Nevşehir,0
+entities,region.TR-51,,Niğde,0
+entities,region.TR-52,,Ordu,0
+entities,region.TR-53,,Rize,0
+entities,region.TR-54,,Sakarya,0
+entities,region.TR-55,,Samsun,0
+entities,region.TR-56,,Siirt,0
+entities,region.TR-57,,Sinop,0
+entities,region.TR-58,,Sivas,0
+entities,region.TR-59,,Tekirdağ,0
+entities,region.TR-60,,Tokat,0
+entities,region.TR-61,,Trabzon,0
+entities,region.TR-62,,Tunceli,0
+entities,region.TR-63,,Şanlıurfa,0
+entities,region.TR-64,,Uşak,0
+entities,region.TR-65,,Van,0
+entities,region.TR-66,,Yozgat,0
+entities,region.TR-67,,Zonguldak,0

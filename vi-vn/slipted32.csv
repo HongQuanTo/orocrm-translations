@@ -1,0 +1,327 @@
+validators,"This value should be identical to {{ compared_value_type }} {{ compared_value }}.",,"This value should be identical to {{ compared_value_type }} {{ compared_value }}.",0
+validators,"This value should be less than or equal to {{ compared_value }}.",,"This value should be less than or equal to {{ compared_value }}.",0
+validators,"This value should be less than {{ compared_value }}.",,"This value should be less than {{ compared_value }}.",0
+validators,"This value should be null.",,"This value should be null.",0
+validators,"This value should be of type {{ type }}.",,"This value should be of type {{ type }}.",0
+validators,"This value should be one of the values: {{ allowed_values }}.",,"This value should be one of the values: {{ allowed_values }}.",0
+validators,"This value should be the user's current password.",,"This value should be the user's current password.",0
+validators,"This value should be true.",,"This value should be true.",0
+validators,"This value should be {{ limit }} or less.",,"This value should be {{ limit }} or less.",0
+validators,"This value should be {{ limit }} or more.",,"This value should be {{ limit }} or more.",0
+validators,"This value should contain only alphabetic symbols and numbers.",,"This value should contain only alphabetic symbols and numbers.",0
+validators,"This value should contain only alphabetic symbols, underscore, hyphen and numbers.",,"This value should contain only alphabetic symbols, underscore, hyphen and numbers.",0
+validators,"This value should contain only alphabetic symbols, underscore, hyphen, spaces and numbers.",,"This value should contain only alphabetic symbols, underscore, hyphen, spaces and numbers.",0
+validators,"This value should contain only lower case alphabetic symbols, underscore and numbers.",,"This value should contain only lower case alphabetic symbols, underscore and numbers.",0
+validators,"This value should have exactly {{ limit }} character.|This value should have exactly {{ limit }} characters.",,"This value should have exactly {{ limit }} character.|This value should have exactly {{ limit }} characters.",0
+validators,"This value should not be blank.",,"This value should not be blank.",0
+validators,"This value should not be equal to {{ compared_value }}.",,"This value should not be equal to {{ compared_value }}.",0
+validators,"This value should not be identical to {{ compared_value_type }} {{ compared_value }}.",,"This value should not be identical to {{ compared_value_type }} {{ compared_value }}.",0
+validators,"This value should not be null.",,"This value should not be null.",0
+validators,"This value should not be the reserved PHP word.",,"This value should not be the reserved PHP word.",0
+validators,"This value should not be the reserved SQL word.",,"This value should not be the reserved SQL word.",0
+validators,"This value should start with a symbol and contain only alphabetic symbols, underscore and numbers.",,"This value should start with a symbol and contain only alphabetic symbols, underscore and numbers.",0
+validators,"Unexpected error was occurred",,"Unexpected error was occurred",0
+validators,"Unsupported card type or invalid card number.",,"Unsupported card type or invalid card number.",0
+validators,"Value should not contain HTML tags.",,"Value should not contain HTML tags.",0
+validators,"You can merge only {{ limit }} entities at once.",,"You can merge only {{ limit }} entities at once.",0
+validators,"You must select at least {{ limit }} choice.|You must select at least {{ limit }} choices.",,"You must select at least {{ limit }} choice.|You must select at least {{ limit }} choices.",0
+validators,"You must select at least {{ limit }} role",,"You must select at least {{ limit }} role.|You must select at least {{ limit }} roles.",0
+validators,"You must select at most {{ limit }} choice.|You must select at most {{ limit }} choices.",,"You must select at most {{ limit }} choice.|You must select at most {{ limit }} choices.",0
+validators,"You need minimum {{ limit }} entities to merge.",,"You need minimum {{ limit }} entities to merge.",0
+workflows,oro.workflow.b2b_flow_lead.attribute.account.label,,Account,0
+workflows,oro.workflow.b2b_flow_lead.attribute.b2bcustomer.label,,"Business customer",0
+workflows,oro.workflow.b2b_flow_lead.attribute.company_name.label,,"Company name",0
+workflows,oro.workflow.b2b_flow_lead.attribute.customer_association.label,,Account,0
+workflows,oro.workflow.b2b_flow_lead.attribute.notes.label,,"Additional comments",0
+workflows,oro.workflow.b2b_flow_lead.attribute.opportunity_name.label,,"Opportunity name",0
+workflows,oro.workflow.b2b_flow_lead.label,,"Unqualified Sales Lead",0
+workflows,oro.workflow.b2b_flow_lead.step.cancelled.label,,Cancelled,0
+workflows,oro.workflow.b2b_flow_lead.step.new.label,,New,0
+workflows,oro.workflow.b2b_flow_lead.step.qualified.label,,Qualified,0
+workflows,oro.workflow.b2b_flow_lead.transition.cancel.button_label,,,0
+workflows,oro.workflow.b2b_flow_lead.transition.cancel.button_title,,,0
+workflows,oro.workflow.b2b_flow_lead.transition.cancel.label,,Disqualify,0
+workflows,oro.workflow.b2b_flow_lead.transition.cancel.warning_message,,,0
+workflows,oro.workflow.b2b_flow_lead.transition.qualify.attribute.company_name.label,,"Company name",0
+workflows,oro.workflow.b2b_flow_lead.transition.qualify.attribute.customer_association.label,,Account,0
+workflows,oro.workflow.b2b_flow_lead.transition.qualify.attribute.notes.label,,"Additional comments",0
+workflows,oro.workflow.b2b_flow_lead.transition.qualify.attribute.opportunity_name.label,,"Opportunity name",0
+workflows,oro.workflow.b2b_flow_lead.transition.qualify.button_label,,,0
+workflows,oro.workflow.b2b_flow_lead.transition.qualify.button_title,,,0
+workflows,oro.workflow.b2b_flow_lead.transition.qualify.label,,Qualify,0
+workflows,oro.workflow.b2b_flow_lead.transition.qualify.warning_message,,,0
+workflows,oro.workflow.b2b_flow_lead.transition.reactivate.button_label,,,0
+workflows,oro.workflow.b2b_flow_lead.transition.reactivate.button_title,,,0
+workflows,oro.workflow.b2b_flow_lead.transition.reactivate.label,,Reactivate,0
+workflows,oro.workflow.b2b_flow_lead.transition.reactivate.warning_message,,,0
+workflows,oro.workflow.b2b_flow_sales_funnel.attribute.budget_amount.label,,"Budget Amount",0
+workflows,oro.workflow.b2b_flow_sales_funnel.attribute.close_date.label,,"Close date",0
+workflows,oro.workflow.b2b_flow_sales_funnel.attribute.close_reason.label,,,0
+workflows,oro.workflow.b2b_flow_sales_funnel.attribute.close_reason_name.label,,"Close reason",0
+workflows,oro.workflow.b2b_flow_sales_funnel.attribute.close_revenue.label,,"Close Revenue",0
+workflows,oro.workflow.b2b_flow_sales_funnel.attribute.contact.label,,,0
+workflows,oro.workflow.b2b_flow_sales_funnel.attribute.customer_need.label,,,0
+workflows,oro.workflow.b2b_flow_sales_funnel.attribute.lead.label,,,0
+workflows,oro.workflow.b2b_flow_sales_funnel.attribute.lead_notes.label,,,0
+workflows,oro.workflow.b2b_flow_sales_funnel.attribute.new_account.label,,Account,0
+workflows,oro.workflow.b2b_flow_sales_funnel.attribute.new_b2bcustomer.label,,"Business customer",0
+workflows,oro.workflow.b2b_flow_sales_funnel.attribute.new_company_name.label,,"Company name",0
+workflows,oro.workflow.b2b_flow_sales_funnel.attribute.new_customer_association.label,,Account,0
+workflows,oro.workflow.b2b_flow_sales_funnel.attribute.new_notes.label,,"Additional comments",0
+workflows,oro.workflow.b2b_flow_sales_funnel.attribute.new_opportunity_name.label,,"Opportunity name",0
+workflows,oro.workflow.b2b_flow_sales_funnel.attribute.opportunity.label,,,0
+workflows,oro.workflow.b2b_flow_sales_funnel.attribute.opportunity_name.label,,,0
+workflows,oro.workflow.b2b_flow_sales_funnel.attribute.opportunity_notes.label,,,0
+workflows,oro.workflow.b2b_flow_sales_funnel.attribute.probability.label,,,0
+workflows,oro.workflow.b2b_flow_sales_funnel.attribute.proposed_solution.label,,,0
+workflows,oro.workflow.b2b_flow_sales_funnel.attribute.sales_funnel_owner.label,,,0
+workflows,oro.workflow.b2b_flow_sales_funnel.attribute.sales_funnel_start_date.label,,,0
+workflows,oro.workflow.b2b_flow_sales_funnel.label,,"B2B Sales Process Flow",0
+workflows,oro.workflow.b2b_flow_sales_funnel.step.developed_opportunity.label,,"Developed Opportunity",0
+workflows,oro.workflow.b2b_flow_sales_funnel.step.disqualified_lead.label,,"Disqualified Lead",0
+workflows,oro.workflow.b2b_flow_sales_funnel.step.lost_opportunity.label,,"Lost Opportunity",0
+workflows,oro.workflow.b2b_flow_sales_funnel.step.new_lead.label,,"New Lead",0
+workflows,oro.workflow.b2b_flow_sales_funnel.step.new_opportunity.label,,"New Opportunity",0
+workflows,oro.workflow.b2b_flow_sales_funnel.step.won_opportunity.label,,"Won Opportunity",0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.close_as_lost.attribute.close_date.label,,"Close date",0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.close_as_lost.attribute.close_reason_name.label,,"Close reason",0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.close_as_lost.button_label,,,0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.close_as_lost.button_title,,,0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.close_as_lost.label,,"Close as Lost",0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.close_as_lost.warning_message,,,0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.close_as_won.attribute.close_date.label,,"Close date",0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.close_as_won.attribute.close_revenue.label,,"Close Revenue",0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.close_as_won.button_label,,,0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.close_as_won.button_title,,,0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.close_as_won.label,,"Close as Won",0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.close_as_won.warning_message,,,0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.develop.attribute.budget_amount.label,,"Budget Amount",0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.develop.attribute.contact.label,,Contact,0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.develop.attribute.customer_need.label,,"Customer need",0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.develop.attribute.new_customer_association.label,,Account,0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.develop.attribute.probability.label,,Probability,0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.develop.attribute.proposed_solution.label,,"Proposed solution",0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.develop.button_label,,,0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.develop.button_title,,,0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.develop.label,,Develop,0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.develop.warning_message,,,0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.disqualify.attribute.new_company_name.label,,"Company name",0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.disqualify.attribute.new_customer_association.label,,Account,0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.disqualify.attribute.new_notes.label,,"Additional comments",0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.disqualify.attribute.new_opportunity_name.label,,"Opportunity name",0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.disqualify.button_label,,,0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.disqualify.button_title,,,0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.disqualify.label,,Disqualify,0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.disqualify.warning_message,,,0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.follow_up.attribute.lead_notes.label,,"Additional comments",0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.follow_up.button_label,,,0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.follow_up.button_title,,,0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.follow_up.label,,"Follow up",0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.follow_up.warning_message,,,0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.qualify.attribute.new_company_name.label,,"Company name",0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.qualify.attribute.new_customer_association.label,,Account,0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.qualify.attribute.new_notes.label,,"Additional comments",0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.qualify.attribute.new_opportunity_name.label,,"Opportunity name",0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.qualify.button_label,,,0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.qualify.button_title,,,0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.qualify.label,,Qualify,0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.qualify.warning_message,,,0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.reactivate.button_label,,,0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.reactivate.button_title,,,0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.reactivate.label,,Reactivate,0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.reactivate.warning_message,,,0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.reopen.button_label,,,0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.reopen.button_title,,,0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.reopen.label,,Reopen,0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.reopen.warning_message,,"This action will reset the opportunity data and will bring the Sales Activity workflow back to the New Opportunity step.
+Do you want to proceed?
+",0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.start_from_lead.attribute.lead.label,,Lead,0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.start_from_lead.attribute.sales_funnel_owner.label,,Owner,0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.start_from_lead.attribute.sales_funnel_start_date.label,,"Start Date",0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.start_from_lead.button_label,,,0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.start_from_lead.button_title,,,0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.start_from_lead.label,,"Start from Lead",0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.start_from_lead.warning_message,,,0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.start_from_opportunity.attribute.opportunity.label,,Opportunity,0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.start_from_opportunity.attribute.sales_funnel_owner.label,,Owner,0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.start_from_opportunity.attribute.sales_funnel_start_date.label,,"Start Date",0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.start_from_opportunity.button_label,,,0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.start_from_opportunity.button_title,,,0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.start_from_opportunity.label,,"Start from Opportunity",0
+workflows,oro.workflow.b2b_flow_sales_funnel.transition.start_from_opportunity.warning_message,,,0
+workflows,oro.workflow.b2c_flow_abandoned_shopping_cart.attribute.account.label,,Account,0
+workflows,oro.workflow.b2c_flow_abandoned_shopping_cart.attribute.cart_id.label,,,0
+workflows,oro.workflow.b2c_flow_abandoned_shopping_cart.attribute.contact.label,,Contact,0
+workflows,oro.workflow.b2c_flow_abandoned_shopping_cart.attribute.notes.label,,Notes,0
+workflows,oro.workflow.b2c_flow_abandoned_shopping_cart.attribute.opportunity_budget.label,,"Budget amount",0
+workflows,oro.workflow.b2c_flow_abandoned_shopping_cart.attribute.opportunity_name.label,,"Opportunity name",0
+workflows,oro.workflow.b2c_flow_abandoned_shopping_cart.attribute.opportunity_owner.label,,Owner,0
+workflows,oro.workflow.b2c_flow_abandoned_shopping_cart.label,,"Abandoned Shopping Cart",0
+workflows,oro.workflow.b2c_flow_abandoned_shopping_cart.step.abandoned.label,,Abandoned,0
+workflows,oro.workflow.b2c_flow_abandoned_shopping_cart.step.converted.label,,Converted,0
+workflows,oro.workflow.b2c_flow_abandoned_shopping_cart.step.converted_to_opportunity.label,,"Converted to Opportunity",0
+workflows,oro.workflow.b2c_flow_abandoned_shopping_cart.step.open.label,,Open,0
+workflows,oro.workflow.b2c_flow_abandoned_shopping_cart.transition.abandon.attribute.notes.label,,Notes,0
+workflows,oro.workflow.b2c_flow_abandoned_shopping_cart.transition.abandon.button_label,,,0
+workflows,oro.workflow.b2c_flow_abandoned_shopping_cart.transition.abandon.button_title,,,0
+workflows,oro.workflow.b2c_flow_abandoned_shopping_cart.transition.abandon.label,,Abandon,0
+workflows,oro.workflow.b2c_flow_abandoned_shopping_cart.transition.abandon.warning_message,,"You are going to abandon this shopping cart.",0
+workflows,oro.workflow.b2c_flow_abandoned_shopping_cart.transition.convert.button_label,,,0
+workflows,oro.workflow.b2c_flow_abandoned_shopping_cart.transition.convert.button_title,,,0
+workflows,oro.workflow.b2c_flow_abandoned_shopping_cart.transition.convert.label,,Convert,0
+workflows,oro.workflow.b2c_flow_abandoned_shopping_cart.transition.convert.warning_message,,,0
+workflows,oro.workflow.b2c_flow_abandoned_shopping_cart.transition.convert_to_opportunity.attribute.notes.label,,Notes,0
+workflows,oro.workflow.b2c_flow_abandoned_shopping_cart.transition.convert_to_opportunity.attribute.opportunity_budget.label,,"Budget amount",0
+workflows,oro.workflow.b2c_flow_abandoned_shopping_cart.transition.convert_to_opportunity.attribute.opportunity_name.label,,"Opportunity name",0
+workflows,oro.workflow.b2c_flow_abandoned_shopping_cart.transition.convert_to_opportunity.attribute.opportunity_owner.label,,Owner,0
+workflows,oro.workflow.b2c_flow_abandoned_shopping_cart.transition.convert_to_opportunity.button_label,,,0
+workflows,oro.workflow.b2c_flow_abandoned_shopping_cart.transition.convert_to_opportunity.button_title,,,0
+workflows,oro.workflow.b2c_flow_abandoned_shopping_cart.transition.convert_to_opportunity.label,,"Convert to Opportunity",0
+workflows,oro.workflow.b2c_flow_abandoned_shopping_cart.transition.convert_to_opportunity.warning_message,,,0
+workflows,oro.workflow.b2c_flow_abandoned_shopping_cart.transition.place_order.attribute.cart_id.label,,,0
+workflows,oro.workflow.b2c_flow_abandoned_shopping_cart.transition.place_order.button_label,,,0
+workflows,oro.workflow.b2c_flow_abandoned_shopping_cart.transition.place_order.button_title,,,0
+workflows,oro.workflow.b2c_flow_abandoned_shopping_cart.transition.place_order.label,,"Place an order",0
+workflows,oro.workflow.b2c_flow_abandoned_shopping_cart.transition.place_order.warning_message,,,0
+workflows,oro.workflow.b2c_flow_abandoned_shopping_cart.transition.reopen.attribute.notes.label,,Notes,0
+workflows,oro.workflow.b2c_flow_abandoned_shopping_cart.transition.reopen.button_label,,,0
+workflows,oro.workflow.b2c_flow_abandoned_shopping_cart.transition.reopen.button_title,,,0
+workflows,oro.workflow.b2c_flow_abandoned_shopping_cart.transition.reopen.label,,Reopen,0
+workflows,oro.workflow.b2c_flow_abandoned_shopping_cart.transition.reopen.warning_message,,,0
+workflows,oro.workflow.b2c_flow_order_follow_up.attribute.account.label,,Account,0
+workflows,oro.workflow.b2c_flow_order_follow_up.attribute.contact.label,,Contact,0
+workflows,oro.workflow.b2c_flow_order_follow_up.attribute.feedback.label,,Feedback,0
+workflows,oro.workflow.b2c_flow_order_follow_up.attribute.notes.label,,Notes,0
+workflows,oro.workflow.b2c_flow_order_follow_up.label,,"Order Follow Up",0
+workflows,oro.workflow.b2c_flow_order_follow_up.step.contacted.label,,Contacted,0
+workflows,oro.workflow.b2c_flow_order_follow_up.step.not_contacted.label,,"Not contacted",0
+workflows,oro.workflow.b2c_flow_order_follow_up.transition.record_feedback.attribute.feedback.label,,Feedback,0
+workflows,oro.workflow.b2c_flow_order_follow_up.transition.record_feedback.attribute.notes.label,,Notes,0
+workflows,oro.workflow.b2c_flow_order_follow_up.transition.record_feedback.button_label,,,0
+workflows,oro.workflow.b2c_flow_order_follow_up.transition.record_feedback.button_title,,,0
+workflows,oro.workflow.b2c_flow_order_follow_up.transition.record_feedback.label,,"Record feedback",0
+workflows,oro.workflow.b2c_flow_order_follow_up.transition.record_feedback.warning_message,,,0
+workflows,oro.workflow.opportunity_flow.attribute.budget_amount.label,,"Budget Amount",0
+workflows,oro.workflow.opportunity_flow.attribute.close_date.label,,"Expected close date",0
+workflows,oro.workflow.opportunity_flow.attribute.close_reason.label,,,0
+workflows,oro.workflow.opportunity_flow.attribute.close_reason_name.label,,"Close reason",0
+workflows,oro.workflow.opportunity_flow.attribute.close_revenue.label,,"Close Revenue",0
+workflows,oro.workflow.opportunity_flow.attribute.contact.label,,,0
+workflows,oro.workflow.opportunity_flow.attribute.customer_need.label,,,0
+workflows,oro.workflow.opportunity_flow.attribute.notes.label,,,0
+workflows,oro.workflow.opportunity_flow.attribute.opportunity_name.label,,,0
+workflows,oro.workflow.opportunity_flow.attribute.probability.label,,Probability,0
+workflows,oro.workflow.opportunity_flow.attribute.proposed_solution.label,,,0
+workflows,oro.workflow.opportunity_flow.attribute.status.label,,Status,0
+workflows,oro.workflow.opportunity_flow.label,,"Opportunity Management Flow",0
+workflows,oro.workflow.opportunity_flow.step.lost.label,,Lost,0
+workflows,oro.workflow.opportunity_flow.step.open.label,,Open,0
+workflows,oro.workflow.opportunity_flow.step.won.label,,Won,0
+workflows,oro.workflow.opportunity_flow.transition.__start__.attribute.probability.label,,Probability,0
+workflows,oro.workflow.opportunity_flow.transition.__start__.attribute.status.label,,Status,0
+workflows,oro.workflow.opportunity_flow.transition.__start__.button_label,,,0
+workflows,oro.workflow.opportunity_flow.transition.__start__.button_title,,,0
+workflows,oro.workflow.opportunity_flow.transition.__start__.label,,"Start Opportunity Management Flow",0
+workflows,oro.workflow.opportunity_flow.transition.__start__.warning_message,,,0
+workflows,oro.workflow.opportunity_flow.transition.close_lost.attribute.close_date.label,,"Expected close date",0
+workflows,oro.workflow.opportunity_flow.transition.close_lost.attribute.close_reason_name.label,,"Close reason",0
+workflows,oro.workflow.opportunity_flow.transition.close_lost.button_label,,,0
+workflows,oro.workflow.opportunity_flow.transition.close_lost.button_title,,,0
+workflows,oro.workflow.opportunity_flow.transition.close_lost.label,,"Close as Lost",0
+workflows,oro.workflow.opportunity_flow.transition.close_lost.warning_message,,,0
+workflows,oro.workflow.opportunity_flow.transition.close_won.attribute.close_date.label,,"Expected close date",0
+workflows,oro.workflow.opportunity_flow.transition.close_won.attribute.close_revenue.label,,"Close Revenue",0
+workflows,oro.workflow.opportunity_flow.transition.close_won.button_label,,,0
+workflows,oro.workflow.opportunity_flow.transition.close_won.button_title,,,0
+workflows,oro.workflow.opportunity_flow.transition.close_won.label,,"Close as Won",0
+workflows,oro.workflow.opportunity_flow.transition.close_won.warning_message,,,0
+workflows,oro.workflow.opportunity_flow.transition.develop.attribute.budget_amount.label,,"Budget Amount",0
+workflows,oro.workflow.opportunity_flow.transition.develop.attribute.close_date.label,,"Expected close date",0
+workflows,oro.workflow.opportunity_flow.transition.develop.attribute.contact.label,,Contact,0
+workflows,oro.workflow.opportunity_flow.transition.develop.attribute.customer_need.label,,"Customer need",0
+workflows,oro.workflow.opportunity_flow.transition.develop.attribute.probability.label,,Probability,0
+workflows,oro.workflow.opportunity_flow.transition.develop.attribute.proposed_solution.label,,"Proposed solution",0
+workflows,oro.workflow.opportunity_flow.transition.develop.attribute.status.label,,Status,0
+workflows,oro.workflow.opportunity_flow.transition.develop.button_label,,,0
+workflows,oro.workflow.opportunity_flow.transition.develop.button_title,,,0
+workflows,oro.workflow.opportunity_flow.transition.develop.label,,Develop,0
+workflows,oro.workflow.opportunity_flow.transition.develop.warning_message,,,0
+workflows,oro.workflow.opportunity_flow.transition.reopen.attribute.budget_amount.label,,"Budget Amount",0
+workflows,oro.workflow.opportunity_flow.transition.reopen.attribute.close_date.label,,"Expected close date",0
+workflows,oro.workflow.opportunity_flow.transition.reopen.attribute.contact.label,,Contact,0
+workflows,oro.workflow.opportunity_flow.transition.reopen.attribute.customer_need.label,,"Customer need",0
+workflows,oro.workflow.opportunity_flow.transition.reopen.attribute.notes.label,,"Additional comments",0
+workflows,oro.workflow.opportunity_flow.transition.reopen.attribute.probability.label,,Probability,0
+workflows,oro.workflow.opportunity_flow.transition.reopen.attribute.proposed_solution.label,,"Proposed solution",0
+workflows,oro.workflow.opportunity_flow.transition.reopen.attribute.status.label,,Status,0
+workflows,oro.workflow.opportunity_flow.transition.reopen.button_label,,,0
+workflows,oro.workflow.opportunity_flow.transition.reopen.button_title,,,0
+workflows,oro.workflow.opportunity_flow.transition.reopen.label,,Reopen,0
+workflows,oro.workflow.opportunity_flow.transition.reopen.warning_message,,,0
+workflows,oro.workflow.orocrm_contact_us_contact_request.attribute.account.label,,Account,0
+workflows,oro.workflow.orocrm_contact_us_contact_request.attribute.contact.label,,Contact,0
+workflows,oro.workflow.orocrm_contact_us_contact_request.attribute.customer_association.label,,Account,0
+workflows,oro.workflow.orocrm_contact_us_contact_request.attribute.feedback.label,,Feedback,0
+workflows,oro.workflow.orocrm_contact_us_contact_request.attribute.lead_email.label,,Email,0
+workflows,oro.workflow.orocrm_contact_us_contact_request.attribute.lead_first_name.label,,"First name",0
+workflows,oro.workflow.orocrm_contact_us_contact_request.attribute.lead_last_name.label,,"Last name",0
+workflows,oro.workflow.orocrm_contact_us_contact_request.attribute.lead_name.label,,"Lead name",0
+workflows,oro.workflow.orocrm_contact_us_contact_request.attribute.lead_owner.label,,Owner,0
+workflows,oro.workflow.orocrm_contact_us_contact_request.attribute.lead_phone.label,,"Phone number",0
+workflows,oro.workflow.orocrm_contact_us_contact_request.attribute.lead_phone_entity.label,,"Lead Phone",0
+workflows,oro.workflow.orocrm_contact_us_contact_request.attribute.opportunity_budget.label,,"Budget amount",0
+workflows,oro.workflow.orocrm_contact_us_contact_request.attribute.opportunity_name.label,,"Opportunity name",0
+workflows,oro.workflow.orocrm_contact_us_contact_request.attribute.opportunity_owner.label,,Owner,0
+workflows,oro.workflow.orocrm_contact_us_contact_request.label,,"Contact Request",0
+workflows,oro.workflow.orocrm_contact_us_contact_request.step.converted_to_lead.label,,"Converted to Lead",0
+workflows,oro.workflow.orocrm_contact_us_contact_request.step.converted_to_opportunity.label,,"Converted to Opportunity",0
+workflows,oro.workflow.orocrm_contact_us_contact_request.step.open.label,,Open,0
+workflows,oro.workflow.orocrm_contact_us_contact_request.step.resolved.label,,Resolved,0
+workflows,oro.workflow.orocrm_contact_us_contact_request.transition.convert_to_lead.attribute.contact.label,,Contact,0
+workflows,oro.workflow.orocrm_contact_us_contact_request.transition.convert_to_lead.attribute.feedback.label,,Feedback,0
+workflows,oro.workflow.orocrm_contact_us_contact_request.transition.convert_to_lead.attribute.lead_email.label,,Email,0
+workflows,oro.workflow.orocrm_contact_us_contact_request.transition.convert_to_lead.attribute.lead_first_name.label,,"First name",0
+workflows,oro.workflow.orocrm_contact_us_contact_request.transition.convert_to_lead.attribute.lead_last_name.label,,"Last name",0
+workflows,oro.workflow.orocrm_contact_us_contact_request.transition.convert_to_lead.attribute.lead_name.label,,"Lead name",0
+workflows,oro.workflow.orocrm_contact_us_contact_request.transition.convert_to_lead.attribute.lead_owner.label,,Owner,0
+workflows,oro.workflow.orocrm_contact_us_contact_request.transition.convert_to_lead.attribute.lead_phone.label,,"Phone number",0
+workflows,oro.workflow.orocrm_contact_us_contact_request.transition.convert_to_lead.button_label,,,0
+workflows,oro.workflow.orocrm_contact_us_contact_request.transition.convert_to_lead.button_title,,,0
+workflows,oro.workflow.orocrm_contact_us_contact_request.transition.convert_to_lead.label,,"Convert to Lead",0
+workflows,oro.workflow.orocrm_contact_us_contact_request.transition.convert_to_lead.warning_message,,,0
+workflows,oro.workflow.orocrm_contact_us_contact_request.transition.convert_to_opportunity.attribute.contact.label,,Contact,0
+workflows,oro.workflow.orocrm_contact_us_contact_request.transition.convert_to_opportunity.attribute.customer_association.label,,,0
+workflows,oro.workflow.orocrm_contact_us_contact_request.transition.convert_to_opportunity.attribute.feedback.label,,Feedback,0
+workflows,oro.workflow.orocrm_contact_us_contact_request.transition.convert_to_opportunity.attribute.opportunity_budget.label,,"Budget amount",0
+workflows,oro.workflow.orocrm_contact_us_contact_request.transition.convert_to_opportunity.attribute.opportunity_name.label,,"Opportunity name",0
+workflows,oro.workflow.orocrm_contact_us_contact_request.transition.convert_to_opportunity.attribute.opportunity_owner.label,,Owner,0
+workflows,oro.workflow.orocrm_contact_us_contact_request.transition.convert_to_opportunity.button_label,,,0
+workflows,oro.workflow.orocrm_contact_us_contact_request.transition.convert_to_opportunity.button_title,,,0
+workflows,oro.workflow.orocrm_contact_us_contact_request.transition.convert_to_opportunity.label,,"Convert to Opportunity",0
+workflows,oro.workflow.orocrm_contact_us_contact_request.transition.convert_to_opportunity.warning_message,,,0
+workflows,oro.workflow.orocrm_contact_us_contact_request.transition.resolve.attribute.feedback.label,,Feedback,0
+workflows,oro.workflow.orocrm_contact_us_contact_request.transition.resolve.button_label,,,0
+workflows,oro.workflow.orocrm_contact_us_contact_request.transition.resolve.button_title,,,0
+workflows,oro.workflow.orocrm_contact_us_contact_request.transition.resolve.label,,Resolve,0
+workflows,oro.workflow.orocrm_contact_us_contact_request.transition.resolve.warning_message,,,0
+workflows,oro.workflow.task_flow.label,,"Task Flow",0
+workflows,oro.workflow.task_flow.step.closed.label,,Closed,0
+workflows,oro.workflow.task_flow.step.in_progress.label,,"In progress",0
+workflows,oro.workflow.task_flow.step.open.label,,Open,0
+workflows,oro.workflow.task_flow.transition.close.button_label,,,0
+workflows,oro.workflow.task_flow.transition.close.button_title,,,0
+workflows,oro.workflow.task_flow.transition.close.label,,Close,0
+workflows,oro.workflow.task_flow.transition.close.warning_message,,,0
+workflows,oro.workflow.task_flow.transition.reopen.button_label,,,0
+workflows,oro.workflow.task_flow.transition.reopen.button_title,,,0
+workflows,oro.workflow.task_flow.transition.reopen.label,,Reopen,0
+workflows,oro.workflow.task_flow.transition.reopen.warning_message,,,0
+workflows,oro.workflow.task_flow.transition.start_progress.button_label,,,0
+workflows,oro.workflow.task_flow.transition.start_progress.button_title,,,0
+workflows,oro.workflow.task_flow.transition.start_progress.label,,"Start progress",0
+workflows,oro.workflow.task_flow.transition.start_progress.warning_message,,,0
+workflows,oro.workflow.task_flow.transition.stop_progress.button_label,,,0
+workflows,oro.workflow.task_flow.transition.stop_progress.button_title,,,0
+workflows,oro.workflow.task_flow.transition.stop_progress.label,,"Stop progress",0
+workflows,oro.workflow.task_flow.transition.stop_progress.warning_message,,,0

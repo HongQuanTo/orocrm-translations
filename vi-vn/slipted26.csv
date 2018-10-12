@@ -1,0 +1,400 @@
+messages,oro.mailchimp.staticsegment.members.label,,Members,0
+messages,oro.mailchimp.staticsegment.name.label,,Name,0
+messages,oro.mailchimp.staticsegment.origin_id.label,,"Origin Id",0
+messages,oro.mailchimp.staticsegment.owner.label,,Owner,0
+messages,oro.mailchimp.staticsegment.remote_remove.label,,"Remove Removed",0
+messages,oro.mailchimp.staticsegment.segment_members.label,,Members,0
+messages,oro.mailchimp.staticsegment.subscribers_list.label,,SubscribersList,0
+messages,oro.mailchimp.staticsegment.sync_status.label,,"Sync Status",0
+messages,oro.mailchimp.staticsegment.updated_at.label,,"Updated At",0
+messages,oro.mailchimp.staticsegmentmember.entity_label,,"MailChimp Static Segment Member",0
+messages,oro.mailchimp.staticsegmentmember.entity_plural_label,,"MailChimp Static Segment Members",0
+messages,oro.mailchimp.staticsegmentmember.id.label,,Id,0
+messages,oro.mailchimp.staticsegmentmember.member.label,,Member,0
+messages,oro.mailchimp.staticsegmentmember.state.label,,State,0
+messages,oro.mailchimp.staticsegmentmember.static_segment.label,,"MailChimp Static Segment",0
+messages,oro.mailchimp.subscriberslist.avg_sub_rate.label,,"Average Subscribe Rate",0
+messages,oro.mailchimp.subscriberslist.avg_usub_rate.label,,"Average Unsubscribe Rate",0
+messages,oro.mailchimp.subscriberslist.beamer_address.label,,"Beamer Address",0
+messages,oro.mailchimp.subscriberslist.campaign_count.label,,"Campaign Count",0
+messages,oro.mailchimp.subscriberslist.channel.label,,Channel,0
+messages,oro.mailchimp.subscriberslist.cleaned_count.label,,"Cleaned Count",0
+messages,oro.mailchimp.subscriberslist.cleaned_count_since_send.label,,"Cleaned Count Since Send",0
+messages,oro.mailchimp.subscriberslist.click_rate.label,,"Click Rate",0
+messages,oro.mailchimp.subscriberslist.created_at.label,,"Created At",0
+messages,oro.mailchimp.subscriberslist.default_from_email.label,,"Default From Email",0
+messages,oro.mailchimp.subscriberslist.default_from_name.label,,"Default From Name",0
+messages,oro.mailchimp.subscriberslist.default_language.label,,"Default Language",0
+messages,oro.mailchimp.subscriberslist.default_subject.label,,"Default Subject",0
+messages,oro.mailchimp.subscriberslist.email_type_option.label,,"Email Type Option",0
+messages,oro.mailchimp.subscriberslist.entity_label,,"MailChimp Subscribers List",0
+messages,oro.mailchimp.subscriberslist.entity_plural_label,,"MailChimp Subscribers Lists",0
+messages,oro.mailchimp.subscriberslist.group_count.label,,"Group Count",0
+messages,oro.mailchimp.subscriberslist.grouping_count.label,,"Grouping Count",0
+messages,oro.mailchimp.subscriberslist.id.label,,Id,0
+messages,oro.mailchimp.subscriberslist.list_rating.label,,"List Rating",0
+messages,oro.mailchimp.subscriberslist.marketing_list.label,,"Marketing List",0
+messages,oro.mailchimp.subscriberslist.member_count.label,,"Active Members Count",0
+messages,oro.mailchimp.subscriberslist.member_count_since_send.label,,"Active Members Count Since Send",0
+messages,oro.mailchimp.subscriberslist.merge_var_config.label,,"Merge Vars Config",0
+messages,oro.mailchimp.subscriberslist.merge_var_count.label,,"Merge Vars Count",0
+messages,oro.mailchimp.subscriberslist.merge_var_schema.label,,"Merge Var Schema",0
+messages,oro.mailchimp.subscriberslist.merge_vars_data.label,,"Merge Vars",0
+messages,oro.mailchimp.subscriberslist.name.label,,Name,0
+messages,oro.mailchimp.subscriberslist.open_rate.label,,"Open Rate",0
+messages,oro.mailchimp.subscriberslist.origin_id.label,,"Origin Id",0
+messages,oro.mailchimp.subscriberslist.owner.label,,Owner,0
+messages,oro.mailchimp.subscriberslist.subscribe_url_long.label,,"Subscribe URL Long",0
+messages,oro.mailchimp.subscriberslist.subscribe_url_short.label,,"Subscribe URL Short",0
+messages,oro.mailchimp.subscriberslist.target_sub_rate.label,,"Target Subscription Rate",0
+messages,oro.mailchimp.subscriberslist.unsubscribe_count.label,,"Unsubscribed Count",0
+messages,oro.mailchimp.subscriberslist.unsubscribe_count_since_send.label,,"Unsubscribed Count Since Send",0
+messages,oro.mailchimp.subscriberslist.updated_at.label,,"Updated At",0
+messages,oro.mailchimp.subscriberslist.use_awesome_bar.label,,"Use Awesome Bar",0
+messages,oro.mailchimp.subscriberslist.visibility.label,,Visibility,0
+messages,oro.mailchimp.subscriberslist.web_id.label,,"Web Id",0
+messages,oro.mailchimp.syncstatus.in_progress,,"In Progress",0
+messages,oro.mailchimp.syncstatus.list_is_connected.lebel,,"This list is linked to ""%segment%"" segment of ""%list%"" Mailchimp List. Last synchronization date: %synced%. Synchronization status: %status%.",0
+messages,oro.mailchimp.syncstatus.not_synced,,"Not Synced",0
+messages,oro.mailchimp.syncstatus.scheduled,,"Scheduled for Sync",0
+messages,oro.mailchimp.syncstatus.scheduled_by_change,,"Scheduled for Sync",0
+messages,oro.mailchimp.syncstatus.synced,,"Up to date",0
+messages,oro.mailchimp.template.active.label,,Active,0
+messages,oro.mailchimp.template.category.label,,Category,0
+messages,oro.mailchimp.template.channel.label,,Channel,0
+messages,oro.mailchimp.template.created_at.label,,"Created At",0
+messages,oro.mailchimp.template.entity_label,,"MailChimp Template",0
+messages,oro.mailchimp.template.entity_plural_label,,"MailChimp Templates",0
+messages,oro.mailchimp.template.id.label,,Id,0
+messages,oro.mailchimp.template.layout.label,,Layout,0
+messages,oro.mailchimp.template.name.label,,Name,0
+messages,oro.mailchimp.template.origin_id.label,,"Origin Id",0
+messages,oro.mailchimp.template.owner.label,,Owner,0
+messages,oro.mailchimp.template.preview_image.label,,"Preview Image",0
+messages,oro.mailchimp.template.type.label,,Type,0
+messages,oro.mailchimp.template.updated_at.label,,"Update At",0
+messages,oro.marketingactivity.action_date.description,,"The date and time when the marketing activity was created.",0
+messages,oro.marketingactivity.action_date.label,,"Action Date",0
+messages,oro.marketingactivity.campaign.description,,"The marketing campaign that the marketing activity took place within.",0
+messages,oro.marketingactivity.campaign.label,,Campaign,0
+messages,oro.marketingactivity.details.description,,"The extended information about the marketing activity.",0
+messages,oro.marketingactivity.details.label,,Details,0
+messages,oro.marketingactivity.email_campaign.label,,"Email Campaign",0
+messages,oro.marketingactivity.entity_class.description,,"The class of the marketing activity.",0
+messages,oro.marketingactivity.entity_class.label,,"Entity Class",0
+messages,oro.marketingactivity.entity_description,,"The record of marketing activity statistics in context (e.g. orders, customer users).",0
+messages,oro.marketingactivity.entity_id.description,,"The unique identifier of the marketing activity.",0
+messages,oro.marketingactivity.entity_id.label,,"Entity Id",0
+messages,oro.marketingactivity.entity_label,,"Marketing Activity",0
+messages,oro.marketingactivity.entity_plural_label,,"Marketing Activities",0
+messages,oro.marketingactivity.event_date.label,,"Event Date",0
+messages,oro.marketingactivity.event_type.label,,"Event Type",0
+messages,oro.marketingactivity.feature_enabled,,"Enable Marketing Activities Features",0
+messages,oro.marketingactivity.id.label,,Id,0
+messages,oro.marketingactivity.last_activity_date.label,,"Latest Activity Date",0
+messages,oro.marketingactivity.last_event_type.label,,"Latest Activity",0
+messages,oro.marketingactivity.no_marketing_activities_exist,,"No marketing activities found",0
+messages,oro.marketingactivity.owner.label,,Owner,0
+messages,oro.marketingactivity.related_campaign_class.description,,"The class of the marketing campaign that the marketing activity took place within.",0
+messages,oro.marketingactivity.related_campaign_class.label,,"Related Campaign Class",0
+messages,oro.marketingactivity.related_campaign_id.description,,"The ID of the marketing campaign that the marketing activity took place within.",0
+messages,oro.marketingactivity.related_campaign_id.label,,"Related Campaign Id",0
+messages,oro.marketingactivity.sections.marketingactivities,,"Marketing Activity",0
+messages,oro.marketingactivity.summary.click.label,,Click,0
+messages,oro.marketingactivity.summary.forward.label,,Forward,0
+messages,oro.marketingactivity.summary.hard_bounce.label,,"Hard Bounce",0
+messages,oro.marketingactivity.summary.label,,"Marketing Activity Summary",0
+messages,oro.marketingactivity.summary.open.label,,Open,0
+messages,oro.marketingactivity.summary.send.label,,Send,0
+messages,oro.marketingactivity.summary.soft_bounce.label,,"Soft Bounce",0
+messages,oro.marketingactivity.summary.unsubscribe.label,,Unsubscribe,0
+messages,oro.marketingactivity.type.description,,"The marketing activity type (click, open, send, unsubscribe, soft_bunce, hard_bounce).",0
+messages,oro.marketingactivity.type.label,,Type,0
+messages,oro.marketingactivity.view_campaign.label,,"View Campaign",0
+messages,oro.marketinglist.action.remove,,Remove,0
+messages,oro.marketinglist.action.subscribe,,Subscribe,0
+messages,oro.marketinglist.action.unremove,,"Undo remove",0
+messages,oro.marketinglist.action.unsubscribe,,Unsubscribe,0
+messages,oro.marketinglist.block.general,,"General Information",0
+messages,oro.marketinglist.block.items,,Items,0
+messages,oro.marketinglist.block.removed,,"Removed Items",0
+messages,oro.marketinglist.controller.removed,,"%entityName% removed from list",0
+messages,oro.marketinglist.controller.subscribed,,"%entityName% subscribed",0
+messages,oro.marketinglist.controller.unremoved,,"Undo was successful",0
+messages,oro.marketinglist.controller.unsubscribed,,"%entityName% unsubscribed",0
+messages,oro.marketinglist.created_at.label,,"Created At",0
+messages,oro.marketinglist.datagrid.actions.delete.label,,Delete,0
+messages,oro.marketinglist.datagrid.actions.update.label,,Update,0
+messages,oro.marketinglist.datagrid.actions.view.label,,View,0
+messages,oro.marketinglist.datagrid.contactedTimes,,"Total contacted",0
+messages,oro.marketinglist.datagrid.lastContactedAt,,"Last contacted at",0
+messages,oro.marketinglist.datagrid.refreshedOn,,"Refreshed on",0
+messages,oro.marketinglist.datagrid.subscribed,,Subscribed,0
+messages,oro.marketinglist.description.label,,Description,0
+messages,oro.marketinglist.entity.label,,Entity,0
+messages,oro.marketinglist.entity.saved,,"Marketing list saved",0
+messages,oro.marketinglist.entity_config.choices.email,,Email,0
+messages,oro.marketinglist.entity_config.choices.phone,,Phone,0
+messages,oro.marketinglist.entity_config.contact_information.label,,"Contact Information",0
+messages,oro.marketinglist.entity_label,,"Marketing List",0
+messages,oro.marketinglist.entity_plural_label,,"Marketing Lists",0
+messages,oro.marketinglist.feature_enabled,,"Enable Marketing List",0
+messages,oro.marketinglist.form.available_fields_notice,,"Available contact information fields",0
+messages,oro.marketinglist.form.choose_marketing_list,,"Choose marketing list",0
+messages,oro.marketinglist.form.choose_marketing_list_type,,"Choose marketing list type",0
+messages,oro.marketinglist.form.columns_notice,,"At least one column with contact information must be selected.",0
+messages,oro.marketinglist.form.importance,,Important,0
+messages,oro.marketinglist.id.label,,Id,0
+messages,oro.marketinglist.last_run.label,,"Last Used",0
+messages,oro.marketinglist.marketing.features,,"Marketing Features",0
+messages,oro.marketinglist.marketing.settings,,Features,0
+messages,oro.marketinglist.marketing.setup,,"General Setup",0
+messages,oro.marketinglist.marketing.title,,Marketing,0
+messages,oro.marketinglist.marketing_list_items.label,,"Marketing List Items",0
+messages,oro.marketinglist.marketing_list_removed_items.label,,"Marketing List Removed Items",0
+messages,oro.marketinglist.marketing_list_unsubscribed_items.label,,"Marketing List Unsubscribed Items",0
+messages,oro.marketinglist.marketinglistitem.contacted_times.label,,"Contacted Times",0
+messages,oro.marketinglist.marketinglistitem.created_at.label,,"Created At",0
+messages,oro.marketinglist.marketinglistitem.entity_id.label,,"Entity Id",0
+messages,oro.marketinglist.marketinglistitem.entity_label,,"Marketing List Item",0
+messages,oro.marketinglist.marketinglistitem.entity_plural_label,,"Marketing List Items",0
+messages,oro.marketinglist.marketinglistitem.id.label,,Id,0
+messages,oro.marketinglist.marketinglistitem.last_contacted_at.label,,"Last Contacted At",0
+messages,oro.marketinglist.marketinglistitem.marketing_list.label,,"Marketing List",0
+messages,oro.marketinglist.marketinglistremoveditem.created_at.label,,"Created At",0
+messages,oro.marketinglist.marketinglistremoveditem.entity_id.label,,"Entity Id",0
+messages,oro.marketinglist.marketinglistremoveditem.entity_label,,"Marketing List Removed Item",0
+messages,oro.marketinglist.marketinglistremoveditem.entity_plural_label,,"Marketing List Removed Items",0
+messages,oro.marketinglist.marketinglistremoveditem.id.label,,Id,0
+messages,oro.marketinglist.marketinglistremoveditem.marketing_list.label,,"Marketing List",0
+messages,oro.marketinglist.marketinglisttype.entity_label,,"Marketing List Type",0
+messages,oro.marketinglist.marketinglisttype.entity_plural_label,,"Marketing List Types",0
+messages,oro.marketinglist.marketinglisttype.label.label,,Label,0
+messages,oro.marketinglist.marketinglisttype.name.label,,Name,0
+messages,oro.marketinglist.marketinglistunsubscribeditem.created_at.label,,"Created At",0
+messages,oro.marketinglist.marketinglistunsubscribeditem.entity_id.label,,"Entity Id",0
+messages,oro.marketinglist.marketinglistunsubscribeditem.entity_label,,"Marketing List Unsubscribed Item",0
+messages,oro.marketinglist.marketinglistunsubscribeditem.entity_plural_label,,"Marketing List Unsubscribed Items",0
+messages,oro.marketinglist.marketinglistunsubscribeditem.id.label,,Id,0
+messages,oro.marketinglist.marketinglistunsubscribeditem.marketing_list.label,,"Marketing List",0
+messages,oro.marketinglist.name.label,,Name,0
+messages,oro.marketinglist.organization.label,,Organization,0
+messages,oro.marketinglist.owner.label,,Owner,0
+messages,oro.marketinglist.refresh_list,,"Refresh List",0
+messages,oro.marketinglist.segment,,"Marketing List %name% segment",0
+messages,oro.marketinglist.segment.label,,Segment,0
+messages,oro.marketinglist.type.dynamic,,Dynamic,0
+messages,oro.marketinglist.type.label,,Type,0
+messages,oro.marketinglist.type.manual,,Manual,0
+messages,oro.marketinglist.type.static,,"On demand",0
+messages,oro.message_queue_job.action.job_management,,"Access job queue",0
+messages,oro.message_queue_job.grid.action.interrupt,,Interrupt,0
+messages,oro.message_queue_job.grid.columns.createdAt,,"Created At",0
+messages,oro.message_queue_job.grid.columns.id,,ID,0
+messages,oro.message_queue_job.grid.columns.interrupted,,Interrupted,0
+messages,oro.message_queue_job.grid.columns.lastActiveAt,,"Last Active At",0
+messages,oro.message_queue_job.grid.columns.name,,Name,0
+messages,oro.message_queue_job.grid.columns.startedAt,,"Started At",0
+messages,oro.message_queue_job.grid.columns.status,,Status,0
+messages,oro.message_queue_job.grid.columns.stoppedAt,,"Stopped At",0
+messages,oro.message_queue_job.grid.columns.unique,,Unique,0
+messages,oro.message_queue_job.header.child_jobs,,"Child Jobs List",0
+messages,oro.message_queue_job.header.interrupted,,Interrupted,0
+messages,oro.message_queue_job.header.lastActiveAt,,"Last Active At",0
+messages,oro.message_queue_job.header.name,,"Job ""%name%""",0
+messages,oro.message_queue_job.header.root_jobs,,"Jobs List",0
+messages,oro.message_queue_job.header.startedAt,,"Started At",0
+messages,oro.message_queue_job.header.stoppedAt,,"Stopped At",0
+messages,oro.message_queue_job.header.unique,,Unique,0
+messages,oro.message_queue_job.menu.label,,Jobs,0
+messages,oro.message_queue_job.menu.shortcut.description,,"List of Message Queue Jobs",0
+messages,oro.message_queue_job.menu.shortcut.label,,"Jobs List",0
+messages,oro.message_queue_job.no_alive_consumers,,"The application is not configured properly (message consumers are not available). Please contact the system administrator.",0
+messages,oro.message_queue_job.rest.job_interrupted,,"Job interrupted",0
+messages,oro.message_queue_job.status.cancelled,,Cancelled,0
+messages,oro.message_queue_job.status.failed,,Failed,0
+messages,oro.message_queue_job.status.failed_redelivered,,"Failed Redelivered",0
+messages,oro.message_queue_job.status.new,,New,0
+messages,oro.message_queue_job.status.running,,Running,0
+messages,oro.message_queue_job.status.stale,,Stale,0
+messages,oro.message_queue_job.status.success,,Success,0
+messages,oro.navigation.action.manage_menus.description,,"Allows users to add/edit/remove menu items",0
+messages,oro.navigation.action.manage_menus.label,,"Manage Menus",0
+messages,oro.navigation.favorites.button,,Favorites,0
+messages,oro.navigation.favorites.button.title,,"Mark/unmark the page as favorite",0
+messages,oro.navigation.help.message,,"Use pin icon on the right top corner of page to create fast access link in the pinbar.",0
+messages,oro.navigation.help.title,,"How To Use Pinbar",0
+messages,oro.navigation.menu.favorite.label,,Favorites,0
+messages,oro.navigation.menu.history.label,,History,0
+messages,oro.navigation.menu.menu_list_default.label,,Menus,0
+messages,oro.navigation.menu.mostviewed.label,,"Most Viewed",0
+messages,oro.navigation.menu.pinbar.label,,Pinbar,0
+messages,oro.navigation.menuitem.name.label,,Name,0
+messages,oro.navigation.menuupdate.acl_resource_id.label,,"ACL Resource Id",0
+messages,oro.navigation.menuupdate.active.label,,Active,0
+messages,oro.navigation.menuupdate.custom.label,,"Is Custom",0
+messages,oro.navigation.menuupdate.delete,,Delete,0
+messages,oro.navigation.menuupdate.deleted_message,,"Menu item successfully deleted. Please %reload_link% the page to see the changes applied.",0
+messages,oro.navigation.menuupdate.description.label,,Description,0
+messages,oro.navigation.menuupdate.descriptions.label,,Description,0
+messages,oro.navigation.menuupdate.divider,,Divider,0
+messages,oro.navigation.menuupdate.divider.label,,"Is Divider",0
+messages,oro.navigation.menuupdate.divider_created,,"Divider created. Please %reload_link% the page to see the changes applied.",0
+messages,oro.navigation.menuupdate.edit_menus,,"Edit Menus",0
+messages,oro.navigation.menuupdate.entity_label,,"Menu Item",0
+messages,oro.navigation.menuupdate.entity_plural_label,,"Menu Item",0
+messages,oro.navigation.menuupdate.hide,,Hide,0
+messages,oro.navigation.menuupdate.hide_success_message,,"Menu item is hidden now. Please %reload_link% the page to see the changes applied.",0
+messages,oro.navigation.menuupdate.icon.label,,Icon,0
+messages,oro.navigation.menuupdate.id.label,,Id,0
+messages,oro.navigation.menuupdate.key.label,,Key,0
+messages,oro.navigation.menuupdate.menu.label,,Menu,0
+messages,oro.navigation.menuupdate.menus,,"All Menus",0
+messages,oro.navigation.menuupdate.parent_key.label,,"Parent Key",0
+messages,oro.navigation.menuupdate.priority.label,,Priority,0
+messages,oro.navigation.menuupdate.reload_link.label,,reload,0
+messages,oro.navigation.menuupdate.reset,,Reset,0
+messages,oro.navigation.menuupdate.reset_confirm,,"Are you sure you want to reset menu ""%menuKey%""?",0
+messages,oro.navigation.menuupdate.reset_message,,"Menu ""%menuKey%"" was successfully reset. Please %reload_link% the page to see the changes applied.",0
+messages,oro.navigation.menuupdate.reset_ok_text,,"Yes, Reset",0
+messages,oro.navigation.menuupdate.reset_title,,"Reset Confirmation",0
+messages,oro.navigation.menuupdate.roots_plural_label,,Menus,0
+messages,oro.navigation.menuupdate.saved_message,,"Menu item saved successfully. Please %reload_link% the page to see the changes applied.",0
+messages,oro.navigation.menuupdate.scope.label,,Scope,0
+messages,oro.navigation.menuupdate.select_existing_or_create_new,,"Select existing menu item or create new.",0
+messages,oro.navigation.menuupdate.show,,Show,0
+messages,oro.navigation.menuupdate.show_success_message,,"Menu item is visible now. Please %reload_link% the page to see the changes applied.",0
+messages,oro.navigation.menuupdate.submenu,,"Submenu Item",0
+messages,oro.navigation.menuupdate.title.label,,Title,0
+messages,oro.navigation.menuupdate.titles.label,,Title,0
+messages,oro.navigation.menuupdate.uri.label,,URI,0
+messages,oro.navigation.menuupdate.validation_error_message,,"Validation error. Please contact system administrator.",0
+messages,oro.navigation.messages.no_items,,"You have no items yet",0
+messages,oro.navigation.pins.button,,Minimize,0
+messages,oro.navigation.pins.button.title,,"Pin/unpin the page",0
+messages,oro.navigation.shortcuts.example,,"Example: Create user, Users list",0
+messages,oro.navigation.shortcuts.most_used,,"Most Used Actions",0
+messages,oro.navigation.shortcuts.placeholder,,"Enter shortcut action",0
+messages,oro.navigation.shortcuts.see_all,,"See full list",0
+messages,oro.navigation.shortcuts.title,,Shortcuts,0
+messages,oro.note.action.add,,"Add note",0
+messages,oro.note.action.edit,,"Edit note",0
+messages,oro.note.action.remove,,"Remove note",0
+messages,oro.note.add.label,,Add,0
+messages,oro.note.attachment.description,,"The file that is attached to the note.",0
+messages,oro.note.attachment.label,,Attachment,0
+messages,oro.note.enabled,,"Enable notes",0
+messages,oro.note.entity_description,,"Additional information that a user can leave about an entity record.",0
+messages,oro.note.entity_label,,Note,0
+messages,oro.note.entity_plural_label,,Notes,0
+messages,oro.note.id.label,,Id,0
+messages,oro.note.message.description,,"The note text.",0
+messages,oro.note.message.label,,Message,0
+messages,oro.note.no_notes_exist,,"No notes found",0
+messages,oro.note.note_added_by,,"added by {{ user }}",0
+messages,oro.note.note_delete,,"Delete {{ entity }}",0
+messages,oro.note.note_saved,,"Note saved",0
+messages,oro.note.note_update,,"Update {{ entity }}",0
+messages,oro.note.note_updated_by,,"added by {{ user }}, updated by {{ editor }}",0
+messages,oro.note.organization.label,,Organization,0
+messages,oro.note.owner.label,,"Created By",0
+messages,oro.note.save.label,,Save,0
+messages,oro.note.target.description,,"The entity record that the note was made about. The note is displayed on the view page of this record.",0
+messages,oro.note.target.label,,Target,0
+messages,oro.note.updated_by.description,,"The user who last updated the note record.",0
+messages,oro.note.updated_by.label,,"Updated By",0
+messages,oro.note.widget_updated_by,,"Updated by {{ user }}",0
+messages,oro.notification.controller.emailnotification.saved.message,,"Email notification rule saved",0
+messages,oro.notification.datagrid.action.delete,,Delete,0
+messages,oro.notification.datagrid.action.update,,Update,0
+messages,oro.notification.datagrid.recipient.custom_email,,"Recipient email",0
+messages,oro.notification.datagrid.recipient.group,,"Recipient groups",0
+messages,oro.notification.datagrid.recipient.user,,"Recipient users",0
+messages,oro.notification.emailnotification.additional_associations.tooltip,,"<b>Additional Associations</b>: Additional notification may be sent to the emails available in the associated entities records, if selected.",0
+messages,oro.notification.emailnotification.additional_email_associations.label,,"Additional associations",0
+messages,oro.notification.emailnotification.additional_emails.tooltip,,"<b>Contact Emails</b>: A list of the selected entity fields marked as email contact information.",0
+messages,oro.notification.emailnotification.contact_emails.label,,"Contact Emails",0
+messages,oro.notification.emailnotification.edit_entity,,"Edit notification rule %name%",0
+messages,oro.notification.emailnotification.email.label,,Email,0
+messages,oro.notification.emailnotification.entity_description,,"Represent email notification",0
+messages,oro.notification.emailnotification.entity_label,,"Notification Rule",0
+messages,oro.notification.emailnotification.entity_name.label,,"Entity name",0
+messages,oro.notification.emailnotification.entity_name.tooltip,,"Only entities that have templates available are listed. If you don't see an entity you want in this list, please create <a href=""url"" target=""_blank"">a notification template</a> for it first.",0
+messages,oro.notification.emailnotification.entity_plural_label,,"Notification Rules",0
+messages,oro.notification.emailnotification.event.label,,"Event name",0
+messages,oro.notification.emailnotification.id.label,,Id,0
+messages,oro.notification.emailnotification.recipient_list.label,,"Recipient list",0
+messages,oro.notification.emailnotification.template.label,,Template,0
+messages,oro.notification.event.entity_post_persist,,"Entity create",0
+messages,oro.notification.event.entity_post_remove,,"Entity remove",0
+messages,oro.notification.event.entity_post_update,,"Entity update",0
+messages,oro.notification.form.choose_event,,"Choose an event...",0
+messages,oro.notification.form.recipient_list.empty,,"At least one Recipient must be specified.",0
+messages,oro.notification.massnotification.action,,"View Maintenance Notifications",0
+messages,oro.notification.massnotification.block.info,,"Notification Details",0
+messages,oro.notification.massnotification.body.label,,Message,0
+messages,oro.notification.massnotification.email.label,,To,0
+messages,oro.notification.massnotification.entity_description,,"Represent maintenance email notifications",0
+messages,oro.notification.massnotification.entity_label,,"Maintenance Notification",0
+messages,oro.notification.massnotification.entity_plural_label,,"Maintenance Notifications",0
+messages,oro.notification.massnotification.id.label,,Id,0
+messages,oro.notification.massnotification.processed_at.label,,"Sent At",0
+messages,oro.notification.massnotification.scheduled_at.label,,"Scheduled At",0
+messages,oro.notification.massnotification.sender.label,,From,0
+messages,oro.notification.massnotification.status.failed,,Failed,0
+messages,oro.notification.massnotification.status.label,,Status,0
+messages,oro.notification.massnotification.status.success,,Success,0
+messages,oro.notification.massnotification.subject.label,,Subject,0
+messages,oro.notification.menu.emailnotification_list.description,,"List of email notifications",0
+messages,oro.notification.system_configuration.email_notification_sender_email,,"Sender Email",0
+messages,oro.notification.system_configuration.email_notification_sender_name,,"Sender Name",0
+messages,oro.notification.system_configuration.mass_notification.recipients,,Recipients,0
+messages,oro.notification.system_configuration.mass_notification.recipients.tooltip,,"Leave this field empty to send maintenance notification emails to all active users. To send notifications only to specific users, write in their email addresses separated by semicolon (;).",0
+messages,oro.notification.system_configuration.mass_notification.template,,"Email Template",0
+messages,oro.notification.system_configuration.mass_notification.template.tooltip,,"The template to be used by default for maintenance notifications.<br />{{ maintenance_message|nl2br }} variable is used as a placeholder for message coming from maintenance-notification command.",0
+messages,oro.notification.system_configuration.mass_notification.title,,"Maintenance Notifications",0
+messages,oro.notification.system_configuration.title,,"Notification Rules",0
+messages,oro.organization.business_units.description,,"The business units that belong to an organization.",0
+messages,oro.organization.business_units.label,,"Business units",0
+messages,oro.organization.businessunit.email.description,,"Email address specified for the business unit record.",0
+messages,oro.organization.businessunit.email.label,,Email,0
+messages,oro.organization.businessunit.entity_description,,"Business units represent a group of users with similar business or administrative tasks/roles.",0
+messages,oro.organization.businessunit.entity_label,,"Business Unit",0
+messages,oro.organization.businessunit.entity_plural_label,,"Business Units",0
+messages,oro.organization.businessunit.extend_description.description,,"Short description of the business unit record",0
+messages,oro.organization.businessunit.extend_description.label,,Description,0
+messages,oro.organization.businessunit.fax.description,,"The fax number specified for the business unit record.",0
+messages,oro.organization.businessunit.fax.label,,Fax,0
+messages,oro.organization.businessunit.id.description,,"The unique identifier of the business unit record.",0
+messages,oro.organization.businessunit.id.label,,Id,0
+messages,oro.organization.businessunit.name.description,,"The name given to the business unit record.",0
+messages,oro.organization.businessunit.name.label,,Name,0
+messages,oro.organization.businessunit.organization.label,,Organization,0
+messages,oro.organization.businessunit.owner.label,,Owner,0
+messages,oro.organization.businessunit.parent.label,,"Parent Business Unit",0
+messages,oro.organization.businessunit.phone.description,,"The phone number specified for the business unit record.",0
+messages,oro.organization.businessunit.phone.label,,Phone,0
+messages,oro.organization.businessunit.users.description,,"The users who have access to the business unit record.",0
+messages,oro.organization.businessunit.users.label,,Users,0
+messages,oro.organization.businessunit.website.description,,"The website specified for the business unit record.",0
+messages,oro.organization.businessunit.website.label,,Website,0
+messages,oro.organization.controller.message.saved,,"Organization saved",0
+messages,oro.organization.description.description,,"Short description of the organization record.",0
+messages,oro.organization.description.label,,Description,0
+messages,oro.organization.enabled.description,,"Defines whether the organization is active or inactive.",0
+messages,oro.organization.enabled.label,,Status,0
+messages,oro.organization.entity_description,,"The highest level of the system permissions grouping.",0
+messages,oro.organization.entity_label,,Organization,0
+messages,oro.organization.entity_plural_label,,Organizations,0
+messages,oro.organization.form.choose_organization,,"Choose an organization...",0
+messages,oro.organization.id.description,,"The unique identifier of the organization record.",0
+messages,oro.organization.id.label,,Id,0
+messages,oro.organization.is_global.description,,"Defines whether the organization has global access level or not.",0
+messages,oro.organization.is_global.label,,"Is global",0
+messages,oro.organization.menu.list.description,,"Edit organization info",0
+messages,oro.organization.name.description,,"The organization name.",0
+messages,oro.organization.name.label,,Name,0
+messages,oro.organization.users.description,,"The users who have access to an organization.",0
+messages,oro.organization.users.label,,Users,0
+messages,oro.platform.acl.action.system_info.label,,"Access system information",0
+messages,oro.platform.caption.oro,,"Oro Packages",0

@@ -1,0 +1,400 @@
+entities,region.TR-68,,Aksaray,0
+entities,region.TR-69,,Bayburt,0
+entities,region.TR-70,,Karaman,0
+entities,region.TR-71,,Kırıkkale,0
+entities,region.TR-72,,Batman,0
+entities,region.TR-73,,Şırnak,0
+entities,region.TR-74,,Bartın,0
+entities,region.TR-75,,Ardahan,0
+entities,region.TR-76,,Iğdır,0
+entities,region.TR-77,,Yalova,0
+entities,region.TR-78,,Karabük,0
+entities,region.TR-79,,Kilis,0
+entities,region.TR-80,,Osmaniye,0
+entities,region.TR-81,,Düzce,0
+entities,region.TT-ARI,,Arima,0
+entities,region.TT-CHA,,Chaguanas,0
+entities,region.TT-CTT,,Couva-Tabaquite-Talparo,0
+entities,region.TT-DMN,,"Diego Martin",0
+entities,region.TT-ETO,,"Eastern Tobago",0
+entities,region.TT-PED,,Penal-Debe,0
+entities,region.TT-POS,,"Port of Spain",0
+entities,region.TT-PRT,,"Princes Town",0
+entities,region.TT-PTF,,"Point Fortin",0
+entities,region.TT-RCM,,"Rio Claro-Mayaro",0
+entities,region.TT-SFO,,"San Fernando",0
+entities,region.TT-SGE,,"Sangre Grande",0
+entities,region.TT-SIP,,Siparia,0
+entities,region.TT-SJL,,"San Juan-Laventille",0
+entities,region.TT-TUP,,Tunapuna-Piarco,0
+entities,region.TT-WTO,,"Western Tobago",0
+entities,region.TV-FUN,,Funafuti,0
+entities,region.TV-NIT,,Niutao,0
+entities,region.TV-NIU,,Nui,0
+entities,region.TV-NKF,,Nukufetau,0
+entities,region.TV-NKL,,Nukulaelae,0
+entities,region.TV-NMA,,Nanumea,0
+entities,region.TV-NMG,,Nanumanga,0
+entities,region.TV-VAI,,Vaitupu,0
+entities,region.TW-CHA,,Changhua,0
+entities,region.TW-CYI,,"Chiay City",0
+entities,region.TW-CYQ,,Chiayi,0
+entities,region.TW-HSQ,,Hsinchu,0
+entities,region.TW-HSZ,,"Hsinchui City",0
+entities,region.TW-HUA,,Hualien,0
+entities,region.TW-ILA,,Ilan,0
+entities,region.TW-KEE,,"Keelung City",0
+entities,region.TW-KHH,,"Kaohsiung City",0
+entities,region.TW-KHQ,,Kaohsiung,0
+entities,region.TW-MIA,,Miaoli,0
+entities,region.TW-NAN,,Nantou,0
+entities,region.TW-PEN,,Penghu,0
+entities,region.TW-PIF,,Pingtung,0
+entities,region.TW-TAO,,Taoyuan,0
+entities,region.TW-TNN,,"Tainan City",0
+entities,region.TW-TNQ,,Tainan,0
+entities,region.TW-TPE,,"Taipei City",0
+entities,region.TW-TPQ,,Taipei,0
+entities,region.TW-TTT,,Taitung,0
+entities,region.TW-TXG,,"Taichung City",0
+entities,region.TW-TXQ,,Taichung,0
+entities,region.TW-YUN,,Yunlin,0
+entities,region.TZ-01,,Arusha,0
+entities,region.TZ-02,,Dar-es-Salaam,0
+entities,region.TZ-03,,Dodoma,0
+entities,region.TZ-04,,Iringa,0
+entities,region.TZ-05,,Kagera,0
+entities,region.TZ-06,,"Kaskazini Pemba",0
+entities,region.TZ-07,,"Kaskazini Unguja",0
+entities,region.TZ-08,,Kigoma,0
+entities,region.TZ-09,,Kilimanjaro,0
+entities,region.TZ-10,,"Kusini Pemba",0
+entities,region.TZ-11,,"Kusini Unguja",0
+entities,region.TZ-12,,Lindi,0
+entities,region.TZ-13,,Mara,0
+entities,region.TZ-14,,Mbeya,0
+entities,region.TZ-15,,"Mjini Magharibi",0
+entities,region.TZ-16,,Morogoro,0
+entities,region.TZ-17,,Mtwara,0
+entities,region.TZ-18,,Mwanza,0
+entities,region.TZ-19,,Pwani,0
+entities,region.TZ-20,,Rukwa,0
+entities,region.TZ-21,,Ruvuma,0
+entities,region.TZ-22,,Shinyanga,0
+entities,region.TZ-23,,Singida,0
+entities,region.TZ-24,,Tabora,0
+entities,region.TZ-25,,Tanga,0
+entities,region.TZ-26,,Manyara,0
+entities,region.UA-05,,"Vinnyts'ka Oblast'",0
+entities,region.UA-07,,"Volyns'ka Oblast'",0
+entities,region.UA-09,,"Luhans'ka Oblast'",0
+entities,region.UA-12,,"Dnipropetrovs'ka Oblast'",0
+entities,region.UA-14,,"Donets'ka Oblast'",0
+entities,region.UA-18,,"Zhytomyrs'ka Oblast'",0
+entities,region.UA-21,,"Zakarpats'ka Oblast'",0
+entities,region.UA-23,,"Zaporiz'ka Oblast'",0
+entities,region.UA-26,,"Ivano-Frankivs'ka Oblast'",0
+entities,region.UA-30,,"Kyïvs'ka mis'ka rada",0
+entities,region.UA-32,,"Kyïvs'ka Oblast'",0
+entities,region.UA-35,,"Kirovohrads'ka Oblast'",0
+entities,region.UA-40,,Sevastopol,0
+entities,region.UA-43,,"Respublika Krym",0
+entities,region.UA-46,,"L'vivs'ka Oblast'",0
+entities,region.UA-48,,"Mykolaïvs'ka Oblast'",0
+entities,region.UA-51,,"Odes'ka Oblast'",0
+entities,region.UA-53,,"Poltavs'ka Oblast'",0
+entities,region.UA-56,,"Rivnens'ka Oblast'",0
+entities,region.UA-59,,"Sums 'ka Oblast'",0
+entities,region.UA-61,,"Ternopil's'ka Oblast'",0
+entities,region.UA-63,,"Kharkivs'ka Oblast'",0
+entities,region.UA-65,,"Khersons'ka Oblast'",0
+entities,region.UA-68,,"Khmel'nyts'ka Oblast'",0
+entities,region.UA-71,,"Cherkas'ka Oblast'",0
+entities,region.UA-74,,"Chernihivs'ka Oblast'",0
+entities,region.UA-77,,"Chernivets'ka Oblast'",0
+entities,region.UG-101,,Kalangala,0
+entities,region.UG-102,,Kampala,0
+entities,region.UG-103,,Kiboga,0
+entities,region.UG-104,,Luwero,0
+entities,region.UG-105,,Masaka,0
+entities,region.UG-106,,Mpigi,0
+entities,region.UG-107,,Mubende,0
+entities,region.UG-108,,Mukono,0
+entities,region.UG-109,,Nakasongola,0
+entities,region.UG-110,,Rakai,0
+entities,region.UG-111,,Sembabule,0
+entities,region.UG-112,,Kayunga,0
+entities,region.UG-113,,Wakiso,0
+entities,region.UG-114,,Mityana,0
+entities,region.UG-115,,Nakaseke,0
+entities,region.UG-116,,Lyantonde,0
+entities,region.UG-201,,Bugiri,0
+entities,region.UG-202,,Busia,0
+entities,region.UG-203,,Iganga,0
+entities,region.UG-204,,Jinja,0
+entities,region.UG-205,,Kamuli,0
+entities,region.UG-206,,Kapchorwa,0
+entities,region.UG-207,,Katakwi,0
+entities,region.UG-208,,Kumi,0
+entities,region.UG-209,,Mbale,0
+entities,region.UG-210,,Pallisa,0
+entities,region.UG-211,,Soroti,0
+entities,region.UG-212,,Tororo,0
+entities,region.UG-213,,Kaberamaido,0
+entities,region.UG-214,,Mayuge,0
+entities,region.UG-215,,Sironko,0
+entities,region.UG-216,,Amuria,0
+entities,region.UG-217,,Budaka,0
+entities,region.UG-218,,Bukwa,0
+entities,region.UG-219,,Butaleja,0
+entities,region.UG-220,,Kaliro,0
+entities,region.UG-221,,Manafwa,0
+entities,region.UG-222,,Namutumba,0
+entities,region.UG-223,,Bududa,0
+entities,region.UG-224,,Bukedea,0
+entities,region.UG-301,,Adjumani,0
+entities,region.UG-302,,Apac,0
+entities,region.UG-303,,Arua,0
+entities,region.UG-304,,Gulu,0
+entities,region.UG-305,,Kitgum,0
+entities,region.UG-306,,Kotido,0
+entities,region.UG-307,,Lira,0
+entities,region.UG-308,,Moroto,0
+entities,region.UG-309,,Moyo,0
+entities,region.UG-310,,Nebbi,0
+entities,region.UG-311,,Nakapiripirit,0
+entities,region.UG-312,,Pader,0
+entities,region.UG-313,,Yumbe,0
+entities,region.UG-314,,Amolatar,0
+entities,region.UG-315,,Kaabong,0
+entities,region.UG-316,,Koboko,0
+entities,region.UG-317,,Abim,0
+entities,region.UG-318,,Dokolo,0
+entities,region.UG-319,,Amuru,0
+entities,region.UG-320,,Maracha,0
+entities,region.UG-321,,Oyam,0
+entities,region.UG-401,,Bundibugyo,0
+entities,region.UG-402,,Bushenyi,0
+entities,region.UG-403,,Hoima,0
+entities,region.UG-404,,Kabale,0
+entities,region.UG-405,,Kabarole,0
+entities,region.UG-406,,Kasese,0
+entities,region.UG-407,,Kibaale,0
+entities,region.UG-408,,Kisoro,0
+entities,region.UG-409,,Masindi,0
+entities,region.UG-410,,Mbarara,0
+entities,region.UG-411,,Ntungamo,0
+entities,region.UG-412,,Rukungiri,0
+entities,region.UG-413,,Kamwenge,0
+entities,region.UG-414,,Kanungu,0
+entities,region.UG-415,,Kyenjojo,0
+entities,region.UG-416,,Ibanda,0
+entities,region.UG-417,,Isingiro,0
+entities,region.UG-418,,Kiruhura,0
+entities,region.UG-419,,Buliisa,0
+entities,region.UG-C,,Central,0
+entities,region.UG-E,,Eastern,0
+entities,region.UG-N,,Northern,0
+entities,region.UG-W,,Western,0
+entities,region.UM-67,,"Johnston Atoll",0
+entities,region.UM-71,,"Midway Islands",0
+entities,region.UM-76,,"Navassa Island",0
+entities,region.UM-79,,"Wake Island",0
+entities,region.UM-81,,"Baker Island",0
+entities,region.UM-84,,"Howland Island",0
+entities,region.UM-86,,"Jarvis Island",0
+entities,region.UM-89,,"Kingman Reef",0
+entities,region.UM-95,,"Palmyra Atoll",0
+entities,region.US-AA,,"Armed Forces Americas",0
+entities,region.US-AC,,"Armed Forces Canada",0
+entities,region.US-AE,,"Armed Forces Europe",0
+entities,region.US-AF,,"Armed Forces Africa",0
+entities,region.US-AK,,Alaska,0
+entities,region.US-AL,,Alabama,0
+entities,region.US-AM,,"Armed Forces Middle East",0
+entities,region.US-AP,,"Armed Forces Pacific",0
+entities,region.US-AR,,Arkansas,0
+entities,region.US-AS,,"American Samoa",0
+entities,region.US-AZ,,Arizona,0
+entities,region.US-CA,,California,0
+entities,region.US-CO,,Colorado,0
+entities,region.US-CT,,Connecticut,0
+entities,region.US-DC,,"District of Columbia",0
+entities,region.US-DE,,Delaware,0
+entities,region.US-FL,,Florida,0
+entities,region.US-GA,,Georgia,0
+entities,region.US-GU,,Guam,0
+entities,region.US-HI,,Hawaii,0
+entities,region.US-IA,,Iowa,0
+entities,region.US-ID,,Idaho,0
+entities,region.US-IL,,Illinois,0
+entities,region.US-IN,,Indiana,0
+entities,region.US-KS,,Kansas,0
+entities,region.US-KY,,Kentucky,0
+entities,region.US-LA,,Louisiana,0
+entities,region.US-MA,,Massachusetts,0
+entities,region.US-MD,,Maryland,0
+entities,region.US-ME,,Maine,0
+entities,region.US-MI,,Michigan,0
+entities,region.US-MN,,Minnesota,0
+entities,region.US-MO,,Missouri,0
+entities,region.US-MP,,"Northern Mariana Islands",0
+entities,region.US-MS,,Mississippi,0
+entities,region.US-MT,,Montana,0
+entities,region.US-NC,,"North Carolina",0
+entities,region.US-ND,,"North Dakota",0
+entities,region.US-NE,,Nebraska,0
+entities,region.US-NH,,"New Hampshire",0
+entities,region.US-NJ,,"New Jersey",0
+entities,region.US-NM,,"New Mexico",0
+entities,region.US-NV,,Nevada,0
+entities,region.US-NY,,"New York",0
+entities,region.US-OH,,Ohio,0
+entities,region.US-OK,,Oklahoma,0
+entities,region.US-OR,,Oregon,0
+entities,region.US-PA,,Pennsylvania,0
+entities,region.US-PR,,"Puerto Rico",0
+entities,region.US-RI,,"Rhode Island",0
+entities,region.US-SC,,"South Carolina",0
+entities,region.US-SD,,"South Dakota",0
+entities,region.US-TN,,Tennessee,0
+entities,region.US-TX,,Texas,0
+entities,region.US-UM,,"United States Minor Outlying Islands",0
+entities,region.US-UT,,Utah,0
+entities,region.US-VA,,Virginia,0
+entities,region.US-VI,,"Virgin Islands",0
+entities,region.US-VT,,Vermont,0
+entities,region.US-WA,,Washington,0
+entities,region.US-WI,,Wisconsin,0
+entities,region.US-WV,,"West Virginia",0
+entities,region.US-WY,,Wyoming,0
+entities,region.UY-AR,,Artigas,0
+entities,region.UY-CA,,Canelones,0
+entities,region.UY-CL,,"Cerro Largo",0
+entities,region.UY-CO,,Colonia,0
+entities,region.UY-DU,,Durazno,0
+entities,region.UY-FD,,Florida,0
+entities,region.UY-FS,,Flores,0
+entities,region.UY-LA,,Lavalleja,0
+entities,region.UY-MA,,Maldonado,0
+entities,region.UY-MO,,Montevideo,0
+entities,region.UY-PA,,Paysandú,0
+entities,region.UY-RN,,"Río Negro",0
+entities,region.UY-RO,,Rocha,0
+entities,region.UY-RV,,Rivera,0
+entities,region.UY-SA,,Salto,0
+entities,region.UY-SJ,,"San José",0
+entities,region.UY-SO,,Soriano,0
+entities,region.UY-TA,,Tacuarembó,0
+entities,region.UY-TT,,"Treinta y Tres",0
+entities,region.UZ-AN,,Andijon,0
+entities,region.UZ-BU,,Buxoro,0
+entities,region.UZ-FA,,Farg'ona,0
+entities,region.UZ-JI,,Jizzax,0
+entities,region.UZ-NG,,Namangan,0
+entities,region.UZ-NW,,Navoiy,0
+entities,region.UZ-QA,,Qashqadaryo,0
+entities,region.UZ-QR,,"Qoraqalpog'iston Respublikasi",0
+entities,region.UZ-SA,,Samarqand,0
+entities,region.UZ-SI,,Sirdaryo,0
+entities,region.UZ-SU,,Surxondaryo,0
+entities,region.UZ-TK,,Toshkent,0
+entities,region.UZ-TO,,Toshkent,0
+entities,region.UZ-XO,,Xorazm,0
+entities,region.VC-01,,Charlotte,0
+entities,region.VC-02,,"Saint Andrew",0
+entities,region.VC-03,,"Saint David",0
+entities,region.VC-04,,"Saint George",0
+entities,region.VC-05,,"Saint Patrick",0
+entities,region.VC-06,,Grenadines,0
+entities,region.VE-A,,"Distrito Federal",0
+entities,region.VE-B,,Anzoátegui,0
+entities,region.VE-C,,Apure,0
+entities,region.VE-D,,Aragua,0
+entities,region.VE-E,,Barinas,0
+entities,region.VE-F,,Bolívar,0
+entities,region.VE-G,,Carabobo,0
+entities,region.VE-H,,Cojedes,0
+entities,region.VE-I,,Falcón,0
+entities,region.VE-J,,Guárico,0
+entities,region.VE-K,,Lara,0
+entities,region.VE-L,,Mérida,0
+entities,region.VE-M,,Miranda,0
+entities,region.VE-N,,Monagas,0
+entities,region.VE-O,,"Nueva Esparta",0
+entities,region.VE-P,,Portuguesa,0
+entities,region.VE-R,,Sucre,0
+entities,region.VE-S,,Táchira,0
+entities,region.VE-T,,Trujillo,0
+entities,region.VE-U,,Yaracuy,0
+entities,region.VE-V,,Zulia,0
+entities,region.VE-W,,"Dependencias Federales",0
+entities,region.VE-X,,Vargas,0
+entities,region.VE-Y,,"Delta Amacuro",0
+entities,region.VE-Z,,Amazonas,0
+entities,region.VN-01,,"Lai Châu",0
+entities,region.VN-02,,"Lào Cai",0
+entities,region.VN-03,,"Hà Giang",0
+entities,region.VN-04,,"Cao Bằng",0
+entities,region.VN-05,,"Sơn La",0
+entities,region.VN-06,,"Yên Bái",0
+entities,region.VN-07,,"Tuyên Quang",0
+entities,region.VN-09,,"Lạng Sơn",0
+entities,region.VN-13,,"Quảng Ninh",0
+entities,region.VN-14,,"Hoà Bình",0
+entities,region.VN-15,,"Hà Tây",0
+entities,region.VN-18,,"Ninh Bình",0
+entities,region.VN-20,,"Thái Bình",0
+entities,region.VN-21,,"Thanh Hóa",0
+entities,region.VN-22,,"Nghệ An",0
+entities,region.VN-23,,"Hà Tỉnh",0
+entities,region.VN-24,,"Quảng Bình",0
+entities,region.VN-25,,"Quảng Trị",0
+entities,region.VN-26,,"Thừa Thiên-Huế",0
+entities,region.VN-27,,"Quảng Nam",0
+entities,region.VN-28,,"Kon Tum",0
+entities,region.VN-29,,"Quảng Ngãi",0
+entities,region.VN-30,,"Gia Lai",0
+entities,region.VN-31,,"Bình Định",0
+entities,region.VN-32,,"Phú Yên",0
+entities,region.VN-33,,"Đắc Lắk",0
+entities,region.VN-34,,"Khánh Hòa",0
+entities,region.VN-35,,"Lâm Đồng",0
+entities,region.VN-36,,"Ninh Thuận",0
+entities,region.VN-37,,"Tây Ninh",0
+entities,region.VN-39,,"Đồng Nai",0
+entities,region.VN-40,,"Bình Thuận",0
+entities,region.VN-41,,"Long An",0
+entities,region.VN-43,,"Bà Rịa - Vũng Tàu",0
+entities,region.VN-44,,"An Giang",0
+entities,region.VN-45,,"Đồng Tháp",0
+entities,region.VN-46,,"Tiền Giang",0
+entities,region.VN-47,,"Kiên Giang",0
+entities,region.VN-48,,"Cần Thơ",0
+entities,region.VN-49,,"Vĩnh Long",0
+entities,region.VN-50,,"Bến Tre",0
+entities,region.VN-51,,"Trà Vinh",0
+entities,region.VN-52,,"Sóc Trăng",0
+entities,region.VN-53,,"Bắc Kạn",0
+entities,region.VN-54,,"Bắc Giang",0
+entities,region.VN-55,,"Bạc Liêu",0
+entities,region.VN-56,,"Bắc Ninh",0
+entities,region.VN-57,,"Bình Dương",0
+entities,region.VN-58,,"Bình Phước",0
+entities,region.VN-59,,"Cà Mau",0
+entities,region.VN-60,,"Đà Nẵng, thành phố",0
+entities,region.VN-61,,"Hải Duong",0
+entities,region.VN-62,,"Hải Phòng, thành phố",0
+entities,region.VN-63,,"Hà Nam",0
+entities,region.VN-64,,"Hà Nội, thủ đô",0
+entities,region.VN-65,,"Hồ Chí Minh, thành phố [Sài Gòn]",0
+entities,region.VN-66,,"Hưng Yên",0
+entities,region.VN-67,,"Nam Định",0
+entities,region.VN-68,,"Phú Thọ",0
+entities,region.VN-69,,"Thái Nguyên",0
+entities,region.VN-70,,"Vĩnh Phúc",0
+entities,region.VN-71,,"Điện Biên",0
+entities,region.VN-72,,"Đắk Nông",0
+entities,region.VN-73,,"Hậu Giang",0
+entities,region.VU-MAP,,Malampa,0
+entities,region.VU-PAM,,Pénama,0

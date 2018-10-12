@@ -1,0 +1,400 @@
+messages,oro.sales.lead.last_name.label,,"Last name",0
+messages,oro.sales.lead.linked_in.description,,"LinkedIn profile of the lead person or company.",0
+messages,oro.sales.lead.linked_in.label,,LinkedIn,0
+messages,oro.sales.lead.middle_name.description,,"Middle name of the lead person.",0
+messages,oro.sales.lead.middle_name.label,,"Middle name",0
+messages,oro.sales.lead.name.description,,"Unique name that identifies the lead record.",0
+messages,oro.sales.lead.name.label,,"Lead name",0
+messages,oro.sales.lead.name_prefix.description,,"Name prefix or honorific of the lead person (Mr./Ms., Dr., Prof., etc.)",0
+messages,oro.sales.lead.name_prefix.label,,"Name prefix",0
+messages,oro.sales.lead.name_suffix.description,,"Name suffix of the lead person (Sr./Jr., M.D., OBE, etc.)",0
+messages,oro.sales.lead.name_suffix.label,,"Name suffix",0
+messages,oro.sales.lead.notes.description,,"Additional notes made to the lead record.",0
+messages,oro.sales.lead.notes.label,,"Additional comments",0
+messages,oro.sales.lead.number_of_employees.description,,"Number of employees within the lead's company.",0
+messages,oro.sales.lead.number_of_employees.label,,"Number of employees",0
+messages,oro.sales.lead.opportunities.description,,"A collection of opportunities to which the lead was converted.",0
+messages,oro.sales.lead.opportunities.label,,Opportunities,0
+messages,oro.sales.lead.organization.label,,Organization,0
+messages,oro.sales.lead.owner.label,,Owner,0
+messages,oro.sales.lead.phone_number.description,,,0
+messages,oro.sales.lead.phone_number.label,,"Phone number",0
+messages,oro.sales.lead.phones.description,,"Collection of lead phone numbers.",0
+messages,oro.sales.lead.phones.label,,Phones,0
+messages,oro.sales.lead.primary_addr.label,,"Primary Address",0
+messages,oro.sales.lead.primary_email.description,,,0
+messages,oro.sales.lead.primary_email.label,,"Primary Email",0
+messages,oro.sales.lead.primary_phone.description,,,0
+messages,oro.sales.lead.primary_phone.label,,"Primary Phone",0
+messages,oro.sales.lead.source.description,,"Source of the lead.",0
+messages,oro.sales.lead.source.label,,Source,0
+messages,oro.sales.lead.source.none,,None,0
+messages,oro.sales.lead.source.others,,Others,0
+messages,oro.sales.lead.source.unclassified,,"No source",0
+messages,oro.sales.lead.status.change_error_message,,"Unable to change lead status.",0
+messages,oro.sales.lead.status.description,,"Current status of the lead.",0
+messages,oro.sales.lead.status.label,,Status,0
+messages,oro.sales.lead.twitter.description,,"Twitter profile of the lead person or company.",0
+messages,oro.sales.lead.twitter.label,,Twitter,0
+messages,oro.sales.lead.website.description,,"Personal or corporate website of the lead.",0
+messages,oro.sales.lead.website.label,,Website,0
+messages,oro.sales.leadaddress.city.description,,"The city specified in the lead address.",0
+messages,oro.sales.leadaddress.city.label,,City,0
+messages,oro.sales.leadaddress.country.description,,"The region specified in the lead address.",0
+messages,oro.sales.leadaddress.country.label,,Country,0
+messages,oro.sales.leadaddress.country_iso2_code.label,,"Country ISO2 code",0
+messages,oro.sales.leadaddress.country_iso3_code.label,,"Country ISO3 code",0
+messages,oro.sales.leadaddress.country_name.label,,"Country name",0
+messages,oro.sales.leadaddress.created.description,,"The date and time when the lead address was created.",0
+messages,oro.sales.leadaddress.created.label,,"Created at",0
+messages,oro.sales.leadaddress.entity_description,,"The address configured for a lead.",0
+messages,oro.sales.leadaddress.entity_label,,"Lead Address",0
+messages,oro.sales.leadaddress.entity_plural_label,,"Lead Addresses",0
+messages,oro.sales.leadaddress.first_name.description,,"The first name that is specified in the lead address.",0
+messages,oro.sales.leadaddress.first_name.label,,"First name",0
+messages,oro.sales.leadaddress.id.label,,Id,0
+messages,oro.sales.leadaddress.label.description,,"The label specified for the lead address. The label is used to refer to the lead address on the interface.",0
+messages,oro.sales.leadaddress.label.label,,Label,0
+messages,oro.sales.leadaddress.last_name.description,,"The last name that is specified in the lead address.",0
+messages,oro.sales.leadaddress.last_name.label,,"Last name",0
+messages,oro.sales.leadaddress.middle_name.description,,"The middle name that is specified in the lead address.",0
+messages,oro.sales.leadaddress.middle_name.label,,"Middle name",0
+messages,oro.sales.leadaddress.name_prefix.description,,"The name prefix specified in the lead address.",0
+messages,oro.sales.leadaddress.name_prefix.label,,"Name prefix",0
+messages,oro.sales.leadaddress.name_suffix.description,,"The name suffix specified in the lead address.",0
+messages,oro.sales.leadaddress.name_suffix.label,,"Name suffix",0
+messages,oro.sales.leadaddress.organization.description,,"The organization that is specified in the lead address.",0
+messages,oro.sales.leadaddress.organization.label,,Organization,0
+messages,oro.sales.leadaddress.owner.description,,"The lead who is the owner of the lead address. The lead address is displayed on the view page of this lead.",0
+messages,oro.sales.leadaddress.owner.label,,Owner,0
+messages,oro.sales.leadaddress.postal_code.description,,"The postal code specified in the lead address.",0
+messages,oro.sales.leadaddress.postal_code.label,,"Zip/Postal Code",0
+messages,oro.sales.leadaddress.primary.description,,"Defines whether the lead address is a primary lead address.",0
+messages,oro.sales.leadaddress.primary.label,,Primary,0
+messages,oro.sales.leadaddress.region.description,,"The region specified in the lead address.",0
+messages,oro.sales.leadaddress.region.label,,State,0
+messages,oro.sales.leadaddress.region_code.label,,"State ISO code",0
+messages,oro.sales.leadaddress.region_name.label,,"State name",0
+messages,oro.sales.leadaddress.region_text.label,,State,0
+messages,oro.sales.leadaddress.street.description,,"The first line of the street address. Usually contains the street name and the building number.",0
+messages,oro.sales.leadaddress.street.label,,Street,0
+messages,oro.sales.leadaddress.street2.description,,"The second line of the street address. May contain the appartment number, P.O. box, building name, etc.",0
+messages,oro.sales.leadaddress.street2.label,,"Street 2",0
+messages,oro.sales.leadaddress.updated.description,,"The date and time when the lead address was last updated.",0
+messages,oro.sales.leadaddress.updated.label,,"Created at",0
+messages,oro.sales.leademail.email.label,,Email,0
+messages,oro.sales.leademail.entity_description,,"Represent lead's email",0
+messages,oro.sales.leademail.entity_label,,"Lead Email",0
+messages,oro.sales.leademail.entity_plural_label,,"Lead Emails",0
+messages,oro.sales.leademail.id.label,,Id,0
+messages,oro.sales.leademail.owner.label,,Owner,0
+messages,oro.sales.leademail.primary.label,,Primary,0
+messages,oro.sales.leadmailboxprocesssettings.channel.label,,Channel,0
+messages,oro.sales.leadmailboxprocesssettings.entity_label,,"Lead Mailbox Process Settings",0
+messages,oro.sales.leadmailboxprocesssettings.entity_plural_label,,"Lead Mailbox Process Settings",0
+messages,oro.sales.leadmailboxprocesssettings.id.label,,Id,0
+messages,oro.sales.leadmailboxprocesssettings.owner.label,,Owner,0
+messages,oro.sales.leadmailboxprocesssettings.source.label,,Source,0
+messages,oro.sales.leadphone.entity_description,,"Represent lead's phone",0
+messages,oro.sales.leadphone.entity_label,,"Lead Phone",0
+messages,oro.sales.leadphone.entity_plural_label,,"Lead Phones",0
+messages,oro.sales.leadphone.id.label,,Id,0
+messages,oro.sales.leadphone.owner.label,,Owner,0
+messages,oro.sales.leadphone.phone.label,,Phone,0
+messages,oro.sales.leadphone.primary.label,,Primary,0
+messages,oro.sales.mailbox.process.lead.label,,"Convert To Lead",0
+messages,oro.sales.menu.b2bcustomer_list.description,,"List of business customers",0
+messages,oro.sales.menu.lead_list.description,,"List of leads",0
+messages,oro.sales.menu.opportunity_list.description,,"List of opportunities",0
+messages,oro.sales.menu.sales_salesfunnel_list.description,,"List of sales funnels",0
+messages,oro.sales.menu.sales_tab.label,,Sales,0
+messages,oro.sales.menu.shortcut_list_b2bcustomers.description,,"List of business customers",0
+messages,oro.sales.menu.shortcut_list_b2bcustomers.label,,"Show business customers list",0
+messages,oro.sales.menu.shortcut_list_leads.description,,"List of leads",0
+messages,oro.sales.menu.shortcut_list_leads.label,,"Show leads list",0
+messages,oro.sales.menu.shortcut_list_opportunities.description,,"List of opportunities",0
+messages,oro.sales.menu.shortcut_list_opportunities.label,,"Show opportunities list",0
+messages,oro.sales.menu.shortcut_new_lead.description,,"Create new lead",0
+messages,oro.sales.menu.shortcut_new_lead.label,,"Create new lead",0
+messages,oro.sales.menu.shortcut_new_opportunity.description,,"Create new opportunity",0
+messages,oro.sales.menu.shortcut_new_opportunity.label,,"Create new opportunity",0
+messages,oro.sales.opportunity.add_entity,,"Add opportunity",0
+messages,oro.sales.opportunity.assigned.label,,Assigned,0
+messages,oro.sales.opportunity.base_budget_amount_value.label,,"Budget Amount In Base Currency",0
+messages,oro.sales.opportunity.base_close_revenue_value.label,,"Close Revenue In Base Currency",0
+messages,oro.sales.opportunity.budget_amount.description,,"The expected revenue of the opportunity.",0
+messages,oro.sales.opportunity.budget_amount.label,,"Budget amount",0
+messages,oro.sales.opportunity.budget_amount_base_currency.label,,"Budget Amount (%sign%)",0
+messages,oro.sales.opportunity.budget_amount_currency.description,,"The currency specified for the budget amount value.",0
+messages,oro.sales.opportunity.budget_amount_currency.label,,"Budget Amount Currency",0
+messages,oro.sales.opportunity.budget_amount_value.description,,"Defines the budget value amount for an opportunity.",0
+messages,oro.sales.opportunity.budget_amount_value.label,,"Budget Amount",0
+messages,oro.sales.opportunity.budget_base_currency.label,,"Base Currency",0
+messages,oro.sales.opportunity.close_date.description,,"The expected close date for open opportunity, and actual close date for the closed one.",0
+messages,oro.sales.opportunity.close_date.label,,"Expected close date",0
+messages,oro.sales.opportunity.close_reason.description,,"The reason for opportunity closure (both won and lost).",0
+messages,oro.sales.opportunity.close_reason.label,,"Close reason",0
+messages,oro.sales.opportunity.close_revenue.description,,"The actual revenue received from the opportunity after it's been closed.",0
+messages,oro.sales.opportunity.close_revenue.label,,"Close revenue",0
+messages,oro.sales.opportunity.close_revenue_currency.description,,"The currency specified for the close renevue value.",0
+messages,oro.sales.opportunity.close_revenue_currency.label,,"Close revenue Currency",0
+messages,oro.sales.opportunity.close_revenue_value.description,,"Defines the close revenue value for an opportunity.",0
+messages,oro.sales.opportunity.close_revenue_value.label,,"Close revenue",0
+messages,oro.sales.opportunity.closed_at.label,,"Closed At",0
+messages,oro.sales.opportunity.contact.description,,"The person on the customer side who is directly related to the opportunity.",0
+messages,oro.sales.opportunity.contact.label,,Contact,0
+messages,oro.sales.opportunity.create.label,,"Create Opportunity",0
+messages,oro.sales.opportunity.created_at.label,,"Created At",0
+messages,oro.sales.opportunity.customer.label,,Account,0
+messages,oro.sales.opportunity.customer_association.description,,"A customer or an account the opportunity is created for.",0
+messages,oro.sales.opportunity.customer_association.label,,Customer,0
+messages,oro.sales.opportunity.customer_need.description,,"The detailed description of customers' needs that constitute the business opportunity.",0
+messages,oro.sales.opportunity.customer_need.label,,"Customer need",0
+messages,oro.sales.opportunity.data_channel.description,,"One of active channels, from which the application will get information on this opportunity.",0
+messages,oro.sales.opportunity.data_channel.label,,Channel,0
+messages,oro.sales.opportunity.datagrid.columns.metric_name,,"Metric Name",0
+messages,oro.sales.opportunity.datagrid.delete,,Delete,0
+messages,oro.sales.opportunity.datagrid.update,,Update,0
+messages,oro.sales.opportunity.datagrid.view,,View,0
+messages,oro.sales.opportunity.datagrid.views.open,,"Open Opportunities",0
+messages,oro.sales.opportunity.datagrid.views.overdue,,"Overdue Opportunities",0
+messages,oro.sales.opportunity.datagrid.views.recently_closed,,"Recently Closed Opportunities",0
+messages,oro.sales.opportunity.entity_description,,"The Opportunity represent highly probable potential or actual sales to a new or established customer.",0
+messages,oro.sales.opportunity.entity_label,,Opportunity,0
+messages,oro.sales.opportunity.entity_plural_label,,Opportunities,0
+messages,oro.sales.opportunity.feature.description,,"Enables Opportunity entity",0
+messages,oro.sales.opportunity.feature.label,,Opportunity,0
+messages,oro.sales.opportunity.id.label,,Id,0
+messages,oro.sales.opportunity.importexport.invalid_currencies,,"The next currencies %currencies% not available in current organization.",0
+messages,oro.sales.opportunity.importexport.invalid_currency,,"The next currency %currency% not available in current organization.",0
+messages,oro.sales.opportunity.lead.description,,"The sale prospect that has been successfully qualified into this opportunity.",0
+messages,oro.sales.opportunity.lead.label,,Lead,0
+messages,oro.sales.opportunity.name.description,,"The name used to refer to the opportunity in the system.",0
+messages,oro.sales.opportunity.name.label,,"Opportunity name",0
+messages,oro.sales.opportunity.notes.description,,"Any additional notes made by the sales representative.",0
+messages,oro.sales.opportunity.notes.label,,"Additional comments",0
+messages,oro.sales.opportunity.organization.label,,Organization,0
+messages,oro.sales.opportunity.owner.label,,Owner,0
+messages,oro.sales.opportunity.probability.description,,"The perceived probability of opportunity being successfully closed.",0
+messages,oro.sales.opportunity.probability.label,,Probability,0
+messages,oro.sales.opportunity.proposed_solution.description,,"The detailed description of the solution proposed to the customer by the sales representative.",0
+messages,oro.sales.opportunity.proposed_solution.label,,"Proposed solution",0
+messages,oro.sales.opportunity.relevant_opportunities,,"Relevant Opportunities",0
+messages,oro.sales.opportunity.status.description,,"A stage in the process of a sale.",0
+messages,oro.sales.opportunity.status.label,,Status,0
+messages,oro.sales.opportunity.updated_at.label,,"Updated At",0
+messages,oro.sales.opportunity.workflow.close_date.label,,"Close date",0
+messages,oro.sales.opportunityclosereason.entity_description,,"The reason for closing an opportunity.",0
+messages,oro.sales.opportunityclosereason.entity_label,,"Opportunity Close Reason",0
+messages,oro.sales.opportunityclosereason.entity_plural_label,,"Opportunity Close Reasons",0
+messages,oro.sales.opportunityclosereason.label.description,,"The label of the opportunity close reason record.",0
+messages,oro.sales.opportunityclosereason.label.label,,Label,0
+messages,oro.sales.opportunityclosereason.name.label,,Name,0
+messages,oro.sales.privilege.category.sales_data.label,,"Sales Data",0
+messages,oro.sales.salesfunnel.data_channel.label,,Channel,0
+messages,oro.sales.salesfunnel.datagrid.delete,,Delete,0
+messages,oro.sales.salesfunnel.datagrid.update,,Update,0
+messages,oro.sales.salesfunnel.datagrid.view,,View,0
+messages,oro.sales.salesfunnel.entity_description,,"Sales funnel is a sales process that involves a series of steps which enable sales force to close deals (Currently deprecated).",0
+messages,oro.sales.salesfunnel.entity_label,,"Sales Process",0
+messages,oro.sales.salesfunnel.entity_plural_label,,"Sales Processes",0
+messages,oro.sales.salesfunnel.feature.description,,"Enables Sales Processes. Beware that this feature is deprecated and will be removed in a future.",0
+messages,oro.sales.salesfunnel.feature.label,,"Sales Process (Deprecated)",0
+messages,oro.sales.salesfunnel.hint,,"Sales Process #%id%",0
+messages,oro.sales.salesfunnel.id.label,,"Sales #",0
+messages,oro.sales.salesfunnel.lead.description,,"The lead that forms a part of a sales process.",0
+messages,oro.sales.salesfunnel.lead.label,,Lead,0
+messages,oro.sales.salesfunnel.new_entity,,"New Sales Process",0
+messages,oro.sales.salesfunnel.opportunity.description,,"The opportunity that forms a part of a sales process.",0
+messages,oro.sales.salesfunnel.opportunity.label,,Opportunity,0
+messages,oro.sales.salesfunnel.organization.label,,Organization,0
+messages,oro.sales.salesfunnel.owner.label,,Owner,0
+messages,oro.sales.salesfunnel.start_date.description,,"The date of the sales process initiation.",0
+messages,oro.sales.salesfunnel.start_date.label,,"Start Date",0
+messages,oro.sales.sections.general,,General,0
+messages,oro.sales.sections.leads,,Leads,0
+messages,oro.sales.sections.opportunities,,Opportunities,0
+messages,oro.sales.system_configuration.fields.display_relevant_opportunities.label,,"Display relevant opportunities",0
+messages,oro.sales.system_configuration.fields.display_relevant_opportunities.tooltip,,"Enable this option to display a list of other opportunities related to the same account on the opportunity view page and give sales reps quick access to deal history.",0
+messages,oro.sales.system_configuration.fields.opportunity_status_probabilities.probability.tooltip,,"Enter default probability (%) for this status",0
+messages,oro.sales.system_configuration.fields.sales_lead.feature_enabled.label,,"Enable Lead",0
+messages,oro.sales.system_configuration.fields.sales_opportunity.feature_enabled.label,,"Enable Opportunity",0
+messages,oro.sales.system_configuration.fields.sales_salesfunnel.feature_enabled.label,,"Enable Sales Process",0
+messages,oro.sales.system_configuration.groups.crm.title,,CRM,0
+messages,oro.sales.system_configuration.groups.display_settings.title,,"Display settings",0
+messages,oro.sales.system_configuration.groups.lead.title,,Lead,0
+messages,oro.sales.system_configuration.groups.opportunity.title,,Opportunity,0
+messages,oro.sales.system_configuration.groups.opportunity_status_probabilities.options.label,,"Default probabilities for opportunity statuses",0
+messages,oro.sales.system_configuration.groups.opportunity_status_probabilities.options.tooltip,,"Manage opportunity statuses and assign default probabilities to them, except for system statuses Closed Won and Closed Lost.",0
+messages,oro.sales.system_configuration.groups.opportunity_status_probabilities.title,,Probabilities,0
+messages,oro.sales.system_configuration.groups.sales_pipeline.title,,"Sales Pipeline",0
+messages,oro.sales.system_configuration.groups.salesfunnel.title,,"Sales Process (Deprecated)",0
+messages,oro.sales.widgets.b2bcustomer_information,,"Business Customer Information",0
+messages,oro.sales.widgets.leads,,Leads,0
+messages,oro.sales.widgets.opportunities,,Opportunities,0
+messages,oro.scope.entity_label,,Scope,0
+messages,oro.scope.entity_plural_label,,Scopes,0
+messages,oro.scope.id.label,,ID,0
+messages,oro.scope.localization.label,,Localization,0
+messages,oro.scope.organization.label,,Organization,0
+messages,oro.scope.user.label,,User,0
+messages,oro.search.module_name,,Search,0
+messages,oro.search.result.all,,All,0
+messages,oro.search.result.empty,,"No results",0
+messages,oro.security.access-level.BASIC,,User,0
+messages,oro.security.access-level.DEEP,,Division,0
+messages,oro.security.access-level.GLOBAL,,Global,0
+messages,oro.security.access-level.LOCAL,,"Business Unit",0
+messages,oro.security.access-level.NONE,,None,0
+messages,oro.security.access-level.SYSTEM,,Global,0
+messages,oro.security.field_acl.is_enabled.label,,"Field Level ACL",0
+messages,oro.security.field_acl.is_enabled.tooltip,,"Enables Field level access check for entity",0
+messages,oro.security.field_acl.show_restricted_fields.label,,"Show restricted",0
+messages,oro.security.field_acl.show_restricted_fields.tooltip,,"If Field Level ACL enabled and user have no access to field, on create and edit pages this field will be shown as disabled field.",0
+messages,oro.security.organization.access_denied,,"You don't have access to organization ""%organization_name%""",0
+messages,oro.security.permissions,,"Action Permissions",0
+messages,oro.segment.action.refresh,,"Refresh segment",0
+messages,oro.segment.condition_builder.apply_segment,,"Apply %s segment",0
+messages,oro.segment.condition_builder.choose_entity_segment,,"Choose segment",0
+messages,oro.segment.condition_builder.confirm_message,,"Are you sure you want to do this?",0
+messages,oro.segment.condition_builder.criteria.segment_condition,,"Apply segment",0
+messages,oro.segment.definition.label,,Definition,0
+messages,oro.segment.description.label,,Description,0
+messages,oro.segment.entity.label,,Entity,0
+messages,oro.segment.entity.saved,,"Segment saved",0
+messages,oro.segment.entity_label,,Segment,0
+messages,oro.segment.entity_plural_label,,Segments,0
+messages,oro.segment.form.choose_segment_type,,"Choose segment type",0
+messages,oro.segment.form.columns,,Columns,0
+messages,oro.segment.form.designer,,Designer,0
+messages,oro.segment.form.filters,,Filters,0
+messages,oro.segment.form.segment_choice.placeholder,,"Choose segment",0
+messages,oro.segment.id.label,,Id,0
+messages,oro.segment.last_run.label,,"Last run",0
+messages,oro.segment.menu.manage_segments.label,,"Manage Segments",0
+messages,oro.segment.menu.reports_tab.label,,"Reports & Segments",0
+messages,oro.segment.name.label,,Name,0
+messages,oro.segment.organization.label,,Organization,0
+messages,oro.segment.owner.label,,Owner,0
+messages,oro.segment.records_limit.label,,"Records limit",0
+messages,oro.segment.refresh_dialog.success,,"Segment successfully processed.",0
+messages,oro.segment.segment_filter_builder.segment_name,,"Segment name",0
+messages,oro.segment.type.dynamic,,Dynamic,0
+messages,oro.segment.type.label,,Type,0
+messages,oro.segment.type.static,,Manual,0
+messages,oro.segment.type.tooltip_text,,"""Dynamic"" segments are updated as soon as any changes have taken place in the system. ""Manual"" segments will be updated only following the user request in the View page of the Segment record.",0
+messages,oro.sidebar.system_configuration.fields.sidebar_left_active.label,,"Enable left sidebar",0
+messages,oro.sidebar.system_configuration.fields.sidebar_right_active.label,,"Enable right sidebar",0
+messages,oro.sidebar.system_configuration.groups.sidebar_settings.title,,"Sidebar settings",0
+messages,oro.sso.login.alternative.label,,"Log in with",0
+messages,oro.sso.system_configuration.fields.domains.label,,Domains,0
+messages,oro.sso.system_configuration.fields.domains.tooltip,,"Comma separated list of allowed domains",0
+messages,oro.sso.system_configuration.fields.enable_google_sso.label,,Enable,0
+messages,oro.sso.system_configuration.groups.google_sso_settings.title,,"Google Single Sign-On",0
+messages,oro.tag.action.assign_unassign,,"Assign/unassign tags",0
+messages,oro.tag.config.disable.alert,,"Disabling Tags will irreversibly erase all existing tags",0
+messages,oro.tag.config.enabled,,"Enable tags",0
+messages,oro.tag.controller.tag.saved.message,,"Tag saved",0
+messages,oro.tag.created_by.label,,"Created By",0
+messages,oro.tag.datagrid.search,,"Search by tag",0
+messages,oro.tag.datagrid.search_result,,"Records tagged as ""%name%""",0
+messages,oro.tag.datagrid.usage_count,,"Usage Count",0
+messages,oro.tag.entity_description,,"Show records tagged by this tag",0
+messages,oro.tag.entity_label,,Tag,0
+messages,oro.tag.entity_plural_label,,Tags,0
+messages,oro.tag.form.choose_or_create_tag,,"Select an existing tag or create a new one",0
+messages,oro.tag.form.choose_tag,,"Choose a tag",0
+messages,oro.tag.form.choose_taxonomy,,"Choose a taxonomy",0
+messages,oro.tag.id.label,,Id,0
+messages,oro.tag.menu.all_tags,,"All tags",0
+messages,oro.tag.menu.my_tags,,"My tags",0
+messages,oro.tag.menu.shortcut_new_tag.description,,"Create new tag",0
+messages,oro.tag.menu.shortcut_new_tag.label,,"Create new Tag",0
+messages,oro.tag.menu.tag_list.description,,"Tags list",0
+messages,oro.tag.menu.tags_management.label,,"Tags Management",0
+messages,oro.tag.name.label,,Name,0
+messages,oro.tag.organization.label,,Organization,0
+messages,oro.tag.owner.label,,Owner,0
+messages,oro.tag.system_configuration.fields.taxonomy.label,,"Taxonomy Colors",0
+messages,oro.tag.system_configuration.groups.tag_settings.title,,"Tag settings",0
+messages,oro.tag.tagging.alias.label,,Alias,0
+messages,oro.tag.tagging.entity_description,,"Represent tagging",0
+messages,oro.tag.tagging.entity_label,,Tagging,0
+messages,oro.tag.tagging.entity_name.label,,"Entity name",0
+messages,oro.tag.tagging.entity_plural_label,,Taggings,0
+messages,oro.tag.tagging.id.label,,Id,0
+messages,oro.tag.tagging.label,,Tagging,0
+messages,oro.tag.tagging.owner.label,,Owner,0
+messages,oro.tag.tagging.record_id.label,,Record,0
+messages,oro.tag.tagging.tag.label,,Tag,0
+messages,oro.tag.tags_label,,Tags,0
+messages,oro.tag.taxonomy.background_color.description,,"A color that designates a taxonomic unit.",0
+messages,oro.tag.taxonomy.background_color.label,,"Background Color",0
+messages,oro.tag.taxonomy.created.description,,"The date and time when a taxonomic unit was created.",0
+messages,oro.tag.taxonomy.created.label,,"Created at",0
+messages,oro.tag.taxonomy.entity_description,,"Units that tags can be grouped into.",0
+messages,oro.tag.taxonomy.entity_label,,Taxonomy,0
+messages,oro.tag.taxonomy.entity_plural_label,,Taxonomies,0
+messages,oro.tag.taxonomy.id.label,,Id,0
+messages,oro.tag.taxonomy.label,,Taxonomy,0
+messages,oro.tag.taxonomy.name.description,,"A name of a taxonomic unit.",0
+messages,oro.tag.taxonomy.name.label,,Name,0
+messages,oro.tag.taxonomy.organization.label,,Organization,0
+messages,oro.tag.taxonomy.owner.label,,Owner,0
+messages,oro.tag.taxonomy.tags.label,,Tags,0
+messages,oro.tag.taxonomy.updated.description,,"The date and time when a taxonomic unit was last updated.",0
+messages,oro.tag.taxonomy.updated.label,,"Updated at",0
+messages,oro.tag.updated_by.label,,"Updated By",0
+messages,oro.task.activity_item.changed_by,,"assigned by {{ user }}, updated by {{ editor }}",0
+messages,oro.task.activity_item.created_by,,"assigned by {{ user }}",0
+messages,oro.task.add_entity,,"Add task",0
+messages,oro.task.add_entity.title,,"Add a task to this record",0
+messages,oro.task.assign_entity,,"Assign task",0
+messages,oro.task.assign_entity.title,,"Assign a task to this user",0
+messages,oro.task.assign_entity.widget_title,,"Assign task to %username%",0
+messages,oro.task.assigned_tasks_widget.no_task_exist,,"You have no tasks pending",0
+messages,oro.task.assigned_tasks_widget.update_widget,,"Reload tasks",0
+messages,oro.task.controller.task.saved.message,,"Task created successfully",0
+messages,oro.task.created_by.description,,"User that created the task.",0
+messages,oro.task.created_by.label,,"Created By",0
+messages,oro.task.delete_task,,"Delete {{ entity }}",0
+messages,oro.task.description.description,,"Short meaningful description of the task record.",0
+messages,oro.task.description.label,,Description,0
+messages,oro.task.due_date.description,,"The date on which the task falls due.",0
+messages,oro.task.due_date.label,,"Due date",0
+messages,oro.task.entity_description,,"Represents an assignment added to a record.",0
+messages,oro.task.entity_label,,Task,0
+messages,oro.task.entity_plural_label,,Tasks,0
+messages,oro.task.id.label,,Id,0
+messages,oro.task.info_widget_title,,"Task Information",0
+messages,oro.task.menu.my_tasks,,"My Tasks",0
+messages,oro.task.menu.task_list.description,,"List of tasks",0
+messages,oro.task.organization.label,,Organization,0
+messages,oro.task.owner.label,,"Assigned To",0
+messages,oro.task.saved_message,,"Task saved",0
+messages,oro.task.status.description,,"The status of the record (Open, In progress or Closed).",0
+messages,oro.task.status.label,,Status,0
+messages,oro.task.subject.description,,"Short summary of the task record.",0
+messages,oro.task.subject.label,,Subject,0
+messages,oro.task.task_priority.description,,"The priority set for the task (Low, Normal, High).",0
+messages,oro.task.task_priority.label,,Priority,0
+messages,oro.task.taskpriority.entity_description,,"The priority set for the task (Low, Normal, High).",0
+messages,oro.task.taskpriority.entity_label,,"Task Priority",0
+messages,oro.task.taskpriority.entity_plural_label,,"Task Priorities",0
+messages,oro.task.taskpriority.label.description,,"Label of a task priority record (Low, Normal, High).",0
+messages,oro.task.taskpriority.label.label,,Label,0
+messages,oro.task.taskpriority.name.description,,"The identifier of an entity.",0
+messages,oro.task.taskpriority.name.label,,Name,0
+messages,oro.task.taskpriority.order.description,,"The order in which task priorities are ranked. The higher the number, the higher the priority is.",0
+messages,oro.task.taskpriority.order.label,,Order,0
+messages,oro.task.update_task,,"Update {{ entity }}",0
+messages,oro.task.user_tasks,,"User Tasks",0
+messages,oro.task.user_tasks_section,,Tasks,0
+messages,oro.task.view,,"View task",0
+messages,oro.task.view_task,,"View {{ entity }}",0
+messages,oro.taxonomy.background_color.label,,Color,0
+messages,oro.taxonomy.controller.saved.message,,"Taxonomy has been saved",0
+messages,oro.taxonomy.created_by.label,,"Created By",0
+messages,oro.taxonomy.datagrid.search,,"Search by taxonomy",0
+messages,oro.taxonomy.datagrid.usage_count,,"Usage Count",0
+messages,oro.taxonomy.entity_label,,Taxonomy,0

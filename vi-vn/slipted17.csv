@@ -1,0 +1,402 @@
+messages,oro.call.call_date_time.description,,"The date and time when the call was started.",0
+messages,oro.call.call_date_time.label,,"Call date & time",0
+messages,oro.call.call_status.description,,"Defines whether the call is completed or in progress.",0
+messages,oro.call.call_status.label,,"Call status",0
+messages,oro.call.calldirection.entity_description,,"The call direction defines whether the call is incoming or outgoing.",0
+messages,oro.call.calldirection.entity_label,,Direction,0
+messages,oro.call.calldirection.entity_plural_label,,Directions,0
+messages,oro.call.calldirection.label.description,,"The label of the call direction ('Incoming' or 'Outgoing').",0
+messages,oro.call.calldirection.label.label,,Label,0
+messages,oro.call.calldirection.name.description,,"The unique identifier of the call's direction record.",0
+messages,oro.call.calldirection.name.label,,Name,0
+messages,oro.call.callstatus.entity_description,,"The call status defines whether the call is completed or in progress.",0
+messages,oro.call.callstatus.entity_label,,"Call Status",0
+messages,oro.call.callstatus.entity_plural_label,,"Call Statuses",0
+messages,oro.call.callstatus.label.description,,"The label of the call status ('Completed' or 'In progress').",0
+messages,oro.call.callstatus.label.label,,Label,0
+messages,oro.call.callstatus.name.description,,"The unique identifier of the call's status record.",0
+messages,oro.call.callstatus.name.label,,Name,0
+messages,oro.call.changed_by,,"added by {{ user }}, updated by {{ editor }}",0
+messages,oro.call.contexts.label,,Contexts,0
+messages,oro.call.controller.call.deleted.message,,"Call deleted successfully",0
+messages,oro.call.controller.call.saved.message,,"Call saved",0
+messages,oro.call.created_by,,"logged by {{ user }}",0
+messages,oro.call.datagrid.date_time,,"Call date",0
+messages,oro.call.delete_call,,"Delete {{ entity }} log",0
+messages,oro.call.direction.description,,"Defines whether the call is outgoing or incoming.",0
+messages,oro.call.direction.label,,Direction,0
+messages,oro.call.direction_label.label,,Direction,0
+messages,oro.call.duration.description,,"The duration of the call in seconds.",0
+messages,oro.call.duration.label,,Duration,0
+messages,oro.call.entity_description,,"The information about calls made or received by users.",0
+messages,oro.call.entity_label,,Call,0
+messages,oro.call.entity_plural_label,,Calls,0
+messages,oro.call.form.choose_or_enter_phone,,"Choose or enter a phone number ...",0
+messages,oro.call.id.description,,"The unique identifier of the call record.",0
+messages,oro.call.id.label,,Id,0
+messages,oro.call.log_call,,"Log call",0
+messages,oro.call.menu.call_list.description,,"List of calls",0
+messages,oro.call.menu.shortcut_call_list.description,,"List of calls",0
+messages,oro.call.menu.shortcut_call_list.label,,"Show Calls list",0
+messages,oro.call.notes.description,,"The text of the note made on the call.",0
+messages,oro.call.notes.label,,"Additional comments",0
+messages,oro.call.organization.label,,Organization,0
+messages,oro.call.owner.label,,Owner,0
+messages,oro.call.phone_number.description,,"The phone number that the call was made to / received from.",0
+messages,oro.call.phone_number.label,,"Phone number",0
+messages,oro.call.sections.general,,General,0
+messages,oro.call.subject.description,,"Defines what the call was about.",0
+messages,oro.call.subject.label,,Subject,0
+messages,oro.call.update_call,,"Update {{ entity }} log",0
+messages,oro.call.update_log_call,,"Update call",0
+messages,oro.call.view,,"View call log",0
+messages,oro.call.view_call,,"View {{ entity }} log",0
+messages,oro.call.widget.call_information,,"Call Information",0
+messages,oro.campaign.acl.send_emails.description,,"Manually send emails within an email campaign",0
+messages,oro.campaign.acl.send_emails.label,,"Send campaign emails",0
+messages,oro.campaign.block.detailed_report,,"Detailed Events Report",0
+messages,oro.campaign.block.events,,Events,0
+messages,oro.campaign.block.general,,"General Information",0
+messages,oro.campaign.budget.label,,Budget,0
+messages,oro.campaign.campaigncodehistory.campaign.label,,Campaign,0
+messages,oro.campaign.campaigncodehistory.code.label,,Code,0
+messages,oro.campaign.campaigncodehistory.entity_label,,"Campaign Code History",0
+messages,oro.campaign.campaigncodehistory.entity_plural_label,,"Campaign Code History",0
+messages,oro.campaign.campaigncodehistory.id.label,,Id,0
+messages,oro.campaign.code.description,,"This value should not exceed 20 characters.",0
+messages,oro.campaign.code.label,,Code,0
+messages,oro.campaign.code.tooltip,,"Previously used codes or codes of merged campaigns are shown in parenthesis and used for campaign tracking",0
+messages,oro.campaign.combined_name.label,,"Combined name",0
+messages,oro.campaign.controller.campaign.saved.message,,"Campaign saved",0
+messages,oro.campaign.dashboard.campaigns_by_close_revenue.description,,"This widget shows you top 5 campaigns that generate most revenue.",0
+messages,oro.campaign.dashboard.campaigns_by_close_revenue.title,,"Campaigns by close revenue",0
+messages,oro.campaign.dashboard.campaigns_leads.description,,"This widget shows you the number of leads generated by 5 most recently created campaigns in form of a bar chart.",0
+messages,oro.campaign.dashboard.campaigns_leads.title,,"Campaigns leads",0
+messages,oro.campaign.dashboard.campaigns_opportunity.description,,"This widget shows you top 5 campaigns that generate the biggest number of opportunities.",0
+messages,oro.campaign.dashboard.campaigns_opportunity.title,,"Opportunity-generating campaigns",0
+messages,oro.campaign.datagrid.actions.delete.label,,Delete,0
+messages,oro.campaign.datagrid.actions.update.label,,Update,0
+messages,oro.campaign.datagrid.actions.view.label,,View,0
+messages,oro.campaign.description.label,,Description,0
+messages,oro.campaign.emailcampaign.block.email_settings,,"Email Settings",0
+messages,oro.campaign.emailcampaign.block.general,,"General Information",0
+messages,oro.campaign.emailcampaign.block.recipients,,Recipients,0
+messages,oro.campaign.emailcampaign.block.status,,"Campaign Results",0
+messages,oro.campaign.emailcampaign.campaign.label,,Campaign,0
+messages,oro.campaign.emailcampaign.controller.saved.message,,"Email campaign saved",0
+messages,oro.campaign.emailcampaign.controller.send_disallowed,,"Email campaign could not be sent. Please, check that all settings are correct.",0
+messages,oro.campaign.emailcampaign.controller.sent,,"Email campaign was sent",0
+messages,oro.campaign.emailcampaign.created_at.label,,"Created At",0
+messages,oro.campaign.emailcampaign.datagrid.actions.delete.label,,Delete,0
+messages,oro.campaign.emailcampaign.datagrid.actions.update.label,,Update,0
+messages,oro.campaign.emailcampaign.datagrid.actions.view.label,,View,0
+messages,oro.campaign.emailcampaign.datagrid.campaignContactedTimes,,"Campaign contacted",0
+messages,oro.campaign.emailcampaign.datagrid.campaignLastContactedAt,,"Campaign last contacted at",0
+messages,oro.campaign.emailcampaign.description.label,,Description,0
+messages,oro.campaign.emailcampaign.entity_description,,"Marketing email campaigns",0
+messages,oro.campaign.emailcampaign.entity_label,,"Email Campaign",0
+messages,oro.campaign.emailcampaign.entity_plural_label,,"Email Campaigns",0
+messages,oro.campaign.emailcampaign.id.label,,Id,0
+messages,oro.campaign.emailcampaign.marketing_list.label,,"Marketing List",0
+messages,oro.campaign.emailcampaign.name.label,,Name,0
+messages,oro.campaign.emailcampaign.organization.label,,Organization,0
+messages,oro.campaign.emailcampaign.owner.label,,Owner,0
+messages,oro.campaign.emailcampaign.schedule.deferred,,Deferred,0
+messages,oro.campaign.emailcampaign.schedule.label,,Schedule,0
+messages,oro.campaign.emailcampaign.schedule.manual,,Manual,0
+messages,oro.campaign.emailcampaign.scheduled_for.label,,"Scheduled For",0
+messages,oro.campaign.emailcampaign.send,,Send,0
+messages,oro.campaign.emailcampaign.sender_email.label,,"Sender Email",0
+messages,oro.campaign.emailcampaign.sender_name.label,,"Sender Name",0
+messages,oro.campaign.emailcampaign.sent.label,,Sent,0
+messages,oro.campaign.emailcampaign.sent_at.label,,"Sent At",0
+messages,oro.campaign.emailcampaign.stats.abuse.label,,Abuse,0
+messages,oro.campaign.emailcampaign.stats.bounce.label,,Bounce,0
+messages,oro.campaign.emailcampaign.stats.click.label,,Click,0
+messages,oro.campaign.emailcampaign.stats.open.label,,Open,0
+messages,oro.campaign.emailcampaign.stats.unsubscribe.label,,Unsubscribe,0
+messages,oro.campaign.emailcampaign.status.not_sent,,"Not sent",0
+messages,oro.campaign.emailcampaign.status.sent,,Sent,0
+messages,oro.campaign.emailcampaign.system_configuration.campaign_sender_email,,"Sender Email",0
+messages,oro.campaign.emailcampaign.system_configuration.campaign_sender_name,,"Sender Name",0
+messages,oro.campaign.emailcampaign.system_configuration.title,,Campaign,0
+messages,oro.campaign.emailcampaign.template.label,,Template,0
+messages,oro.campaign.emailcampaign.transport.internal,,Oro,0
+messages,oro.campaign.emailcampaign.transport.label,,Transport,0
+messages,oro.campaign.emailcampaign.transport_settings.label,,"Transport Settings",0
+messages,oro.campaign.emailcampaign.updated_at.label,,"Updated At",0
+messages,oro.campaign.emailcampaignstatistics.abuse_count.label,,"Abuse Count",0
+messages,oro.campaign.emailcampaignstatistics.block.label,,"Email Campaign Statistics",0
+messages,oro.campaign.emailcampaignstatistics.bounce_count.label,,"Bounce Count",0
+messages,oro.campaign.emailcampaignstatistics.click_count.label,,"Click Count",0
+messages,oro.campaign.emailcampaignstatistics.created_at.label,,"Created At",0
+messages,oro.campaign.emailcampaignstatistics.email_campaign.label,,"Email Campaign",0
+messages,oro.campaign.emailcampaignstatistics.entity_label,,"Email Campaign Statistics",0
+messages,oro.campaign.emailcampaignstatistics.entity_plural_label,,"Email Campaign Statistics",0
+messages,oro.campaign.emailcampaignstatistics.id.label,,Id,0
+messages,oro.campaign.emailcampaignstatistics.marketing_list_item.label,,"Marketing List Item",0
+messages,oro.campaign.emailcampaignstatistics.open_count.label,,"Open Count",0
+messages,oro.campaign.emailcampaignstatistics.organization.label,,Organization,0
+messages,oro.campaign.emailcampaignstatistics.owner.label,,Owner,0
+messages,oro.campaign.emailcampaignstatistics.unsubscribe_count.label,,"Unsubscribe Count",0
+messages,oro.campaign.end_date.label,,"End Date",0
+messages,oro.campaign.entity_description,,"Marketing campaigns help track marketing budgets and outcomes of marketing actions.",0
+messages,oro.campaign.entity_label,,Campaign,0
+messages,oro.campaign.entity_plural_label,,Campaigns,0
+messages,oro.campaign.feature_enabled,,"Enable Campaign Features",0
+messages,oro.campaign.form.choose_campaign,,"Choose campaign",0
+messages,oro.campaign.id.label,,Id,0
+messages,oro.campaign.internaltransportsettings.entity_label,,"Email Campaign Internal Transport Settings",0
+messages,oro.campaign.internaltransportsettings.entity_plural_label,,"Email Campaign Internal Transport Settings",0
+messages,oro.campaign.internaltransportsettings.id.label,,Id,0
+messages,oro.campaign.internaltransportsettings.template.label,,Template,0
+messages,oro.campaign.menu.marketing_tab.label,,Marketing,0
+messages,oro.campaign.name.description,,"This value should not exceed 100 characters.",0
+messages,oro.campaign.name.label,,Name,0
+messages,oro.campaign.organization.label,,Organization,0
+messages,oro.campaign.owner.label,,Owner,0
+messages,oro.campaign.privilege.category.marketing.label,,Marketing,0
+messages,oro.campaign.report_period.day,,Daily,0
+messages,oro.campaign.report_period.description,,"This is the time scale of the recorded events graph.In case when items amount is more than 40 it will be
+increased to larger scale.",0
+messages,oro.campaign.report_period.hour,,Hourly,0
+messages,oro.campaign.report_period.label,,"Report Scale",0
+messages,oro.campaign.report_period.month,,Monthly,0
+messages,oro.campaign.report_refresh_date.label,,"Report Refresh Date",0
+messages,oro.campaign.start_date.label,,"Start Date",0
+messages,oro.campaign.tracking_code.info,,"To enable campaign tracking add <code>?pk_campaign=%campaignCode%</code> to your URL.Another option is to add <code>_paq.push(['setCampaignName', '%campaignCode%']);</code>
+to tracking script after <strong>setUserId</strong> call.",0
+messages,oro.campaign.tracking_code.label,,"Tracking Code",0
+messages,oro.campaign.trackingevent.report.date.label,,Date,0
+messages,oro.campaign.trackingevent.report.visits_count.label,,"Number of Hits",0
+messages,oro.case.block.additional,,Additional,0
+messages,oro.case.block.comments,,Comments,0
+messages,oro.case.block.general,,"General Information",0
+messages,oro.case.casecomment.action.add,,"Add Comment",0
+messages,oro.case.casecomment.action.delete,,"Remove Comment",0
+messages,oro.case.casecomment.action.edit,,"Edit Comment",0
+messages,oro.case.casecomment.attachment.description,,"The file that is attached to the case comment.",0
+messages,oro.case.casecomment.attachment.label,,Attachment,0
+messages,oro.case.casecomment.case.description,,"The case that the comment was made on.",0
+messages,oro.case.casecomment.case.label,,"Related case",0
+messages,oro.case.casecomment.contact.description,,"The author of the case comment. If the value is not specified, the user who is the case comment owner is considered the case comment author.",0
+messages,oro.case.casecomment.contact.label,,"Contact Author",0
+messages,oro.case.casecomment.dialog.add,,"Add Comment",0
+messages,oro.case.casecomment.dialog.edit,,"Edit Comment",0
+messages,oro.case.casecomment.entity_description,,"The comments made on the case.",0
+messages,oro.case.casecomment.entity_label,,"Case Comment",0
+messages,oro.case.casecomment.entity_plural_label,,"Case Comments",0
+messages,oro.case.casecomment.error.delete,,"Sorry, comment deleting failed.",0
+messages,oro.case.casecomment.error.load,,"Sorry, comments were not loaded correctly.",0
+messages,oro.case.casecomment.id.description,,"The unique identifier of the case comment record.",0
+messages,oro.case.casecomment.id.label,,Id,0
+messages,oro.case.casecomment.message.delete_confirmation,,"Are you sure you want to delete this comment?",0
+messages,oro.case.casecomment.message.description,,"The case comment text.",0
+messages,oro.case.casecomment.message.label,,Message,0
+messages,oro.case.casecomment.message.no_records,,"There are no comments.",0
+messages,oro.case.casecomment.message.removed,,"Comment Removed",0
+messages,oro.case.casecomment.message.saved,,"Comment Saved",0
+messages,oro.case.casecomment.message.updated_by,,"Updated by {{ user }} at {{ date }}",0
+messages,oro.case.casecomment.organization.label,,Organization,0
+messages,oro.case.casecomment.owner.label,,Owner,0
+messages,oro.case.casecomment.public.description,,"Defines whether the comment must be public on Zendesk.",0
+messages,oro.case.casecomment.public.label,,"Make Public",0
+messages,oro.case.casecomment.updated_by.description,,"The user who last updated a specific case comment record.",0
+messages,oro.case.casecomment.updated_by.label,,"Updated By",0
+messages,oro.case.caseentity.assigned_to.description,,"The user that the case is assigned to.",0
+messages,oro.case.caseentity.assigned_to.label,,"Assigned To",0
+messages,oro.case.caseentity.closed_at.description,,"The date and time when the case was closed.",0
+messages,oro.case.caseentity.closed_at.label,,"Closed On",0
+messages,oro.case.caseentity.comments.description,,"The comments made on the case.",0
+messages,oro.case.caseentity.comments.label,,Comments,0
+messages,oro.case.caseentity.description.description,,"The detailed description of the issue.",0
+messages,oro.case.caseentity.description.label,,Description,0
+messages,oro.case.caseentity.entity_description,,"Issues that were reported by customers or found internally and are managed by users.",0
+messages,oro.case.caseentity.entity_label,,Case,0
+messages,oro.case.caseentity.entity_plural_label,,Cases,0
+messages,oro.case.caseentity.id.description,,"The unique identifier of the case record.",0
+messages,oro.case.caseentity.id.label,,Id,0
+messages,oro.case.caseentity.organization.label,,Organization,0
+messages,oro.case.caseentity.owner.label,,Owner,0
+messages,oro.case.caseentity.priority.description,,"The order in which the case should be managed.",0
+messages,oro.case.caseentity.priority.label,,Priority,0
+messages,oro.case.caseentity.related_account.description,,"The account that is related to the case.",0
+messages,oro.case.caseentity.related_account.label,,"Related Account",0
+messages,oro.case.caseentity.related_contact.description,,"The contact that is related to the case.",0
+messages,oro.case.caseentity.related_contact.label,,"Related Contact",0
+messages,oro.case.caseentity.reported_at.description,,"The date and time when the case was reported.",0
+messages,oro.case.caseentity.reported_at.label,,"Reported On",0
+messages,oro.case.caseentity.resolution.description,,"The case resolution information in a free from.",0
+messages,oro.case.caseentity.resolution.label,,Resolution,0
+messages,oro.case.caseentity.source.description,,"How the information about the issue was recieved.",0
+messages,oro.case.caseentity.source.label,,Source,0
+messages,oro.case.caseentity.status.description,,"The current phase of work on the case.",0
+messages,oro.case.caseentity.status.label,,Status,0
+messages,oro.case.caseentity.subject.description,,"The short title or description of the issue.",0
+messages,oro.case.caseentity.subject.label,,Subject,0
+messages,oro.case.casemailboxprocesssettings.assign_to.label,,"Assign To",0
+messages,oro.case.casemailboxprocesssettings.entity_label,,"Case Mailbox Process Settings",0
+messages,oro.case.casemailboxprocesssettings.entity_plural_label,,"Case Mailbox Process Settings",0
+messages,oro.case.casemailboxprocesssettings.id.label,,Id,0
+messages,oro.case.casemailboxprocesssettings.mailbox.label,,Mailbox,0
+messages,oro.case.casemailboxprocesssettings.owner.label,,Owner,0
+messages,oro.case.casemailboxprocesssettings.priority.label,,Priority,0
+messages,oro.case.casemailboxprocesssettings.status.label,,Status,0
+messages,oro.case.casemailboxprocesssettings.tags.label,,Tags,0
+messages,oro.case.casepriority.entity_description,,"The case priority helps determine the order in which cases must be managed.",0
+messages,oro.case.casepriority.entity_label,,"Case Priority",0
+messages,oro.case.casepriority.entity_plural_label,,"Case Priorities",0
+messages,oro.case.casepriority.label.description,,"The label of the case priority ('High,' 'Normal,' or 'Low').",0
+messages,oro.case.casepriority.label.label,,Label,0
+messages,oro.case.casepriority.name.description,,"The unique identifier of the case priority record.",0
+messages,oro.case.casepriority.name.label,,Name,0
+messages,oro.case.casepriority.order.description,,"The order in which case priorities appear in the list on the interface. The higher the number, the higher is the priority.",0
+messages,oro.case.casepriority.order.label,,Order,0
+messages,oro.case.casesource.entity_description,,"How the information about the issue was recieved.",0
+messages,oro.case.casesource.entity_label,,"Case Source",0
+messages,oro.case.casesource.entity_plural_label,,"Case Sources",0
+messages,oro.case.casesource.label.description,,"The label of the case source ('Email,' 'Other,' 'Phone,' or 'Web').",0
+messages,oro.case.casesource.label.label,,Label,0
+messages,oro.case.casesource.name.description,,"The unique identifier of the case source record.",0
+messages,oro.case.casesource.name.label,,Name,0
+messages,oro.case.casestatus.entity_description,,"The phase of work on the case.",0
+messages,oro.case.casestatus.entity_label,,"Case Status",0
+messages,oro.case.casestatus.entity_plural_label,,"Case Statuses",0
+messages,oro.case.casestatus.label.description,,"The label of the case status ('Open,' 'In Progress,' 'Resolved,' or 'Closed').",0
+messages,oro.case.casestatus.label.label,,Label,0
+messages,oro.case.casestatus.name.description,,"The unique identifier of the case status record.",0
+messages,oro.case.casestatus.name.label,,Name,0
+messages,oro.case.casestatus.order.description,,"The order in which case statuses are usually assigned to the case. The higher the number, the more advanced case management stage the case status represents.",0
+messages,oro.case.casestatus.order.label,,Order,0
+messages,oro.case.datagrid.assigned_to.label,,"Assigned To",0
+messages,oro.case.datagrid.case_number.label,,"Case ID",0
+messages,oro.case.datagrid.closed_on.label,,"Closed On",0
+messages,oro.case.datagrid.id.label,,"Case Id",0
+messages,oro.case.datagrid.owner.label,,Owner,0
+messages,oro.case.datagrid.priority.label,,Priority,0
+messages,oro.case.datagrid.related_account.label,,"Related Account",0
+messages,oro.case.datagrid.related_contact.label,,"Related Contact",0
+messages,oro.case.datagrid.reported_on.label,,"Reported On",0
+messages,oro.case.datagrid.source.label,,Source,0
+messages,oro.case.datagrid.status.label,,Status,0
+messages,oro.case.datagrid.subject.label,,Subject,0
+messages,oro.case.mailbox.process.case.label,,"Convert To Case",0
+messages,oro.case.menu.index.label,,Cases,0
+messages,oro.case.message.saved,,"Case saved",0
+messages,oro.case.widgets.account_cases,,Cases,0
+messages,oro.case.widgets.contact_cases,,Cases,0
+messages,oro.channel.active.label,,Active,0
+messages,oro.channel.button.activate.label,,Activate,0
+messages,oro.channel.button.deactivate.label,,Deactivate,0
+messages,oro.channel.channel_type.custom.label,,Custom,0
+messages,oro.channel.channel_type.description,,"Defines a set of default rules and settings used for the channel",0
+messages,oro.channel.channel_type.label,,"Channel type",0
+messages,oro.channel.controller.message.saved,,"Channel saved",0
+messages,oro.channel.controller.message.status.activated,,"Channel activated",0
+messages,oro.channel.controller.message.status.deactivated,,"Channel deactivated",0
+messages,oro.channel.customer_identity.description,,"Determines entity that will be used as customer identifier for channels that are based on the current type",0
+messages,oro.channel.customer_identity.label,,"Customer identity",0
+messages,oro.channel.customeridentity.account.label,,Account,0
+messages,oro.channel.customeridentity.contact.label,,Contact,0
+messages,oro.channel.customeridentity.data_channel.label,,Channel,0
+messages,oro.channel.customeridentity.entity_label,,"Customer identity",0
+messages,oro.channel.customeridentity.entity_plural_label,,"Customer identities",0
+messages,oro.channel.customeridentity.id.label,,Id,0
+messages,oro.channel.customeridentity.name.label,,Name,0
+messages,oro.channel.customeridentity.owner.label,,Owner,0
+messages,oro.channel.dashboard.average_lifetime_sales_chart.axis_label,,"Lifetime sales",0
+messages,oro.channel.dashboard.average_lifetime_sales_chart.description,,"This widget shows average lifetime sales for each data channel in form of a line chart",0
+messages,oro.channel.dashboard.average_lifetime_sales_chart.month,,Month,0
+messages,oro.channel.dashboard.average_lifetime_sales_chart.title,,"Average lifetime sales",0
+messages,oro.channel.dashboard.e_commerce.label,,Ecommerce,0
+messages,oro.channel.data.label,,"Additional Data",0
+messages,oro.channel.data_source.description,,Integration,0
+messages,oro.channel.data_source.label,,Integration,0
+messages,oro.channel.datagrid.action.delete.label,,Delete,0
+messages,oro.channel.datagrid.action.update.label,,Update,0
+messages,oro.channel.entities.description,,"Determines which fields will be defined in entities field after channel type has been selected",0
+messages,oro.channel.entities.label,,Entities,0
+messages,oro.channel.entity_label,,Channel,0
+messages,oro.channel.entity_plural_label,,Channels,0
+messages,oro.channel.form.select_channel_status.label,,"Choose channel status...",0
+messages,oro.channel.form.select_channel_type.label,,"Choose channel type...",0
+messages,oro.channel.form.select_customer_identity.label,,"Please select customer identity",0
+messages,oro.channel.form.select_data_source.label,,"Please select customer source",0
+messages,oro.channel.form.select_entities.label,,"Please select entities",0
+messages,oro.channel.id.label,,Id,0
+messages,oro.channel.inactive.label,,Inactive,0
+messages,oro.channel.name.description,,"The name used to refer to the channel in the system. It is recommended to keep the name meaningful.",0
+messages,oro.channel.name.label,,Name,0
+messages,oro.channel.owner.label,,Owner,0
+messages,oro.channel.status.description,,"Determines the record status. Possible values: True(Activated) or False(Inactivated).",0
+messages,oro.channel.status.label,,Status,0
+messages,oro.channel.tracking_website_channel_select.tooltip,,"Please select channel for which this tracking website belongs to. Depending on channel type different rules can be applied for customer identification.",0
+messages,oro.chart.bar_chart.label,,"Bar Chart",0
+messages,oro.chart.bar_chart.params.label,,"Category (X axis)",0
+messages,oro.chart.bar_chart.params.value,,"Value (Y axis)",0
+messages,oro.chart.flow_chart.label,,"Flow Chart",0
+messages,oro.chart.flow_chart.params.is_nozzle,,"Is step nozzle",0
+messages,oro.chart.flow_chart.params.label,,"Step label",0
+messages,oro.chart.flow_chart.params.value,,"Step value",0
+messages,oro.chart.form.chart_empty_value,,None,0
+messages,oro.chart.form.name.label,,"Chart Type",0
+messages,oro.chart.line_chart.label,,"Line Chart",0
+messages,oro.chart.line_chart.params.label,,"Category (X axis)",0
+messages,oro.chart.line_chart.params.value,,"Value (Y axis)",0
+messages,oro.chart.line_chart.settings.connect_dots_with_line,,"Connect dots with line",0
+messages,oro.chart.multiline_chart.label,,"Line Chart",0
+messages,oro.chart.multiline_chart.params.label,,"Category (X axis)",0
+messages,oro.chart.multiline_chart.params.value,,"Value (Y axis)",0
+messages,oro.chart.multiline_chart.settings.connect_dots_with_line,,"Connect dots with line",0
+messages,oro.chart.no_data,,"No data",0
+messages,oro.chart.pie_chart.label,,"Pie Chart",0
+messages,oro.chart.pie_chart.params.label,,"Fraction Label",0
+messages,oro.chart.pie_chart.params.value,,"Fraction Value",0
+messages,oro.chart.stackedbar_chart.hint,,"Drag the chart to see more data.",0
+messages,oro.comment.attachment.description,,"The file that is attached to the comment.",0
+messages,oro.comment.attachment.label,,Attachment,0
+messages,oro.comment.enabled,,"Enable comments",0
+messages,oro.comment.entity_description,,"The written remarks related to specific entity records.",0
+messages,oro.comment.entity_label,,Comment,0
+messages,oro.comment.entity_plural_label,,Comments,0
+messages,oro.comment.id.description,,"The unique identifier of the comment record.",0
+messages,oro.comment.id.label,,Id,0
+messages,oro.comment.message.description,,"The comment text.",0
+messages,oro.comment.message.label,,Message,0
+messages,oro.comment.message.placeholder,,"Enter your comment...",0
+messages,oro.comment.organization.label,,Organization,0
+messages,oro.comment.owner.label,,Owner,0
+messages,oro.comment.quantity_label,,"Comments quantity",0
+messages,oro.comment.updated_by.description,,"The user who last updated the comment.",0
+messages,oro.comment.updated_by.label,,"Updated by",0
+messages,oro.config.acl.action.general.label,,"Access system configuration",0
+messages,oro.config.actions.collapse_all,,"Collapse All",0
+messages,oro.config.actions.expand_all,,"Expand All",0
+messages,oro.config.actions.restore_saved_values,,Reset,0
+messages,oro.config.actions.save_settings,,"Save settings",0
+messages,oro.config.controller.config.saved.message,,"Configuration saved",0
+messages,oro.config.controller.page.reload.message,,"Please wait for the page to reload",0
+messages,oro.config.menu.system_configuration.description,,"System configuration",0
+messages,oro.config.menu.system_configuration.label,,Configuration,0
+messages,oro.config.module_label,,"System configuration",0
+messages,oro.config.system_configuration.desktop_only,,"System configuration is not available in mobile version. Please open the page on the desktop.",0
+messages,oro.config.system_configuration.groups.general_setup.title,,"General Setup",0
+messages,oro.config.system_configuration.groups.platform.title,,"System Configuration",0
+messages,oro.config.system_configuration.use_default,,"Use default",0
+messages,oro.contact.account.no_contacts_exist,,"No contacts exist",0
+messages,oro.contact.accounts.description,,"A collection of accounts the contact is related to. Might indicate employment or other close relations.",0
+messages,oro.contact.accounts.label,,Accounts,0
+messages,oro.contact.add_entity,,"Add contact",0
+messages,oro.contact.addresses.description,,"Collection of Contact addresses: mailing, business, home, billing, etc.",0
+messages,oro.contact.addresses.label,,Addresses,0
+messages,oro.contact.assigned_to.description,,"OroCRM user who is responsible for managing relations with the contact.",0
+messages,oro.contact.assigned_to.label,,"Assigned to",0
+messages,oro.contact.birthday.description,,"Date of contact's birthday.",0
+messages,oro.contact.birthday.label,,Birthday,0
+messages,oro.contact.contact_information.label,,"Contact Information",0
+messages,oro.contact.contactaddress.city.description,,"The city specified in the contact address.",0
+messages,oro.contact.contactaddress.city.label,,City,0
+messages,oro.contact.contactaddress.country.description,,"The country specified in the contact address.",0
+messages,oro.contact.contactaddress.country.label,,Country,0
+messages,oro.contact.contactaddress.country_iso2_code.label,,"Country ISO2 code",0
+messages,oro.contact.contactaddress.country_iso3_code.label,,"Country ISO3 code",0

@@ -1,0 +1,400 @@
+entities,region.BS-RC,,"Rum Cay",0
+entities,region.BS-RI,,"Ragged Island",0
+entities,region.BS-SA,,"South Andros",0
+entities,region.BS-SE,,"South Eleuthera",0
+entities,region.BS-SO,,"South Abaco",0
+entities,region.BS-SS,,"San Salvador",0
+entities,region.BS-SW,,"Spanish Wells",0
+entities,region.BS-WG,,"West Grand Bahama",0
+entities,region.BT-11,,Paro,0
+entities,region.BT-12,,Chhukha,0
+entities,region.BT-13,,Ha,0
+entities,region.BT-14,,Samtee,0
+entities,region.BT-15,,Thimphu,0
+entities,region.BT-21,,Tsirang,0
+entities,region.BT-22,,Dagana,0
+entities,region.BT-23,,Punakha,0
+entities,region.BT-24,,"Wangdue Phodrang",0
+entities,region.BT-31,,Sarpang,0
+entities,region.BT-32,,Trongsa,0
+entities,region.BT-33,,Bumthang,0
+entities,region.BT-34,,Zhemgang,0
+entities,region.BT-41,,Trashigang,0
+entities,region.BT-42,,Monggar,0
+entities,region.BT-43,,Pemagatshel,0
+entities,region.BT-44,,Lhuentse,0
+entities,region.BT-45,,"Samdrup Jongkha",0
+entities,region.BT-GA,,Gasa,0
+entities,region.BT-TY,,"Trashi Yangtse",0
+entities,region.BW-CE,,Central,0
+entities,region.BW-GH,,Ghanzi,0
+entities,region.BW-KG,,Kgalagadi,0
+entities,region.BW-KL,,Kgatleng,0
+entities,region.BW-KW,,Kweneng,0
+entities,region.BW-NE,,North-East,0
+entities,region.BW-NG,,Ngamiland,0
+entities,region.BW-NW,,"North-West (Botswana)",0
+entities,region.BW-SE,,South-East,0
+entities,region.BW-SO,,"Southern (Botswana)",0
+entities,region.BY-BR,,"Brèsckaja voblasc'",0
+entities,region.BY-HM,,"Horad Minsk",0
+entities,region.BY-HO,,"Homel'skaja voblasc'",0
+entities,region.BY-HR,,"Hrodzenskaja voblasc'",0
+entities,region.BY-MA,,"Mahilëuskaja voblasc'",0
+entities,region.BY-MI,,"Minskaja voblasc'",0
+entities,region.BY-VI,,"Vicebskaja voblasc'",0
+entities,region.BZ-BZ,,Belize,0
+entities,region.BZ-CY,,Cayo,0
+entities,region.BZ-CZL,,Corozal,0
+entities,region.BZ-OW,,"Orange Walk",0
+entities,region.BZ-SC,,"Stann Creek",0
+entities,region.BZ-TOL,,Toledo,0
+entities,region.CA-AB,,Alberta,0
+entities,region.CA-BC,,"British Columbia",0
+entities,region.CA-MB,,Manitoba,0
+entities,region.CA-NB,,"New Brunswick",0
+entities,region.CA-NL,,"Newfoundland and Labrador",0
+entities,region.CA-NS,,"Nova Scotia",0
+entities,region.CA-NT,,"Northwest Territories",0
+entities,region.CA-NU,,Nunavut,0
+entities,region.CA-ON,,Ontario,0
+entities,region.CA-PE,,"Prince Edward Island",0
+entities,region.CA-QC,,Quebec,0
+entities,region.CA-SK,,Saskatchewan,0
+entities,region.CA-YT,,"Yukon Territory",0
+entities,region.CD-BC,,Bas-Congo,0
+entities,region.CD-BN,,Bandundu,0
+entities,region.CD-EQ,,Équateur,0
+entities,region.CD-HC,,Haut-Congo,0
+entities,region.CD-KA,,Katanga,0
+entities,region.CD-KE,,Kasai-Oriental,0
+entities,region.CD-KN,,Kinshasa,0
+entities,region.CD-KW,,Kasai-Occidental,0
+entities,region.CD-MA,,Maniema,0
+entities,region.CD-NK,,Nord-Kivu,0
+entities,region.CD-OR,,Orientale,0
+entities,region.CD-SK,,Sud-Kivu,0
+entities,region.CF-AC,,Ouham,0
+entities,region.CF-BB,,Bamingui-Bangoran,0
+entities,region.CF-BGF,,Bangui,0
+entities,region.CF-BK,,Basse-Kotto,0
+entities,region.CF-HK,,Haute-Kotto,0
+entities,region.CF-HM,,Haut-Mbomou,0
+entities,region.CF-HS,,"Haute-Sangha / Mambéré-Kadéï",0
+entities,region.CF-KB,,Gribingui,0
+entities,region.CF-KG,,Kémo-Gribingui,0
+entities,region.CF-LB,,Lobaye,0
+entities,region.CF-MB,,Mbomou,0
+entities,region.CF-MP,,Ombella-M'poko,0
+entities,region.CF-NM,,Nana-Mambéré,0
+entities,region.CF-OP,,Ouham-Pendé,0
+entities,region.CF-SE,,Sangha,0
+entities,region.CF-UK,,Ouaka,0
+entities,region.CF-VR,,Vakaga,0
+entities,region.CG-11,,Bouenza,0
+entities,region.CG-12,,Pool,0
+entities,region.CG-13,,Sangha,0
+entities,region.CG-14,,Plateaux,0
+entities,region.CG-15,,Cuvette-Ouest,0
+entities,region.CG-2,,Lékoumou,0
+entities,region.CG-5,,Kouilou,0
+entities,region.CG-7,,Likouala,0
+entities,region.CG-8,,Cuvette,0
+entities,region.CG-9,,Niari,0
+entities,region.CG-BZV,,Brazzaville,0
+entities,region.CH-AG,,Aargau,0
+entities,region.CH-AI,,"Appenzell Innerrhoden",0
+entities,region.CH-AR,,"Appenzell Ausserrhoden",0
+entities,region.CH-BE,,Bern,0
+entities,region.CH-BL,,Basel-Landschaft,0
+entities,region.CH-BS,,Basel-Stadt,0
+entities,region.CH-FR,,Fribourg,0
+entities,region.CH-GE,,Genève,0
+entities,region.CH-GL,,Glarus,0
+entities,region.CH-GR,,Graubünden,0
+entities,region.CH-JU,,Jura,0
+entities,region.CH-LU,,Luzern,0
+entities,region.CH-NE,,Neuchâtel,0
+entities,region.CH-NW,,Nidwalden,0
+entities,region.CH-OW,,Obwalden,0
+entities,region.CH-SG,,"Sankt Gallen",0
+entities,region.CH-SH,,Schaffhausen,0
+entities,region.CH-SO,,Solothurn,0
+entities,region.CH-SZ,,Schwyz,0
+entities,region.CH-TG,,Thurgau,0
+entities,region.CH-TI,,Ticino,0
+entities,region.CH-UR,,Uri,0
+entities,region.CH-VD,,Vaud,0
+entities,region.CH-VS,,Valais,0
+entities,region.CH-ZG,,Zug,0
+entities,region.CH-ZH,,Zürich,0
+entities,region.CI-01,,"Lagunes (Région des)",0
+entities,region.CI-02,,"Haut-Sassandra (Région du)",0
+entities,region.CI-03,,"Savanes (Région des)",0
+entities,region.CI-04,,"Vallée du Bandama (Région de la)",0
+entities,region.CI-05,,"Moyen-Comoé (Région du)",0
+entities,region.CI-06,,"18 Montagnes (Région des)",0
+entities,region.CI-07,,"Lacs (Région des)",0
+entities,region.CI-08,,"Zanzan (Région du)",0
+entities,region.CI-09,,"Bas-Sassandra (Région du)",0
+entities,region.CI-10,,"Denguélé (Région du)",0
+entities,region.CI-11,,"Nzi-Comoé (Région)",0
+entities,region.CI-12,,"Marahoué (Région de la)",0
+entities,region.CI-13,,"Sud-Comoé (Région du)",0
+entities,region.CI-14,,"Worodouqou (Région du)",0
+entities,region.CI-15,,"Sud-Bandama (Région du)",0
+entities,region.CI-16,,"Agnébi (Région de l')",0
+entities,region.CI-17,,"Bafing (Région du)",0
+entities,region.CI-18,,"Fromager (Région du)",0
+entities,region.CI-19,,"Moyen-Cavally (Région du)",0
+entities,region.CL-AI,,"Aisén del General Carlos Ibáñez del Campo",0
+entities,region.CL-AN,,Antofagasta,0
+entities,region.CL-AP,,"Arica y Parinacota",0
+entities,region.CL-AR,,Araucanía,0
+entities,region.CL-AT,,Atacama,0
+entities,region.CL-BI,,Bío-Bío,0
+entities,region.CL-CO,,Coquimbo,0
+entities,region.CL-LI,,"Libertador General Bernardo O'Higgins",0
+entities,region.CL-LL,,"Los Lagos",0
+entities,region.CL-LR,,"Los Ríos",0
+entities,region.CL-MA,,"Magallanes y Antártica Chilena",0
+entities,region.CL-ML,,Maule,0
+entities,region.CL-RM,,"Región Metropolitana de Santiago",0
+entities,region.CL-TA,,Tarapacá,0
+entities,region.CL-VS,,Valparaíso,0
+entities,region.CM-AD,,Adamaoua,0
+entities,region.CM-CE,,Centre,0
+entities,region.CM-EN,,"Far North",0
+entities,region.CM-ES,,East,0
+entities,region.CM-LT,,Littoral,0
+entities,region.CM-NO,,North,0
+entities,region.CM-NW,,"North-West (Cameroon)",0
+entities,region.CM-OU,,West,0
+entities,region.CM-SU,,South,0
+entities,region.CM-SW,,South-West,0
+entities,region.CN-11,,Beijing,0
+entities,region.CN-12,,Tianjin,0
+entities,region.CN-13,,Hebei,0
+entities,region.CN-14,,Shanxi,0
+entities,region.CN-15,,"Nei Mongol",0
+entities,region.CN-21,,Liaoning,0
+entities,region.CN-22,,Jilin,0
+entities,region.CN-23,,Heilongjiang,0
+entities,region.CN-31,,Shanghai,0
+entities,region.CN-32,,Jiangsu,0
+entities,region.CN-33,,Zhejiang,0
+entities,region.CN-34,,Anhui,0
+entities,region.CN-35,,Fujian,0
+entities,region.CN-36,,Jiangxi,0
+entities,region.CN-37,,Shandong,0
+entities,region.CN-41,,Henan,0
+entities,region.CN-42,,Hubei,0
+entities,region.CN-43,,Hunan,0
+entities,region.CN-44,,Guangdong,0
+entities,region.CN-45,,Guangxi,0
+entities,region.CN-46,,Hainan,0
+entities,region.CN-50,,Chongqing,0
+entities,region.CN-51,,Sichuan,0
+entities,region.CN-52,,Guizhou,0
+entities,region.CN-53,,Yunnan,0
+entities,region.CN-54,,Xizang,0
+entities,region.CN-61,,Shaanxi,0
+entities,region.CN-62,,Gansu,0
+entities,region.CN-63,,Qinghai,0
+entities,region.CN-64,,Ningxia,0
+entities,region.CN-65,,Xinjiang,0
+entities,region.CN-71,,Taiwan,0
+entities,region.CN-91,,"Xianggang (Hong-Kong)",0
+entities,region.CN-92,,"Aomen (Macau)",0
+entities,region.CO-AMA,,Amazonas,0
+entities,region.CO-ANT,,Antioquia,0
+entities,region.CO-ARA,,Arauca,0
+entities,region.CO-ATL,,Atlántico,0
+entities,region.CO-BOL,,Bolívar,0
+entities,region.CO-BOY,,Boyacá,0
+entities,region.CO-CAL,,Caldas,0
+entities,region.CO-CAQ,,Caquetá,0
+entities,region.CO-CAS,,Casanare,0
+entities,region.CO-CAU,,Cauca,0
+entities,region.CO-CES,,Cesar,0
+entities,region.CO-CHO,,Chocó,0
+entities,region.CO-COR,,Córdoba,0
+entities,region.CO-CUN,,Cundinamarca,0
+entities,region.CO-DC,,"Distrito Capital de Bogotá",0
+entities,region.CO-GUA,,Guainía,0
+entities,region.CO-GUV,,Guaviare,0
+entities,region.CO-HUI,,Huila,0
+entities,region.CO-LAG,,"La Guajira",0
+entities,region.CO-MAG,,Magdalena,0
+entities,region.CO-MET,,Meta,0
+entities,region.CO-NAR,,Nariño,0
+entities,region.CO-NSA,,"Norte de Santander",0
+entities,region.CO-PUT,,Putumayo,0
+entities,region.CO-QUI,,Quindío,0
+entities,region.CO-RIS,,Risaralda,0
+entities,region.CO-SAN,,Santander,0
+entities,region.CO-SAP,,"San Andrés, Providencia y Santa Catalina",0
+entities,region.CO-SUC,,Sucre,0
+entities,region.CO-TOL,,Tolima,0
+entities,region.CO-VAC,,"Valle del Cauca",0
+entities,region.CO-VAU,,Vaupés,0
+entities,region.CO-VID,,Vichada,0
+entities,region.CR-A,,Alajuela,0
+entities,region.CR-C,,Cartago,0
+entities,region.CR-G,,Guanacaste,0
+entities,region.CR-H,,Heredia,0
+entities,region.CR-L,,Limón,0
+entities,region.CR-P,,Puntarenas,0
+entities,region.CR-SJ,,"San José",0
+entities,region.CU-01,,"Pinar del Rio",0
+entities,region.CU-02,,"La Habana",0
+entities,region.CU-03,,"Ciudad de La Habana",0
+entities,region.CU-04,,Matanzas,0
+entities,region.CU-05,,"Villa Clara",0
+entities,region.CU-06,,Cienfuegos,0
+entities,region.CU-07,,"Sancti Spíritus",0
+entities,region.CU-08,,"Ciego de Ávila",0
+entities,region.CU-09,,Camagüey,0
+entities,region.CU-10,,"Las Tunas",0
+entities,region.CU-11,,Holguín,0
+entities,region.CU-12,,Granma,0
+entities,region.CU-13,,"Santiago de Cuba",0
+entities,region.CU-14,,Guantánamo,0
+entities,region.CU-99,,"Isla de la Juventud",0
+entities,region.CV-B,,"Ilhas de Barlavento",0
+entities,region.CV-BR,,Brava,0
+entities,region.CV-BV,,"Boa Vista",0
+entities,region.CV-CA,,"Santa Catarina",0
+entities,region.CV-CF,,"Santa Catarina de Fogo",0
+entities,region.CV-CR,,"Santa Cruz",0
+entities,region.CV-MA,,Maio,0
+entities,region.CV-MO,,Mosteiros,0
+entities,region.CV-PA,,Paul,0
+entities,region.CV-PN,,"Porto Novo",0
+entities,region.CV-PR,,Praia,0
+entities,region.CV-RB,,"Ribeira Brava",0
+entities,region.CV-RG,,"Ribeira Grande",0
+entities,region.CV-RS,,"Ribeira Grande de Santiago",0
+entities,region.CV-S,,"Ilhas de Sotavento",0
+entities,region.CV-SD,,"São Domingos",0
+entities,region.CV-SF,,"São Filipe",0
+entities,region.CV-SL,,"São Lourenço dos Órgãos",0
+entities,region.CV-SM,,"São Miguel",0
+entities,region.CV-SS,,"São Salvador do Mundo",0
+entities,region.CV-SV,,"São Vicente",0
+entities,region.CV-TA,,Tarrafal,0
+entities,region.CV-TS,,"Tarrafal de São Nicolau",0
+entities,region.CY-01,,Lefkosía,0
+entities,region.CY-02,,Lemesós,0
+entities,region.CY-03,,Lárnaka,0
+entities,region.CY-04,,Ammóchostos,0
+entities,region.CY-05,,Páfos,0
+entities,region.CY-06,,Kerýneia,0
+entities,region.CZ-JC,,"Jihočeský kraj",0
+entities,region.CZ-JM,,"Jihomoravský kraj",0
+entities,region.CZ-KA,,"Karlovarský kraj",0
+entities,region.CZ-KR,,"Královéhradecký kraj",0
+entities,region.CZ-LI,,"Liberecký kraj",0
+entities,region.CZ-MO,,"Moravskoslezský kraj",0
+entities,region.CZ-OL,,"Olomoucký kraj",0
+entities,region.CZ-PA,,"Pardubický kraj",0
+entities,region.CZ-PL,,"Plzeňský kraj",0
+entities,region.CZ-PR,,"Praha, hlavní město",0
+entities,region.CZ-ST,,"Středočeský kraj",0
+entities,region.CZ-US,,"Ústecký kraj",0
+entities,region.CZ-VY,,Vysočina,0
+entities,region.CZ-ZL,,"Zlínský kraj",0
+entities,region.DE-BB,,Brandenburg,0
+entities,region.DE-BE,,Berlin,0
+entities,region.DE-BW,,Baden-Württemberg,0
+entities,region.DE-BY,,Bayern,0
+entities,region.DE-HB,,Bremen,0
+entities,region.DE-HE,,Hessen,0
+entities,region.DE-HH,,Hamburg,0
+entities,region.DE-MV,,Mecklenburg-Vorpommern,0
+entities,region.DE-NI,,Niedersachsen,0
+entities,region.DE-NW,,Nordrhein-Westfalen,0
+entities,region.DE-RP,,Rheinland-Pfalz,0
+entities,region.DE-SH,,Schleswig-Holstein,0
+entities,region.DE-SL,,Saarland,0
+entities,region.DE-SN,,Sachsen,0
+entities,region.DE-ST,,Sachsen-Anhalt,0
+entities,region.DE-TH,,Thüringen,0
+entities,region.DJ-AR,,Arta,0
+entities,region.DJ-AS,,"Ali Sabieh",0
+entities,region.DJ-DI,,Dikhil,0
+entities,region.DJ-DJ,,Djibouti,0
+entities,region.DJ-OB,,Obock,0
+entities,region.DJ-TA,,Tadjourah,0
+entities,region.DK-81,,Nordjylland,0
+entities,region.DK-82,,Midtjylland,0
+entities,region.DK-83,,Syddanmark,0
+entities,region.DK-84,,Hovedstaden,0
+entities,region.DK-85,,Sjælland,0
+entities,region.DM-01,,"Saint Peter",0
+entities,region.DM-02,,"Saint Andrew",0
+entities,region.DM-03,,"Saint David",0
+entities,region.DM-04,,"Saint George",0
+entities,region.DM-05,,"Saint John",0
+entities,region.DM-06,,"Saint Joseph",0
+entities,region.DM-07,,"Saint Luke",0
+entities,region.DM-08,,"Saint Mark",0
+entities,region.DM-09,,"Saint Patrick",0
+entities,region.DM-10,,"Saint Paul",0
+entities,region.DO-01,,"Distrito Nacional (Santo Domingo)",0
+entities,region.DO-02,,Azua,0
+entities,region.DO-03,,Bahoruco,0
+entities,region.DO-04,,Barahona,0
+entities,region.DO-05,,Dajabón,0
+entities,region.DO-06,,Duarte,0
+entities,region.DO-07,,"La Estrelleta [Elías Piña]",0
+entities,region.DO-08,,"El Seybo [El Seibo]",0
+entities,region.DO-09,,Espaillat,0
+entities,region.DO-10,,Independencia,0
+entities,region.DO-11,,"La Altagracia",0
+entities,region.DO-12,,"La Romana",0
+entities,region.DO-13,,"La Vega",0
+entities,region.DO-14,,"María Trinidad Sánchez",0
+entities,region.DO-15,,"Monte Cristi",0
+entities,region.DO-16,,Pedernales,0
+entities,region.DO-17,,Peravia,0
+entities,region.DO-18,,"Puerto Plata",0
+entities,region.DO-19,,Salcedo,0
+entities,region.DO-20,,Samaná,0
+entities,region.DO-21,,"San Cristóbal",0
+entities,region.DO-22,,"San Juan",0
+entities,region.DO-23,,"San Pedro de Macorís",0
+entities,region.DO-24,,"Sánchez Ramírez",0
+entities,region.DO-25,,Santiago,0
+entities,region.DO-26,,"Santiago Rodríguez",0
+entities,region.DO-27,,Valverde,0
+entities,region.DO-28,,"Monseñor Nouel",0
+entities,region.DO-29,,"Monte Plata",0
+entities,region.DO-30,,"Hato Mayor",0
+entities,region.DZ-01,,Adrar,0
+entities,region.DZ-02,,Chlef,0
+entities,region.DZ-03,,Laghouat,0
+entities,region.DZ-04,,"Oum el Bouaghi",0
+entities,region.DZ-05,,Batna,0
+entities,region.DZ-06,,Béjaïa,0
+entities,region.DZ-07,,Biskra,0
+entities,region.DZ-08,,Béchar,0
+entities,region.DZ-09,,Blida,0
+entities,region.DZ-10,,Bouira,0
+entities,region.DZ-11,,Tamanghasset,0
+entities,region.DZ-12,,Tébessa,0
+entities,region.DZ-13,,Tlemcen,0
+entities,region.DZ-14,,Tiaret,0
+entities,region.DZ-15,,"Tizi Ouzou",0
+entities,region.DZ-16,,Alger,0
+entities,region.DZ-17,,Djelfa,0
+entities,region.DZ-18,,Jijel,0
+entities,region.DZ-19,,Sétif,0
+entities,region.DZ-20,,Saïda,0
+entities,region.DZ-21,,Skikda,0
+entities,region.DZ-22,,"Sidi Bel Abbès",0
+entities,region.DZ-23,,Annaba,0
+entities,region.DZ-24,,Guelma,0
+entities,region.DZ-25,,Constantine,0
+entities,region.DZ-26,,Médéa,0
+entities,region.DZ-27,,Mostaganem,0

@@ -1,0 +1,400 @@
+messages,oro.locale.date_format.quarter,,"QQQ Y",0
+messages,oro.locale.date_format.year,,"'Year' Y",0
+messages,oro.locale.fallback.type.default,,"Default Value",0
+messages,oro.locale.fallback.type.parent_localization,,"Parent Localization",0
+messages,oro.locale.fallback.use_fallback.label,,Use,0
+messages,oro.locale.fallback.value.default,,"Default Value",0
+messages,oro.locale.form.tooltip.currency,,"Select the default currency",0
+messages,oro.locale.form.tooltip.format_address_by_address_country,,"When this option is selected, addresses will be formatted according to the rules of their countries. Otherwise, the primary location formatting will be applied.",0
+messages,oro.locale.form.tooltip.language,,"Select the system language from the list of the installed translations (see System &rarr; Localization &rarr; Languages).",0
+messages,oro.locale.form.tooltip.languages,,"Select the languages that can be used to translate email templates.",0
+messages,oro.locale.form.tooltip.locale,,"Locale selection affects the formatting of numbers, addresses, names, and dates.",0
+messages,oro.locale.form.tooltip.location,," If Format address per country option is disabled, or there is no country-specific formatting, the addresses will be formatted according to the rules of primary location.",0
+messages,oro.locale.form.tooltip.quarter_start,,"Set the date when the first quarter of the year starts.",0
+messages,oro.locale.form.tooltip.temperature_unit,,"Select the temperature unit. This settings will be applied for the weather on the map.",0
+messages,oro.locale.form.tooltip.timezone,,"Select the timezone of your location. All dates and times will be displayed in the specified timezone.",0
+messages,oro.locale.form.tooltip.wind_speed_unit,,"Select the wind speed unit. This settings will be applied for the weather on the map.",0
+messages,oro.locale.formatter.datetime.default,,N/A,0
+messages,oro.locale.localization.child_localizations.description,,"The relationships between the localization item and other localization items that treat the localization item as a parent localization.",0
+messages,oro.locale.localization.child_localizations.label,,"Child localizations",0
+messages,oro.locale.localization.entity_description,,"Localization item stores locale-specific configuration: the language code of the locale's main language, a formatting code that is used for the locale, and a parent localization that is used by default whenever the translation for the main language is missing.",0
+messages,oro.locale.localization.entity_label,,Localization,0
+messages,oro.locale.localization.entity_plural_label,,Localizations,0
+messages,oro.locale.localization.form.placeholder.choose,,"Choose a localization...",0
+messages,oro.locale.localization.form.placeholder.select_formatting,,"Please select formatting...",0
+messages,oro.locale.localization.form.placeholder.select_language,,"Please select language...",0
+messages,oro.locale.localization.form.placeholder.select_localization,,"Please select localization...",0
+messages,oro.locale.localization.form.placeholder.select_parent_localization,,"Please select parent localization...",0
+messages,oro.locale.localization.formatting_code.description,,"Code of the formatting style that should apply in the localized instance.",0
+messages,oro.locale.localization.formatting_code.label,,Formatting,0
+messages,oro.locale.localization.id.label,,Id,0
+messages,oro.locale.localization.language.label,,Language,0
+messages,oro.locale.localization.name.description,,"A human readable localization name that helps identify settings for a particular locale.",0
+messages,oro.locale.localization.name.label,,Name,0
+messages,oro.locale.localization.navigation.view,,"Localization ""%name%""",0
+messages,oro.locale.localization.parent_localization.description,,"The relationships between the localization item and its parent localization.",0
+messages,oro.locale.localization.parent_localization.label,,"Parent localization",0
+messages,oro.locale.localization.sections.general,,General,0
+messages,oro.locale.localization.title.label,,Title,0
+messages,oro.locale.localization.titles.description,,"The relationship between the localization item and its localizable label that is used to refer to the localization in the UI.",0
+messages,oro.locale.localization.titles.label,,Titles,0
+messages,oro.locale.localization.widgets.localization_information,,"Localization Information",0
+messages,oro.locale.localizedfallbackvalue.entity_description,,"Localizedfallbackvalue stores relationships between the text values (content like name, description, etc.) and their translation data.",0
+messages,oro.locale.localizedfallbackvalue.entity_label,,"Localized fallback value",0
+messages,oro.locale.localizedfallbackvalue.entity_plural_label,,"Localized fallback values",0
+messages,oro.locale.localizedfallbackvalue.fallback.description,,"The value for the fallback",0
+messages,oro.locale.localizedfallbackvalue.fallback.label,,Fallback,0
+messages,oro.locale.localizedfallbackvalue.id.label,,ID,0
+messages,oro.locale.localizedfallbackvalue.localization.description,,"The value for the localization, selected language",0
+messages,oro.locale.localizedfallbackvalue.localization.label,,Localization,0
+messages,oro.locale.localizedfallbackvalue.string.description,,"The string value for the curent localization",0
+messages,oro.locale.localizedfallbackvalue.string.label,,"String value",0
+messages,oro.locale.localizedfallbackvalue.text.description,,"The text value for the curent localization, can contain html tags",0
+messages,oro.locale.localizedfallbackvalue.text.label,,"Text value",0
+messages,oro.locale.menu.localization.label,,Localization,0
+messages,oro.locale.menu.localizations.label,,Localizations,0
+messages,oro.locale.system_configuration.fields.country.label,,"Primary Location",0
+messages,oro.locale.system_configuration.fields.currency.label,,Currency,0
+messages,oro.locale.system_configuration.fields.default_localization.label,,"Default Localization",0
+messages,oro.locale.system_configuration.fields.enabled_localizations.label,,"Enabled Localizations",0
+messages,oro.locale.system_configuration.fields.format_address_by_address_country.label,,"Format address per country",0
+messages,oro.locale.system_configuration.fields.language.label,,"Default Language",0
+messages,oro.locale.system_configuration.fields.languages.label,,"Supported languages",0
+messages,oro.locale.system_configuration.fields.locale.label,,Locale,0
+messages,oro.locale.system_configuration.fields.quarter_start.label,,"First Quarter Starts on",0
+messages,oro.locale.system_configuration.fields.temperature_unit.choices.celsius,,Celsius,0
+messages,oro.locale.system_configuration.fields.temperature_unit.choices.fahrenheit,,Fahrenheit,0
+messages,oro.locale.system_configuration.fields.temperature_unit.label,,"Temperature Unit",0
+messages,oro.locale.system_configuration.fields.timezone.label,,Timezone,0
+messages,oro.locale.system_configuration.fields.wind_speed_unit.choices.kilometers_per_hour,,"Kilometers per hour",0
+messages,oro.locale.system_configuration.fields.wind_speed_unit.choices.meters_per_second,,"Meters per second",0
+messages,oro.locale.system_configuration.fields.wind_speed_unit.choices.miles_per_hour,,"Miles per hour",0
+messages,oro.locale.system_configuration.fields.wind_speed_unit.label,,"Wind Speed Unit",0
+messages,oro.locale.system_configuration.groups.language_languages.title,,Languages,0
+messages,oro.locale.system_configuration.groups.language_settings.title,,"Language Settings",0
+messages,oro.locale.system_configuration.groups.locale_settings.title,,"Localization options",0
+messages,oro.locale.system_configuration.groups.localization.title,,Localization,0
+messages,oro.locale.system_configuration.groups.localization_settings.title,,"Localization settings",0
+messages,oro.locale.system_configuration.groups.map_settings.title,,"Map options",0
+messages,oro.logger.system_configuration.fields.email_notification_recipients.label,,"Recipients email addresses",0
+messages,oro.logger.system_configuration.fields.email_notification_recipients.tooltip,,"To send notifications to specific people, type their email addresses separated by semicolons (;). Leave this field empty to disable error logs notification. ",0
+messages,oro.logger.system_configuration.groups.logger_notification_settings.title,,"Error logs notification",0
+messages,oro.magento.account.no_customers_exist,,"No customers exist",0
+messages,oro.magento.address.channel.description,,"The integration via which information about a Magento customer address is received.",0
+messages,oro.magento.address.channel.label,,Integration,0
+messages,oro.magento.address.city.description,,"The city specified in the Magento customer address.",0
+messages,oro.magento.address.city.label,,City,0
+messages,oro.magento.address.contact_address.description,,"The contact address specified in the Magento customer address.",0
+messages,oro.magento.address.contact_address.label,,"Contact address",0
+messages,oro.magento.address.contact_phone.label,,"Contact phone",0
+messages,oro.magento.address.country.description,,"The country specified in the Magento customer address.",0
+messages,oro.magento.address.country.label,,Country,0
+messages,oro.magento.address.country_iso2_code.label,,"Country ISO2 code",0
+messages,oro.magento.address.country_iso3_code.label,,"Country ISO3 code",0
+messages,oro.magento.address.country_name.label,,"Country name",0
+messages,oro.magento.address.country_text.description,,"The country specified in the Magento customer address if this country was not found in the system.",0
+messages,oro.magento.address.country_text.label,,"Country (Text)",0
+messages,oro.magento.address.created.description,,"The date and time when the Magento customer address was created.",0
+messages,oro.magento.address.created.label,,"Created at",0
+messages,oro.magento.address.entity_description,,"The address configured for a Magento customer.",0
+messages,oro.magento.address.entity_label,,"Magento Customer Address",0
+messages,oro.magento.address.entity_plural_label,,"Magento Customer Addresses",0
+messages,oro.magento.address.first_name.description,,"The first name that is specified in the Magento customer address.",0
+messages,oro.magento.address.first_name.label,,"First name",0
+messages,oro.magento.address.id.label,,Id,0
+messages,oro.magento.address.label.description,,"The label specified for the Magento customer address. The label is used to refer to the Magento customer address on the interface.",0
+messages,oro.magento.address.label.label,,Label,0
+messages,oro.magento.address.last_name.description,,"The last name that is specified in the Magento customer address.",0
+messages,oro.magento.address.last_name.label,,"Last name",0
+messages,oro.magento.address.middle_name.description,,"The middle name that is specified in the Magento customer address.",0
+messages,oro.magento.address.middle_name.label,,"Middle name",0
+messages,oro.magento.address.name_prefix.description,,"The name prefix specified in the Magento customer address.",0
+messages,oro.magento.address.name_prefix.label,,"Name prefix",0
+messages,oro.magento.address.name_suffix.description,,"The name suffix specified in the Magento customer address.",0
+messages,oro.magento.address.name_suffix.label,,"Name suffix",0
+messages,oro.magento.address.organization.description,,"The organization that is specified in the Magento customer address.",0
+messages,oro.magento.address.organization.label,,Organization,0
+messages,oro.magento.address.origin_id.description,,"The address ID on the Magento side.",0
+messages,oro.magento.address.origin_id.label,,"Origin id",0
+messages,oro.magento.address.owner.description,,"The Magento customer who is the owner of the Magento customer address.",0
+messages,oro.magento.address.owner.label,,Owner,0
+messages,oro.magento.address.phone.description,,"The phone specified in the Magento customer address.",0
+messages,oro.magento.address.phone.label,,Phone,0
+messages,oro.magento.address.postal_code.description,,"The postal code specified in the Magento customer address.",0
+messages,oro.magento.address.postal_code.label,,"Zip/Postal code",0
+messages,oro.magento.address.primary.description,,"Defines whether the Magento customer address is primary.",0
+messages,oro.magento.address.primary.label,,Primary,0
+messages,oro.magento.address.region.description,,"The region specified in the Magento customer address.",0
+messages,oro.magento.address.region.label,,State,0
+messages,oro.magento.address.region_code.label,,"State ISO code",0
+messages,oro.magento.address.region_name.label,,"State name",0
+messages,oro.magento.address.region_text.label,,State,0
+messages,oro.magento.address.street.description,,"The first line of the street address. Usually contains the street name and the building number.",0
+messages,oro.magento.address.street.label,,Street,0
+messages,oro.magento.address.street2.description,,"The second line of the street address. May contain the apartment number, P.O. box, building name, etc.",0
+messages,oro.magento.address.street2.label,,"Street 2",0
+messages,oro.magento.address.sync_state.description,,"Synchronization status.",0
+messages,oro.magento.address.sync_state.label,,"Sync State",0
+messages,oro.magento.address.types.description,,"The address types (whether it is a billing address, shipping address, or both) configured for the Magento customer address.",0
+messages,oro.magento.address.types.label,,Types,0
+messages,oro.magento.address.updated.description,,"The date and time when the Magento customer address was last updated.",0
+messages,oro.magento.address.updated.label,,"Updated at",0
+messages,oro.magento.cart.active_cart_items.label,,"Active Items",0
+messages,oro.magento.cart.b2c_flow_abandoned_shopping_cart.step.label,,Step,0
+messages,oro.magento.cart.base_currency_code.description,,"The ISO code of the base currency in which the cart items are sold.",0
+messages,oro.magento.cart.base_currency_code.label,,"Base currency",0
+messages,oro.magento.cart.billing_address.description,,"The billing address specified for a Magento shopping cart.",0
+messages,oro.magento.cart.billing_address.label,,"Billing address",0
+messages,oro.magento.cart.cart_items.description,,"The details of the items in a Magento shopping cart.",0
+messages,oro.magento.cart.cart_items.label,,"Cart Items",0
+messages,oro.magento.cart.channel.description,,"The integration via which information about a Magento shopping cart is received.",0
+messages,oro.magento.cart.channel.label,,Integration,0
+messages,oro.magento.cart.contact_information.label,,"Contact Information",0
+messages,oro.magento.cart.customer.description,,"The details of the customer who create a Magento shopping cart.",0
+messages,oro.magento.cart.customer.label,,Customer,0
+messages,oro.magento.cart.data_channel.description,,"The channel via which information about a Magento shopping cart has been received.",0
+messages,oro.magento.cart.data_channel.label,,Channel,0
+messages,oro.magento.cart.deleted_cart_items.label,,"Deleted Items",0
+messages,oro.magento.cart.email.description,,"The email of a Magento customer who created a cart.",0
+messages,oro.magento.cart.email.label,,Email,0
+messages,oro.magento.cart.entity_description,,"A Magento shopping cart stores items that a Magento customer wishes to purchase.",0
+messages,oro.magento.cart.entity_label,,"Magento Shopping Cart",0
+messages,oro.magento.cart.entity_plural_label,,"Magento Shopping Carts",0
+messages,oro.magento.cart.first_name.description,,"The first name of a Magento customer who created a cart.",0
+messages,oro.magento.cart.first_name.label,,"First name",0
+messages,oro.magento.cart.gift_message.description,,"Defines whether a gift message is specified for a Magento shopping cart.",0
+messages,oro.magento.cart.gift_message.label,,"Gift message",0
+messages,oro.magento.cart.grand_total.description,,"The final total amount of all items in a Magento shopping cart.",0
+messages,oro.magento.cart.grand_total.label,,"Grand total",0
+messages,oro.magento.cart.id.label,,"Cart Id",0
+messages,oro.magento.cart.imported_at.description,,"The date and time when the record was imported.",0
+messages,oro.magento.cart.imported_at.label,,"Imported At",0
+messages,oro.magento.cart.is_guest.description,,"Defines whether a Magento customer who added items to a shopping cart is a guest or a registered user.",0
+messages,oro.magento.cart.is_guest.label,,"Is guest",0
+messages,oro.magento.cart.items_count.description,,"The quantity of each item in a Magento shopping cart.",0
+messages,oro.magento.cart.items_count.label,,"Items count",0
+messages,oro.magento.cart.items_qty.description,,"The number of various items in a Magento shopping cart.",0
+messages,oro.magento.cart.items_qty.label,,"Items qty",0
+messages,oro.magento.cart.last_name.description,,"The last name of a Magento customer who created a cart.",0
+messages,oro.magento.cart.last_name.label,,"Last name",0
+messages,oro.magento.cart.notes.description,,"Additional information that a customer can leave for a Magento shopping cart.",0
+messages,oro.magento.cart.notes.label,,"Additional comments",0
+messages,oro.magento.cart.opportunity.description,,"The opportunity to which a Magento shopping cart was converted.",0
+messages,oro.magento.cart.opportunity.label,,Opportunity,0
+messages,oro.magento.cart.organization.label,,Organization,0
+messages,oro.magento.cart.origin_id.description,,"The Magento shopping cart ID on the Magento side.",0
+messages,oro.magento.cart.origin_id.label,,"Origin Id",0
+messages,oro.magento.cart.owner.label,,Owner,0
+messages,oro.magento.cart.payment_details.description,,"Payment details specified for an order in a Magento shopping cart.",0
+messages,oro.magento.cart.payment_details.label,,Payment,0
+messages,oro.magento.cart.quote_currency_code.description,,"The ISO code of the quote currency.",0
+messages,oro.magento.cart.quote_currency_code.label,,"Quote currency",0
+messages,oro.magento.cart.refresh_label,,"Sync Data",0
+messages,oro.magento.cart.related_calls.label,,Calls,0
+messages,oro.magento.cart.related_emails.label,,Emails,0
+messages,oro.magento.cart.shipping_address.description,,"The shipping address specified for a Magento shopping cart.",0
+messages,oro.magento.cart.shipping_address.label,,"Shipping address",0
+messages,oro.magento.cart.status.active,,Active,0
+messages,oro.magento.cart.status.converted,,Converted,0
+messages,oro.magento.cart.status.description,,"The status of a Magento cart (Open, Purchased, Lost, Expired, Processing, Converted to Opportunity, etc).",0
+messages,oro.magento.cart.status.label,,Status,0
+messages,oro.magento.cart.status_message.description,,"The status message assigned to a specific Magento shopping cart.",0
+messages,oro.magento.cart.status_message.label,,"Status message",0
+messages,oro.magento.cart.store.description,,"The Magento store in which the cart has been created.",0
+messages,oro.magento.cart.store.label,,Store,0
+messages,oro.magento.cart.store_currency_code.description,,"The ISO code of the store currency.",0
+messages,oro.magento.cart.store_currency_code.label,,"Store currency",0
+messages,oro.magento.cart.store_to_base_rate.description,,"The configured rate of store currency to base currency.",0
+messages,oro.magento.cart.store_to_base_rate.label,,"Store to base rate",0
+messages,oro.magento.cart.store_to_quote_rate.description,,"The configured rate of store currency to quote currency.",0
+messages,oro.magento.cart.store_to_quote_rate.label,,"Store to quote rate",0
+messages,oro.magento.cart.sub_total.description,,"The subtotal amount configured for the items in a Magento shopping cart.",0
+messages,oro.magento.cart.sub_total.label,,"Sub total",0
+messages,oro.magento.cart.sub_total_amount.label,,"Subtotal Amount",0
+messages,oro.magento.cart.synced_at.description,,"The date and time of the last Magento shopping cart synchronization.",0
+messages,oro.magento.cart.synced_at.label,,"Last Synced At",0
+messages,oro.magento.cart.tax_amount.description,,"The amount of tax applied to items in a Magento shoppin cart.",0
+messages,oro.magento.cart.tax_amount.label,,Tax,0
+messages,oro.magento.cart.website.label,,Website,0
+messages,oro.magento.cart_information,,"Cart Information",0
+messages,oro.magento.cartaddress.channel.description,,"The integration via which information about a Magento cart address is received.",0
+messages,oro.magento.cartaddress.channel.label,,Integration,0
+messages,oro.magento.cartaddress.city.description,,"The city specified in the Magento cart address.",0
+messages,oro.magento.cartaddress.city.label,,City,0
+messages,oro.magento.cartaddress.country.description,,"The country specified in the Magento cart address.",0
+messages,oro.magento.cartaddress.country.label,,Country,0
+messages,oro.magento.cartaddress.country_iso2_code.label,,"Country ISO2 Code",0
+messages,oro.magento.cartaddress.country_iso3_code.label,,"Country ISO3 Code",0
+messages,oro.magento.cartaddress.country_name.label,,Country,0
+messages,oro.magento.cartaddress.country_text.description,,"The country specified in the Magento cart address if this country was not found in the system.",0
+messages,oro.magento.cartaddress.country_text.label,,"Country (Text)",0
+messages,oro.magento.cartaddress.created.description,,"The date and time when the Magento cart address was created.",0
+messages,oro.magento.cartaddress.created.label,,"Created at",0
+messages,oro.magento.cartaddress.entity_description,,"The customer address specified for a Magento cart.",0
+messages,oro.magento.cartaddress.entity_label,,"Magento Cart Address",0
+messages,oro.magento.cartaddress.entity_plural_label,,"Magento Cart Addresses",0
+messages,oro.magento.cartaddress.first_name.description,,"The first name that is specified in the Magento cart address.",0
+messages,oro.magento.cartaddress.first_name.label,,"First name",0
+messages,oro.magento.cartaddress.id.label,,Id,0
+messages,oro.magento.cartaddress.label.description,,"The label specified for the Magento cart address. The label is used to refer to the Magento cart address on the interface.",0
+messages,oro.magento.cartaddress.label.label,,Label,0
+messages,oro.magento.cartaddress.last_name.description,,"The last name that is specified in the Magento cart address.",0
+messages,oro.magento.cartaddress.last_name.label,,"Last name",0
+messages,oro.magento.cartaddress.middle_name.description,,"The middle name that is specified in the Magento cart address.",0
+messages,oro.magento.cartaddress.middle_name.label,,"Middle name",0
+messages,oro.magento.cartaddress.name_prefix.description,,"The name prefix specified in the Magento cart address.",0
+messages,oro.magento.cartaddress.name_prefix.label,,"Name prefix",0
+messages,oro.magento.cartaddress.name_suffix.description,,"The name suffix specified in the Magento cart address.",0
+messages,oro.magento.cartaddress.name_suffix.label,,"Name suffix",0
+messages,oro.magento.cartaddress.organization.description,,"The organization specified in the Magento cart address.",0
+messages,oro.magento.cartaddress.organization.label,,Organization,0
+messages,oro.magento.cartaddress.origin_id.description,,"The cart address ID on the Magento side.",0
+messages,oro.magento.cartaddress.origin_id.label,,"Origin Id",0
+messages,oro.magento.cartaddress.phone.description,,"The phone specified in the Magento cart address.",0
+messages,oro.magento.cartaddress.phone.label,,Phone,0
+messages,oro.magento.cartaddress.postal_code.description,,"The postal code specified in the Magento cart address.",0
+messages,oro.magento.cartaddress.postal_code.label,,"Zip/Postal code",0
+messages,oro.magento.cartaddress.region.description,,"The region specified in the Magento cart address.",0
+messages,oro.magento.cartaddress.region.label,,State,0
+messages,oro.magento.cartaddress.region_code.label,,"Region ISO code",0
+messages,oro.magento.cartaddress.region_name.label,,Region,0
+messages,oro.magento.cartaddress.region_text.label,,State,0
+messages,oro.magento.cartaddress.street.description,,"The first line of the street address. Usually contains the street name and the building number.",0
+messages,oro.magento.cartaddress.street.label,,Street,0
+messages,oro.magento.cartaddress.street2.description,,"The second line of the street address. May contain the apartment number, P.O. box, building name, etc.",0
+messages,oro.magento.cartaddress.street2.label,,"Street 2",0
+messages,oro.magento.cartaddress.updated.description,,"The date and time when the Magento cart address was last updated.",0
+messages,oro.magento.cartaddress.updated.label,,"Updated at",0
+messages,oro.magento.cartitem.cart.description,,"The Magento shopping cart to which a Magento cart item belongs.",0
+messages,oro.magento.cartitem.cart.label,,Cart,0
+messages,oro.magento.cartitem.channel.description,,"The integration via which information about a Magento shopping cart item is received.",0
+messages,oro.magento.cartitem.channel.label,,Integration,0
+messages,oro.magento.cartitem.custom_price.description,,"The custom price amount specified for a Magento shopping cart item.",0
+messages,oro.magento.cartitem.custom_price.label,,"Custom price",0
+messages,oro.magento.cartitem.description.description,,"Short description of a Magento shopping cart item.",0
+messages,oro.magento.cartitem.description.label,,Description,0
+messages,oro.magento.cartitem.discount_amount.description,,"The discount amount specified for a Magento shopping cart item.",0
+messages,oro.magento.cartitem.discount_amount.label,,"Discount amount",0
+messages,oro.magento.cartitem.entity_description,,"The items added to the Magento cart.",0
+messages,oro.magento.cartitem.entity_label,,"Magento Shopping Cart Item",0
+messages,oro.magento.cartitem.entity_plural_label,,"Magento Shopping Cart items",0
+messages,oro.magento.cartitem.free_shipping.description,,"Defines whether free shipping is applicable for a Magento shopping cart item.",0
+messages,oro.magento.cartitem.free_shipping.label,,"Free shipping",0
+messages,oro.magento.cartitem.gift_message.description,,"Defines whether a gift message is specified for a Magento shopping cart item.",0
+messages,oro.magento.cartitem.gift_message.label,,"Gift message",0
+messages,oro.magento.cartitem.id.label,,"Cart item id",0
+messages,oro.magento.cartitem.is_virtual.description,,"Defines whether the Magento cart item is virtual.",0
+messages,oro.magento.cartitem.is_virtual.label,,"Is virtual",0
+messages,oro.magento.cartitem.name.description,,"The name specified for a Magento shopping cart item.",0
+messages,oro.magento.cartitem.name.label,,Name,0
+messages,oro.magento.cartitem.origin_id.description,,"The Magento shopping cart item ID on the Magento side.",0
+messages,oro.magento.cartitem.origin_id.label,,"Origin cart id",0
+messages,oro.magento.cartitem.owner.label,,Owner,0
+messages,oro.magento.cartitem.parent_item_id.description,,"The parent item ID associated with a Magento shopping cart item.",0
+messages,oro.magento.cartitem.parent_item_id.label,,"Parent cart item id",0
+messages,oro.magento.cartitem.price.description,,"The price specified for a Magento shopping cart item.",0
+messages,oro.magento.cartitem.price.label,,Price,0
+messages,oro.magento.cartitem.price_incl_tax.description,,"The price specified for a Magento shopping cart item, including tax amount.",0
+messages,oro.magento.cartitem.price_incl_tax.label,,"Price incl. tax",0
+messages,oro.magento.cartitem.product_id.description,,"The ID of the product in a Magento shopping cart.",0
+messages,oro.magento.cartitem.product_id.label,,"Product id",0
+messages,oro.magento.cartitem.product_image_url.description,,"The URL of the image configured for a Magento product.",0
+messages,oro.magento.cartitem.product_image_url.label,,"Product Image URL",0
+messages,oro.magento.cartitem.product_type.description,,"The product type of a Magento shopping cart item.",0
+messages,oro.magento.cartitem.product_type.label,,"Product type",0
+messages,oro.magento.cartitem.product_url.description,,"The product URL  of a Magento shopping cart item",0
+messages,oro.magento.cartitem.product_url.label,,"Product URL",0
+messages,oro.magento.cartitem.qty.description,,"The quantity of the items in a Magento shopping cart.",0
+messages,oro.magento.cartitem.qty.label,,Qty,0
+messages,oro.magento.cartitem.removed.description,,"Defines whether the item was removed from the Magento shopping cart.",0
+messages,oro.magento.cartitem.removed.label,,Removed,0
+messages,oro.magento.cartitem.row_total.description,,"The row total price amount for a Magento shopping cart item.",0
+messages,oro.magento.cartitem.row_total.label,,"Row total",0
+messages,oro.magento.cartitem.sku.description,,"A stock keeping unit represented by a unique identification code that allows to track a Magento shopping cart item.",0
+messages,oro.magento.cartitem.sku.label,,Sku,0
+messages,oro.magento.cartitem.tax_amount.description,,"The amount of tax applied to a Magento shopping cart item.",0
+messages,oro.magento.cartitem.tax_amount.label,,"Tax amount",0
+messages,oro.magento.cartitem.tax_class_id.description,,"The tax class ID configured for a Magento shopping cart item.",0
+messages,oro.magento.cartitem.tax_class_id.label,,"Tax class id",0
+messages,oro.magento.cartitem.tax_percent.description,,"The percent of tax configured for a Magento shopping cart item.",0
+messages,oro.magento.cartitem.tax_percent.label,,"Tax percent",0
+messages,oro.magento.cartitem.weight.description,,"The value of weight specified for a Magento shopping cart item.",0
+messages,oro.magento.cartitem.weight.label,,Weight,0
+messages,oro.magento.cartstatus.entity_description,,"The statuses of a Magento cart (Open, Purchased, Lost, Expired, Processing, Converted to Opportunity, etc).",0
+messages,oro.magento.cartstatus.entity_label,,"Magento Shopping Cart Status",0
+messages,oro.magento.cartstatus.entity_plural_label,,"Magento Shopping Cart Statuses",0
+messages,oro.magento.cartstatus.label.description,,"The label specified for a Magento shopping cart status and is used to refer to the it on the interface.",0
+messages,oro.magento.cartstatus.label.label,,Label,0
+messages,oro.magento.cartstatus.name.label,,Name,0
+messages,oro.magento.channel_type.magento.label,,Magento,0
+messages,oro.magento.channel_type.magento2.label,,"Magento 2",0
+messages,oro.magento.communications,,Communications,0
+messages,oro.magento.connector.cart.initial.label,,"Initial Cart connector",0
+messages,oro.magento.connector.cart.label,,"Cart connector",0
+messages,oro.magento.connector.credit_memo.initial.label,,"Initial Credit Memo connector",0
+messages,oro.magento.connector.credit_memo.label,,"Credit Memo connector",0
+messages,oro.magento.connector.customer.initial.label,,"Initial Customer connector",0
+messages,oro.magento.connector.customer.label,,"Customer connector",0
+messages,oro.magento.connector.customer_group.label,,"Customer Group Connector",0
+messages,oro.magento.connector.newsletter_subscriber.initial.label,,"Initial  Newsletter Subscriber Connector",0
+messages,oro.magento.connector.newsletter_subscriber.label,,"Newsletter Subscriber Connector",0
+messages,oro.magento.connector.order.initial.label,,"Initial Order connector",0
+messages,oro.magento.connector.order.label,,"Order connector",0
+messages,oro.magento.connector.product.label,,"Product connector",0
+messages,oro.magento.connector.region.label,,"States connector",0
+messages,oro.magento.connector.store.label,,"Store Connector",0
+messages,oro.magento.connector.website.label,,"Website Connector",0
+messages,oro.magento.controller.extension_required,,"Unable to perform this operation, Oro Bridge extension not found.",0
+messages,oro.magento.controller.not_valid_parameters,,"Parameters are not valid!",0
+messages,oro.magento.controller.sync_error_with_magento,,"Synchronization with remote server failed and orders should be re-synced. If the problem persists, please contact your Administrator.",0
+messages,oro.magento.controller.synchronization_error,,"Unable to synchronize from remote.",0
+messages,oro.magento.controller.synchronization_failed_status,,"Cart data is not up to date",0
+messages,oro.magento.controller.synchronization_success,,"Data successfully synchronized.",0
+messages,oro.magento.controller.transport_error,,"Magento instance is unavailable right now, or the provided URL is incorrect.",0
+messages,oro.magento.controller.transport_not_configure,,"Unable to handle your request. Invalid Integration configuration detected.",0
+messages,oro.magento.credit_memo_information,,"Credit Memo Information",0
+messages,oro.magento.creditmemo.adjustment.description,,"Total adjustment fee applied for credit memo.",0
+messages,oro.magento.creditmemo.adjustment.label,,Adjustment,0
+messages,oro.magento.creditmemo.adjustment_negative.description,,"Adjustment fee amount.",0
+messages,oro.magento.creditmemo.adjustment_negative.label,,"Adjustment fee amount",0
+messages,oro.magento.creditmemo.adjustment_positive.description,,"Adjustment refund amount.",0
+messages,oro.magento.creditmemo.adjustment_positive.label,,"Adjustment refund amount",0
+messages,oro.magento.creditmemo.channel.description,,"The integration via which information about a Magento credit memo is received.",0
+messages,oro.magento.creditmemo.channel.label,,Integration,0
+messages,oro.magento.creditmemo.created_at.description,,"The date and time Magento credit memo was created.",0
+messages,oro.magento.creditmemo.created_at.label,,"Created At",0
+messages,oro.magento.creditmemo.customer_bal_total_refunded.description,,"The amount refunded from customer's balance",0
+messages,oro.magento.creditmemo.customer_bal_total_refunded.label,,"Customer balance total refunded",0
+messages,oro.magento.creditmemo.data_channel.description,,"The channel via which information about a Magento credit memo is received.",0
+messages,oro.magento.creditmemo.data_channel.label,,Channel,0
+messages,oro.magento.creditmemo.email_sent.description,,"Defines whether the credit memo email is sent to the customer.",0
+messages,oro.magento.creditmemo.email_sent.label,,"Email Sent",0
+messages,oro.magento.creditmemo.entity_description,,"Allows you to operate with credit memos for orders.",0
+messages,oro.magento.creditmemo.entity_label,,"Magento Credit Memo",0
+messages,oro.magento.creditmemo.entity_plural_label,,"Magento Credit Memos",0
+messages,oro.magento.creditmemo.grand_total.description,,"The total amount refundeded.",0
+messages,oro.magento.creditmemo.grand_total.label,,Refunded,0
+messages,oro.magento.creditmemo.id.label,,Id,0
+messages,oro.magento.creditmemo.imported_at.description,,"The date and time when the record was imported.",0
+messages,oro.magento.creditmemo.imported_at.label,,"Imported At",0
+messages,oro.magento.creditmemo.increment_id.description,,"The increment ID specified for a Magento credit memo.",0
+messages,oro.magento.creditmemo.increment_id.label,,"Credit Memo #",0
+messages,oro.magento.creditmemo.invoice_id.description,,"ID of the invoice for which the credit memo was created.",0
+messages,oro.magento.creditmemo.invoice_id.label,,"Invoice ID",0
+messages,oro.magento.creditmemo.items.description,,"The items specified for a Magento credit memo.",0
+messages,oro.magento.creditmemo.items.label,,"Credit Memo Items",0
+messages,oro.magento.creditmemo.order.description,,"Magento order for which the credit memo was created.",0
+messages,oro.magento.creditmemo.order.label,,Order,0
+messages,oro.magento.creditmemo.organization.label,,Organization,0
+messages,oro.magento.creditmemo.origin_id.description,,"Credit memo ID on the Magento side.",0
+messages,oro.magento.creditmemo.origin_id.label,,"Origin ID",0
+messages,oro.magento.creditmemo.owner.label,,Owner,0
+messages,oro.magento.creditmemo.reward_points_balance_refund.description,,"The balance of refunded reward points",0
+messages,oro.magento.creditmemo.reward_points_balance_refund.label,,"Reward points balance refund",0
+messages,oro.magento.creditmemo.shipping_amount.description,,"Refunded shipping amount.",0
+messages,oro.magento.creditmemo.shipping_amount.label,,"Refunded shipping amount",0
+messages,oro.magento.creditmemo.status.description,,"Credit memo status.",0
+messages,oro.magento.creditmemo.status.label,,Status,0
+messages,oro.magento.creditmemo.store.description,,"A Magento store where a Magento order has been created.",0
+messages,oro.magento.creditmemo.store.label,,Store,0
+messages,oro.magento.creditmemo.subtotal.description,,"The subtotal refunded amount.",0

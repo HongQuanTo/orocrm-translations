@@ -1,0 +1,400 @@
+entities,region.NA-CA,,Caprivi,0
+entities,region.NA-ER,,Erongo,0
+entities,region.NA-HA,,Hardap,0
+entities,region.NA-KA,,Karas,0
+entities,region.NA-KH,,Khomas,0
+entities,region.NA-KU,,Kunene,0
+entities,region.NA-OD,,Otjozondjupa,0
+entities,region.NA-OH,,Omaheke,0
+entities,region.NA-OK,,Okavango,0
+entities,region.NA-ON,,Oshana,0
+entities,region.NA-OS,,Omusati,0
+entities,region.NA-OT,,Oshikoto,0
+entities,region.NA-OW,,Ohangwena,0
+entities,region.NE-1,,Agadez,0
+entities,region.NE-2,,Diffa,0
+entities,region.NE-3,,Dosso,0
+entities,region.NE-4,,Maradi,0
+entities,region.NE-5,,Tahoua,0
+entities,region.NE-6,,Tillabéri,0
+entities,region.NE-7,,Zinder,0
+entities,region.NE-8,,Niamey,0
+entities,region.NG-AB,,Abia,0
+entities,region.NG-AD,,Adamawa,0
+entities,region.NG-AK,,"Akwa Ibom",0
+entities,region.NG-AN,,Anambra,0
+entities,region.NG-BA,,Bauchi,0
+entities,region.NG-BE,,Benue,0
+entities,region.NG-BO,,Borno,0
+entities,region.NG-BY,,Bayelsa,0
+entities,region.NG-CR,,"Cross River",0
+entities,region.NG-DE,,Delta,0
+entities,region.NG-EB,,Ebonyi,0
+entities,region.NG-ED,,Edo,0
+entities,region.NG-EK,,Ekiti,0
+entities,region.NG-EN,,Enugu,0
+entities,region.NG-FC,,"Abuja Capital Territory",0
+entities,region.NG-GO,,Gombe,0
+entities,region.NG-IM,,Imo,0
+entities,region.NG-JI,,Jigawa,0
+entities,region.NG-KD,,Kaduna,0
+entities,region.NG-KE,,Kebbi,0
+entities,region.NG-KN,,Kano,0
+entities,region.NG-KO,,Kogi,0
+entities,region.NG-KT,,Katsina,0
+entities,region.NG-KW,,Kwara,0
+entities,region.NG-LA,,Lagos,0
+entities,region.NG-NA,,Nassarawa,0
+entities,region.NG-NI,,Niger,0
+entities,region.NG-OG,,Ogun,0
+entities,region.NG-ON,,Ondo,0
+entities,region.NG-OS,,Osun,0
+entities,region.NG-OY,,Oyo,0
+entities,region.NG-PL,,Plateau,0
+entities,region.NG-RI,,Rivers,0
+entities,region.NG-SO,,Sokoto,0
+entities,region.NG-TA,,Taraba,0
+entities,region.NG-YO,,Yobe,0
+entities,region.NG-ZA,,Zamfara,0
+entities,region.NI-AN,,"Atlántico Norte",0
+entities,region.NI-AS,,"Atlántico Sur",0
+entities,region.NI-BO,,Boaco,0
+entities,region.NI-CA,,Carazo,0
+entities,region.NI-CI,,Chinandega,0
+entities,region.NI-CO,,Chontales,0
+entities,region.NI-ES,,Estelí,0
+entities,region.NI-GR,,Granada,0
+entities,region.NI-JI,,Jinotega,0
+entities,region.NI-LE,,León,0
+entities,region.NI-MD,,Madriz,0
+entities,region.NI-MN,,Managua,0
+entities,region.NI-MS,,Masaya,0
+entities,region.NI-MT,,Matagalpa,0
+entities,region.NI-NS,,"Nueva Segovia",0
+entities,region.NI-RI,,Rivas,0
+entities,region.NI-SJ,,"Río San Juan",0
+entities,region.NL-DR,,Drenthe,0
+entities,region.NL-FL,,Flevoland,0
+entities,region.NL-FR,,Friesland,0
+entities,region.NL-GE,,Gelderland,0
+entities,region.NL-GR,,Groningen,0
+entities,region.NL-LI,,Limburg,0
+entities,region.NL-NB,,Noord-Brabant,0
+entities,region.NL-NH,,Noord-Holland,0
+entities,region.NL-OV,,Overijssel,0
+entities,region.NL-UT,,Utrecht,0
+entities,region.NL-ZE,,Zeeland,0
+entities,region.NL-ZH,,Zuid-Holland,0
+entities,region.NO-01,,Østfold,0
+entities,region.NO-02,,Akershus,0
+entities,region.NO-03,,Oslo,0
+entities,region.NO-04,,Hedmark,0
+entities,region.NO-05,,Oppland,0
+entities,region.NO-06,,Buskerud,0
+entities,region.NO-07,,Vestfold,0
+entities,region.NO-08,,Telemark,0
+entities,region.NO-09,,Aust-Agder,0
+entities,region.NO-10,,Vest-Agder,0
+entities,region.NO-11,,Rogaland,0
+entities,region.NO-12,,Hordaland,0
+entities,region.NO-14,,"Sogn og Fjordane",0
+entities,region.NO-15,,"Møre og Romsdal",0
+entities,region.NO-16,,Sør-Trøndelag,0
+entities,region.NO-17,,Nord-Trøndelag,0
+entities,region.NO-18,,Nordland,0
+entities,region.NO-19,,Troms,0
+entities,region.NO-20,,Finnmark,0
+entities,region.NO-21,,Svalbard,0
+entities,region.NO-22,,"Jan Mayen",0
+entities,region.NP-1,,Madhyamanchal,0
+entities,region.NP-2,,"Madhya Pashchimanchal",0
+entities,region.NP-3,,Pashchimanchal,0
+entities,region.NP-4,,Purwanchal,0
+entities,region.NP-5,,"Sudur Pashchimanchal",0
+entities,region.NP-BA,,Bagmati,0
+entities,region.NP-BH,,Bheri,0
+entities,region.NP-DH,,Dhawalagiri,0
+entities,region.NP-GA,,Gandaki,0
+entities,region.NP-JA,,Janakpur,0
+entities,region.NP-KA,,Karnali,0
+entities,region.NP-KO,,Kosi,0
+entities,region.NP-LU,,Lumbini,0
+entities,region.NP-MA,,Mahakali,0
+entities,region.NP-ME,,Mechi,0
+entities,region.NP-NA,,Narayani,0
+entities,region.NP-RA,,Rapti,0
+entities,region.NP-SA,,Sagarmatha,0
+entities,region.NP-SE,,Seti,0
+entities,region.NR-01,,Aiwo,0
+entities,region.NR-02,,Anabar,0
+entities,region.NR-03,,Anetan,0
+entities,region.NR-04,,Anibare,0
+entities,region.NR-05,,Baiti,0
+entities,region.NR-06,,Boe,0
+entities,region.NR-07,,Buada,0
+entities,region.NR-08,,Denigomodu,0
+entities,region.NR-09,,Ewa,0
+entities,region.NR-10,,Ijuw,0
+entities,region.NR-11,,Meneng,0
+entities,region.NR-12,,Nibok,0
+entities,region.NR-13,,Uaboe,0
+entities,region.NR-14,,Yaren,0
+entities,region.NZ-AUK,,Auckland,0
+entities,region.NZ-BOP,,"Bay of Plenty",0
+entities,region.NZ-CAN,,Canterbury,0
+entities,region.NZ-CIT,,"Chatham Islands Territory",0
+entities,region.NZ-GIS,,"Gisborne District",0
+entities,region.NZ-HKB,,"Hawke's Bay",0
+entities,region.NZ-MBH,,"Marlborough District",0
+entities,region.NZ-MWT,,Manawatu-Wanganui,0
+entities,region.NZ-N,,"North Island",0
+entities,region.NZ-NSN,,"Nelson City",0
+entities,region.NZ-NTL,,Northland,0
+entities,region.NZ-OTA,,Otago,0
+entities,region.NZ-S,,"South Island",0
+entities,region.NZ-STL,,Southland,0
+entities,region.NZ-TAS,,"Tasman District",0
+entities,region.NZ-TKI,,Taranaki,0
+entities,region.NZ-WGN,,Wellington,0
+entities,region.NZ-WKO,,Waikato,0
+entities,region.NZ-WTC,,"West Coast",0
+entities,region.OM-BA,,"Al Bāţinah",0
+entities,region.OM-BU,,"Al Buraymī",0
+entities,region.OM-DA,,"Ad Dākhilīya",0
+entities,region.OM-MA,,Masqaţ,0
+entities,region.OM-MU,,Musandam,0
+entities,region.OM-SH,,"Ash Sharqīyah",0
+entities,region.OM-WU,,"Al Wusţá",0
+entities,region.OM-ZA,,"Az̧ Z̧āhirah",0
+entities,region.OM-ZU,,Z̧ufār,0
+entities,region.PA-1,,"Bocas del Toro",0
+entities,region.PA-2,,Coclé,0
+entities,region.PA-3,,Colón,0
+entities,region.PA-4,,Chiriquí,0
+entities,region.PA-5,,Darién,0
+entities,region.PA-6,,Herrera,0
+entities,region.PA-7,,"Los Santos",0
+entities,region.PA-8,,Panamá,0
+entities,region.PA-9,,Veraguas,0
+entities,region.PA-EM,,Emberá,0
+entities,region.PA-KY,,"Kuna Yala",0
+entities,region.PA-NB,,Ngöbe-Buglé,0
+entities,region.PE-AMA,,Amazonas,0
+entities,region.PE-ANC,,Ancash,0
+entities,region.PE-APU,,Apurímac,0
+entities,region.PE-ARE,,Arequipa,0
+entities,region.PE-AYA,,Ayacucho,0
+entities,region.PE-CAJ,,Cajamarca,0
+entities,region.PE-CAL,,"El Callao",0
+entities,region.PE-CUS,,"Cusco [Cuzco]",0
+entities,region.PE-HUC,,Huánuco,0
+entities,region.PE-HUV,,Huancavelica,0
+entities,region.PE-ICA,,Ica,0
+entities,region.PE-JUN,,Junín,0
+entities,region.PE-LAL,,"La Libertad",0
+entities,region.PE-LAM,,Lambayeque,0
+entities,region.PE-LIM,,Lima,0
+entities,region.PE-LMA,,"Municipalidad Metropolitana de Lima",0
+entities,region.PE-LOR,,Loreto,0
+entities,region.PE-MDD,,"Madre de Dios",0
+entities,region.PE-MOQ,,Moquegua,0
+entities,region.PE-PAS,,Pasco,0
+entities,region.PE-PIU,,Piura,0
+entities,region.PE-PUN,,Puno,0
+entities,region.PE-SAM,,"San Martín",0
+entities,region.PE-TAC,,Tacna,0
+entities,region.PE-TUM,,Tumbes,0
+entities,region.PE-UCA,,Ucayali,0
+entities,region.PG-CPK,,Chimbu,0
+entities,region.PG-CPM,,Central,0
+entities,region.PG-EBR,,"East New Britain",0
+entities,region.PG-EHG,,"Eastern Highlands",0
+entities,region.PG-EPW,,Enga,0
+entities,region.PG-ESW,,"East Sepik",0
+entities,region.PG-GPK,,Gulf,0
+entities,region.PG-MBA,,"Milne Bay",0
+entities,region.PG-MPL,,Morobe,0
+entities,region.PG-MPM,,Madang,0
+entities,region.PG-MRL,,Manus,0
+entities,region.PG-NCD,,"National Capital District (Port Moresby)",0
+entities,region.PG-NIK,,"New Ireland",0
+entities,region.PG-NPP,,Northern,0
+entities,region.PG-NSA,,"North Solomons",0
+entities,region.PG-SAN,,Sandaun,0
+entities,region.PG-SHM,,"Southern Highlands",0
+entities,region.PG-WBK,,"West New Britain",0
+entities,region.PG-WHM,,"Western Highlands",0
+entities,region.PG-WPD,,Western,0
+entities,region.PH-00,,"National Capital Region",0
+entities,region.PH-01,,"Ilocos (Region I)",0
+entities,region.PH-02,,"Cagayan Valley (Region II)",0
+entities,region.PH-03,,"Central Luzon (Region III)",0
+entities,region.PH-05,,"Bicol (Region V)",0
+entities,region.PH-06,,"Western Visayas (Region VI)",0
+entities,region.PH-07,,"Central Visayas (Region VII)",0
+entities,region.PH-08,,"Eastern Visayas (Region VIII)",0
+entities,region.PH-09,,"Zamboanga Peninsula (Region IX)",0
+entities,region.PH-10,,"Northern Mindanao (Region X)",0
+entities,region.PH-12,,"Soccsksargen (Region XII)",0
+entities,region.PH-13,,"Caraga (Region XIII)",0
+entities,region.PH-14,,"Autonomous Region in Muslim Mindanao (ARMM)",0
+entities,region.PH-15,,"Cordillera Administrative Region (CAR)",0
+entities,region.PH-40,,"CALABARZON (Region IV-A)",0
+entities,region.PH-41,,"MIMAROPA (Region IV-B)",0
+entities,region.PH-ABR,,Abra,0
+entities,region.PH-AGN,,"Agusan del Norte",0
+entities,region.PH-AGS,,"Agusan del Sur",0
+entities,region.PH-AKL,,Aklan,0
+entities,region.PH-ALB,,Albay,0
+entities,region.PH-ANT,,Antique,0
+entities,region.PH-APA,,Apayao,0
+entities,region.PH-AUR,,Aurora,0
+entities,region.PH-BAN,,Batasn,0
+entities,region.PH-BAS,,Basilan,0
+entities,region.PH-BEN,,Benguet,0
+entities,region.PH-BIL,,Biliran,0
+entities,region.PH-BOH,,Bohol,0
+entities,region.PH-BTG,,Batangas,0
+entities,region.PH-BTN,,Batanes,0
+entities,region.PH-BUK,,Bukidnon,0
+entities,region.PH-BUL,,Bulacan,0
+entities,region.PH-CAG,,Cagayan,0
+entities,region.PH-CAM,,Camiguin,0
+entities,region.PH-CAN,,"Camarines Norte",0
+entities,region.PH-CAP,,Capiz,0
+entities,region.PH-CAS,,"Camarines Sur",0
+entities,region.PH-CAT,,Catanduanes,0
+entities,region.PH-CAV,,Cavite,0
+entities,region.PH-CEB,,Cebu,0
+entities,region.PH-COM,,"Compostela Valley",0
+entities,region.PH-DAO,,"Davao Oriental",0
+entities,region.PH-DAS,,"Davao del Sur",0
+entities,region.PH-DAV,,"Davao del Norte",0
+entities,region.PH-DIN,,"Dinagat Islands",0
+entities,region.PH-EAS,,"Eastern Samar",0
+entities,region.PH-GUI,,Guimaras,0
+entities,region.PH-IFU,,Ifugao,0
+entities,region.PH-ILI,,Iloilo,0
+entities,region.PH-ILN,,"Ilocos Norte",0
+entities,region.PH-ILS,,"Ilocos Sur",0
+entities,region.PH-ISA,,Isabela,0
+entities,region.PH-KAL,,Kalinga-Apayso,0
+entities,region.PH-LAG,,Laguna,0
+entities,region.PH-LAN,,"Lanao del Norte",0
+entities,region.PH-LAS,,"Lanao del Sur",0
+entities,region.PH-LEY,,Leyte,0
+entities,region.PH-LUN,,"La Union",0
+entities,region.PH-MAD,,Marinduque,0
+entities,region.PH-MAG,,Maguindanao,0
+entities,region.PH-MAS,,Masbate,0
+entities,region.PH-MDC,,"Mindoro Occidental",0
+entities,region.PH-MDR,,"Mindoro Oriental",0
+entities,region.PH-MOU,,"Mountain Province",0
+entities,region.PH-MSC,,"Misamis Occidental",0
+entities,region.PH-MSR,,"Misamis Oriental",0
+entities,region.PH-NCO,,"North Cotabato",0
+entities,region.PH-NEC,,"Negroe Occidental",0
+entities,region.PH-NER,,"Negros Oriental",0
+entities,region.PH-NSA,,"Northern Samar",0
+entities,region.PH-NUE,,"Nueva Ecija",0
+entities,region.PH-NUV,,"Nueva Vizcaya",0
+entities,region.PH-PAM,,Pampanga,0
+entities,region.PH-PAN,,Pangasinan,0
+entities,region.PH-PLW,,Palawan,0
+entities,region.PH-QUE,,Quezon,0
+entities,region.PH-QUI,,Quirino,0
+entities,region.PH-RIZ,,Rizal,0
+entities,region.PH-ROM,,Romblon,0
+entities,region.PH-SAR,,Sarangani,0
+entities,region.PH-SCO,,"South Cotabato",0
+entities,region.PH-SIG,,Siquijor,0
+entities,region.PH-SLE,,"Southern Leyte",0
+entities,region.PH-SLU,,Sulu,0
+entities,region.PH-SOR,,Sorsogon,0
+entities,region.PH-SUK,,"Sultan Kudarat",0
+entities,region.PH-SUN,,"Surigao del Norte",0
+entities,region.PH-SUR,,"Surigao del Sur",0
+entities,region.PH-TAR,,Tarlac,0
+entities,region.PH-TAW,,Tawi-Tawi,0
+entities,region.PH-WSA,,"Western Samar",0
+entities,region.PH-ZAN,,"Zamboanga del Norte",0
+entities,region.PH-ZAS,,"Zamboanga del Sur",0
+entities,region.PH-ZMB,,Zambales,0
+entities,region.PH-ZSI,,"Zamboanga Sibugay",0
+entities,region.PK-BA,,Balochistan,0
+entities,region.PK-IS,,Islamabad,0
+entities,region.PK-JK,,"Azad Kashmir",0
+entities,region.PK-NA,,"Northern Areas",0
+entities,region.PK-NW,,"North-West Frontier",0
+entities,region.PK-PB,,Punjab,0
+entities,region.PK-SD,,Sindh,0
+entities,region.PK-TA,,"Federally Administered Tribal Areas",0
+entities,region.PL-DS,,Dolnośląskie,0
+entities,region.PL-KP,,Kujawsko-pomorskie,0
+entities,region.PL-LB,,Lubuskie,0
+entities,region.PL-LD,,Łódzkie,0
+entities,region.PL-LU,,Lubelskie,0
+entities,region.PL-MA,,Małopolskie,0
+entities,region.PL-MZ,,Mazowieckie,0
+entities,region.PL-OP,,Opolskie,0
+entities,region.PL-PD,,Podlaskie,0
+entities,region.PL-PK,,Podkarpackie,0
+entities,region.PL-PM,,Pomorskie,0
+entities,region.PL-SK,,Świętokrzyskie,0
+entities,region.PL-SL,,Śląskie,0
+entities,region.PL-WN,,Warmińsko-mazurskie,0
+entities,region.PL-WP,,Wielkopolskie,0
+entities,region.PL-ZP,,Zachodniopomorskie,0
+entities,region.PT-01,,Aveiro,0
+entities,region.PT-02,,Beja,0
+entities,region.PT-03,,Braga,0
+entities,region.PT-04,,Bragança,0
+entities,region.PT-05,,"Castelo Branco",0
+entities,region.PT-06,,Coimbra,0
+entities,region.PT-07,,Évora,0
+entities,region.PT-08,,Faro,0
+entities,region.PT-09,,Guarda,0
+entities,region.PT-10,,Leiria,0
+entities,region.PT-11,,Lisboa,0
+entities,region.PT-12,,Portalegre,0
+entities,region.PT-13,,Porto,0
+entities,region.PT-14,,Santarém,0
+entities,region.PT-15,,Setúbal,0
+entities,region.PT-16,,"Viana do Castelo",0
+entities,region.PT-17,,"Vila Real",0
+entities,region.PT-18,,Viseu,0
+entities,region.PT-20,,"Região Autónoma dos Açores",0
+entities,region.PT-30,,"Região Autónoma da Madeira",0
+entities,region.PW-002,,Aimeliik,0
+entities,region.PW-004,,Airai,0
+entities,region.PW-010,,Angaur,0
+entities,region.PW-050,,Hatobohei,0
+entities,region.PW-100,,Kayangel,0
+entities,region.PW-150,,Koror,0
+entities,region.PW-212,,Melekeok,0
+entities,region.PW-214,,Ngaraard,0
+entities,region.PW-218,,Ngarchelong,0
+entities,region.PW-222,,Ngardmau,0
+entities,region.PW-224,,Ngatpang,0
+entities,region.PW-226,,Ngchesar,0
+entities,region.PW-227,,Ngeremlengui,0
+entities,region.PW-228,,Ngiwal,0
+entities,region.PW-350,,Peleliu,0
+entities,region.PW-370,,Sonsorol,0
+entities,region.PY-1,,Concepción,0
+entities,region.PY-10,,"Alto Paraná",0
+entities,region.PY-11,,Central,0
+entities,region.PY-12,,Ñeembucú,0
+entities,region.PY-13,,Amambay,0
+entities,region.PY-14,,Canindeyú,0
+entities,region.PY-15,,"Presidente Hayes",0
+entities,region.PY-16,,"Alto Paraguay",0
+entities,region.PY-19,,Boquerón,0
+entities,region.PY-2,,"San Pedro",0
+entities,region.PY-3,,Cordillera,0
+entities,region.PY-4,,Guairá,0
+entities,region.PY-5,,Caaguazú,0
+entities,region.PY-6,,Caazapá,0
+entities,region.PY-7,,Itapúa,0
+entities,region.PY-8,,Misiones,0
+entities,region.PY-9,,Paraguarí,0

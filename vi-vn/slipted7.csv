@@ -1,0 +1,400 @@
+entities,region.JP-25,,Shiga,0
+entities,region.JP-26,,Kyoto,0
+entities,region.JP-27,,Osaka,0
+entities,region.JP-28,,Hyogo,0
+entities,region.JP-29,,Nara,0
+entities,region.JP-30,,Wakayama,0
+entities,region.JP-31,,Tottori,0
+entities,region.JP-32,,Shimane,0
+entities,region.JP-33,,Okayama,0
+entities,region.JP-34,,Hiroshima,0
+entities,region.JP-35,,Yamaguchi,0
+entities,region.JP-36,,Tokushima,0
+entities,region.JP-37,,Kagawa,0
+entities,region.JP-38,,Ehime,0
+entities,region.JP-39,,Kochi,0
+entities,region.JP-40,,Fukuoka,0
+entities,region.JP-41,,Saga,0
+entities,region.JP-42,,Nagasaki,0
+entities,region.JP-43,,Kumamoto,0
+entities,region.JP-44,,Oita,0
+entities,region.JP-45,,Miyazaki,0
+entities,region.JP-46,,Kagoshima,0
+entities,region.JP-47,,Okinawa,0
+entities,region.KE-110,,"Nairobi Municipality",0
+entities,region.KE-200,,Central,0
+entities,region.KE-300,,Coast,0
+entities,region.KE-400,,Eastern,0
+entities,region.KE-500,,"North-Eastern Kaskazini Mashariki",0
+entities,region.KE-700,,"Rift Valley",0
+entities,region.KE-900,,"Western Magharibi",0
+entities,region.KG-B,,Batken,0
+entities,region.KG-C,,Chü,0
+entities,region.KG-GB,,Bishkek,0
+entities,region.KG-J,,Jalal-Abad,0
+entities,region.KG-N,,Naryn,0
+entities,region.KG-O,,Osh,0
+entities,region.KG-T,,Talas,0
+entities,region.KG-Y,,Ysyk-Köl,0
+entities,region.KH-1,,"Banteay Mean Chey",0
+entities,region.KH-10,,Krachoh,0
+entities,region.KH-11,,"Mondol Kiri",0
+entities,region.KH-12,,"Phnom Penh",0
+entities,region.KH-13,,"Preah Vihear",0
+entities,region.KH-14,,"Prey Veaeng",0
+entities,region.KH-15,,Pousaat,0
+entities,region.KH-16,,"Rotanak Kiri",0
+entities,region.KH-17,,"Siem Reab",0
+entities,region.KH-18,,"Krong Preah Sihanouk",0
+entities,region.KH-19,,"Stueng Traeng",0
+entities,region.KH-2,,Battambang,0
+entities,region.KH-20,,"Svaay Rieng",0
+entities,region.KH-21,,Taakaev,0
+entities,region.KH-22,,"Otdar Mean Chey",0
+entities,region.KH-23,,"Krong Kaeb",0
+entities,region.KH-24,,"Krong Pailin",0
+entities,region.KH-3,,"Kampong Cham",0
+entities,region.KH-4,,"Kampong Chhnang",0
+entities,region.KH-5,,"Kampong Speu",0
+entities,region.KH-6,,"Kampong Thom",0
+entities,region.KH-7,,Kampot,0
+entities,region.KH-8,,Kandal,0
+entities,region.KH-9,,"Kach Kong",0
+entities,region.KI-G,,"Gilbert Islands",0
+entities,region.KI-L,,"Line Islands",0
+entities,region.KI-P,,"Phoenix Islands",0
+entities,region.KM-A,,"Andjouân (Anjwān)",0
+entities,region.KM-G,,"Andjazîdja (Anjazījah)",0
+entities,region.KM-M,,"Moûhîlî (Mūhīlī)",0
+entities,region.KN-01,,"Christ Church Nichola Town",0
+entities,region.KN-02,,"Saint Anne Sandy Point",0
+entities,region.KN-03,,"Saint George Basseterre",0
+entities,region.KN-04,,"Saint George Gingerland",0
+entities,region.KN-05,,"Saint James Windward",0
+entities,region.KN-06,,"Saint John Capisterre",0
+entities,region.KN-07,,"Saint John Figtree",0
+entities,region.KN-08,,"Saint Mary Cayon",0
+entities,region.KN-09,,"Saint Paul Capisterre",0
+entities,region.KN-10,,"Saint Paul Charlestown",0
+entities,region.KN-11,,"Saint Peter Basseterre",0
+entities,region.KN-12,,"Saint Thomas Lowland",0
+entities,region.KN-13,,"Saint Thomas Middle Island",0
+entities,region.KN-15,,"Trinity Palmetto Point",0
+entities,region.KN-K,,"Saint Kitts",0
+entities,region.KN-N,,Nevis,0
+entities,region.KP-01,,P’yŏngyang,0
+entities,region.KP-02,,P’yŏngan-namdo,0
+entities,region.KP-03,,P’yŏngan-bukto,0
+entities,region.KP-04,,Chagang-do,0
+entities,region.KP-05,,Hwanghae-namdo,0
+entities,region.KP-06,,Hwanghae-bukto,0
+entities,region.KP-07,,Kangwŏn-do,0
+entities,region.KP-08,,Hamgyŏng-namdo,0
+entities,region.KP-09,,Hamgyŏng-bukto,0
+entities,region.KP-10,,Yanggang-do,0
+entities,region.KP-13,,"Nasŏn (Najin-Sŏnbong)",0
+entities,region.KR-11,,"Seoul Teugbyeolsi",0
+entities,region.KR-26,,"Busan Gwang'yeogsi",0
+entities,region.KR-27,,"Daegu Gwang'yeogsi",0
+entities,region.KR-28,,"Incheon Gwang'yeogsi",0
+entities,region.KR-29,,"Gwangju Gwang'yeogsi",0
+entities,region.KR-30,,"Daejeon Gwang'yeogsi",0
+entities,region.KR-31,,"Ulsan Gwang'yeogsi",0
+entities,region.KR-41,,Gyeonggido,0
+entities,region.KR-42,,Gang'weondo,0
+entities,region.KR-43,,Chungcheongbukdo,0
+entities,region.KR-44,,Chungcheongnamdo,0
+entities,region.KR-45,,Jeonrabukdo,0
+entities,region.KR-46,,Jeonranamdo,0
+entities,region.KR-47,,Gyeongsangbukdo,0
+entities,region.KR-48,,Gyeongsangnamdo,0
+entities,region.KR-49,,Jejudo,0
+entities,region.KW-AH,,"Al Ahmadi",0
+entities,region.KW-FA,,"Al Farwānīyah",0
+entities,region.KW-HA,,Hawallī,0
+entities,region.KW-JA,,"Al Jahrah",0
+entities,region.KW-KU,,"Al Kuwayt",0
+entities,region.KZ-AKM,,"Aqmola oblysy",0
+entities,region.KZ-AKT,,"Aqtöbe oblysy",0
+entities,region.KZ-ALA,,Almaty,0
+entities,region.KZ-ALM,,"Almaty oblysy",0
+entities,region.KZ-AST,,Astana,0
+entities,region.KZ-ATY,,"Atyraū oblysy",0
+entities,region.KZ-KAR,,"Qaraghandy oblysy",0
+entities,region.KZ-KUS,,"Qostanay oblysy",0
+entities,region.KZ-KZY,,"Qyzylorda oblysy",0
+entities,region.KZ-MAN,,"Mangghystaū oblysy",0
+entities,region.KZ-PAV,,"Pavlodar oblysy",0
+entities,region.KZ-SEV,,"Soltüstik Quzaqstan oblysy",0
+entities,region.KZ-VOS,,"Shyghys Qazaqstan oblysy",0
+entities,region.KZ-YUZ,,"Ongtüstik Qazaqstan oblysy",0
+entities,region.KZ-ZAP,,"Batys Quzaqstan oblysy",0
+entities,region.KZ-ZHA,,"Zhambyl oblysy",0
+entities,region.LA-AT,,Attapu,0
+entities,region.LA-BK,,Bokèo,0
+entities,region.LA-BL,,Bolikhamxai,0
+entities,region.LA-CH,,Champasak,0
+entities,region.LA-HO,,Houaphan,0
+entities,region.LA-KH,,Khammouan,0
+entities,region.LA-LM,,"Louang Namtha",0
+entities,region.LA-LP,,Louangphabang,0
+entities,region.LA-OU,,Oudômxai,0
+entities,region.LA-PH,,Phôngsali,0
+entities,region.LA-SL,,Salavan,0
+entities,region.LA-SV,,Savannakhét,0
+entities,region.LA-VI,,Vientiane,0
+entities,region.LA-VT,,Vientiane,0
+entities,region.LA-XA,,Xaignabouli,0
+entities,region.LA-XE,,Xékong,0
+entities,region.LA-XI,,Xiangkhoang,0
+entities,region.LA-XN,,Xiasômboun,0
+entities,region.LB-AK,,Aakkâr,0
+entities,region.LB-AS,,Liban-Nord,0
+entities,region.LB-BA,,Beyrouth,0
+entities,region.LB-BH,,Baalbek-Hermel,0
+entities,region.LB-BI,,Béqaa,0
+entities,region.LB-JA,,Liban-Sud,0
+entities,region.LB-JL,,Mont-Liban,0
+entities,region.LB-NA,,Nabatîyé,0
+entities,region.LI-01,,Balzers,0
+entities,region.LI-02,,Eschen,0
+entities,region.LI-03,,Gamprin,0
+entities,region.LI-04,,Mauren,0
+entities,region.LI-05,,Planken,0
+entities,region.LI-06,,Ruggell,0
+entities,region.LI-07,,Schaan,0
+entities,region.LI-08,,Schellenberg,0
+entities,region.LI-09,,Triesen,0
+entities,region.LI-10,,Triesenberg,0
+entities,region.LI-11,,Vaduz,0
+entities,region.LK-1,,"Basnāhira paḷāta",0
+entities,region.LK-11,,Kŏḷamba,0
+entities,region.LK-12,,Gampaha,0
+entities,region.LK-13,,Kaḷutara,0
+entities,region.LK-2,,"Madhyama paḷāta",0
+entities,region.LK-21,,Mahanuvara,0
+entities,region.LK-22,,Mātale,0
+entities,region.LK-23,,"Nuvara Ĕliya",0
+entities,region.LK-3,,"Dakuṇu paḷāta",0
+entities,region.LK-31,,Gālla,0
+entities,region.LK-32,,Mātara,0
+entities,region.LK-33,,Hambantŏṭa,0
+entities,region.LK-4,,"Uturu paḷāta",0
+entities,region.LK-41,,Yāpanaya,0
+entities,region.LK-42,,Kilinŏchchi,0
+entities,region.LK-43,,Mannārama,0
+entities,region.LK-44,,Vavuniyāva,0
+entities,region.LK-45,,Mulativ,0
+entities,region.LK-5,,"Næ̆gĕnahira paḷāta",0
+entities,region.LK-51,,Maḍakalapuva,0
+entities,region.LK-52,,Ampāara,0
+entities,region.LK-53,,Trikuṇāmalaya,0
+entities,region.LK-61,,Kuruṇægala,0
+entities,region.LK-62,,Puttalama,0
+entities,region.LK-7,,"Uturumæ̆da paḷāta",0
+entities,region.LK-71,,Anurādhapura,0
+entities,region.LK-72,,Pŏḷŏnnaruva,0
+entities,region.LK-8,,"Ūva paḷāta",0
+entities,region.LK-81,,Badulla,0
+entities,region.LK-82,,Mŏṇarāgala,0
+entities,region.LK-9,,"Sabaragamuva paḷāta",0
+entities,region.LK-91,,Ratnapura,0
+entities,region.LK-92,,Kægalla,0
+entities,region.LR-BG,,Bong,0
+entities,region.LR-BM,,Bomi,0
+entities,region.LR-CM,,"Grand Cape Mount",0
+entities,region.LR-GB,,"Grand Bassa",0
+entities,region.LR-GG,,"Grand Gedeh",0
+entities,region.LR-GK,,"Grand Kru",0
+entities,region.LR-LO,,Lofa,0
+entities,region.LR-MG,,Margibi,0
+entities,region.LR-MO,,Montserrado,0
+entities,region.LR-MY,,Maryland,0
+entities,region.LR-NI,,Nimba,0
+entities,region.LR-RI,,Rivercess,0
+entities,region.LR-SI,,Sinoe,0
+entities,region.LS-A,,Maseru,0
+entities,region.LS-B,,Butha-Buthe,0
+entities,region.LS-C,,Leribe,0
+entities,region.LS-D,,Berea,0
+entities,region.LS-E,,Mafeteng,0
+entities,region.LS-F,,"Mohale's Hoek",0
+entities,region.LS-G,,Quthing,0
+entities,region.LS-H,,"Qacha's Nek",0
+entities,region.LS-J,,Mokhotlong,0
+entities,region.LS-K,,Thaba-Tseka,0
+entities,region.LT-AL,,"Alytaus Apskritis",0
+entities,region.LT-KL,,"Klaipėdos Apskritis",0
+entities,region.LT-KU,,"Kauno Apskritis",0
+entities,region.LT-MR,,"Marijampolės Apskritis",0
+entities,region.LT-PN,,"Panevėžio Apskritis",0
+entities,region.LT-SA,,"Šiaulių Apskritis",0
+entities,region.LT-TA,,"Tauragés Apskritis",0
+entities,region.LT-TE,,"Telšių Apskritis",0
+entities,region.LT-UT,,"Utenos Apskritis",0
+entities,region.LT-VL,,"Vilniaus Apskritis",0
+entities,region.LU-D,,Diekirch,0
+entities,region.LU-G,,Grevenmacher,0
+entities,region.LU-L,,Luxembourg,0
+entities,region.LV-AI,,Aizkraukle,0
+entities,region.LV-AL,,Alūksne,0
+entities,region.LV-BL,,Balvi,0
+entities,region.LV-BU,,Bauska,0
+entities,region.LV-CE,,Cēsis,0
+entities,region.LV-DA,,Daugavpils,0
+entities,region.LV-DGV,,Daugavpils,0
+entities,region.LV-DO,,Dobele,0
+entities,region.LV-GU,,Gulbene,0
+entities,region.LV-JEL,,Jelgava,0
+entities,region.LV-JK,,Jēkabpils,0
+entities,region.LV-JL,,Jelgava,0
+entities,region.LV-JUR,,Jūrmala,0
+entities,region.LV-KR,,Krāslava,0
+entities,region.LV-KU,,Kuldīga,0
+entities,region.LV-LE,,Liepāja,0
+entities,region.LV-LM,,Limbaži,0
+entities,region.LV-LPX,,Liepāja,0
+entities,region.LV-LU,,Ludza,0
+entities,region.LV-MA,,Madona,0
+entities,region.LV-OG,,Ogre,0
+entities,region.LV-PR,,Preiļi,0
+entities,region.LV-RE,,Rēzekne,0
+entities,region.LV-REZ,,Rēzekne,0
+entities,region.LV-RI,,Rīga,0
+entities,region.LV-RIX,,Rīga,0
+entities,region.LV-SA,,Saldus,0
+entities,region.LV-TA,,Talsi,0
+entities,region.LV-TU,,Tukums,0
+entities,region.LV-VE,,Ventspils,0
+entities,region.LV-VEN,,Ventspils,0
+entities,region.LV-VK,,Valka,0
+entities,region.LV-VM,,Valmiera,0
+entities,region.LY-BA,,Banghāzī,0
+entities,region.LY-BU,,"Al Buţnān",0
+entities,region.LY-DR,,Darnah,0
+entities,region.LY-GT,,Ghāt,0
+entities,region.LY-JA,,"Al Jabal al Akhḑar",0
+entities,region.LY-JB,,Jaghbūb,0
+entities,region.LY-JG,,"Al Jabal al Gharbī",0
+entities,region.LY-JI,,"Al Jifārah",0
+entities,region.LY-JU,,"Al Jufrah",0
+entities,region.LY-KF,,"Al Kufrah",0
+entities,region.LY-MB,,"Al Marqab",0
+entities,region.LY-MI,,Mişrātah,0
+entities,region.LY-MJ,,"Al Marj",0
+entities,region.LY-MQ,,Murzuq,0
+entities,region.LY-NL,,Nālūt,0
+entities,region.LY-NQ,,"An Nuqaţ al Khams",0
+entities,region.LY-SB,,Sabhā,0
+entities,region.LY-SR,,Surt,0
+entities,region.LY-TB,,Ţarābulus,0
+entities,region.LY-WA,,"Al Wāḩāt",0
+entities,region.LY-WD,,"Wādī al Ḩayāt",0
+entities,region.LY-WS,,"Wādī ash Shāţiʾ",0
+entities,region.LY-ZA,,"Az Zāwiyah",0
+entities,region.MA-01,,Tanger-Tétouan,0
+entities,region.MA-02,,"Gharb-Chrarda-Beni Hssen",0
+entities,region.MA-03,,"Taza-Al Hoceima-Taounate",0
+entities,region.MA-04,,L'Oriental,0
+entities,region.MA-05,,Fès-Boulemane,0
+entities,region.MA-06,,Meknès-Tafilalet,0
+entities,region.MA-07,,Rabat-Salé-Zemmour-Zaer,0
+entities,region.MA-08,,"Grand Casablanca",0
+entities,region.MA-09,,Chaouia-Ouardigha,0
+entities,region.MA-10,,Doukhala-Abda,0
+entities,region.MA-11,,"Marrakech-Tensift-Al Haouz",0
+entities,region.MA-12,,Tadla-Azilal,0
+entities,region.MA-13,,Sous-Massa-Draa,0
+entities,region.MA-14,,"Guelmim-Es Smara",0
+entities,region.MA-15,,"Laâyoune-Boujdour-Sakia el Hamra",0
+entities,region.MA-16,,"Oued ed Dahab-Lagouira",0
+entities,region.MA-AGD,,Agadir-Ida-Outanane,0
+entities,region.MA-AOU,,Aousserd,0
+entities,region.MA-ASZ,,Assa-Zag,0
+entities,region.MA-AZI,,Azilal,0
+entities,region.MA-BEM,,"Beni Mellal",0
+entities,region.MA-BER,,Berkane,0
+entities,region.MA-BES,,"Ben Slimane",0
+entities,region.MA-BOD,,"Boujdour (EH)",0
+entities,region.MA-BOM,,Boulemane,0
+entities,region.MA-CAS,,"Casablanca [Dar el Beïda]",0
+entities,region.MA-CHE,,Chefchaouen,0
+entities,region.MA-CHI,,Chichaoua,0
+entities,region.MA-CHT,,"Chtouka-Ait Baha",0
+entities,region.MA-ERR,,Errachidia,0
+entities,region.MA-ESI,,Essaouira,0
+entities,region.MA-ESM,,"Es Smara (EH)",0
+entities,region.MA-FAH,,"Fahs-Beni Makada",0
+entities,region.MA-FES,,Fès-Dar-Dbibegh,0
+entities,region.MA-FIG,,Figuig,0
+entities,region.MA-GUE,,Guelmim,0
+entities,region.MA-HAJ,,"El Hajeb",0
+entities,region.MA-HAO,,"Al Haouz",0
+entities,region.MA-HOC,,"Al Hoceïma",0
+entities,region.MA-IFR,,Ifrane,0
+entities,region.MA-INE,,"Inezgane-Ait Melloul",0
+entities,region.MA-JDI,,"El Jadida",0
+entities,region.MA-JRA,,Jrada,0
+entities,region.MA-KEN,,Kénitra,0
+entities,region.MA-KES,,"Kelaat es Sraghna",0
+entities,region.MA-KHE,,Khemisaet,0
+entities,region.MA-KHN,,Khenifra,0
+entities,region.MA-KHO,,Khouribga,0
+entities,region.MA-LAA,,"Laâyoune (EH)",0
+entities,region.MA-LAP,,Larache,0
+entities,region.MA-MED,,Médiouna,0
+entities,region.MA-MEK,,Meknès,0
+entities,region.MA-MMD,,Marrakech-Medina,0
+entities,region.MA-MMN,,Marrakech-Menara,0
+entities,region.MA-MOH,,Mohammadia,0
+entities,region.MA-MOU,,"Moulay Yacoub",0
+entities,region.MA-NAD,,Nador,0
+entities,region.MA-NOU,,Nouaceur,0
+entities,region.MA-OUA,,Ouarzazate,0
+entities,region.MA-OUD,,"Oued ed Dahab (EH)",0
+entities,region.MA-OUJ,,Oujda-Angad,0
+entities,region.MA-RAB,,Rabat,0
+entities,region.MA-SAF,,Safi,0
+entities,region.MA-SAL,,Salé,0
+entities,region.MA-SEF,,Sefrou,0
+entities,region.MA-SET,,Settat,0
+entities,region.MA-SIK,,"Sidl Kacem",0
+entities,region.MA-SKH,,Skhirate-Témara,0
+entities,region.MA-SYB,,"Sidi Youssef Ben Ali",0
+entities,region.MA-TAI,,Taourirt,0
+entities,region.MA-TAO,,Taounate,0
+entities,region.MA-TAR,,Taroudant,0
+entities,region.MA-TAT,,Tata,0
+entities,region.MA-TAZ,,Taza,0
+entities,region.MA-TET,,Tétouan,0
+entities,region.MA-TIZ,,Tiznit,0
+entities,region.MA-TNG,,Tanger-Assilah,0
+entities,region.MA-TNT,,Tan-Tan,0
+entities,region.MA-ZAG,,Zagora,0
+entities,region.MD-AN,,"Anenii Noi",0
+entities,region.MD-BA,,Bălți,0
+entities,region.MD-BD,,Tighina,0
+entities,region.MD-BR,,Briceni,0
+entities,region.MD-BS,,Basarabeasca,0
+entities,region.MD-CA,,Cahul,0
+entities,region.MD-CL,,Călărași,0
+entities,region.MD-CM,,Cimișlia,0
+entities,region.MD-CR,,Criuleni,0
+entities,region.MD-CS,,Căușeni,0
+entities,region.MD-CT,,Cantemir,0
+entities,region.MD-CU,,Chișinău,0
+entities,region.MD-DO,,Dondușeni,0
+entities,region.MD-DR,,Drochia,0
+entities,region.MD-DU,,Dubăsari,0
+entities,region.MD-ED,,Edineț,0
+entities,region.MD-FA,,Fălești,0
+entities,region.MD-FL,,Florești,0
+entities,region.MD-GA,,"Găgăuzia, Unitatea teritorială autonomă",0
+entities,region.MD-GL,,Glodeni,0
+entities,region.MD-HI,,Hîncești,0
+entities,region.MD-IA,,Ialoveni,0
+entities,region.MD-LE,,Leova,0
+entities,region.MD-NI,,Nisporeni,0
+entities,region.MD-OC,,Ocnița,0
+entities,region.MD-OR,,Orhei,0
+entities,region.MD-RE,,Rezina,0

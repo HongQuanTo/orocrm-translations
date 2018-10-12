@@ -1,0 +1,400 @@
+messages,oro.platform.caption.thirdParty,,"3rd Party Packages",0
+messages,oro.platform.no_packages,,"There are no installed packages",0
+messages,oro.platform.package.license,,License,0
+messages,oro.platform.package.name,,"Package Name",0
+messages,oro.platform.package.version,,Version,0
+messages,oro.platform.packages,,Packages,0
+messages,oro.platform.system_info,,"System Information",0
+messages,oro.query_designer.aggregates.date.Count.hint,,"Number of items",0
+messages,oro.query_designer.aggregates.date.Count.name,,Count,0
+messages,"oro.query_designer.aggregates.date.Day of year.hint",,"Day of year",0
+messages,"oro.query_designer.aggregates.date.Day of year.name",,"Day of year",0
+messages,oro.query_designer.aggregates.date.Day.hint,,Day,0
+messages,oro.query_designer.aggregates.date.Day.name,,Day,0
+messages,oro.query_designer.aggregates.date.Max.hint,,"Maximum value",0
+messages,oro.query_designer.aggregates.date.Max.name,,Max,0
+messages,oro.query_designer.aggregates.date.Min.hint,,"Minimum value",0
+messages,oro.query_designer.aggregates.date.Min.name,,Min,0
+messages,oro.query_designer.aggregates.date.Month.hint,,Month,0
+messages,oro.query_designer.aggregates.date.Month.name,,Month,0
+messages,oro.query_designer.aggregates.date.Year.hint,,Year,0
+messages,oro.query_designer.aggregates.date.Year.name,,Year,0
+messages,oro.query_designer.aggregates.identifier.Count.hint,,"Number of items",0
+messages,oro.query_designer.aggregates.identifier.Count.name,,Count,0
+messages,oro.query_designer.aggregates.marketing_activity_type.ClickCount.hint,,"Number of 'click' items",0
+messages,oro.query_designer.aggregates.marketing_activity_type.ClickCount.name,,"Click Count",0
+messages,oro.query_designer.aggregates.marketing_activity_type.HardBounceCount.hint,,"Number of 'hard bounce' items",0
+messages,oro.query_designer.aggregates.marketing_activity_type.HardBounceCount.name,,"Hard Bounce Count",0
+messages,oro.query_designer.aggregates.marketing_activity_type.OpenCount.hint,,"Number of 'open' items",0
+messages,oro.query_designer.aggregates.marketing_activity_type.OpenCount.name,,"Open Count",0
+messages,oro.query_designer.aggregates.marketing_activity_type.SendCount.hint,,"Number of 'send' items",0
+messages,oro.query_designer.aggregates.marketing_activity_type.SendCount.name,,"Send Count",0
+messages,oro.query_designer.aggregates.marketing_activity_type.SoftBounceCount.hint,,"Number of 'soft bounce' items",0
+messages,oro.query_designer.aggregates.marketing_activity_type.SoftBounceCount.name,,"Soft Bounce Count",0
+messages,oro.query_designer.aggregates.marketing_activity_type.UnsubscribeCount.hint,,"Number of 'unsubscribe' items",0
+messages,oro.query_designer.aggregates.marketing_activity_type.UnsubscribeCount.name,,"Unsubscribe Count",0
+messages,oro.query_designer.aggregates.number.Avg.hint,,"Average of values",0
+messages,oro.query_designer.aggregates.number.Avg.name,,Average,0
+messages,oro.query_designer.aggregates.number.Count.hint,,"Number of items",0
+messages,oro.query_designer.aggregates.number.Count.name,,Count,0
+messages,oro.query_designer.aggregates.number.Max.hint,,"Maximum value",0
+messages,oro.query_designer.aggregates.number.Max.name,,Max,0
+messages,oro.query_designer.aggregates.number.Min.hint,,"Minimum value",0
+messages,oro.query_designer.aggregates.number.Min.name,,Min,0
+messages,oro.query_designer.aggregates.number.Sum.hint,,"Sum of all values",0
+messages,oro.query_designer.aggregates.number.Sum.name,,Sum,0
+messages,oro.query_designer.aggregates.opportunity.WonRevenueSumFunction.hint,,"Sum close revenue for 'won' items",0
+messages,oro.query_designer.aggregates.opportunity.WonRevenueSumFunction.name,,"Sum revenue won",0
+messages,oro.query_designer.aggregates.opportunity_status.InProgressCount.hint,,"Number of 'In Progress' items",0
+messages,oro.query_designer.aggregates.opportunity_status.InProgressCount.name,,"In Progress Count",0
+messages,oro.query_designer.aggregates.opportunity_status.LostCount.hint,,"Number of 'lost' items",0
+messages,oro.query_designer.aggregates.opportunity_status.LostCount.name,,"Lost Count",0
+messages,oro.query_designer.aggregates.opportunity_status.WonCount.hint,,"Number of 'won' items",0
+messages,oro.query_designer.aggregates.opportunity_status.WonCount.name,,"Won Count",0
+messages,oro.query_designer.aggregates.string.Count.hint,,"Number of items",0
+messages,oro.query_designer.aggregates.string.Count.name,,Count,0
+messages,oro.query_designer.condition_builder.choose_entity_field,,"Choose a field...",0
+messages,oro.query_designer.condition_builder.criteria.aggregated_field_condition,,"Aggregation column",0
+messages,oro.query_designer.condition_builder.criteria.conditions_group,,"Conditions Group",0
+messages,oro.query_designer.condition_builder.criteria.drag_hint,,"drag to select",0
+messages,oro.query_designer.condition_builder.criteria.field_condition,,"Field Condition",0
+messages,oro.query_designer.datagrid.action.delete_column,,"Delete column",0
+messages,oro.query_designer.datagrid.action.delete_column_confirmation,,"Are you sure you want to delete this column?",0
+messages,oro.query_designer.datagrid.action.delete_filter,,"Delete filter",0
+messages,oro.query_designer.datagrid.action.delete_filter_confirmation,,"Are you sure you want to delete this filter?",0
+messages,oro.query_designer.datagrid.action.move_column,,"Move column",0
+messages,oro.query_designer.datagrid.action.update_column,,"Update column",0
+messages,oro.query_designer.datagrid.action.update_filter,,"Update filter",0
+messages,oro.query_designer.datagrid.column.actions,,Actions,0
+messages,oro.query_designer.datagrid.column.column,,Column,0
+messages,oro.query_designer.datagrid.column.function,,Function,0
+messages,oro.query_designer.datagrid.column.label,,Label,0
+messages,oro.query_designer.datagrid.column.sorting,,Sorting,0
+messages,oro.query_designer.filter.boolean.select_value.label,,"Select Value",0
+messages,oro.query_designer.form.action.add,,Add,0
+messages,oro.query_designer.form.action.cancel,,Cancel,0
+messages,oro.query_designer.form.action.save,,Save,0
+messages,oro.query_designer.form.choose_function,,None,0
+messages,oro.query_designer.form.choose_sorting,,None,0
+messages,oro.query_designer.form.column,,Column,0
+messages,oro.query_designer.form.condition,,Condition,0
+messages,oro.query_designer.form.date_grouping.field_name,,"Date grouping field",0
+messages,oro.query_designer.form.date_grouping.not_nullable_field,,"Not nullable field",0
+messages,oro.query_designer.form.function,,Function,0
+messages,oro.query_designer.form.grouping_columns,,"Grouping Columns",0
+messages,oro.query_designer.form.label,,Label,0
+messages,oro.query_designer.form.sorting,,Sorting,0
+messages,oro.query_designer.form.sorting_asc,,Asc,0
+messages,oro.query_designer.form.sorting_desc,,Desc,0
+messages,oro.query_designer.validation.grouping,,"%columns% must appear in grouping.",0
+messages,oro.query_designer.validation.query,,"Invalid query",0
+messages,oro.reminder.entity_description,,"Represent reminder",0
+messages,oro.reminder.entity_label,,Reminder,0
+messages,oro.reminder.entity_plural_label,,Reminders,0
+messages,oro.reminder.expire_at.label,,"Expire At",0
+messages,oro.reminder.failure_exception.label,,"Failure exception",0
+messages,oro.reminder.id.label,,Id,0
+messages,oro.reminder.interval.unit.day.label,,days,0
+messages,oro.reminder.interval.unit.hour.label,,hours,0
+messages,oro.reminder.interval.unit.minute.label,,minutes,0
+messages,oro.reminder.interval.unit.week.label,,weeks,0
+messages,oro.reminder.interval_number.label,,"Interval number",0
+messages,oro.reminder.interval_unit.label,,"Interval unit label",0
+messages,oro.reminder.method.label,,Method,0
+messages,oro.reminder.processor.email.label,,Email,0
+messages,oro.reminder.processor.web_socket.label,,"Flash message",0
+messages,oro.reminder.recipient.label,,Recipient,0
+messages,oro.reminder.related_entity_class_name.label,,"Related entity name",0
+messages,oro.reminder.related_entity_id.label,,"Related entity id",0
+messages,oro.reminder.reminder_template.due_message,,"is starting at",0
+messages,oro.reminder.sender.label,,Sender,0
+messages,oro.reminder.sent_at.label,,"Sent At",0
+messages,oro.reminder.start_at.label,,"Start At",0
+messages,oro.reminder.state.label,,State,0
+messages,oro.reminder.subject.label,,Subject,0
+messages,oro.report.action.view_sql.label,,"View SQL query of a report/segment",0
+messages,oro.report.chart_options.label,,"Chart Options",0
+messages,oro.report.datagrid.column.entity,,Entity,0
+messages,oro.report.datagrid.column.name,,Name,0
+messages,oro.report.datagrid.column.report_type,,"Report type",0
+messages,oro.report.datagrid.column.time_period.label,,"Time Period",0
+messages,oro.report.datagrid.row.action.view,,View,0
+messages,oro.report.definition.label,,Definition,0
+messages,oro.report.description.label,,Description,0
+messages,oro.report.entity.label,,Entity,0
+messages,oro.report.entity_description,,"Represent Report",0
+messages,oro.report.entity_label,,Report,0
+messages,oro.report.entity_plural_label,,Reports,0
+messages,oro.report.filter.grouping.label,,Grouping,0
+messages,oro.report.filter.skip_empty_periods.label,,"Skip Empty Periods",0
+messages,oro.report.form.chart_designer,,"Chart Designer",0
+messages,oro.report.form.choose_report_type,,"Choose a report type...",0
+messages,oro.report.form.columns,,Columns,0
+messages,oro.report.form.date_group_section.label,,"Grouping by date",0
+messages,oro.report.form.date_grouping,,"Date grouping",0
+messages,oro.report.form.date_grouping_field.label,,"Date field",0
+messages,oro.report.form.designer,,Designer,0
+messages,oro.report.form.filters,,Filters,0
+messages,oro.report.form.grouping,,Grouping,0
+messages,oro.report.form.use_date_grouping_filter.label,,"Enable grouping by date",0
+messages,oro.report.form.use_skip_empty_periods.label,,"Allow to skip empty time periods",0
+messages,oro.report.id.label,,Id,0
+messages,oro.report.menu.manage_reports.label,,"Manage Custom Reports",0
+messages,oro.report.name.label,,Name,0
+messages,oro.report.organization.label,,Organization,0
+messages,oro.report.owner.label,,Owner,0
+messages,oro.report.reporttype.chart.label,,Chart,0
+messages,oro.report.reporttype.entity_description,,"Represent Report Type",0
+messages,oro.report.reporttype.entity_label,,"Report Type",0
+messages,oro.report.reporttype.entity_plural_label,,"Report Types",0
+messages,oro.report.reporttype.hasChart.label,,"Report design",0
+messages,oro.report.reporttype.hasChart.tooltip,,"Add chart to the report",0
+messages,oro.report.reporttype.label.label,,Label,0
+messages,oro.report.reporttype.name.label,,Name,0
+messages,oro.report.system_configuration.fields.display_sql_query.label,,"Display SQL in Reports and Segments",0
+messages,oro.report.system_configuration.fields.display_sql_query.tooltip,,"Displays SQL query of a report or segment on its view page",0
+messages,oro.report.system_configuration.groups.report_settings.title,,"Reports settings",0
+messages,oro.report.type.label,,"Report type",0
+messages,oro.report.type.table,,Table,0
+messages,oro.reportcrm.accounts_by_opportunities,,"Accounts by opportunities",0
+messages,oro.reportcrm.accounts_life_time_value,,"Account life time value",0
+messages,oro.reportcrm.controller.report.inProgressCount,,"Number In Progress",0
+messages,oro.reportcrm.controller.report.lostCount,,"Number Lost",0
+messages,oro.reportcrm.controller.report.totalOps,,Total,0
+messages,oro.reportcrm.controller.report.wonCount,,"Number Won",0
+messages,oro.reportcrm.datagrid.columns.account_name,,"Account name",0
+messages,oro.reportcrm.datagrid.columns.budget_amount,,"Budget Amount",0
+messages,oro.reportcrm.datagrid.columns.budgetAmount,,"Budget Forecast",0
+messages,oro.reportcrm.datagrid.columns.close_date,,"Close date",0
+messages,oro.reportcrm.datagrid.columns.close_revenue,,"Close Revenue",0
+messages,oro.reportcrm.datagrid.columns.created_date,,"Created date",0
+messages,oro.reportcrm.datagrid.columns.identificationAlignmentCount,,"Opportunities Identification Alignment",0
+messages,oro.reportcrm.datagrid.columns.inProgressCount,,"Opportunities In Progress",0
+messages,oro.reportcrm.datagrid.columns.leads_count,,"Leads count",0
+messages,oro.reportcrm.datagrid.columns.lostCount,,"Number Lost",0
+messages,oro.reportcrm.datagrid.columns.needsAnalysisCount,,"Opportunities Needs Analysis",0
+messages,oro.reportcrm.datagrid.columns.negotiationCount,,"Opportunities Negotiation",0
+messages,oro.reportcrm.datagrid.columns.number_of_opportunities,,"Number of opportunities",0
+messages,oro.reportcrm.datagrid.columns.number_won,,"Number won",0
+messages,oro.reportcrm.datagrid.columns.ownerName,,"Owner Name",0
+messages,oro.reportcrm.datagrid.columns.period,,Period,0
+messages,oro.reportcrm.datagrid.columns.probability,,Probability,0
+messages,oro.reportcrm.datagrid.columns.solutionDevelopmentCount,,"Opportunities Solution Development",0
+messages,oro.reportcrm.datagrid.columns.status,,Status,0
+messages,oro.reportcrm.datagrid.columns.total_value,,"Close revenue",0
+messages,oro.reportcrm.datagrid.columns.totalOps,,Total,0
+messages,oro.reportcrm.datagrid.columns.weightedForecast,,"Weighted Forecast",0
+messages,oro.reportcrm.datagrid.columns.wonCount,,"Number Won",0
+messages,oro.reportcrm.datagrid.columns.workflow,,Workflow,0
+messages,oro.reportcrm.leads_by_date,,"Number leads by date",0
+messages,oro.reportcrm.menu.accounts_by_opportunities.description,,"Accounts by opportunities report",0
+messages,oro.reportcrm.menu.accounts_by_opportunities.label,,"By Opportunities",0
+messages,oro.reportcrm.menu.accounts_life_time_value.description,,"Accounts lifetime report",0
+messages,oro.reportcrm.menu.accounts_life_time_value.label,,"Life Time",0
+messages,oro.reportcrm.menu.accounts_report_tab.label,,Accounts,0
+messages,oro.reportcrm.menu.leads_by_date.description,,"Leads by date report",0
+messages,oro.reportcrm.menu.leads_by_date.label,,"Leads By Date",0
+messages,oro.reportcrm.menu.leads_report_tab.label,,Leads,0
+messages,oro.reportcrm.menu.opportunities_by_status.description,,"Opportunities by status report",0
+messages,oro.reportcrm.menu.opportunities_by_status.label,,"Opportunities By Status",0
+messages,oro.reportcrm.menu.opportunities_report_tab.label,,Opportunities,0
+messages,oro.reportcrm.menu.static_reports_tab.label,,Reports,0
+messages,oro.reportcrm.menu.total_forecast.description,,"Total Forecast report",0
+messages,oro.reportcrm.menu.total_forecast.label,,"Total Forecast",0
+messages,oro.reportcrm.menu.won_by_period.description,,"Won opportunities by period report",0
+messages,oro.reportcrm.menu.won_by_period.label,,"Won Opportunities By Period",0
+messages,oro.reportcrm.opportunities.total_forecast,,Forecast,0
+messages,oro.reportcrm.opportunities_by_status,,"Opportunities by status",0
+messages,oro.reportcrm.opportunities_won_by_period,,"Won opportunities by date period",0
+messages,oro.reportcrm.opportunitybyworkflowitem.entity_description,,,0
+messages,oro.reportcrm.opportunitybyworkflowitem.entity_label,,"Opportunity With Workflow",0
+messages,oro.reportcrm.opportunitybyworkflowitem.entity_plural_label,,"Opportunities With Workflow",0
+messages,oro.reportcrm.opportunitybyworkflowitem.id.label,,Id,0
+messages,oro.reportcrm.opportunitybyworkflowitem.opportunity.label,,Opportunity,0
+messages,oro.reportcrm.opportunitybyworkflowitem.workflow_item.label,,"Workflow item",0
+messages,oro.sales.b2bcustomer.account.description,,"The account that a business customer is assigned to.",0
+messages,oro.sales.b2bcustomer.account.label,,Account,0
+messages,oro.sales.b2bcustomer.billing_address.description,,"The billing address configured for the business customer.",0
+messages,oro.sales.b2bcustomer.billing_address.label,,"Billing Address",0
+messages,oro.sales.b2bcustomer.contact.description,,"The contact that is specified for the business customer.",0
+messages,oro.sales.b2bcustomer.contact.label,,Contact,0
+messages,oro.sales.b2bcustomer.contact_information.label,,"Contact Information",0
+messages,oro.sales.b2bcustomer.data_channel.description,,"The channel via which information about the business customer is received.",0
+messages,oro.sales.b2bcustomer.data_channel.label,,Channel,0
+messages,oro.sales.b2bcustomer.datagrid.columns.account_name.label,,"Account Name",0
+messages,oro.sales.b2bcustomer.datagrid.columns.billing_address_city.label,,"Billing Address City",0
+messages,oro.sales.b2bcustomer.datagrid.columns.billing_address_country.label,,"Billing Address Country",0
+messages,oro.sales.b2bcustomer.datagrid.columns.billing_address_postal_code.label,,"Billing Address Postal Code",0
+messages,oro.sales.b2bcustomer.datagrid.columns.billing_address_region.label,,"Billing Address Region",0
+messages,oro.sales.b2bcustomer.datagrid.columns.billing_address_street.label,,"Billing Address Street",0
+messages,oro.sales.b2bcustomer.datagrid.columns.contact_name.label,,"Contact Name",0
+messages,oro.sales.b2bcustomer.datagrid.columns.shipping_address_city.label,,"Shipping Address City",0
+messages,oro.sales.b2bcustomer.datagrid.columns.shipping_address_country.label,,"Shipping Address Country",0
+messages,oro.sales.b2bcustomer.datagrid.columns.shipping_address_postal_code.label,,"Shipping Address Postal Code",0
+messages,oro.sales.b2bcustomer.datagrid.columns.shipping_address_region.label,,"Shipping Address Region",0
+messages,oro.sales.b2bcustomer.datagrid.columns.shipping_address_street.label,,"Shipping Address Street",0
+messages,oro.sales.b2bcustomer.datagrid.delete,,Delete,0
+messages,oro.sales.b2bcustomer.datagrid.update,,Update,0
+messages,oro.sales.b2bcustomer.datagrid.view,,View,0
+messages,oro.sales.b2bcustomer.email.label,,Email,0
+messages,oro.sales.b2bcustomer.emails.label,,Emails,0
+messages,oro.sales.b2bcustomer.employees.description,,"The number of employees of the business customer.",0
+messages,oro.sales.b2bcustomer.employees.label,,Employees,0
+messages,oro.sales.b2bcustomer.entity_description,,"Customer identity that represents customers involved in business-to-business activities.",0
+messages,oro.sales.b2bcustomer.entity_label,,"Business Customer",0
+messages,oro.sales.b2bcustomer.entity_plural_label,,"Business Customers",0
+messages,oro.sales.b2bcustomer.id.label,,Id,0
+messages,oro.sales.b2bcustomer.import,,Import,0
+messages,oro.sales.b2bcustomer.leads.description,,"The leads that a business customer is assigned to.",0
+messages,oro.sales.b2bcustomer.leads.label,,Leads,0
+messages,oro.sales.b2bcustomer.leads.select,,"Select leads",0
+messages,oro.sales.b2bcustomer.lifetime.description,,"The lifetime sales value associated with the business customer.",0
+messages,oro.sales.b2bcustomer.lifetime.label,,"Lifetime sales value",0
+messages,oro.sales.b2bcustomer.name.description,,"The name of the business customer.",0
+messages,oro.sales.b2bcustomer.name.label,,"Customer name",0
+messages,oro.sales.b2bcustomer.opportunities.description,,"The opportunities that a business customer is assigned to.",0
+messages,oro.sales.b2bcustomer.opportunities.label,,Opportunities,0
+messages,oro.sales.b2bcustomer.opportunities.select,,"Select opportunities",0
+messages,oro.sales.b2bcustomer.organization.label,,Organization,0
+messages,oro.sales.b2bcustomer.owner.label,,Owner,0
+messages,oro.sales.b2bcustomer.ownership.description,,"The type of legal ownership of the business customer.",0
+messages,oro.sales.b2bcustomer.ownership.label,,Ownership,0
+messages,oro.sales.b2bcustomer.phones.label,,Phones,0
+messages,oro.sales.b2bcustomer.primary_email.label,,"Primary Email",0
+messages,oro.sales.b2bcustomer.primary_phone.label,,"Primary Phone",0
+messages,oro.sales.b2bcustomer.rating.description,,"The rating of the business customer.",0
+messages,oro.sales.b2bcustomer.rating.label,,Rating,0
+messages,oro.sales.b2bcustomer.shipping_address.description,,"The shipping address configured for the business customer.",0
+messages,oro.sales.b2bcustomer.shipping_address.label,,"Shipping Address",0
+messages,oro.sales.b2bcustomer.tags.label,,Tags,0
+messages,oro.sales.b2bcustomer.ticker_symbol.description,,"The ticker symbol of the business customer.",0
+messages,oro.sales.b2bcustomer.ticker_symbol.label,,"Ticker symbol",0
+messages,oro.sales.b2bcustomer.website.description,,"The address of the business customer's website.",0
+messages,oro.sales.b2bcustomer.website.label,,Website,0
+messages,oro.sales.b2bcustomeremail.email.label,,Email,0
+messages,oro.sales.b2bcustomeremail.entity_description,,"Represent Business Customer email",0
+messages,oro.sales.b2bcustomeremail.entity_label,,"Business Customer Email",0
+messages,oro.sales.b2bcustomeremail.entity_plural_label,,"Business Customer Emails",0
+messages,oro.sales.b2bcustomeremail.id.label,,Id,0
+messages,oro.sales.b2bcustomeremail.owner.label,,Owner,0
+messages,oro.sales.b2bcustomeremail.primary.label,,Primary,0
+messages,oro.sales.b2bcustomerphone.entity_description,,"Represent Business Customer phone",0
+messages,oro.sales.b2bcustomerphone.entity_label,,"Business Customer Phone",0
+messages,oro.sales.b2bcustomerphone.entity_plural_label,,"Business Customer Phones",0
+messages,oro.sales.b2bcustomerphone.id.label,,Id,0
+messages,oro.sales.b2bcustomerphone.owner.label,,Owner,0
+messages,oro.sales.b2bcustomerphone.phone.label,,Phone,0
+messages,oro.sales.b2bcustomerphone.primary.label,,Primary,0
+messages,oro.sales.channel_type.b2b.label,,Sales,0
+messages,oro.sales.controller.b2bcustomer.saved.message,,"Customer saved",0
+messages,oro.sales.controller.lead.saved.message,,"Lead saved",0
+messages,oro.sales.controller.opportunity.saved.message,,"Opportunity saved",0
+messages,oro.sales.controller.sales_funnel.saved.message,,"Sales process saved",0
+messages,oro.sales.customer.account.label,,Account,0
+messages,oro.sales.customer.entity_label,,Customer,0
+messages,oro.sales.customer.entity_plural_label,,Customers,0
+messages,oro.sales.customer.id.label,,Id,0
+messages,oro.sales.customer.importexport.empty_account,,"Customer Account must not be empty.",0
+messages,oro.sales.customer.importexport.multiple_association,,"Association with multiple Customers is not allowed.",0
+messages,oro.sales.customer.importexport.not_matched_account,,"Customer does not match the Account.",0
+messages,oro.sales.customer.label,,Account,0
+messages,oro.sales.customers.leads.grid.label,,Leads,0
+messages,oro.sales.customers.opportunities.grid.label,,Opportunities,0
+messages,oro.sales.dashboard.forecast_of_opportunities.business_unit,,"Business Unit",0
+messages,oro.sales.dashboard.forecast_of_opportunities.compareToDate,,"Compare to Previous Period",0
+messages,oro.sales.dashboard.forecast_of_opportunities.description,,"This widget displays forecast of opportunities",0
+messages,oro.sales.dashboard.forecast_of_opportunities.in_progress.label,,"In Progress",0
+messages,oro.sales.dashboard.forecast_of_opportunities.metrics,,Metrics,0
+messages,oro.sales.dashboard.forecast_of_opportunities.no_available_metrics,,"No available metrics",0
+messages,oro.sales.dashboard.forecast_of_opportunities.no_changes,,"No Changes",0
+messages,oro.sales.dashboard.forecast_of_opportunities.owner,,Owner,0
+messages,oro.sales.dashboard.forecast_of_opportunities.role,,Role,0
+messages,oro.sales.dashboard.forecast_of_opportunities.title,,Forecast,0
+messages,oro.sales.dashboard.forecast_of_opportunities.total_forecast.label,,"Total Forecast",0
+messages,oro.sales.dashboard.forecast_of_opportunities.total_indeterminate_forecast.label,,"Total Indeterminate Forecast",0
+messages,oro.sales.dashboard.forecast_of_opportunities.weighted_forecast.label,,"Weighted Forecast",0
+messages,oro.sales.dashboard.forecast_of_opportunities.weighted_indeterminate_forecast.label,,"Weighted Indeterminate Forecast",0
+messages,oro.sales.dashboard.leads_list.description,,"This widget displays the list of leads that can be configured to show only leads in certain conditions, e.g. only open leads that are owned by the current user.",0
+messages,oro.sales.dashboard.leads_list.excluded_statuses.label,,"Excluded statuses",0
+messages,oro.sales.dashboard.leads_list.excluded_statuses.placeholder,,"Choose statuses to exclude",0
+messages,oro.sales.dashboard.leads_list.title,,"Leads List",0
+messages,oro.sales.dashboard.my_sales_flow_b2b_chart.description,,"This widget gives you a quick overview of a B2B workflow in form of a funnel chart.",0
+messages,oro.sales.dashboard.my_sales_flow_b2b_chart.title,,"My Sales Flow B2B",0
+messages,oro.sales.dashboard.opportunities_by_lead_source_chart.by_amount.amount,,Amount,0
+messages,oro.sales.dashboard.opportunities_by_lead_source_chart.by_amount.count,,Count,0
+messages,oro.sales.dashboard.opportunities_by_lead_source_chart.by_amount.label,,"Display data",0
+messages,oro.sales.dashboard.opportunities_by_lead_source_chart.by_amount.tooltip,,"Choose which data to display on the chart: Count shows the number of opportunities with a particular lead source, and Amount displays their total budget.",0
+messages,oro.sales.dashboard.opportunities_by_lead_source_chart.description,,"This widget displays a breakdown of opportunities by Lead source in form of a pie chart.",0
+messages,oro.sales.dashboard.opportunities_by_lead_source_chart.excluded_sources.label,,"Excluded sources",0
+messages,oro.sales.dashboard.opportunities_by_lead_source_chart.excluded_sources.placeholder,,"Choose sources to exclude",0
+messages,oro.sales.dashboard.opportunities_by_lead_source_chart.excluded_sources.tooltip,,"Choose Lead sources that will merge into Others group",0
+messages,oro.sales.dashboard.opportunities_by_lead_source_chart.title,,"Opportunities By Lead Source",0
+messages,oro.sales.dashboard.opportunities_by_state.description,,"This widget displays a breakdown of opportunities by status in form of a bar chart.",0
+messages,oro.sales.dashboard.opportunities_by_state.excluded_statuses.label,,"Excluded statuses",0
+messages,oro.sales.dashboard.opportunities_by_state.excluded_statuses.placeholder,,"Choose statuses to exclude",0
+messages,oro.sales.dashboard.opportunities_by_state.quantity_as_data.amount,,Amount,0
+messages,oro.sales.dashboard.opportunities_by_state.quantity_as_data.count,,Count,0
+messages,oro.sales.dashboard.opportunities_by_state.quantity_as_data.label,,"Display data",0
+messages,oro.sales.dashboard.opportunities_by_state.quantity_as_data.tooltip,,"Choose which data to display on the chart: Count shows the number of opportunities in a particular status, and Amount displays their total budget.",0
+messages,oro.sales.dashboard.opportunities_by_state.title,,"Opportunities by Status",0
+messages,oro.sales.dashboard.opportunities_list.description,,"This widget displays the list of opportunities that can be configured to show only opportunities in certain conditions, e.g. only open opportunities that are owned by the current user.",0
+messages,oro.sales.dashboard.opportunities_list.excluded_statuses.label,,"Excluded statuses",0
+messages,oro.sales.dashboard.opportunities_list.excluded_statuses.placeholder,,"Choose statuses to exclude",0
+messages,oro.sales.dashboard.opportunities_list.title,,"Opportunities List",0
+messages,oro.sales.form.choose_account,,"Choose an account ....",0
+messages,oro.sales.form.choose_b2bcustomer,,"Choose a customer....",0
+messages,oro.sales.form.choose_close_rsn,,"Choose a close reason...",0
+messages,oro.sales.form.choose_lead,,"Choose a lead....",0
+messages,oro.sales.form.choose_opportunity,,"Choose an opportunity....",0
+messages,oro.sales.form.tooltip.account,,"Choose customer account the Opportunity will be related to. Account name is displayed in parentheses if it differs from the customer name. To create a new customer account, type their name into the control and choose option marked as New.",0
+messages,oro.sales.lead.add_address.description,,,0
+messages,oro.sales.lead.add_address.label,,"Add Address",0
+messages,oro.sales.lead.add_entity,,"Add lead",0
+messages,oro.sales.lead.address.description,,,0
+messages,oro.sales.lead.address.label,,Address,0
+messages,oro.sales.lead.addresses.description,,"Collection of lead addresses: mailing, business, home, billing, etc.",0
+messages,oro.sales.lead.addresses.label,,Address,0
+messages,oro.sales.lead.assigned.description,,,0
+messages,oro.sales.lead.assigned.label,,Assigned,0
+messages,oro.sales.lead.campaign.description,,,0
+messages,oro.sales.lead.campaign.label,,Campaign,0
+messages,oro.sales.lead.company_name.description,,"Name of the company or organization the lead represents or belongs to.",0
+messages,oro.sales.lead.company_name.label,,"Company name",0
+messages,oro.sales.lead.contact.description,,"A contact the lead was converted into.",0
+messages,oro.sales.lead.contact.label,,Contact,0
+messages,oro.sales.lead.contact_information.label,,"Contact Information",0
+messages,oro.sales.lead.convert.error,,"Unable to convert lead to opportunity",0
+messages,oro.sales.lead.customer.label,,Account,0
+messages,oro.sales.lead.customer_association.description,,"A customer or an account the lead is created for.",0
+messages,oro.sales.lead.customer_association.label,,Customer,0
+messages,oro.sales.lead.data_channel.description,,"Sales channel within OroCRM to which the lead belongs. **(Will be removed in 2.0;)**",0
+messages,oro.sales.lead.data_channel.label,,Channel,0
+messages,oro.sales.lead.datagrid.city,,City,0
+messages,oro.sales.lead.datagrid.country,,Country,0
+messages,oro.sales.lead.datagrid.delete,,Delete,0
+messages,oro.sales.lead.datagrid.number_of_employees,,"# of employees",0
+messages,oro.sales.lead.datagrid.postal_code,,"Postal Code",0
+messages,oro.sales.lead.datagrid.region,,State,0
+messages,oro.sales.lead.datagrid.street,,Street,0
+messages,oro.sales.lead.datagrid.update,,Update,0
+messages,oro.sales.lead.datagrid.view,,View,0
+messages,oro.sales.lead.datagrid.views.open,,"Open Leads",0
+messages,oro.sales.lead.details.description,,,0
+messages,oro.sales.lead.details.label,,"Lead Details",0
+messages,oro.sales.lead.email.label,,Email,0
+messages,oro.sales.lead.emails.description,,"Collection of lead email addresses.",0
+messages,oro.sales.lead.emails.label,,Emails,0
+messages,oro.sales.lead.entity_description,,"Leads are prospects or potential sales in a form of contact data. Lead records represent commercial activity with people or businesses that have authority, budget and interest to purchase goods and/or services.",0
+messages,oro.sales.lead.entity_label,,Lead,0
+messages,oro.sales.lead.entity_plural_label,,Leads,0
+messages,oro.sales.lead.feature.description,,"Enables Lead entity",0
+messages,oro.sales.lead.feature.label,,Lead,0
+messages,oro.sales.lead.first_name.description,,"First name of the lead person.",0
+messages,oro.sales.lead.first_name.label,,"First name",0
+messages,oro.sales.lead.id.label,,Id,0
+messages,oro.sales.lead.industry.description,,"Industry where the lead's company is operating.",0
+messages,oro.sales.lead.industry.label,,Industry,0
+messages,oro.sales.lead.information,,"Lead Information",0
+messages,oro.sales.lead.job_title.description,,"Job title of the lead person within the company.",0
+messages,oro.sales.lead.job_title.label,,"Job title",0
+messages,oro.sales.lead.last_name.description,,"Last name of the lead person.",0

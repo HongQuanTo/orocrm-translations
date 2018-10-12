@@ -1,0 +1,400 @@
+domain,key,value,english_translation,is_translated
+entities,address_type.billing,,Billing,0
+entities,address_type.shipping,,Shipping,0
+entities,case_priority.high,,High,0
+entities,case_priority.low,,Low,0
+entities,case_priority.normal,,Normal,0
+entities,case_source.email,,Email,0
+entities,case_source.other,,Other,0
+entities,case_source.phone,,Phone,0
+entities,case_source.web,,Web,0
+entities,case_status.closed,,Closed,0
+entities,case_status.in_progress,,"In Progress",0
+entities,case_status.open,,Open,0
+entities,case_status.resolved,,Resolved,0
+entities,country.AD,,Andorra,0
+entities,country.AE,,"United Arab Emirates",0
+entities,country.AF,,Afghanistan,0
+entities,country.AG,,"Antigua and Barbuda",0
+entities,country.AI,,Anguilla,0
+entities,country.AL,,Albania,0
+entities,country.AM,,Armenia,0
+entities,country.AN,,"Netherlands Antilles",0
+entities,country.AO,,Angola,0
+entities,country.AQ,,Antarctica,0
+entities,country.AR,,Argentina,0
+entities,country.AS,,"American Samoa",0
+entities,country.AT,,Austria,0
+entities,country.AU,,Australia,0
+entities,country.AW,,Aruba,0
+entities,country.AX,,"Aland Islands",0
+entities,country.AZ,,Azerbaijan,0
+entities,country.BA,,Bosnia-Herzegovina,0
+entities,country.BB,,Barbados,0
+entities,country.BD,,Bangladesh,0
+entities,country.BE,,Belgium,0
+entities,country.BF,,Burkina-Faso,0
+entities,country.BG,,Bulgaria,0
+entities,country.BH,,Bahrain,0
+entities,country.BI,,Burundi,0
+entities,country.BJ,,Benin,0
+entities,country.BL,,"Saint Barthelemy",0
+entities,country.BM,,Bermuda,0
+entities,country.BN,,"Brunei Darussalam",0
+entities,country.BO,,Bolivia,0
+entities,country.BR,,Brazil,0
+entities,country.BS,,Bahamas,0
+entities,country.BT,,Bhutan,0
+entities,country.BV,,"Bouvet Island",0
+entities,country.BW,,Botswana,0
+entities,country.BY,,Belarus,0
+entities,country.BZ,,Belize,0
+entities,country.CA,,Canada,0
+entities,country.CC,,"Cocos Islands",0
+entities,country.CD,,"The Democratic Republic of Congo",0
+entities,country.CF,,"Central African Republic",0
+entities,country.CG,,"Republic of the Congo",0
+entities,country.CH,,Switzerland,0
+entities,country.CI,,"Cote D'ivoire",0
+entities,country.CK,,"Cook Islands",0
+entities,country.CL,,Chile,0
+entities,country.CM,,Cameroon,0
+entities,country.CN,,China,0
+entities,country.CO,,Colombia,0
+entities,country.CR,,"Costa Rica",0
+entities,country.CU,,Cuba,0
+entities,country.CV,,"Cape Verde",0
+entities,country.CX,,"Christmas Island",0
+entities,country.CY,,Cyprus,0
+entities,country.CZ,,"Czech Republic",0
+entities,country.DE,,Germany,0
+entities,country.DJ,,Djibouti,0
+entities,country.DK,,Denmark,0
+entities,country.DM,,Dominica,0
+entities,country.DO,,"Dominican Republic",0
+entities,country.DZ,,Algeria,0
+entities,country.EC,,Ecuador,0
+entities,country.EE,,Estonia,0
+entities,country.EG,,Egypt,0
+entities,country.EH,,"Western Sahara",0
+entities,country.ER,,Eritrea,0
+entities,country.ES,,Spain,0
+entities,country.ET,,Ethiopia,0
+entities,country.FI,,Finland,0
+entities,country.FJ,,Fiji,0
+entities,country.FK,,"Falkland Islands",0
+entities,country.FM,,"Federated States of Micronesia",0
+entities,country.FO,,"Faroe Islands",0
+entities,country.FR,,France,0
+entities,country.GA,,Gabon,0
+entities,country.GB,,"United Kingdom",0
+entities,country.GD,,Grenada,0
+entities,country.GE,,Georgia,0
+entities,country.GF,,"French Guiana",0
+entities,country.GG,,Guernsey,0
+entities,country.GH,,Ghana,0
+entities,country.GI,,Gibraltar,0
+entities,country.GL,,Greenland,0
+entities,country.GM,,Gambia,0
+entities,country.GN,,Guinea,0
+entities,country.GP,,Guadeloupe,0
+entities,country.GQ,,"Equatorial Guinea",0
+entities,country.GR,,Greece,0
+entities,country.GS,,"South Georgia and the South Sandwich Islands",0
+entities,country.GT,,Guatemala,0
+entities,country.GU,,Guam,0
+entities,country.GW,,Guinea-Bissau,0
+entities,country.GY,,Guyana,0
+entities,country.HK,,"Hong Kong",0
+entities,country.HM,,"Heard Island and McDonald Islands",0
+entities,country.HN,,Honduras,0
+entities,country.HR,,Croatia,0
+entities,country.HT,,Haiti,0
+entities,country.HU,,Hungary,0
+entities,country.ID,,Indonesia,0
+entities,country.IE,,Ireland,0
+entities,country.IL,,Israel,0
+entities,country.IM,,"Isle of Man",0
+entities,country.IN,,India,0
+entities,country.IO,,"British Indian Ocean Territory",0
+entities,country.IQ,,Iraq,0
+entities,country.IR,,Iran,0
+entities,country.IS,,Iceland,0
+entities,country.IT,,Italy,0
+entities,country.JE,,Jersey,0
+entities,country.JM,,Jamaica,0
+entities,country.JO,,Jordan,0
+entities,country.JP,,Japan,0
+entities,country.KE,,Kenya,0
+entities,country.KG,,Kyrgystan,0
+entities,country.KH,,Cambodia,0
+entities,country.KI,,Kiribati,0
+entities,country.KM,,Comorros,0
+entities,country.KN,,"Saint Kitts and Nevis",0
+entities,country.KP,,"North Korea",0
+entities,country.KR,,"South Korea",0
+entities,country.KW,,Kuwait,0
+entities,country.KY,,"Cayman Islands",0
+entities,country.KZ,,Kazakhstan,0
+entities,country.LA,,Laos,0
+entities,country.LB,,Lebanon,0
+entities,country.LC,,"Saint Lucia",0
+entities,country.LI,,Liechtenstein,0
+entities,country.LK,,"Sri Lanka",0
+entities,country.LR,,Liberia,0
+entities,country.LS,,Lesotho,0
+entities,country.LT,,Lithuania,0
+entities,country.LU,,Luxembourg,0
+entities,country.LV,,Latvia,0
+entities,country.LY,,Libya,0
+entities,country.MA,,Morocco,0
+entities,country.MC,,Monaco,0
+entities,country.MD,,Moldova,0
+entities,country.ME,,Montenegro,0
+entities,country.MF,,"Saint Martin",0
+entities,country.MG,,Madagascar,0
+entities,country.MH,,"Marshall Islands",0
+entities,country.MK,,Macedonia,0
+entities,country.ML,,Mali,0
+entities,country.MM,,Myanmar,0
+entities,country.MN,,Mongolia,0
+entities,country.MO,,Macao,0
+entities,country.MP,,"Northern Mariana Islands",0
+entities,country.MQ,,Martinique,0
+entities,country.MR,,Mauritania,0
+entities,country.MS,,Montserrat,0
+entities,country.MT,,Malta,0
+entities,country.MU,,Mauritius,0
+entities,country.MV,,Maldives,0
+entities,country.MW,,Malawi,0
+entities,country.MX,,Mexico,0
+entities,country.MY,,Malaysia,0
+entities,country.MZ,,Mozambique,0
+entities,country.NA,,Namibia,0
+entities,country.NC,,"New Caledonia",0
+entities,country.NE,,Niger,0
+entities,country.NF,,"Norfolk Island",0
+entities,country.NG,,Nigeria,0
+entities,country.NI,,Nicaragua,0
+entities,country.NL,,Netherlands,0
+entities,country.NO,,Norway,0
+entities,country.NP,,Nepal,0
+entities,country.NR,,Nauru,0
+entities,country.NU,,Niue,0
+entities,country.NZ,,"New Zealand",0
+entities,country.OM,,Oman,0
+entities,country.PA,,Panama,0
+entities,country.PE,,Peru,0
+entities,country.PF,,"French Polynesia",0
+entities,country.PG,,"Papua New Guinea",0
+entities,country.PH,,Phillipines,0
+entities,country.PK,,Pakistan,0
+entities,country.PL,,Poland,0
+entities,country.PM,,"Saint Pierre and Miquelon",0
+entities,country.PN,,Pitcairn,0
+entities,country.PR,,"Puerto Rico",0
+entities,country.PS,,"Palestinian Territory",0
+entities,country.PT,,Portugal,0
+entities,country.PW,,Palau,0
+entities,country.PY,,Paraguay,0
+entities,country.QA,,Qatar,0
+entities,country.RE,,Reunion,0
+entities,country.RO,,Romania,0
+entities,country.RS,,Serbia,0
+entities,country.RU,,Russia,0
+entities,country.RW,,Rwanda,0
+entities,country.SA,,"Saudi Arabia",0
+entities,country.SB,,"Solomon Islands",0
+entities,country.SC,,Seychelles,0
+entities,country.SD,,Sudan,0
+entities,country.SE,,Sweden,0
+entities,country.SG,,Singapore,0
+entities,country.SH,,"Saint Helena",0
+entities,country.SI,,Slovenia,0
+entities,country.SJ,,"Svalbard and Jan Mayen",0
+entities,country.SK,,Slovakia,0
+entities,country.SL,,"Sierra Leone",0
+entities,country.SM,,"San Marino",0
+entities,country.SN,,Senegal,0
+entities,country.SO,,Somalia,0
+entities,country.SR,,Suriname,0
+entities,country.ST,,"Sao Tome and Principe",0
+entities,country.SV,,"El Salvador",0
+entities,country.SY,,Syria,0
+entities,country.SZ,,Swaziland,0
+entities,country.TC,,"Turks and Caicos Islands",0
+entities,country.TD,,Chad,0
+entities,country.TF,,"French Southern Territories",0
+entities,country.TG,,Togo,0
+entities,country.TH,,Thailand,0
+entities,country.TJ,,Tajikistan,0
+entities,country.TK,,Tokelau,0
+entities,country.TL,,"Timor Leste",0
+entities,country.TM,,Turkmenistan,0
+entities,country.TN,,Tunisia,0
+entities,country.TO,,Tonga,0
+entities,country.TR,,Turkey,0
+entities,country.TT,,"Trinidad and Tobago",0
+entities,country.TV,,Tuvalu,0
+entities,country.TW,,Taiwan,0
+entities,country.TZ,,Tanzania,0
+entities,country.UA,,Ukraine,0
+entities,country.UG,,Uganda,0
+entities,country.UM,,"United States Minor Outlying Islands",0
+entities,country.US,,"United States",0
+entities,country.UY,,Uruguay,0
+entities,country.UZ,,Uzbekistan,0
+entities,country.VA,,Vatican,0
+entities,country.VC,,"Saint Vincent and the Grenadines",0
+entities,country.VE,,Venezuela,0
+entities,country.VG,,"British Virgin Islands",0
+entities,country.VI,,"U.S. Virgin Islands",0
+entities,country.VN,,"Viet Nam",0
+entities,country.VU,,Vanuatu,0
+entities,country.WF,,"Wallis and Futuna",0
+entities,country.WS,,Samoa,0
+entities,country.YE,,Yemen,0
+entities,country.YT,,Mayotte,0
+entities,country.ZA,,"South Africa",0
+entities,country.ZM,,Zambia,0
+entities,country.ZW,,Zimbabwe,0
+entities,region.AD-02,,Canillo,0
+entities,region.AD-03,,Encamp,0
+entities,region.AD-04,,"La Massana",0
+entities,region.AD-05,,Ordino,0
+entities,region.AD-06,,"Sant Julià de Lòria",0
+entities,region.AD-07,,"Andorra la Vella",0
+entities,region.AD-08,,Escaldes-Engordany,0
+entities,region.AE-AJ,,'Ajmān,0
+entities,region.AE-AZ,,"Abū Ȥaby [Abu Dhabi]",0
+entities,region.AE-DU,,Dubayy,0
+entities,region.AE-FU,,"Al Fujayrah",0
+entities,region.AE-RK,,"Ra’s al Khaymah",0
+entities,region.AE-SH,,"Ash Shāriqah",0
+entities,region.AE-UQ,,"Umm al Qaywayn",0
+entities,region.AF-BAL,,Balkh,0
+entities,region.AF-BAM,,Bāmīān,0
+entities,region.AF-BDG,,Bādghīs,0
+entities,region.AF-BDS,,Badakhshān,0
+entities,region.AF-BGL,,Baghlān,0
+entities,region.AF-DAY,,Dāykondī,0
+entities,region.AF-FRA,,Farāh,0
+entities,region.AF-FYB,,Fāryāb,0
+entities,region.AF-GHA,,Ghaznī,0
+entities,region.AF-GHO,,Ghowr,0
+entities,region.AF-HEL,,Helmand,0
+entities,region.AF-HER,,Herāt,0
+entities,region.AF-JOW,,Jowzjān,0
+entities,region.AF-KAB,,"Kābul [Kābol]",0
+entities,region.AF-KAN,,Kandahār,0
+entities,region.AF-KAP,,Kāpīsā,0
+entities,region.AF-KDZ,,"Kondoz [Kunduz]",0
+entities,region.AF-KHO,,Khowst,0
+entities,region.AF-KNR,,"Konar [Kunar]",0
+entities,region.AF-LAG,,Laghmān,0
+entities,region.AF-LOW,,Lowgar,0
+entities,region.AF-NAN,,"Nangrahār [Nangarhār]",0
+entities,region.AF-NIM,,Nīmrūz,0
+entities,region.AF-NUR,,Nūrestān,0
+entities,region.AF-ORU,,"Orūzgān [Urūzgān]",0
+entities,region.AF-PAN,,Panjshīr,0
+entities,region.AF-PAR,,Parwān,0
+entities,region.AF-PIA,,Paktīā,0
+entities,region.AF-PKA,,Paktīkā,0
+entities,region.AF-SAM,,Samangān,0
+entities,region.AF-SAR,,"Sar-e Pol",0
+entities,region.AF-TAK,,Takhār,0
+entities,region.AF-WAR,,"Wardak [Wardag]",0
+entities,region.AF-ZAB,,"Zābol [Zābul]",0
+entities,region.AG-03,,"Saint George",0
+entities,region.AG-04,,"Saint John",0
+entities,region.AG-05,,"Saint Mary",0
+entities,region.AG-06,,"Saint Paul",0
+entities,region.AG-07,,"Saint Peter",0
+entities,region.AG-08,,"Saint Philip",0
+entities,region.AG-10,,Barbuda,0
+entities,region.AG-11,,Redonda,0
+entities,region.AL-01,,Berat,0
+entities,region.AL-02,,Durrës,0
+entities,region.AL-03,,Elbasan,0
+entities,region.AL-04,,Fier,0
+entities,region.AL-05,,Gjirokastër,0
+entities,region.AL-06,,Korçë,0
+entities,region.AL-07,,Kukës,0
+entities,region.AL-08,,Lezhë,0
+entities,region.AL-09,,Dibër,0
+entities,region.AL-10,,Shkodër,0
+entities,region.AL-11,,Tiranë,0
+entities,region.AL-12,,Vlorë,0
+entities,region.AL-BR,,Berat,0
+entities,region.AL-BU,,Bulqizë,0
+entities,region.AL-DI,,Dibër,0
+entities,region.AL-DL,,Delvinë,0
+entities,region.AL-DR,,Durrës,0
+entities,region.AL-DV,,Devoll,0
+entities,region.AL-EL,,Elbasan,0
+entities,region.AL-ER,,Kolonjë,0
+entities,region.AL-FR,,Fier,0
+entities,region.AL-GJ,,Gjirokastër,0
+entities,region.AL-GR,,Gramsh,0
+entities,region.AL-HA,,Has,0
+entities,region.AL-KA,,Kavajë,0
+entities,region.AL-KB,,Kurbin,0
+entities,region.AL-KC,,Kuçovë,0
+entities,region.AL-KO,,Korçë,0
+entities,region.AL-KR,,Krujë,0
+entities,region.AL-KU,,Kukës,0
+entities,region.AL-LB,,Librazhd,0
+entities,region.AL-LE,,Lezhë,0
+entities,region.AL-LU,,Lushnjë,0
+entities,region.AL-MK,,Mallakastër,0
+entities,region.AL-MM,,"Malësi e Madhe",0
+entities,region.AL-MR,,Mirditë,0
+entities,region.AL-MT,,Mat,0
+entities,region.AL-PG,,Pogradec,0
+entities,region.AL-PQ,,Peqin,0
+entities,region.AL-PR,,Përmet,0
+entities,region.AL-PU,,Pukë,0
+entities,region.AL-SH,,Shkodër,0
+entities,region.AL-SK,,Skrapar,0
+entities,region.AL-SR,,Sarandë,0
+entities,region.AL-TE,,Tepelenë,0
+entities,region.AL-TP,,Tropojë,0
+entities,region.AL-TR,,Tiranë,0
+entities,region.AL-VL,,Vlorë,0
+entities,region.AM-AG,,Aragacotn,0
+entities,region.AM-AR,,Ararat,0
+entities,region.AM-AV,,Armavir,0
+entities,region.AM-ER,,Erevan,0
+entities,region.AM-GR,,Gegarkunik',0
+entities,region.AM-KT,,Kotayk',0
+entities,region.AM-LO,,Lory,0
+entities,region.AM-SH,,Sirak,0
+entities,region.AM-SU,,Syunik',0
+entities,region.AM-TV,,Tavus,0
+entities,region.AM-VD,,"Vayoc Jor",0
+entities,region.AO-BGO,,Bengo,0
+entities,region.AO-BGU,,Benguela,0
+entities,region.AO-BIE,,Bié,0
+entities,region.AO-CAB,,Cabinda,0
+entities,region.AO-CCU,,Cuando-Cubango,0
+entities,region.AO-CNN,,Cunene,0
+entities,region.AO-CNO,,"Cuanza Norte",0
+entities,region.AO-CUS,,"Cuanza Sul",0
+entities,region.AO-HUA,,Huambo,0
+entities,region.AO-HUI,,Huíla,0
+entities,region.AO-LNO,,"Lunda Norte",0
+entities,region.AO-LSU,,"Lunda Sul",0
+entities,region.AO-LUA,,Luanda,0
+entities,region.AO-MAL,,Malange,0
+entities,region.AO-MOX,,Moxico,0
+entities,region.AO-NAM,,Namibe,0
+entities,region.AO-UIG,,Uíge,0
+entities,region.AO-ZAI,,Zaire,0
+entities,region.AR-A,,Salta,0
+entities,region.AR-B,,"Buenos Aires",0
+entities,region.AR-C,,"Ciudad Autónoma de Buenos Aires",0
+entities,region.AR-D,,"San Luis",0
+entities,region.AR-E,,"Entre Rios",0
+entities,region.AR-F,,"La Rioja",0
+entities,region.AR-G,,"Santiago del Estero",0

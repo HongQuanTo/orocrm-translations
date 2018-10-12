@@ -1,0 +1,400 @@
+entities,region.VU-SAM,,Sanma,0
+entities,region.VU-SEE,,Shéfa,0
+entities,region.VU-TAE,,Taféa,0
+entities,region.VU-TOB,,Torba,0
+entities,region.WS-AA,,A'ana,0
+entities,region.WS-AL,,Aiga-i-le-Tai,0
+entities,region.WS-AT,,Atua,0
+entities,region.WS-FA,,Fa'asaleleaga,0
+entities,region.WS-GE,,Gaga'emauga,0
+entities,region.WS-GI,,Gagaifomauga,0
+entities,region.WS-PA,,Palauli,0
+entities,region.WS-SA,,Satupa'itea,0
+entities,region.WS-TU,,Tuamasaga,0
+entities,region.WS-VF,,Va'a-o-Fonoti,0
+entities,region.WS-VS,,Vaisigano,0
+entities,region.YE-AB,,Abyān,0
+entities,region.YE-AD,,'Adan,0
+entities,region.YE-AM,,'Amrān,0
+entities,region.YE-BA,,"Al Bayḑā'",0
+entities,region.YE-DA,,"Aḑ Ḑāli‘",0
+entities,region.YE-DH,,Dhamār,0
+entities,region.YE-HD,,Ḩaḑramawt,0
+entities,region.YE-HJ,,Ḩajjah,0
+entities,region.YE-IB,,Ibb,0
+entities,region.YE-JA,,"Al Jawf",0
+entities,region.YE-LA,,Laḩij,0
+entities,region.YE-MA,,Ma'rib,0
+entities,region.YE-MR,,"Al Mahrah",0
+entities,region.YE-MU,,"Al Ḩudaydah",0
+entities,region.YE-MW,,"Al Maḩwīt",0
+entities,region.YE-RA,,Raymah,0
+entities,region.YE-SD,,Şa'dah,0
+entities,region.YE-SH,,Shabwah,0
+entities,region.YE-SN,,Şan'ā',0
+entities,region.YE-TA,,Tā'izz,0
+entities,region.ZA-EC,,"Eastern Cape",0
+entities,region.ZA-FS,,"Free State",0
+entities,region.ZA-GT,,Gauteng,0
+entities,region.ZA-LP,,Limpopo,0
+entities,region.ZA-MP,,Mpumalanga,0
+entities,region.ZA-NC,,"Northern Cape",0
+entities,region.ZA-NL,,Kwazulu-Natal,0
+entities,region.ZA-NW,,"North-West (South Africa)",0
+entities,region.ZA-WC,,"Western Cape",0
+entities,region.ZM-01,,Western,0
+entities,region.ZM-02,,Central,0
+entities,region.ZM-03,,Eastern,0
+entities,region.ZM-04,,Luapula,0
+entities,region.ZM-05,,Northern,0
+entities,region.ZM-06,,North-Western,0
+entities,region.ZM-07,,"Southern (Zambia)",0
+entities,region.ZM-08,,Copperbelt,0
+entities,region.ZM-09,,Lusaka,0
+entities,region.ZW-BU,,Bulawayo,0
+entities,region.ZW-HA,,Harare,0
+entities,region.ZW-MA,,Manicaland,0
+entities,region.ZW-MC,,"Mashonaland Central",0
+entities,region.ZW-ME,,"Mashonaland East",0
+entities,region.ZW-MI,,Midlands,0
+entities,region.ZW-MN,,"Matabeleland North",0
+entities,region.ZW-MS,,"Matabeleland South",0
+entities,region.ZW-MV,,Masvingo,0
+entities,region.ZW-MW,,"Mashonaland West",0
+entities,ticket_priority.high,,High,0
+entities,ticket_priority.low,,Low,0
+entities,ticket_priority.normal,,Normal,0
+entities,ticket_priority.urgent,,Urgent,0
+entities,ticket_status.closed,,Closed,0
+entities,ticket_status.hold,,Hold,0
+entities,ticket_status.new,,New,0
+entities,ticket_status.open,,Open,0
+entities,ticket_status.pending,,Pending,0
+entities,ticket_status.solved,,Solved,0
+entities,ticket_type.incident,,Incident,0
+entities,ticket_type.problem,,Problem,0
+entities,ticket_type.question,,Question,0
+entities,ticket_type.task,,Task,0
+entities,zendesk_user_role.admin,,Admin,0
+entities,zendesk_user_role.agent,,Agent,0
+entities,zendesk_user_role.end-user,,End-user,0
+HWIOAuthBundle,connect.confirm.cancel,,Cancel,0
+HWIOAuthBundle,connect.confirm.submit,,"Connect account",0
+HWIOAuthBundle,connect.confirm.text,,"Are you sure that you want to connect your %service% account ""%name%"" to your current account?",0
+HWIOAuthBundle,connect.registration.cancel,,Cancel,0
+HWIOAuthBundle,connect.registration.submit,,"Register account",0
+HWIOAuthBundle,header.connecting,,Connecting,0
+HWIOAuthBundle,header.register,,"Register with the account ""%name%""",0
+HWIOAuthBundle,header.registration_success,,"Successfully registered and connected the account ""%username%""!",0
+HWIOAuthBundle,header.success,,"Successfully connected the account ""%name%""!",0
+jsmessages,(Start),,(Start),0
+jsmessages,A,,A,0
+jsmessages,abbreviate_ignore_list,,a|an|the|of|at|per|in|on,0
+jsmessages,Accepted,,Accepted,0
+jsmessages,"Action is not performed.",,"Action is not performed.",0
+jsmessages,"Action performed.",,"Action performed.",0
+jsmessages,Actions,,Actions,0
+jsmessages,Add,,Add,0
+jsmessages,"Add Address",,"Add Address",0
+jsmessages,"Add New Event",,"Add New Event",0
+jsmessages,"Add new step",,"Add new step",0
+jsmessages,"Add new transition",,"Add new transition",0
+jsmessages,"Address saved",,"Address saved",0
+jsmessages,after,,after,0
+jsmessages,All,,All,0
+jsmessages,AM,,AM,0
+jsmessages,am,,am,0
+jsmessages,"An unexpected error has occurred. Please contact the system administrator.",,"An unexpected error has occurred. Please contact the system administrator.",0
+jsmessages,and,,and,0
+jsmessages,"Are you sure you want to delete these items?",,"Are you sure you want to delete these items?",0
+jsmessages,"Are you sure you want to delete this field?",,"Are you sure you want to delete this field?",0
+jsmessages,"Are you sure you want to delete this item?",,"Are you sure you want to delete this item?",0
+jsmessages,"Are you sure you want to delete this step?",,"Are you sure you want to delete this step?",0
+jsmessages,"Are you sure you want to delete this transition?",,"Are you sure you want to delete this transition?",0
+jsmessages,"Are you sure you want to do this?",,"Are you sure you want to do this?",0
+jsmessages,"Are you sure you want to remove this item?",,"Are you sure you want to remove this item?",0
+jsmessages,articles,,a|an|the|some|every|any|no,0
+jsmessages,"At least one step should be added to add transition.",,"At least one step should be added to add transition.",0
+jsmessages,"Attach file:",,"Attach file:",0
+jsmessages,"Attachment created successfully",,"Attachment created successfully",0
+jsmessages,"Attachment updated successfully",,"Attachment updated successfully",0
+jsmessages,Back,,Back,0
+jsmessages,before,,before,0
+jsmessages,"Black button",,"Black button",0
+jsmessages,"Blue button",,"Blue button",0
+jsmessages,"Calendar event doesn't exist. Please refresh page.",,"Calendar event doesn't exist. Please refresh page.",0
+jsmessages,Cancel,,Cancel,0
+jsmessages,"Cannot reset workflow item data.",,"Cannot reset workflow item data.",0
+jsmessages,"Change Entity Confirmation",,"Change Entity Confirmation",0
+jsmessages,"Change Integration Confirmation",,"Change Integration Confirmation",0
+jsmessages,"Choose a column first",,"Choose a column first",0
+jsmessages,"Choose a condition",,"Choose a condition",0
+jsmessages,"Choose field...",,"Choose field...",0
+jsmessages,"Choose File",,"Choose File",0
+jsmessages,"Choose step...",,"Choose step...",0
+jsmessages,"Choose Time",,"Choose Time",0
+jsmessages,"Choose values",,"Choose values",0
+jsmessages,Clone,,Clone,0
+jsmessages,"Clone step",,"Clone step",0
+jsmessages,"Clone transition",,"Clone transition",0
+jsmessages,close,,close,0
+jsmessages,Close,,Close,0
+jsmessages,"Configure integration",,"Configure integration",0
+jsmessages,Confirmation,,Confirmation,0
+jsmessages,"Content of pinned page is outdated",,"Content of pinned page is outdated",0
+jsmessages,copy,,copy,0
+jsmessages,"Copy of",,"Copy of",0
+jsmessages,"Copy to Clipboard",,"Copy to Clipboard",0
+jsmessages,"Could not download translations, error: ",,"Could not download translations, error&#58; ",0
+jsmessages,"Could not perform action",,"Could not perform action",0
+jsmessages,"Could not perform transition",,"Could not perform transition",0
+jsmessages,"Could not save workflow.",,"Could not save workflow.",0
+jsmessages,"Could not save workflow. Please add at least one step and one transition.",,"Could not save workflow. Please add at least one step and one transition.",0
+jsmessages,"Could not save workflow. Please either set default step or add transitions to starting point.",,"Could not save workflow. Please either set default step or add transitions to starting point.",0
+jsmessages,"Could not save workflow. Please set related entity.",,"Could not save workflow. Please set related entity.",0
+jsmessages,"Could not save workflow. Please set workflow name.",,"Could not save workflow. Please set workflow name.",0
+jsmessages,"Create Address",,"Create Address",0
+jsmessages,"Create task",,"Create task",0
+jsmessages,"Create {{ entity }}",,"Create {{ entity }}",0
+jsmessages,Default,,Default,0
+jsmessages,Delete,,Delete,0
+jsmessages,"Delete Confirmation",,"Delete Confirmation",0
+jsmessages,"Delete Error",,"Delete Error",0
+jsmessages,"Delete Event",,"Delete Event",0
+jsmessages,Deleting...,,Deleting...,0
+jsmessages,Disable,,Disable,0
+jsmessages,Discard,,Discard,0
+jsmessages,"Don't notify",,"Don't notify",0
+jsmessages,Done,,Done,0
+jsmessages,"Download finished.",,"Download finished.",0
+jsmessages,"Drop condition here",,"Drop condition here",0
+jsmessages,Edit,,Edit,0
+jsmessages,edit,,edit,0
+jsmessages,"Edit Event",,"Edit Event",0
+jsmessages,"Edit step",,"Edit step",0
+jsmessages,"Edit transition",,"Edit transition",0
+jsmessages,Email,,Email,0
+jsmessages,embedded_form.confirm_box.content,,"Your changes will be lost.",0
+jsmessages,embedded_form.confirm_box.ok_text,,"Yes, continue",0
+jsmessages,embedded_form.confirm_box.title,,"Change Form Type",0
+jsmessages,"Empty Address Book",,"Address book is empty",0
+jsmessages,Enable,,Enable,0
+jsmessages,Entity,,Entity,0
+jsmessages,"Error! Incorrect server response.",,"Error! Incorrect server response.",0
+jsmessages,"Execution Confirmation",,"Execution Confirmation",0
+jsmessages,"Export Confirmation",,"Export Confirmation",0
+jsmessages,"Field successfully deleted",,"Field successfully deleted",0
+jsmessages,"Field was restored",,"Field was restored",0
+jsmessages,from,,from,0
+jsmessages,"Gray button",,"Gray button",0
+jsmessages,"Green button",,"Green button",0
+jsmessages,Hour,,Hour,0
+jsmessages,"Input Label",,"Input Label",0
+jsmessages,"It may take few minutes...",,"It may take few minutes...",0
+jsmessages,"Item deleted",,"Item deleted",0
+jsmessages,"Item updated successfully",,"Item updated successfully",0
+jsmessages,"less than",,"earlier than",0
+jsmessages,Link,,Link,0
+jsmessages,"Loading more results...",,"Loading more results...",0
+jsmessages,Loading...,,Loading...,0
+jsmessages,map.unknown.location,,"The address is not recognized. Please check  the provided address information.",0
+jsmessages,map.unknown.unavailable,,"The map cannot be displayed. Please try again later or contact your administrator.",0
+jsmessages,"Mass Action Confirmation",,"Mass Action Confirmation",0
+jsmessages,"Mass action is not performed.",,"Mass action is not performed.",0
+jsmessages,"Mass action performed.",,"Mass action performed.",0
+jsmessages,maximize,,maximize,0
+jsmessages,Microsecond,,Microsecond,0
+jsmessages,Millisecond,,Millisecond,0
+jsmessages,minimize,,minimize,0
+jsmessages,Minute,,Minute,0
+jsmessages,"more than",,"later than",0
+jsmessages,N/A,,N/A,0
+jsmessages,"Navy blue button",,"Navy blue button",0
+jsmessages,Next,,Next,0
+jsmessages,No,,No,0
+jsmessages,"No matches found",,"No matches found",0
+jsmessages,"Not Found",,"Not Found",0
+jsmessages,"Not responded",,"Not responded",0
+jsmessages,"Not running",,"Not running",0
+jsmessages,"Not tagged",,"Not tagged",0
+jsmessages,Notify,,Notify,0
+jsmessages,"Notify about update message",,"Do you want to notify currently invited users about changes?",0
+jsmessages,"Notify guests message",,"Do you want to send invitations to selected guests?",0
+jsmessages,"Notify guests title",,"Notification confirmation",0
+jsmessages,Now,,Now,0
+jsmessages,OK,,OK,0
+jsmessages,"OK, got it.",,"OK, got it.",0
+jsmessages,"only short",,"only short",0
+jsmessages,"Only this particular event will be deleted from the series.",,"Only this particular event will be deleted from the series.",0
+jsmessages,oro.abandonedcart.list.change_entity_confirmation,,"Do you want to clear all template data?",0
+jsmessages,oro.action.button.delete,,"Yes, Delete",0
+jsmessages,oro.action.confirm_content,,"Are you sure you want to perform this action?",0
+jsmessages,oro.action.confirm_title,,"Action Confirmation",0
+jsmessages,oro.action.delete_confirm,,"Are you sure you want to delete this {{ entityLabel }}?",0
+jsmessages,oro.action.delete_entity,,"Delete {{ entityLabel }}",0
+jsmessages,oro.activity.contexts.added,,"The context has been added",0
+jsmessages,oro.activity.contexts.removed,,"The context has been removed",0
+jsmessages,oro.activityCondition.hasActivity,,"Has activity",0
+jsmessages,oro.activityCondition.hasNotActivity,,"Has not activity",0
+jsmessages,oro.activitylist.comment.quantity_label,,"Comments quantity",0
+jsmessages,oro.activitylist.created_at.label,,"Created at",0
+jsmessages,oro.activitylist.delete_confirmation,,"Are you sure you want to delete this activity item?",0
+jsmessages,oro.activitylist.delete_error,,"Sorry, the activity item deleting was failed.",0
+jsmessages,oro.activitylist.delete_title,,"Delete activity item",0
+jsmessages,oro.activitylist.edit_title,,"Update activity item",0
+jsmessages,oro.activitylist.forbidden_activity_data_view_error,,"You do not have permission to view this activity record's data",0
+jsmessages,oro.activitylist.forbidden_error,,"You do not have permission to perform this action.",0
+jsmessages,oro.activitylist.item_removed,,"Activity item deleted",0
+jsmessages,oro.activitylist.item_saved,,"Activity item saved",0
+jsmessages,oro.activitylist.load_error,,"Sorry, activity list was not loaded correctly.",0
+jsmessages,oro.activitylist.updated_at.label,,"Updated at",0
+jsmessages,oro.activitylist.widget.filter.activity.title,,"Activity Type",0
+jsmessages,oro.activitylist.widget.filter.date_picker.title,,"Date Range",0
+jsmessages,oro.analytics.best,,best,0
+jsmessages,oro.analytics.delete_row,,"Delete segment",0
+jsmessages,oro.analytics.from,,From,0
+jsmessages,oro.analytics.less,,"Less than",0
+jsmessages,oro.analytics.more,,"More than",0
+jsmessages,oro.analytics.na,,N/A,0
+jsmessages,oro.analytics.to,,To,0
+jsmessages,oro.analytics.worst,,worst,0
+jsmessages,oro.attribute.attributes_import_has_finished,,"Attributes import has finished, please <a href='#' data-action='page-refresh'>refresh the page</a>",0
+jsmessages,oro.attribute.attributes_moved_to_default_group,,"System attributes were moved to default group",0
+jsmessages,oro.attribute.move_from,,"move from",0
+jsmessages,oro.attribute.noname,,"No name",0
+jsmessages,oro.attribute.remove_confirmation_text,,"Are you sure to delete this Attribute Group? All system attributes will be moved to first one automatically.",0
+jsmessages,oro.attribute.remove_confirmation_title,,"Remove Attribute Group with system attributes",0
+jsmessages,oro.business_unit.form.choose_business_user,,"Choose a business unit...",0
+jsmessages,oro.business_unit.form.none_business_user,,None,0
+jsmessages,oro.calendar.control.all_day,," ",0
+jsmessages,oro.calendar.control.day,,day,0
+jsmessages,oro.calendar.control.month,,month,0
+jsmessages,oro.calendar.control.today,,today,0
+jsmessages,oro.calendar.control.week,,week,0
+jsmessages,oro.calendar.error_message.event_model.end_date_earlier_than_start,,"The end date can't be earlier than start date",0
+jsmessages,oro.calendar.event.na,,N/A,0
+jsmessages,oro.calendar.event.recurrence.control-label.ends,,Ends,0
+jsmessages,oro.calendar.event.recurrence.control-label.repeat,,Repeat,0
+jsmessages,oro.calendar.event.recurrence.control-label.repeat-every,,"Repeat every",0
+jsmessages,oro.calendar.event.recurrence.control-label.repeat-on,,"Repeat on",0
+jsmessages,oro.calendar.event.recurrence.control-label.repeats,,Repeats,0
+jsmessages,oro.calendar.event.recurrence.control-label.summary,,Summary,0
+jsmessages,oro.calendar.event.recurrence.control-modes.after,,After,0
+jsmessages,oro.calendar.event.recurrence.control-modes.by,,By,0
+jsmessages,oro.calendar.event.recurrence.control-modes.never,,Never,0
+jsmessages,oro.calendar.event.recurrence.control-modes.weekday,,Weekday,0
+jsmessages,oro.calendar.event.recurrence.controls.day,,Day,0
+jsmessages,oro.calendar.event.recurrence.controls.days,,day(s),0
+jsmessages,oro.calendar.event.recurrence.controls.monthly-repeat-on.day,,Day,0
+jsmessages,oro.calendar.event.recurrence.controls.monthly-repeat-on.first,,First,0
+jsmessages,oro.calendar.event.recurrence.controls.monthly-repeat-on.fourth,,Fourth,0
+jsmessages,oro.calendar.event.recurrence.controls.monthly-repeat-on.last,,Last,0
+jsmessages,oro.calendar.event.recurrence.controls.monthly-repeat-on.second,,Second,0
+jsmessages,oro.calendar.event.recurrence.controls.monthly-repeat-on.third,,Third,0
+jsmessages,oro.calendar.event.recurrence.controls.months,,month(s),0
+jsmessages,oro.calendar.event.recurrence.controls.occurrences,,occurrences,0
+jsmessages,oro.calendar.event.recurrence.controls.weekday,,Weekday,0
+jsmessages,oro.calendar.event.recurrence.controls.weekend-day,,"Weekend Day",0
+jsmessages,oro.calendar.event.recurrence.controls.weeks,,week(s),0
+jsmessages,oro.calendar.event.recurrence.controls.years,,year(s),0
+jsmessages,oro.calendar.event.recurrence.days.day,,day,0
+jsmessages,oro.calendar.event.recurrence.days.weekday,,weekday,0
+jsmessages,oro.calendar.event.recurrence.days.weekend,,weekend,0
+jsmessages,oro.calendar.event.recurrence.instance.first,,First,0
+jsmessages,oro.calendar.event.recurrence.instance.fourth,,Fourth,0
+jsmessages,oro.calendar.event.recurrence.instance.last,,Last,0
+jsmessages,oro.calendar.event.recurrence.instance.second,,Second,0
+jsmessages,oro.calendar.event.recurrence.instance.third,,Third,0
+jsmessages,oro.calendar.event.recurrence.patterns.daily,,"{1} Daily every 1 day|]1,Inf[ Daily every {{ count }} days",0
+jsmessages,oro.calendar.event.recurrence.patterns.end-date,,", end by {{ date }}",0
+jsmessages,oro.calendar.event.recurrence.patterns.monthly,,"{1} Monthly day {{ day }} of every 1 month|]1,Inf[ Monthly day {{ day }} of every {{ count }} months",0
+jsmessages,oro.calendar.event.recurrence.patterns.monthnth,,"{1} Monthly the {{ instance }} {{ day }} of every 1 month|]1,Inf[ Monthly the {{ instance }} {{ day }} of every {{ count }} months",0
+jsmessages,oro.calendar.event.recurrence.patterns.occurrences,,"{1} , end after 1 occurrence|]1,Inf[ , end after {{ count }} occurrences",0
+jsmessages,oro.calendar.event.recurrence.patterns.timezone,,"({{ timeZone }} GMT{{ timezone_offset }})",0
+jsmessages,oro.calendar.event.recurrence.patterns.weekday,,"Daily, every weekday",0
+jsmessages,oro.calendar.event.recurrence.patterns.weekly,,"{1} Weekly every 1 week on {{ day }}|]1,Inf[ Weekly every {{ count }} weeks on {{ day }}",0
+jsmessages,oro.calendar.event.recurrence.patterns.yearly,,"{1} Yearly every 1 year on {{ day }}|]1,Inf[ Yearly every {{ count }} years on {{ day }}",0
+jsmessages,oro.calendar.event.recurrence.patterns.yearnth,,"{1} Yearly every 1 year on the {{ instance }} {{ day }} of {{ month }}|]1,Inf[ Yearly every {{ count }} years on the {{ instance }} {{ day }} of {{ month }}",0
+jsmessages,oro.calendar.event.recurrence.repeat.daily,,Daily,0
+jsmessages,oro.calendar.event.recurrence.repeat.monthly,,Monthly,0
+jsmessages,oro.calendar.event.recurrence.repeat.weekly,,Weekly,0
+jsmessages,oro.calendar.event.recurrence.repeat.yearly,,Yearly,0
+jsmessages,oro.calendar.event.recurrence.validation.dayOfWeek.minMessage,,"You must select at least {{ limit }} day",0
+jsmessages,oro.calendar.event.recurrence.warning.removing-all-exceptions,,"Note that all exceptions in the series will be removed if you change recurrence pattern.",0
+jsmessages,oro.calendar.event.recurrence.warning.removing-all-series,,"Note that all events in the series will be removed if you uncheck Repeat option.",0
+jsmessages,oro.calendar.event.recurrence.warning.some-months-have-fewer-days,,"Some months have fewer than {{ number }} days. For these months, the occurence will fall on the last day of the month.",0
+jsmessages,oro.calendar.event.select-delete-type.all-events.description,,"All events in the series will be deleted.",0
+jsmessages,oro.calendar.event.select-delete-type.apply,,Delete,0
+jsmessages,oro.calendar.event.select-edit-type.all-events.description,,"All events in the series will be changed.<br>Any changes made to other events will be kept.",0
+jsmessages,oro.calendar.event.select-edit-type.all-events.title,,"All events",0
+jsmessages,oro.calendar.event.select-edit-type.apply,,Apply,0
+jsmessages,oro.calendar.event.select-edit-type.only-this-event.description,,"All other events in series will remain the same.",0
+jsmessages,oro.calendar.event.select-edit-type.only-this-event.title,,"Only this event",0
+jsmessages,oro.calendar.flash_message.calendar_added,,"Calendar was added",0
+jsmessages,oro.calendar.flash_message.calendar_adding,,"Adding calendar, please wait ...",0
+jsmessages,oro.calendar.flash_message.calendar_already_exists,,"This calendar already exists",0
+jsmessages,oro.calendar.flash_message.calendar_removed,,"Calendar was removed",0
+jsmessages,oro.calendar.flash_message.calendar_removing,,"Removing calendar, please wait ...",0
+jsmessages,oro.calendar.flash_message.calendar_updated,,"Calendar was updated",0
+jsmessages,oro.calendar.flash_message.calendar_updating,,"Updating calendar, please wait ...",0
+jsmessages,oro.case.private,,Private,0
+jsmessages,oro.channel.confirmation.agree,,Yes,0
+jsmessages,oro.channel.confirmation.delete_confirmation,,"Attention: removing the integration from the channel will completely delete it from the system. Proceed?",0
+jsmessages,oro.channel.confirmation.text,,"Are you sure you want to change channel type?",0
+jsmessages,oro.channel.confirmation.title,,"Change Channel Type",0
+jsmessages,oro.channel.entity_owner.Custom,,Custom,0
+jsmessages,oro.channel.entity_owner.System,,System,0
+jsmessages,oro.channel.form.entity,,"Please select entity",0
+jsmessages,oro.chart.flow_chart.label_fromatter.nozzle,,"{{ label }} (from {{ date }}): {{ value }}",0
+jsmessages,oro.chart.flow_chart.label_fromatter.tick,,"{{ label }}: {{ value }}",0
+jsmessages,oro.comment.action.delete,,"Delete Comment",0
+jsmessages,oro.comment.action.update,,"Update Comment",0
+jsmessages,oro.comment.attachment.delete_confirmation,,"Are you sure you want to delete this attachment?",0
+jsmessages,oro.comment.attachment.delete_message,,"The comment attachment is successfully removed",0
+jsmessages,oro.comment.attachment.download,,Download,0
+jsmessages,oro.comment.attachment.tooltip,,"Attached file {{ filename }}",0
+jsmessages,oro.comment.attachment.view,,View,0
+jsmessages,oro.comment.deleteConfirmation,,"Are you sure you want to delete this comment?",0
+jsmessages,oro.comment.dialog.add_comment.title,,"Add Comment",0
+jsmessages,oro.comment.dialog.edit_comment.title,,"Edit Comment",0
+jsmessages,oro.comment.entity_plural_label,,Comments,0
+jsmessages,oro.comment.from.button.add_comment.label,,"Add Comment",0
+jsmessages,oro.comment.from.button.cancel_comment.label,,Cancel,0
+jsmessages,oro.comment.from.button.edit_comment.label,,"Save Comment",0
+jsmessages,oro.comment.from.button.send_comment.label,,Add,0
+jsmessages,oro.comment.item.added,,"{{ user }} added on {{ time }}",0
+jsmessages,oro.comment.item.update,,"updated by {{ user }} on {{ time }}",0
+jsmessages,oro.comment.loadMore,,"Load {{ count }} more",0
+jsmessages,oro.comment.loadMoreWithTotals,,"Load {{ count }} more of {{ total }}",0
+jsmessages,oro.comment.noData,,"No comments was found.",0
+jsmessages,oro.comment.plural_label,,Comment,0
+jsmessages,oro.dashboard.add_dashboard_widgets.adding,,Adding...,0
+jsmessages,oro.dashboard.add_dashboard_widgets.title,,"Dashboard Widgets",0
+jsmessages,oro.dashboard.drop_placeholder_label,,"Drag your widget here.",0
+jsmessages,oro.dashboard.widget.collapse,,Collapse,0
+jsmessages,oro.dashboard.widget.configure,,Configure,0
+jsmessages,oro.dashboard.widget.delete_confirmation,,"Are you sure you want to remove this widget?",0
+jsmessages,oro.dashboard.widget.expand,,Expand,0
+jsmessages,oro.dashboard.widget.move,,Move,0
+jsmessages,oro.dashboard.widget.remove,,Delete,0
+jsmessages,oro.dashboard.widget_configuration_label,,Configuration,0
+jsmessages,oro.dashboard.widget_configuration_success,,"Widget has been successfully configured",0
+jsmessages,oro.dataaudit.data_audit_condition.changed,,"has been changed",0
+jsmessages,oro.dataaudit.data_audit_condition.changed_to_value,,"has been changed to",0
+jsmessages,oro.dataaudit.data_audit_condition.in_the_interval,,"in the interval of time",0
+jsmessages,oro.dataaudit.data_audit_condition.value,,value,0
+jsmessages,oro.dataaudit.data_audit_condition.value_that,,"value that",0
+jsmessages,oro.datagrid.action.delete_grid_view,,Delete,0
+jsmessages,oro.datagrid.action.discard_grid_view_changes,,"Discard changes",0
+jsmessages,oro.datagrid.action.rename_grid_view,,Rename,0
+jsmessages,oro.datagrid.action.save_grid_view,,Save,0
+jsmessages,oro.datagrid.action.save_grid_view_as,,"Save As",0
+jsmessages,oro.datagrid.action.set_as_default_grid_view,,"Set as default",0
+jsmessages,oro.datagrid.action.share_grid_view,,"Share With Others",0
+jsmessages,oro.datagrid.action.unshare_grid_view,,Unshare,0
+jsmessages,oro.datagrid.column_manager.close_tooltip,,"Close Column Manager",0
+jsmessages,oro.datagrid.column_manager.column.name,,Name,0
+jsmessages,oro.datagrid.column_manager.column.show,,Show,0
+jsmessages,oro.datagrid.column_manager.column.sort,,Sort,0
+jsmessages,oro.datagrid.column_manager.deselect_all,,"Deselect All",0
+jsmessages,oro.datagrid.column_manager.empty_list,,"No columns found",0
