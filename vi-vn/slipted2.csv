@@ -1,400 +1,400 @@
-entities,region.AR-H,,Chaco,0
-entities,region.AR-J,,"San Juan",0
-entities,region.AR-K,,Catamarca,0
-entities,region.AR-L,,"La Pampa",0
-entities,region.AR-M,,Mendoza,0
-entities,region.AR-N,,Misiones,0
-entities,region.AR-P,,Formosa,0
-entities,region.AR-Q,,Neuquen,0
-entities,region.AR-R,,"Rio Negro",0
-entities,region.AR-S,,"Santa Fe",0
-entities,region.AR-T,,Tucuman,0
-entities,region.AR-U,,Chubut,0
-entities,region.AR-V,,"Tierra del Fuego",0
-entities,region.AR-W,,Corrientes,0
-entities,region.AR-X,,Cordoba,0
-entities,region.AR-Y,,Jujuy,0
-entities,region.AR-Z,,"Santa Cruz",0
-entities,region.AT-1,,Burgenland,0
-entities,region.AT-2,,Kärnten,0
-entities,region.AT-3,,Niederösterreich,0
-entities,region.AT-4,,Oberösterreich,0
-entities,region.AT-5,,Salzburg,0
-entities,region.AT-6,,Steiermark,0
-entities,region.AT-7,,Tirol,0
-entities,region.AT-8,,Vorarlberg,0
-entities,region.AT-9,,Wien,0
-entities,region.AU-ACT,,"Australian Capital Territory",0
-entities,region.AU-NSW,,"New South Wales",0
-entities,region.AU-NT,,"Northern Territory",0
-entities,region.AU-QLD,,Queensland,0
-entities,region.AU-SA,,"South Australia",0
-entities,region.AU-TAS,,Tasmania,0
-entities,region.AU-VIC,,Victoria,0
-entities,region.AU-WA,,"Western Australia",0
-entities,region.AZ-AB,,"Əli Bayramlı",0
-entities,region.AZ-ABS,,Abşeron,0
-entities,region.AZ-AGA,,Ağstafa,0
-entities,region.AZ-AGC,,Ağcabədi,0
-entities,region.AZ-AGM,,Ağdam,0
-entities,region.AZ-AGS,,Ağdaş,0
-entities,region.AZ-AGU,,Ağsu,0
-entities,region.AZ-AST,,Astara,0
-entities,region.AZ-BA,,Bakı,0
-entities,region.AZ-BAB,,Babək,0
-entities,region.AZ-BAL,,Balakən,0
-entities,region.AZ-BAR,,Bərdə,0
-entities,region.AZ-BEY,,Beyləqan,0
-entities,region.AZ-BIL,,Biləsuvar,0
-entities,region.AZ-CAB,,Cəbrayıl,0
-entities,region.AZ-CAL,,Cəlilabab,0
-entities,region.AZ-CUL,,Culfa,0
-entities,region.AZ-DAS,,Daşkəsən,0
-entities,region.AZ-DAV,,Dəvəçi,0
-entities,region.AZ-FUZ,,Füzuli,0
-entities,region.AZ-GA,,Gəncə,0
-entities,region.AZ-GAD,,Gədəbəy,0
-entities,region.AZ-GOR,,Goranboy,0
-entities,region.AZ-GOY,,Göyçay,0
-entities,region.AZ-HAC,,Hacıqabul,0
-entities,region.AZ-IMI,,İmişli,0
-entities,region.AZ-ISM,,İsmayıllı,0
-entities,region.AZ-KAL,,Kəlbəcər,0
-entities,region.AZ-KUR,,Kürdəmir,0
-entities,region.AZ-LA,,Lənkəran,0
-entities,region.AZ-LAC,,Laçın,0
-entities,region.AZ-LAN,,Lənkəran,0
-entities,region.AZ-LER,,Lerik,0
-entities,region.AZ-MAS,,Masallı,0
-entities,region.AZ-MI,,Mingəçevir,0
-entities,region.AZ-NA,,Naftalan,0
-entities,region.AZ-NEF,,Neftçala,0
-entities,region.AZ-NX,,Naxçıvan,0
-entities,region.AZ-OGU,,Oğuz,0
-entities,region.AZ-ORD,,Ordubad,0
-entities,region.AZ-QAB,,Qəbələ,0
-entities,region.AZ-QAX,,Qax,0
-entities,region.AZ-QAZ,,Qazax,0
-entities,region.AZ-QBA,,Quba,0
-entities,region.AZ-QBI,,Qubadlı,0
-entities,region.AZ-QOB,,Qobustan,0
-entities,region.AZ-QUS,,Qusar,0
-entities,region.AZ-SA,,Şəki,0
-entities,region.AZ-SAB,,Sabirabad,0
-entities,region.AZ-SAD,,Sədərək,0
-entities,region.AZ-SAH,,Şahbuz,0
-entities,region.AZ-SAK,,Şəki,0
-entities,region.AZ-SAL,,Salyan,0
-entities,region.AZ-SAR,,Şərur,0
-entities,region.AZ-SAT,,Saatlı,0
-entities,region.AZ-SIY,,Siyəzən,0
-entities,region.AZ-SKR,,Şəmkir,0
-entities,region.AZ-SM,,Sumqayıt,0
-entities,region.AZ-SMI,,Şamaxı,0
-entities,region.AZ-SMX,,Samux,0
-entities,region.AZ-SS,,Şuşa,0
-entities,region.AZ-SUS,,Şuşa,0
-entities,region.AZ-TAR,,Tərtər,0
-entities,region.AZ-TOV,,Tovuz,0
-entities,region.AZ-UCA,,Ucar,0
-entities,region.AZ-XA,,Xankəndi,0
-entities,region.AZ-XAC,,Xaçmaz,0
-entities,region.AZ-XAN,,Xanlar,0
-entities,region.AZ-XCI,,Xocalı,0
-entities,region.AZ-XIZ,,Xızı,0
-entities,region.AZ-XVD,,Xocavənd,0
-entities,region.AZ-YAR,,Yardımlı,0
-entities,region.AZ-YE,,Yevlax,0
-entities,region.AZ-YEV,,Yevlax,0
-entities,region.AZ-ZAN,,Zəngilan,0
-entities,region.AZ-ZAQ,,Zaqatala,0
-entities,region.AZ-ZAR,,Zərdab,0
-entities,region.BA-01,,"Unsko-sanski kanton",0
-entities,region.BA-02,,"Posavski kanton",0
-entities,region.BA-03,,"Tuzlanski kanton",0
-entities,region.BA-04,,"Zeničko-dobojski kanton",0
-entities,region.BA-05,,"Bosansko-podrinjski kanton",0
-entities,region.BA-06,,"Srednjobosanski kanton",0
-entities,region.BA-07,,"Hercegovačko-neretvanski kanton",0
-entities,region.BA-08,,"Zapadnohercegovački kanton",0
-entities,region.BA-09,,"Kanton Sarajevo",0
-entities,region.BA-10,,"Kanton br. 10 (Livanjski kanton)",0
-entities,region.BA-BIH,,"Federacija Bosne i Hercegovine",0
-entities,region.BA-BRC,,"Brčko distrikt",0
-entities,region.BA-SRP,,"Republika Srpska",0
-entities,region.BB-01,,"Christ Church",0
-entities,region.BB-02,,"Saint Andrew",0
-entities,region.BB-03,,"Saint George",0
-entities,region.BB-04,,"Saint James",0
-entities,region.BB-05,,"Saint John",0
-entities,region.BB-06,,"Saint Joseph",0
-entities,region.BB-07,,"Saint Lucy",0
-entities,region.BB-08,,"Saint Michael",0
-entities,region.BB-09,,"Saint Peter",0
-entities,region.BB-10,,"Saint Philip",0
-entities,region.BB-11,,"Saint Thomas",0
-entities,region.BD-01,,"Bandarban zila",0
-entities,region.BD-02,,"Barguna zila",0
-entities,region.BD-03,,"Bogra zila",0
-entities,region.BD-04,,"Brahmanbaria zila",0
-entities,region.BD-05,,"Bagerhat zila",0
-entities,region.BD-06,,"Barisal zila",0
-entities,region.BD-07,,"Bhola zila",0
-entities,region.BD-08,,"Comilla zila",0
-entities,region.BD-09,,"Chandpur zila",0
-entities,region.BD-1,,"Barisal bibhag",0
-entities,region.BD-10,,"Chittagong zila",0
-entities,region.BD-11,,"Cox's Bazar zila",0
-entities,region.BD-12,,"Chuadanga zila",0
-entities,region.BD-13,,"Dhaka zila",0
-entities,region.BD-14,,"Dinajpur zila",0
-entities,region.BD-15,,"Faridpur zila",0
-entities,region.BD-16,,"Feni zila",0
-entities,region.BD-17,,"Gopalganj zila",0
-entities,region.BD-18,,"Gazipur zila",0
-entities,region.BD-19,,"Gaibandha zila",0
-entities,region.BD-2,,"Chittagong bibhag",0
-entities,region.BD-20,,"Habiganj zila",0
-entities,region.BD-21,,"Jamalpur zila",0
-entities,region.BD-22,,"Jessore zila",0
-entities,region.BD-23,,"Jhenaidah zila",0
-entities,region.BD-24,,"Jaipurhat zila",0
-entities,region.BD-25,,"Jhalakati zila",0
-entities,region.BD-26,,"Kishorganj zila",0
-entities,region.BD-27,,"Khulna zila",0
-entities,region.BD-28,,"Kurigram zila",0
-entities,region.BD-29,,"Khagrachari zila",0
-entities,region.BD-3,,"Dhaka bibhag",0
-entities,region.BD-30,,"Kushtia zila",0
-entities,region.BD-31,,"Lakshmipur zila",0
-entities,region.BD-32,,"Lalmonirhat zila",0
-entities,region.BD-33,,"Manikganj zila",0
-entities,region.BD-34,,"Mymensingh zila",0
-entities,region.BD-35,,"Munshiganj zila",0
-entities,region.BD-36,,"Madaripur zila",0
-entities,region.BD-37,,"Magura zila",0
-entities,region.BD-38,,"Moulvibazar zila",0
-entities,region.BD-39,,"Meherpur zila",0
-entities,region.BD-4,,"Khulna bibhag",0
-entities,region.BD-40,,"Narayanganj zila",0
-entities,region.BD-41,,"Netrakona zila",0
-entities,region.BD-42,,"Narsingdi zila",0
-entities,region.BD-43,,"Narail zila",0
-entities,region.BD-44,,"Natore zila",0
-entities,region.BD-45,,"Nawabganj zila",0
-entities,region.BD-46,,"Nilphamari zila",0
-entities,region.BD-47,,"Noakhali zila",0
-entities,region.BD-48,,"Naogaon zila",0
-entities,region.BD-49,,"Pabna zila",0
-entities,region.BD-5,,"Rajshahi bibhag",0
-entities,region.BD-50,,"Pirojpur zila",0
-entities,region.BD-51,,"Patuakhali zila",0
-entities,region.BD-52,,"Panchagarh zila",0
-entities,region.BD-53,,"Rajbari zila",0
-entities,region.BD-54,,"Rajshahi zila",0
-entities,region.BD-55,,"Rangpur zila",0
-entities,region.BD-56,,"Rangamati zila",0
-entities,region.BD-57,,"Sherpur zila",0
-entities,region.BD-58,,"Satkhira zila",0
-entities,region.BD-59,,"Sirajganj zila",0
-entities,region.BD-6,,"Sylhet bibhag",0
-entities,region.BD-60,,"Sylhet zila",0
-entities,region.BD-61,,"Sunamganj zila",0
-entities,region.BD-62,,"Shariatpur zila",0
-entities,region.BD-63,,"Tangail zila",0
-entities,region.BD-64,,"Thakurgaon zila",0
-entities,region.BE-BRU,,"Brussels-Capital Region",0
-entities,region.BE-VAN,,Antwerpen,0
-entities,region.BE-VBR,,Vlaams-Brabant,0
-entities,region.BE-VLI,,Limburg,0
-entities,region.BE-VOV,,Oost-Vlaanderen,0
-entities,region.BE-VWV,,West-Vlaanderen,0
-entities,region.BE-WBR,,"Brabant Wallon",0
-entities,region.BE-WHT,,Hainaut,0
-entities,region.BE-WLG,,Liege,0
-entities,region.BE-WLX,,Luxembourg,0
-entities,region.BE-WNA,,Namur,0
-entities,region.BF-01,,"Boucle du Mouhoun",0
-entities,region.BF-02,,Cascades,0
-entities,region.BF-03,,Centre,0
-entities,region.BF-04,,Centre-Est,0
-entities,region.BF-05,,Centre-Nord,0
-entities,region.BF-06,,Centre-Ouest,0
-entities,region.BF-07,,Centre-Sud,0
-entities,region.BF-08,,Est,0
-entities,region.BF-09,,Hauts-Bassins,0
-entities,region.BF-10,,Nord,0
-entities,region.BF-11,,Plateau-Central,0
-entities,region.BF-12,,Sahel,0
-entities,region.BF-13,,Sud-Ouest,0
-entities,region.BF-BAL,,Balé,0
-entities,region.BF-BAM,,Bam,0
-entities,region.BF-BAN,,Banwa,0
-entities,region.BF-BAZ,,Bazèga,0
-entities,region.BF-BGR,,Bougouriba,0
-entities,region.BF-BLG,,Boulgou,0
-entities,region.BF-BLK,,Boulkiemdé,0
-entities,region.BF-COM,,Comoé,0
-entities,region.BF-GAN,,Ganzourgou,0
-entities,region.BF-GNA,,Gnagna,0
-entities,region.BF-GOU,,Gourma,0
-entities,region.BF-HOU,,Houet,0
-entities,region.BF-IOB,,Ioba,0
-entities,region.BF-KAD,,Kadiogo,0
-entities,region.BF-KEN,,Kénédougou,0
-entities,region.BF-KMD,,Komondjari,0
-entities,region.BF-KMP,,Kompienga,0
-entities,region.BF-KOP,,Koulpélogo,0
-entities,region.BF-KOS,,Kossi,0
-entities,region.BF-KOT,,Kouritenga,0
-entities,region.BF-KOW,,Kourwéogo,0
-entities,region.BF-LER,,Léraba,0
-entities,region.BF-LOR,,Loroum,0
-entities,region.BF-MOU,,Mouhoun,0
-entities,region.BF-NAM,,Namentenga,0
-entities,region.BF-NAO,,Naouri,0
-entities,region.BF-NAY,,Nayala,0
-entities,region.BF-NOU,,Noumbiel,0
-entities,region.BF-OUB,,Oubritenga,0
-entities,region.BF-OUD,,Oudalan,0
-entities,region.BF-PAS,,Passoré,0
-entities,region.BF-PON,,Poni,0
-entities,region.BF-SEN,,Séno,0
-entities,region.BF-SIS,,Sissili,0
-entities,region.BF-SMT,,Sanmatenga,0
-entities,region.BF-SNG,,Sanguié,0
-entities,region.BF-SOM,,Soum,0
-entities,region.BF-SOR,,Sourou,0
-entities,region.BF-TAP,,Tapoa,0
-entities,region.BF-TUI,,Tui,0
-entities,region.BF-YAG,,Yagha,0
-entities,region.BF-YAT,,Yatenga,0
-entities,region.BF-ZIR,,Ziro,0
-entities,region.BF-ZON,,Zondoma,0
-entities,region.BF-ZOU,,Zoundwéogo,0
-entities,region.BG-01,,Blagoevgrad,0
-entities,region.BG-02,,Burgas,0
-entities,region.BG-03,,Varna,0
-entities,region.BG-04,,"Veliko Tarnovo",0
-entities,region.BG-05,,Vidin,0
-entities,region.BG-06,,Vratsa,0
-entities,region.BG-07,,Gabrovo,0
-entities,region.BG-08,,Dobrich,0
-entities,region.BG-09,,Kardzhali,0
-entities,region.BG-10,,Kyustendil,0
-entities,region.BG-11,,Lovech,0
-entities,region.BG-12,,Montana,0
-entities,region.BG-13,,Pazardzhik,0
-entities,region.BG-14,,Pernik,0
-entities,region.BG-15,,Pleven,0
-entities,region.BG-16,,Plovdiv,0
-entities,region.BG-17,,Razgrad,0
-entities,region.BG-18,,Ruse,0
-entities,region.BG-19,,Silistra,0
-entities,region.BG-20,,Sliven,0
-entities,region.BG-21,,Smolyan,0
-entities,region.BG-22,,Sofia-Grad,0
-entities,region.BG-23,,Sofia,0
-entities,region.BG-24,,"Stara Zagora",0
-entities,region.BG-25,,Targovishte,0
-entities,region.BG-26,,Haskovo,0
-entities,region.BG-27,,Shumen,0
-entities,region.BG-28,,Yambol,0
-entities,region.BH-13,,"Al Manāmah (Al ‘Āşimah)",0
-entities,region.BH-14,,"Al Janūbīyah",0
-entities,region.BH-15,,"Al Muḩarraq",0
-entities,region.BH-16,,"Al Wusţá",0
-entities,region.BH-17,,"Ash Shamālīyah",0
-entities,region.BI-BB,,Bubanza,0
-entities,region.BI-BL,,"Bujumbura Rural",0
-entities,region.BI-BM,,"Bujumbura Mairie",0
-entities,region.BI-BR,,Bururi,0
-entities,region.BI-CA,,Cankuzo,0
-entities,region.BI-CI,,Cibitoke,0
-entities,region.BI-GI,,Gitega,0
-entities,region.BI-KI,,Kirundo,0
-entities,region.BI-KR,,Karuzi,0
-entities,region.BI-KY,,Kayanza,0
-entities,region.BI-MA,,Makamba,0
-entities,region.BI-MU,,Muramvya,0
-entities,region.BI-MW,,Mwaro,0
-entities,region.BI-NG,,Ngozi,0
-entities,region.BI-RT,,Rutana,0
-entities,region.BI-RY,,Ruyigi,0
-entities,region.BJ-AK,,Atakora,0
-entities,region.BJ-AL,,Alibori,0
-entities,region.BJ-AQ,,Atlantique,0
-entities,region.BJ-BO,,Borgou,0
-entities,region.BJ-CO,,Collines,0
-entities,region.BJ-DO,,Donga,0
-entities,region.BJ-KO,,Kouffo,0
-entities,region.BJ-LI,,Littoral,0
-entities,region.BJ-MO,,Mono,0
-entities,region.BJ-OU,,Ouémé,0
-entities,region.BJ-PL,,Plateau,0
-entities,region.BJ-ZO,,Zou,0
-entities,region.BN-BE,,Belait,0
-entities,region.BN-BM,,Brunei-Muara,0
-entities,region.BN-TE,,Temburong,0
-entities,region.BN-TU,,Tutong,0
-entities,region.BO-B,,"El Beni",0
-entities,region.BO-C,,Cochabamba,0
-entities,region.BO-H,,Chuquisaca,0
-entities,region.BO-L,,"La Paz",0
-entities,region.BO-N,,Pando,0
-entities,region.BO-O,,Oruro,0
-entities,region.BO-P,,Potosí,0
-entities,region.BO-S,,"Santa Cruz",0
-entities,region.BO-T,,Tarija,0
-entities,region.BR-AC,,Acre,0
-entities,region.BR-AL,,Alagoas,0
-entities,region.BR-AM,,Amazonas,0
-entities,region.BR-AP,,Amapá,0
-entities,region.BR-BA,,Bahia,0
-entities,region.BR-CE,,Ceará,0
-entities,region.BR-DF,,"Distrito Federal",0
-entities,region.BR-ES,,"Espírito Santo",0
-entities,region.BR-FN,,"Fernando de Noronha",0
-entities,region.BR-GO,,Goiás,0
-entities,region.BR-MA,,Maranhão,0
-entities,region.BR-MG,,"Minas Gerais",0
-entities,region.BR-MS,,"Mato Grosso do Sul",0
-entities,region.BR-MT,,"Mato Grosso",0
-entities,region.BR-PA,,Pará,0
-entities,region.BR-PB,,Paraíba,0
-entities,region.BR-PE,,Pernambuco,0
-entities,region.BR-PI,,Piauí,0
-entities,region.BR-PR,,Paraná,0
-entities,region.BR-RJ,,"Rio de Janeiro",0
-entities,region.BR-RN,,"Rio Grande do Norte",0
-entities,region.BR-RO,,Rondônia,0
-entities,region.BR-RR,,Roraima,0
-entities,region.BR-RS,,"Rio Grande do Sul",0
-entities,region.BR-SC,,"Santa Catarina",0
-entities,region.BR-SE,,Sergipe,0
-entities,region.BR-SP,,"São Paulo",0
-entities,region.BR-TO,,Tocantins,0
-entities,region.BS-AC,,"Acklins Islands",0
-entities,region.BS-BI,,"Bimini and Cat Cay",0
-entities,region.BS-BP,,"Black Point",0
-entities,region.BS-BY,,"Berry Islands",0
-entities,region.BS-CE,,"Central Eleuthera",0
-entities,region.BS-CI,,"Cat Island",0
-entities,region.BS-CK,,"Crooked Island and Long Cay",0
-entities,region.BS-CO,,"Central Abaco",0
-entities,region.BS-CS,,"Central Andros",0
-entities,region.BS-EG,,"East Grand Bahama",0
-entities,region.BS-EX,,Exuma,0
-entities,region.BS-FP,,"City of Freeport",0
-entities,region.BS-GC,,"Grand Cay",0
-entities,region.BS-GT,,"Green Turtle Cay",0
-entities,region.BS-HI,,"Harbour Island",0
-entities,region.BS-HT,,"Hope Town",0
-entities,region.BS-IN,,Inagua,0
-entities,region.BS-LI,,"Long Island",0
-entities,region.BS-MC,,"Mangrove Cay",0
-entities,region.BS-MG,,Mayaguana,0
-entities,region.BS-MI,,"Moore's Island",0
-entities,region.BS-NE,,"North Eleuthera",0
-entities,region.BS-NO,,"North Abaco",0
-entities,region.BS-NS,,"North Andros",0
+entities,region.AR-H,Chaco,Chaco,0
+entities,region.AR-J,"San Juan","San Juan",0
+entities,region.AR-K,Catamarca,Catamarca,0
+entities,region.AR-L,"La Pampa","La Pampa",0
+entities,region.AR-M,Mendoza,Mendoza,0
+entities,region.AR-N,Misiones,Misiones,0
+entities,region.AR-P,Formosa,Formosa,0
+entities,region.AR-Q,Neuquen,Neuquen,0
+entities,region.AR-R,"Rio Negro","Rio Negro",0
+entities,region.AR-S,"Santa Fe","Santa Fe",0
+entities,region.AR-T,Tucuman,Tucuman,0
+entities,region.AR-U,Chubut,Chubut,0
+entities,region.AR-V,"Tierra del Fuego","Tierra del Fuego",0
+entities,region.AR-W,Corrientes,Corrientes,0
+entities,region.AR-X,Cordoba,Cordoba,0
+entities,region.AR-Y,Jujuy,Jujuy,0
+entities,region.AR-Z,"Santa Cruz","Santa Cruz",0
+entities,region.AT-1,Burgenland,Burgenland,0
+entities,region.AT-2,Kärnten,Kärnten,0
+entities,region.AT-3,Niederösterreich,Niederösterreich,0
+entities,region.AT-4,Oberösterreich,Oberösterreich,0
+entities,region.AT-5,Salzburg,Salzburg,0
+entities,region.AT-6,Steiermark,Steiermark,0
+entities,region.AT-7,Tirol,Tirol,0
+entities,region.AT-8,Vorarlberg,Vorarlberg,0
+entities,region.AT-9,Wien,Wien,0
+entities,region.AU-ACT,"Lãnh thổ thủ đô Australia","Australian Capital Territory",0
+entities,region.AU-NSW,"New South Wales","New South Wales",0
+entities,region.AU-NT,"Lãnh thổ phía Bắc","Northern Territory",0
+entities,region.AU-QLD,Queensland,Queensland,0
+entities,region.AU-SA,"Nam Úc","South Australia",0
+entities,region.AU-TAS,Tasmania,Tasmania,0
+entities,region.AU-VIC,Victoria,Victoria,0
+entities,region.AU-WA,"miền tây nước Úc","Western Australia",0
+entities,region.AZ-AB,"Əli Bayramlı","Əli Bayramlı",0
+entities,region.AZ-ABS,Abşeron,Abşeron,0
+entities,region.AZ-AGA,Ağstafa,Ağstafa,0
+entities,region.AZ-AGC,Ağcabədi,Ağcabədi,0
+entities,region.AZ-AGM,Ağdam,Ağdam,0
+entities,region.AZ-AGS,Ağdaş,Ağdaş,0
+entities,region.AZ-AGU,Ağsu,Ağsu,0
+entities,region.AZ-AST,Astara,Astara,0
+entities,region.AZ-BA,Bakı,Bakı,0
+entities,region.AZ-BAB,Babək,Babək,0
+entities,region.AZ-BAL,Balakən,Balakən,0
+entities,region.AZ-BAR,Bərdə,Bərdə,0
+entities,region.AZ-BEY,Beyləqan,Beyləqan,0
+entities,region.AZ-BIL,Biləsuvar,Biləsuvar,0
+entities,region.AZ-CAB,Cəbrayıl,Cəbrayıl,0
+entities,region.AZ-CAL,Cəlilabab,Cəlilabab,0
+entities,region.AZ-CUL,Culfa,Culfa,0
+entities,region.AZ-DAS,Daşkəsən,Daşkəsən,0
+entities,region.AZ-DAV,Dəvəçi,Dəvəçi,0
+entities,region.AZ-FUZ,Füzuli,Füzuli,0
+entities,region.AZ-GA,Gəncə,Gəncə,0
+entities,region.AZ-GAD,Gədəbəy,Gədəbəy,0
+entities,region.AZ-GOR,Goranboy,Goranboy,0
+entities,region.AZ-GOY,Göyçay,Göyçay,0
+entities,region.AZ-HAC,Hacıqabul,Hacıqabul,0
+entities,region.AZ-IMI,İmişli,İmişli,0
+entities,region.AZ-ISM,İsmayıllı,İsmayıllı,0
+entities,region.AZ-KAL,Kəlbəcər,Kəlbəcər,0
+entities,region.AZ-KUR,Kürdəmir,Kürdəmir,0
+entities,region.AZ-LA,Lənkəran,Lənkəran,0
+entities,region.AZ-LAC,Laçın,Laçın,0
+entities,region.AZ-LAN,Lənkəran,Lənkəran,0
+entities,region.AZ-LER,Lerik,Lerik,0
+entities,region.AZ-MAS,Masallı,Masallı,0
+entities,region.AZ-MI,Mingəçevir,Mingəçevir,0
+entities,region.AZ-NA,Naftalan,Naftalan,0
+entities,region.AZ-NEF,Neftçala,Neftçala,0
+entities,region.AZ-NX,Naxçıvan,Naxçıvan,0
+entities,region.AZ-OGU,Oğuz,Oğuz,0
+entities,region.AZ-ORD,Ordubad,Ordubad,0
+entities,region.AZ-QAB,Qəbələ,Qəbələ,0
+entities,region.AZ-QAX,Qax,Qax,0
+entities,region.AZ-QAZ,Qazax,Qazax,0
+entities,region.AZ-QBA,Quba,Quba,0
+entities,region.AZ-QBI,Qubadlı,Qubadlı,0
+entities,region.AZ-QOB,Qobustan,Qobustan,0
+entities,region.AZ-QUS,Qusar,Qusar,0
+entities,region.AZ-SA,Şəki,Şəki,0
+entities,region.AZ-SAB,Sabirabad,Sabirabad,0
+entities,region.AZ-SAD,Sədərək,Sədərək,0
+entities,region.AZ-SAH,Şahbuz,Şahbuz,0
+entities,region.AZ-SAK,Şəki,Şəki,0
+entities,region.AZ-SAL,Salyan,Salyan,0
+entities,region.AZ-SAR,Şərur,Şərur,0
+entities,region.AZ-SAT,Saatlı,Saatlı,0
+entities,region.AZ-SIY,Siyəzən,Siyəzən,0
+entities,region.AZ-SKR,Şəmkir,Şəmkir,0
+entities,region.AZ-SM,Sumqayıt,Sumqayıt,0
+entities,region.AZ-SMI,Şamaxı,Şamaxı,0
+entities,region.AZ-SMX,Samux,Samux,0
+entities,region.AZ-SS,Şuşa,Şuşa,0
+entities,region.AZ-SUS,Şuşa,Şuşa,0
+entities,region.AZ-TAR,Tərtər,Tərtər,0
+entities,region.AZ-TOV,Tovuz,Tovuz,0
+entities,region.AZ-UCA,Ucar,Ucar,0
+entities,region.AZ-XA,Xankəndi,Xankəndi,0
+entities,region.AZ-XAC,Xaçmaz,Xaçmaz,0
+entities,region.AZ-XAN,Xanlar,Xanlar,0
+entities,region.AZ-XCI,Xocalı,Xocalı,0
+entities,region.AZ-XIZ,Xızı,Xızı,0
+entities,region.AZ-XVD,Xocavənd,Xocavənd,0
+entities,region.AZ-YAR,Yardımlı,Yardımlı,0
+entities,region.AZ-YE,Yevlax,Yevlax,0
+entities,region.AZ-YEV,Yevlax,Yevlax,0
+entities,region.AZ-ZAN,Zəngilan,Zəngilan,0
+entities,region.AZ-ZAQ,Zaqatala,Zaqatala,0
+entities,region.AZ-ZAR,Zərdab,Zərdab,0
+entities,region.BA-01,"Unsko-sanski kanton","Unsko-sanski kanton",0
+entities,region.BA-02,"Posavski kanton","Posavski kanton",0
+entities,region.BA-03,"Tuzlanski kanton","Tuzlanski kanton",0
+entities,region.BA-04,"Zeničko-dobojski kanton","Zeničko-dobojski kanton",0
+entities,region.BA-05,"Bosansko-podrinjski kanton","Bosansko-podrinjski kanton",0
+entities,region.BA-06,"Srednjobosanski kanton","Srednjobosanski kanton",0
+entities,region.BA-07,"Hercegovačko-neretvanski kanton","Hercegovačko-neretvanski kanton",0
+entities,region.BA-08,"Zapadnohercegovački kanton","Zapadnohercegovački kanton",0
+entities,region.BA-09,"Kanton Sarajevo","Kanton Sarajevo",0
+entities,region.BA-10,"Kanton br. 10 (Livanjski kanton)","Kanton br. 10 (Livanjski kanton)",0
+entities,region.BA-BIH,"Federacija Bosne i Hercegovine","Federacija Bosne i Hercegovine",0
+entities,region.BA-BRC,"Brčko distrikt","Brčko distrikt",0
+entities,region.BA-SRP,"Republika Srpska","Republika Srpska",0
+entities,region.BB-01,"Christ Church","Christ Church",0
+entities,region.BB-02,"Saint Andrew","Saint Andrew",0
+entities,region.BB-03,"Thánh George","Saint George",0
+entities,region.BB-04,"Saint James","Saint James",0
+entities,region.BB-05,"thanh John","Saint John",0
+entities,region.BB-06,"Saint Joseph","Saint Joseph",0
+entities,region.BB-07,"Saint Lucy","Saint Lucy",0
+entities,region.BB-08,"Saint Michael","Saint Michael",0
+entities,region.BB-09,"Saint Peter","Saint Peter",0
+entities,region.BB-10,"Saint Philip","Saint Philip",0
+entities,region.BB-11,"Saint Thomas","Saint Thomas",0
+entities,region.BD-01,"Bandarban zila","Bandarban zila",0
+entities,region.BD-02,"Barguna zila","Barguna zila",0
+entities,region.BD-03,"Bogra zila","Bogra zila",0
+entities,region.BD-04,"Brahmanbaria zila","Brahmanbaria zila",0
+entities,region.BD-05,"Bagerhat zila","Bagerhat zila",0
+entities,region.BD-06,"Barisal zila","Barisal zila",0
+entities,region.BD-07,"Bhola zila","Bhola zila",0
+entities,region.BD-08,"Comilla zila","Comilla zila",0
+entities,region.BD-09,"Chandpur zila","Chandpur zila",0
+entities,region.BD-1,"Barisal bibhag","Barisal bibhag",0
+entities,region.BD-10,"Chittagong zila","Chittagong zila",0
+entities,region.BD-11,"Cox's Bazar zila","Cox's Bazar zila",0
+entities,region.BD-12,"Chuadanga zila","Chuadanga zila",0
+entities,region.BD-13,"Dhaka zila","Dhaka zila",0
+entities,region.BD-14,"Dinajpur zila","Dinajpur zila",0
+entities,region.BD-15,"Faridpur zila","Faridpur zila",0
+entities,region.BD-16,"Feni zila","Feni zila",0
+entities,region.BD-17,"Gopalganj zila","Gopalganj zila",0
+entities,region.BD-18,"Gazipur zila","Gazipur zila",0
+entities,region.BD-19,"Gaibandha zila","Gaibandha zila",0
+entities,region.BD-2,"Chittagong bibhag","Chittagong bibhag",0
+entities,region.BD-20,"Habiganj zila","Habiganj zila",0
+entities,region.BD-21,"Jamalpur zila","Jamalpur zila",0
+entities,region.BD-22,"Jessore zila","Jessore zila",0
+entities,region.BD-23,"Jhenaidah zila","Jhenaidah zila",0
+entities,region.BD-24,"Jaipurhat zila","Jaipurhat zila",0
+entities,region.BD-25,"Jhalakati zila","Jhalakati zila",0
+entities,region.BD-26,"Kishorganj zila","Kishorganj zila",0
+entities,region.BD-27,"Khulna zila","Khulna zila",0
+entities,region.BD-28,"Kurigram zila","Kurigram zila",0
+entities,region.BD-29,"Khagrachari zila","Khagrachari zila",0
+entities,region.BD-3,"Dhaka bibhag","Dhaka bibhag",0
+entities,region.BD-30,"Kushtia zila","Kushtia zila",0
+entities,region.BD-31,"Lakshmipur zila","Lakshmipur zila",0
+entities,region.BD-32,"Lalmonirhat zila","Lalmonirhat zila",0
+entities,region.BD-33,"Manikganj zila","Manikganj zila",0
+entities,region.BD-34,"Mymensingh zila","Mymensingh zila",0
+entities,region.BD-35,"Munshiganj zila","Munshiganj zila",0
+entities,region.BD-36,"Madaripur zila","Madaripur zila",0
+entities,region.BD-37,"Magura zila","Magura zila",0
+entities,region.BD-38,"Moulvibazar zila","Moulvibazar zila",0
+entities,region.BD-39,"Meherpur zila","Meherpur zila",0
+entities,region.BD-4,"Khulna bibhag","Khulna bibhag",0
+entities,region.BD-40,"Narayanganj zila","Narayanganj zila",0
+entities,region.BD-41,"Netrakona zila","Netrakona zila",0
+entities,region.BD-42,"Narsingdi zila","Narsingdi zila",0
+entities,region.BD-43,"Narail zila","Narail zila",0
+entities,region.BD-44,"Natore zila","Natore zila",0
+entities,region.BD-45,"Nawabganj zila","Nawabganj zila",0
+entities,region.BD-46,"Nilphamari zila","Nilphamari zila",0
+entities,region.BD-47,"Noakhali zila","Noakhali zila",0
+entities,region.BD-48,"Naogaon zila","Naogaon zila",0
+entities,region.BD-49,"Pabna zila","Pabna zila",0
+entities,region.BD-5,"Rajshahi bibhag","Rajshahi bibhag",0
+entities,region.BD-50,"Pirojpur zila","Pirojpur zila",0
+entities,region.BD-51,"Patuakhali zila","Patuakhali zila",0
+entities,region.BD-52,"Panchagarh zila","Panchagarh zila",0
+entities,region.BD-53,"Rajbari zila","Rajbari zila",0
+entities,region.BD-54,"Rajshahi zila","Rajshahi zila",0
+entities,region.BD-55,"Rangpur zila","Rangpur zila",0
+entities,region.BD-56,"Rangamati zila","Rangamati zila",0
+entities,region.BD-57,"Sherpur zila","Sherpur zila",0
+entities,region.BD-58,"Satkhira zila","Satkhira zila",0
+entities,region.BD-59,"Sirajganj zila","Sirajganj zila",0
+entities,region.BD-6,"Sylhet bibhag","Sylhet bibhag",0
+entities,region.BD-60,"Sylhet zila","Sylhet zila",0
+entities,region.BD-61,"Sunamganj zila","Sunamganj zila",0
+entities,region.BD-62,"Shariatpur zila","Shariatpur zila",0
+entities,region.BD-63,"Tangail zila","Tangail zila",0
+entities,region.BD-64,"Thakurgaon zila","Thakurgaon zila",0
+entities,region.BE-BRU,"Vùng thủ đô Brussels","Brussels-Capital Region",0
+entities,region.BE-VAN,Antwerpen,Antwerpen,0
+entities,region.BE-VBR,Vlaams-Brabant,Vlaams-Brabant,0
+entities,region.BE-VLI,Limburg,Limburg,0
+entities,region.BE-VOV,Oost-Vlaanderen,Oost-Vlaanderen,0
+entities,region.BE-VWV,West-Vlaanderen,West-Vlaanderen,0
+entities,region.BE-WBR,"Wallon Brabant","Brabant Wallon",0
+entities,region.BE-WHT,Hainaut,Hainaut,0
+entities,region.BE-WLG,Liege,Liege,0
+entities,region.BE-WLX,Luxembourg,Luxembourg,0
+entities,region.BE-WNA,Namur,Namur,0
+entities,region.BF-01,"Boucle du Mouhoun","Boucle du Mouhoun",0
+entities,region.BF-02,Cascade,Cascades,0
+entities,region.BF-03,"Trung tâm",Centre,0
+entities,region.BF-04,Center-Est,Centre-Est,0
+entities,region.BF-05,"Trung tâm-Nord",Centre-Nord,0
+entities,region.BF-06,"Trung tâm-Ouest",Centre-Ouest,0
+entities,region.BF-07,"Trung tâm-Sud",Centre-Sud,0
+entities,region.BF-08,Est,Est,0
+entities,region.BF-09,Hauts-Bassins,Hauts-Bassins,0
+entities,region.BF-10,Nord,Nord,0
+entities,region.BF-11,"Cao nguyên-Trung",Plateau-Central,0
+entities,region.BF-12,Sahel,Sahel,0
+entities,region.BF-13,Sud-Ouest,Sud-Ouest,0
+entities,region.BF-BAL,Balé,Balé,0
+entities,region.BF-BAM,Bam,Bam,0
+entities,region.BF-BAN,Banwa,Banwa,0
+entities,region.BF-BAZ,Bazèga,Bazèga,0
+entities,region.BF-BGR,Bougouriba,Bougouriba,0
+entities,region.BF-BLG,Boulgou,Boulgou,0
+entities,region.BF-BLK,Boulkiemdé,Boulkiemdé,0
+entities,region.BF-COM,Comoé,Comoé,0
+entities,region.BF-GAN,Ganzourgou,Ganzourgou,0
+entities,region.BF-GNA,Gnagna,Gnagna,0
+entities,region.BF-GOU,Gourma,Gourma,0
+entities,region.BF-HOU,Houet,Houet,0
+entities,region.BF-IOB,Ioba,Ioba,0
+entities,region.BF-KAD,Kadiogo,Kadiogo,0
+entities,region.BF-KEN,Kénédougou,Kénédougou,0
+entities,region.BF-KMD,Komondjari,Komondjari,0
+entities,region.BF-KMP,Kompienga,Kompienga,0
+entities,region.BF-KOP,Koulpélogo,Koulpélogo,0
+entities,region.BF-KOS,Kossi,Kossi,0
+entities,region.BF-KOT,Kouritenga,Kouritenga,0
+entities,region.BF-KOW,Kourwéogo,Kourwéogo,0
+entities,region.BF-LER,Léraba,Léraba,0
+entities,region.BF-LOR,Loroum,Loroum,0
+entities,region.BF-MOU,Mouhoun,Mouhoun,0
+entities,region.BF-NAM,Namentenga,Namentenga,0
+entities,region.BF-NAO,Naouri,Naouri,0
+entities,region.BF-NAY,Nayala,Nayala,0
+entities,region.BF-NOU,Noumbiel,Noumbiel,0
+entities,region.BF-OUB,Oubritenga,Oubritenga,0
+entities,region.BF-OUD,Oudalan,Oudalan,0
+entities,region.BF-PAS,Passoré,Passoré,0
+entities,region.BF-PON,Poni,Poni,0
+entities,region.BF-SEN,Séno,Séno,0
+entities,region.BF-SIS,Sissili,Sissili,0
+entities,region.BF-SMT,Sanmatenga,Sanmatenga,0
+entities,region.BF-SNG,Sanguié,Sanguié,0
+entities,region.BF-SOM,Soum,Soum,0
+entities,region.BF-SOR,Sourou,Sourou,0
+entities,region.BF-TAP,Tapoa,Tapoa,0
+entities,region.BF-TUI,Tui,Tui,0
+entities,region.BF-YAG,Yagha,Yagha,0
+entities,region.BF-YAT,Yatenga,Yatenga,0
+entities,region.BF-ZIR,Ziro,Ziro,0
+entities,region.BF-ZON,Zondoma,Zondoma,0
+entities,region.BF-ZOU,Zoundwéogo,Zoundwéogo,0
+entities,region.BG-01,Blagoevgrad,Blagoevgrad,0
+entities,region.BG-02,Burgas,Burgas,0
+entities,region.BG-03,Varna,Varna,0
+entities,region.BG-04,"Veliko Tarnovo","Veliko Tarnovo",0
+entities,region.BG-05,Vidin,Vidin,0
+entities,region.BG-06,Vratsa,Vratsa,0
+entities,region.BG-07,Gabrovo,Gabrovo,0
+entities,region.BG-08,Dobrich,Dobrich,0
+entities,region.BG-09,Kardzhali,Kardzhali,0
+entities,region.BG-10,Kyustendil,Kyustendil,0
+entities,region.BG-11,Lovech,Lovech,0
+entities,region.BG-12,Montana,Montana,0
+entities,region.BG-13,Pazardzhik,Pazardzhik,0
+entities,region.BG-14,Pernik,Pernik,0
+entities,region.BG-15,Pleven,Pleven,0
+entities,region.BG-16,Plovdiv,Plovdiv,0
+entities,region.BG-17,Razgrad,Razgrad,0
+entities,region.BG-18,Ruse,Ruse,0
+entities,region.BG-19,Silistra,Silistra,0
+entities,region.BG-20,Sliven,Sliven,0
+entities,region.BG-21,Smolyan,Smolyan,0
+entities,region.BG-22,Sofia-Grad,Sofia-Grad,0
+entities,region.BG-23,Sofia,Sofia,0
+entities,region.BG-24,"Stara Zagora","Stara Zagora",0
+entities,region.BG-25,Targovishte,Targovishte,0
+entities,region.BG-26,Haskovo,Haskovo,0
+entities,region.BG-27,Shumen,Shumen,0
+entities,region.BG-28,Yambol,Yambol,0
+entities,region.BH-13,"Al Manāmah (Al 'Āşimah)","Al Manāmah (Al ‘Āşimah)",0
+entities,region.BH-14,"Al Janūbīyah","Al Janūbīyah",0
+entities,region.BH-15,"Al Muḩarraq","Al Muḩarraq",0
+entities,region.BH-16,"Al Wusţá","Al Wusţá",0
+entities,region.BH-17,"Ash Shamālīyah","Ash Shamālīyah",0
+entities,region.BI-BB,Bubanza,Bubanza,0
+entities,region.BI-BL,"Bujumbura Rural","Bujumbura Rural",0
+entities,region.BI-BM,"Bujumbura Mairie","Bujumbura Mairie",0
+entities,region.BI-BR,Bururi,Bururi,0
+entities,region.BI-CA,Cankuzo,Cankuzo,0
+entities,region.BI-CI,Cibitoke,Cibitoke,0
+entities,region.BI-GI,Gitega,Gitega,0
+entities,region.BI-KI,Kirundo,Kirundo,0
+entities,region.BI-KR,Karuzi,Karuzi,0
+entities,region.BI-KY,Kayanza,Kayanza,0
+entities,region.BI-MA,Makamba,Makamba,0
+entities,region.BI-MU,Muramvya,Muramvya,0
+entities,region.BI-MW,Mwaro,Mwaro,0
+entities,region.BI-NG,Ngozi,Ngozi,0
+entities,region.BI-RT,Rutana,Rutana,0
+entities,region.BI-RY,Ruyigi,Ruyigi,0
+entities,region.BJ-AK,Atakora,Atakora,0
+entities,region.BJ-AL,Alibori,Alibori,0
+entities,region.BJ-AQ,Atlantique,Atlantique,0
+entities,region.BJ-BO,Borgou,Borgou,0
+entities,region.BJ-CO,Collines,Collines,0
+entities,region.BJ-DO,Donga,Donga,0
+entities,region.BJ-KO,Kouffo,Kouffo,0
+entities,region.BJ-LI,Littoral,Littoral,0
+entities,region.BJ-MO,Mono,Mono,0
+entities,region.BJ-OU,Ouémé,Ouémé,0
+entities,region.BJ-PL,"Cao nguyên",Plateau,0
+entities,region.BJ-ZO,Zou,Zou,0
+entities,region.BN-BE,Belait,Belait,0
+entities,region.BN-BM,Brunei-Muara,Brunei-Muara,0
+entities,region.BN-TE,Temburong,Temburong,0
+entities,region.BN-TU,Tutong,Tutong,0
+entities,region.BO-B,"El Beni","El Beni",0
+entities,region.BO-C,Cochabamba,Cochabamba,0
+entities,region.BO-H,Chuquisaca,Chuquisaca,0
+entities,region.BO-L,"la Paz","La Paz",0
+entities,region.BO-N,Pando,Pando,0
+entities,region.BO-O,Oruro,Oruro,0
+entities,region.BO-P,Potosí,Potosí,0
+entities,region.BO-S,"Santa Cruz","Santa Cruz",0
+entities,region.BO-T,Tarija,Tarija,0
+entities,region.BR-AC,Acre,Acre,0
+entities,region.BR-AL,Alagoas,Alagoas,0
+entities,region.BR-AM,Amazonas,Amazonas,0
+entities,region.BR-AP,Amapá,Amapá,0
+entities,region.BR-BA,Bahia,Bahia,0
+entities,region.BR-CE,Ceará,Ceará,0
+entities,region.BR-DF,"Distrito Federal","Distrito Federal",0
+entities,region.BR-ES,"Espírito Santo","Espírito Santo",0
+entities,region.BR-FN,"Fernando de Noronha","Fernando de Noronha",0
+entities,region.BR-GO,Goiás,Goiás,0
+entities,region.BR-MA,Maranhão,Maranhão,0
+entities,region.BR-MG,"Minas Gerais","Minas Gerais",0
+entities,region.BR-MS,"Mato Grosso do Sul","Mato Grosso do Sul",0
+entities,region.BR-MT,"Mato Grosso","Mato Grosso",0
+entities,region.BR-PA,Pará,Pará,0
+entities,region.BR-PB,Paraíba,Paraíba,0
+entities,region.BR-PE,Pernambuco,Pernambuco,0
+entities,region.BR-PI,Piauí,Piauí,0
+entities,region.BR-PR,Paraná,Paraná,0
+entities,region.BR-RJ,"Rio de Janeiro","Rio de Janeiro",0
+entities,region.BR-RN,"Rio Grande do Norte","Rio Grande do Norte",0
+entities,region.BR-RO,Rondônia,Rondônia,0
+entities,region.BR-RR,Roraima,Roraima,0
+entities,region.BR-RS,"Rio Grande do Sul","Rio Grande do Sul",0
+entities,region.BR-SC,"Santa Catarina","Santa Catarina",0
+entities,region.BR-SE,Sergipe,Sergipe,0
+entities,region.BR-SP,"Sao Paulo","São Paulo",0
+entities,region.BR-TO,Tocantin,Tocantins,0
+entities,region.BS-AC,"Quần đảo Acklins","Acklins Islands",0
+entities,region.BS-BI,"Bimini và Cat Cay","Bimini and Cat Cay",0
+entities,region.BS-BP,"Điểm đen","Black Point",0
+entities,region.BS-BY,"Quần đảo Berry","Berry Islands",0
+entities,region.BS-CE,"Central Eleuthera","Central Eleuthera",0
+entities,region.BS-CI,"Đảo Cát","Cat Island",0
+entities,region.BS-CK,"Đảo Crooked và Long Cay","Crooked Island and Long Cay",0
+entities,region.BS-CO,"Central Abaco","Central Abaco",0
+entities,region.BS-CS,"Trung Andros","Central Andros",0
+entities,region.BS-EG,"East Grand Bahama","East Grand Bahama",0
+entities,region.BS-EX,Exuma,Exuma,0
+entities,region.BS-FP,"Thành phố Freeport","City of Freeport",0
+entities,region.BS-GC,"Grand Cay","Grand Cay",0
+entities,region.BS-GT,"Green Turtle Cay","Green Turtle Cay",0
+entities,region.BS-HI,"Đảo Harbour","Harbour Island",0
+entities,region.BS-HT,"Hope Town","Hope Town",0
+entities,region.BS-IN,Inagua,Inagua,0
+entities,region.BS-LI,"Long Island","Long Island",0
+entities,region.BS-MC,"Mangrove Cay","Mangrove Cay",0
+entities,region.BS-MG,Mayaguana,Mayaguana,0
+entities,region.BS-MI,"Đảo Moore","Moore's Island",0
+entities,region.BS-NE,"North Eleuthera","North Eleuthera",0
+entities,region.BS-NO,"Bắc Abaco","North Abaco",0
+entities,region.BS-NS,"North Andros","North Andros",0

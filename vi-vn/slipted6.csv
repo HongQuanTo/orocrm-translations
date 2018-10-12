@@ -1,400 +1,400 @@
-entities,region.HR-20,,"Međimurska županija",0
-entities,region.HR-21,,"Grad Zagreb",0
-entities,region.HT-AR,,Artibonite,0
-entities,region.HT-CE,,Centre,0
-entities,region.HT-GA,,Grande-Anse,0
-entities,region.HT-ND,,Nord,0
-entities,region.HT-NE,,Nord-Est,0
-entities,region.HT-NO,,Nord-Ouest,0
-entities,region.HT-OU,,Ouest,0
-entities,region.HT-SD,,Sud,0
-entities,region.HT-SE,,Sud-Est,0
-entities,region.HU-BA,,Baranya,0
-entities,region.HU-BC,,Békéscsaba,0
-entities,region.HU-BE,,Békés,0
-entities,region.HU-BK,,Bács-Kiskun,0
-entities,region.HU-BU,,Budapest,0
-entities,region.HU-BZ,,Borsod-Abaúj-Zemplén,0
-entities,region.HU-CS,,Csongrád,0
-entities,region.HU-DE,,Debrecen,0
-entities,region.HU-DU,,Dunaújváros,0
-entities,region.HU-EG,,Eger,0
-entities,region.HU-ER,,Érd,0
-entities,region.HU-FE,,Fejér,0
-entities,region.HU-GS,,Győr-Moson-Sopron,0
-entities,region.HU-GY,,Győr,0
-entities,region.HU-HB,,Hajdú-Bihar,0
-entities,region.HU-HE,,Heves,0
-entities,region.HU-HV,,Hódmezővásárhely,0
-entities,region.HU-JN,,Jász-Nagykun-Szolnok,0
-entities,region.HU-KE,,Komárom-Esztergom,0
-entities,region.HU-KM,,Kecskemét,0
-entities,region.HU-KV,,Kaposvár,0
-entities,region.HU-MI,,Miskolc,0
-entities,region.HU-NK,,Nagykanizsa,0
-entities,region.HU-NO,,Nógrád,0
-entities,region.HU-NY,,Nyíregyháza,0
-entities,region.HU-PE,,Pest,0
-entities,region.HU-PS,,Pécs,0
-entities,region.HU-SD,,Szeged,0
-entities,region.HU-SF,,Székesfehérvár,0
-entities,region.HU-SH,,Szombathely,0
-entities,region.HU-SK,,Szolnok,0
-entities,region.HU-SN,,Sopron,0
-entities,region.HU-SO,,Somogy,0
-entities,region.HU-SS,,Szekszárd,0
-entities,region.HU-ST,,Salgótarján,0
-entities,region.HU-SZ,,Szabolcs-Szatmár-Bereg,0
-entities,region.HU-TB,,Tatabánya,0
-entities,region.HU-TO,,Tolna,0
-entities,region.HU-VA,,Vas,0
-entities,region.HU-VE,,"Veszprém (county)",0
-entities,region.HU-VM,,Veszprém,0
-entities,region.HU-ZA,,Zala,0
-entities,region.HU-ZE,,Zalaegerszeg,0
-entities,region.ID-AC,,Aceh,0
-entities,region.ID-BA,,Bali,0
-entities,region.ID-BB,,"Bangka Belitung",0
-entities,region.ID-BE,,Bengkulu,0
-entities,region.ID-BT,,Banten,0
-entities,region.ID-GO,,Gorontalo,0
-entities,region.ID-IJ,,Papua,0
-entities,region.ID-JA,,Jambi,0
-entities,region.ID-JB,,"Jawa Barat",0
-entities,region.ID-JI,,"Jawa Timur",0
-entities,region.ID-JK,,"Jakarta Raya",0
-entities,region.ID-JT,,"Jawa Tengah",0
-entities,region.ID-JW,,Jawa,0
-entities,region.ID-KA,,Kalimantan,0
-entities,region.ID-KB,,"Kalimantan Barat",0
-entities,region.ID-KI,,"Kalimantan Timur",0
-entities,region.ID-KR,,"Kepulauan Riau",0
-entities,region.ID-KS,,"Kalimantan Selatan",0
-entities,region.ID-KT,,"Kalimantan Tengah",0
-entities,region.ID-LA,,Lampung,0
-entities,region.ID-MA,,Maluku,0
-entities,region.ID-MU,,"Maluku Utara",0
-entities,region.ID-NB,,"Nusa Tenggara Barat",0
-entities,region.ID-NT,,"Nusa Tenggara Timur",0
-entities,region.ID-NU,,"Nusa Tenggara",0
-entities,region.ID-PA,,Papua,0
-entities,region.ID-PB,,"Papua Barat",0
-entities,region.ID-RI,,Riau,0
-entities,region.ID-SA,,"Sulawesi Utara",0
-entities,region.ID-SB,,"Sumatra Barat",0
-entities,region.ID-SG,,"Sulawesi Tenggara",0
-entities,region.ID-SL,,Sulawesi,0
-entities,region.ID-SM,,Sumatera,0
-entities,region.ID-SN,,"Sulawesi Selatan",0
-entities,region.ID-SR,,"Sulawesi Barat",0
-entities,region.ID-SS,,"Sumatra Selatan",0
-entities,region.ID-ST,,"Sulawesi Tengah",0
-entities,region.ID-SU,,"Sumatera Utara",0
-entities,region.ID-YO,,Yogyakarta,0
-entities,region.IE-C,,Cork,0
-entities,region.IE-CE,,Clare,0
-entities,region.IE-CN,,Cavan,0
-entities,region.IE-CW,,Carlow,0
-entities,region.IE-D,,Dublin,0
-entities,region.IE-DL,,Donegal,0
-entities,region.IE-G,,Galway,0
-entities,region.IE-KE,,Kildare,0
-entities,region.IE-KK,,Kilkenny,0
-entities,region.IE-KY,,Kerry,0
-entities,region.IE-L,,Leinster,0
-entities,region.IE-LD,,Longford,0
-entities,region.IE-LH,,Louth,0
-entities,region.IE-LK,,Limerick,0
-entities,region.IE-LM,,Leitrim,0
-entities,region.IE-LS,,Laois,0
-entities,region.IE-M,,Munster,0
-entities,region.IE-MH,,Meath,0
-entities,region.IE-MN,,Monaghan,0
-entities,region.IE-MO,,Mayo,0
-entities,region.IE-OY,,Offaly,0
-entities,region.IE-RN,,Roscommon,0
-entities,region.IE-SO,,Sligo,0
-entities,region.IE-TA,,Tipperary,0
-entities,region.IE-U,,Ulster,0
-entities,region.IE-WD,,Waterford,0
-entities,region.IE-WH,,Westmeath,0
-entities,region.IE-WW,,Wicklow,0
-entities,region.IE-WX,,Wexford,0
-entities,region.IL-D,,HaDarom,0
-entities,region.IL-HA,,Hefa,0
-entities,region.IL-JM,,"Yerushalayim Al Quds",0
-entities,region.IL-M,,HaMerkaz,0
-entities,region.IL-TA,,Tel-Aviv,0
-entities,region.IL-Z,,HaZafon,0
-entities,region.IN-AN,,"Andaman and Nicobar Islands",0
-entities,region.IN-AP,,"Andhra Pradesh",0
-entities,region.IN-AR,,"Arunāchal Pradesh",0
-entities,region.IN-AS,,Assam,0
-entities,region.IN-BR,,Bihār,0
-entities,region.IN-CH,,Chandīgarh,0
-entities,region.IN-CT,,Chhattīsgarh,0
-entities,region.IN-DD,,"Damān and Diu",0
-entities,region.IN-DL,,Delhi,0
-entities,region.IN-DN,,"Dādra and Nagar Haveli",0
-entities,region.IN-GA,,Goa,0
-entities,region.IN-GJ,,Gujarāt,0
-entities,region.IN-HP,,"Himāchal Pradesh",0
-entities,region.IN-HR,,Haryāna,0
-entities,region.IN-JH,,Jharkhand,0
-entities,region.IN-JK,,"Jammu and Kashmīr",0
-entities,region.IN-KA,,Karnātaka,0
-entities,region.IN-KL,,Kerala,0
-entities,region.IN-LD,,Lakshadweep,0
-entities,region.IN-MH,,Mahārāshtra,0
-entities,region.IN-ML,,Meghālaya,0
-entities,region.IN-MN,,Manipur,0
-entities,region.IN-MP,,"Madhya Pradesh",0
-entities,region.IN-MZ,,Mizoram,0
-entities,region.IN-NL,,Nāgāland,0
-entities,region.IN-OR,,Orissa,0
-entities,region.IN-PB,,Punjab,0
-entities,region.IN-PY,,Pondicherry,0
-entities,region.IN-RJ,,Rājasthān,0
-entities,region.IN-SK,,Sikkim,0
-entities,region.IN-TN,,"Tamil Nādu",0
-entities,region.IN-TR,,Tripura,0
-entities,region.IN-UL,,Uttaranchal,0
-entities,region.IN-UP,,"Uttar Pradesh",0
-entities,region.IN-WB,,"West Bengal",0
-entities,region.IQ-AN,,"Al Anbar",0
-entities,region.IQ-AR,,Arbil,0
-entities,region.IQ-BA,,"Al Basrah",0
-entities,region.IQ-BB,,Babil,0
-entities,region.IQ-BG,,Baghdad,0
-entities,region.IQ-DA,,Dahuk,0
-entities,region.IQ-DI,,Diyala,0
-entities,region.IQ-DQ,,"Dhi Qar",0
-entities,region.IQ-KA,,Karbala',0
-entities,region.IQ-MA,,Maysan,0
-entities,region.IQ-MU,,"Al Muthanna",0
-entities,region.IQ-NA,,"An Najef",0
-entities,region.IQ-NI,,Ninawa,0
-entities,region.IQ-QA,,"Al Qadisiyah",0
-entities,region.IQ-SD,,"Salah ad Din",0
-entities,region.IQ-SW,,"As Sulaymaniyah",0
-entities,region.IQ-TS,,"At Ta'mim",0
-entities,region.IQ-WA,,Wasit,0
-entities,region.IR-01,,"Āzarbāyjān-e Sharqī",0
-entities,region.IR-02,,"Āzarbāyjān-e Gharbī",0
-entities,region.IR-03,,Ardabīl,0
-entities,region.IR-04,,Eşfahān,0
-entities,region.IR-05,,Īlām,0
-entities,region.IR-06,,Būshehr,0
-entities,region.IR-07,,Tehrān,0
-entities,region.IR-08,,"Chahār Mahāll va Bakhtīārī",0
-entities,region.IR-10,,Khūzestān,0
-entities,region.IR-11,,Zanjān,0
-entities,region.IR-12,,Semnān,0
-entities,region.IR-13,,"Sīstān va Balūchestān",0
-entities,region.IR-14,,Fārs,0
-entities,region.IR-15,,Kermān,0
-entities,region.IR-16,,Kordestān,0
-entities,region.IR-17,,Kermānshāh,0
-entities,region.IR-18,,"Kohgīlūyeh va Būyer Ahmad",0
-entities,region.IR-19,,Gīlān,0
-entities,region.IR-20,,Lorestān,0
-entities,region.IR-21,,Māzandarān,0
-entities,region.IR-22,,Markazī,0
-entities,region.IR-23,,Hormozgān,0
-entities,region.IR-24,,Hamadān,0
-entities,region.IR-25,,Yazd,0
-entities,region.IR-26,,Qom,0
-entities,region.IR-27,,Golestān,0
-entities,region.IR-28,,Qazvīn,0
-entities,region.IR-29,,"Khorāsān-e Janūbī",0
-entities,region.IR-30,,"Khorāsān-e Razavī",0
-entities,region.IR-31,,"Khorāsān-e Shemālī",0
-entities,region.IS-0,,Reykjavík,0
-entities,region.IS-1,,Höfuðborgarsvæðið,0
-entities,region.IS-2,,Suðurnes,0
-entities,region.IS-3,,Vesturland,0
-entities,region.IS-4,,Vestfirðir,0
-entities,region.IS-5,,"Norðurland vestra",0
-entities,region.IS-6,,"Norðurland eystra",0
-entities,region.IS-7,,Austurland,0
-entities,region.IS-8,,Suðurland,0
-entities,region.IT-21,,Piemonte,0
-entities,region.IT-23,,"Valle d'Aosta",0
-entities,region.IT-25,,Lombardia,0
-entities,region.IT-32,,"Trentino-Alto Adige",0
-entities,region.IT-34,,Veneto,0
-entities,region.IT-36,,"Friuli-Venezia Giulia",0
-entities,region.IT-42,,Liguria,0
-entities,region.IT-45,,Emilia-Romagna,0
-entities,region.IT-52,,Toscana,0
-entities,region.IT-55,,Umbria,0
-entities,region.IT-57,,Marche,0
-entities,region.IT-62,,Lazio,0
-entities,region.IT-65,,Abruzzo,0
-entities,region.IT-67,,Molise,0
-entities,region.IT-72,,Campania,0
-entities,region.IT-75,,Puglia,0
-entities,region.IT-77,,Basilicata,0
-entities,region.IT-78,,Calabria,0
-entities,region.IT-82,,Sicilia,0
-entities,region.IT-88,,Sardegna,0
-entities,region.IT-AG,,Agrigento,0
-entities,region.IT-AL,,Alessandria,0
-entities,region.IT-AN,,Ancona,0
-entities,region.IT-AO,,Aosta,0
-entities,region.IT-AP,,"Ascoli Piceno",0
-entities,region.IT-AQ,,L'Aquila,0
-entities,region.IT-AR,,Arezzo,0
-entities,region.IT-AT,,Asti,0
-entities,region.IT-AV,,Avellino,0
-entities,region.IT-BA,,Bari,0
-entities,region.IT-BG,,Bergamo,0
-entities,region.IT-BI,,Biella,0
-entities,region.IT-BL,,Belluno,0
-entities,region.IT-BN,,Benevento,0
-entities,region.IT-BO,,Bologna,0
-entities,region.IT-BR,,Brindisi,0
-entities,region.IT-BS,,Brescia,0
-entities,region.IT-BT,,Barletta-Andria-Trani,0
-entities,region.IT-BZ,,Bolzano,0
-entities,region.IT-CA,,Cagliari,0
-entities,region.IT-CB,,Campobasso,0
-entities,region.IT-CE,,Caserta,0
-entities,region.IT-CH,,Chieti,0
-entities,region.IT-CI,,Carbonia-Iglesias,0
-entities,region.IT-CL,,Caltanissetta,0
-entities,region.IT-CN,,Cuneo,0
-entities,region.IT-CO,,Como,0
-entities,region.IT-CR,,Cremona,0
-entities,region.IT-CS,,Cosenza,0
-entities,region.IT-CT,,Catania,0
-entities,region.IT-CZ,,Catanzaro,0
-entities,region.IT-EN,,Enna,0
-entities,region.IT-FC,,Forlì-Cesena,0
-entities,region.IT-FE,,Ferrara,0
-entities,region.IT-FG,,Foggia,0
-entities,region.IT-FI,,Firenze,0
-entities,region.IT-FM,,Fermo,0
-entities,region.IT-FR,,Frosinone,0
-entities,region.IT-GE,,Genova,0
-entities,region.IT-GO,,Gorizia,0
-entities,region.IT-GR,,Grosseto,0
-entities,region.IT-IM,,Imperia,0
-entities,region.IT-IS,,Isernia,0
-entities,region.IT-KR,,Crotone,0
-entities,region.IT-LC,,Lecco,0
-entities,region.IT-LE,,Lecce,0
-entities,region.IT-LI,,Livorno,0
-entities,region.IT-LO,,Lodi,0
-entities,region.IT-LT,,Latina,0
-entities,region.IT-LU,,Lucca,0
-entities,region.IT-MB,,"Monza e Brianza",0
-entities,region.IT-ME,,Messina,0
-entities,region.IT-MI,,Milano,0
-entities,region.IT-MN,,Mantova,0
-entities,region.IT-MO,,Modena,0
-entities,region.IT-MS,,Massa-Carrara,0
-entities,region.IT-MT,,Matera,0
-entities,region.IT-NA,,Napoli,0
-entities,region.IT-NO,,Novara,0
-entities,region.IT-NU,,Nuoro,0
-entities,region.IT-OG,,Ogliastra,0
-entities,region.IT-OR,,Oristano,0
-entities,region.IT-OT,,Olbia-Tempio,0
-entities,region.IT-PA,,Palermo,0
-entities,region.IT-PC,,Piacenza,0
-entities,region.IT-PD,,Padova,0
-entities,region.IT-PE,,Pescara,0
-entities,region.IT-PG,,Perugia,0
-entities,region.IT-PI,,Pisa,0
-entities,region.IT-PN,,Pordenone,0
-entities,region.IT-PO,,Prato,0
-entities,region.IT-PR,,Parma,0
-entities,region.IT-PT,,Pistoia,0
-entities,region.IT-PU,,"Pesaro e Urbino",0
-entities,region.IT-PV,,Pavia,0
-entities,region.IT-PZ,,Potenza,0
-entities,region.IT-RA,,Ravenna,0
-entities,region.IT-RC,,"Reggio Calabria",0
-entities,region.IT-RE,,"Reggio Emilia",0
-entities,region.IT-RG,,Ragusa,0
-entities,region.IT-RI,,Rieti,0
-entities,region.IT-RM,,Roma,0
-entities,region.IT-RN,,Rimini,0
-entities,region.IT-RO,,Rovigo,0
-entities,region.IT-SA,,Salerno,0
-entities,region.IT-SC,,Macerata,0
-entities,region.IT-SI,,Siena,0
-entities,region.IT-SO,,Sondrio,0
-entities,region.IT-SP,,"La Spezia",0
-entities,region.IT-SR,,Siracusa,0
-entities,region.IT-SS,,Sassari,0
-entities,region.IT-SV,,Savona,0
-entities,region.IT-TA,,Taranto,0
-entities,region.IT-TE,,Teramo,0
-entities,region.IT-TN,,Trento,0
-entities,region.IT-TO,,Torino,0
-entities,region.IT-TP,,Trapani,0
-entities,region.IT-TR,,Terni,0
-entities,region.IT-TS,,Trieste,0
-entities,region.IT-TV,,Treviso,0
-entities,region.IT-UD,,Udine,0
-entities,region.IT-VA,,Varese,0
-entities,region.IT-VB,,Verbano-Cusio-Ossola,0
-entities,region.IT-VC,,Vercelli,0
-entities,region.IT-VE,,Venezia,0
-entities,region.IT-VI,,Vicenza,0
-entities,region.IT-VR,,Verona,0
-entities,region.IT-VS,,"Medio Campidano",0
-entities,region.IT-VT,,Viterbo,0
-entities,region.IT-VV,,"Vibo Valentia",0
-entities,region.JM-01,,Kingston,0
-entities,region.JM-02,,"Saint Andrew",0
-entities,region.JM-03,,"Saint Thomas",0
-entities,region.JM-04,,Portland,0
-entities,region.JM-05,,"Saint Mary",0
-entities,region.JM-06,,"Saint Ann",0
-entities,region.JM-07,,Trelawny,0
-entities,region.JM-08,,"Saint James",0
-entities,region.JM-09,,Hanover,0
-entities,region.JM-10,,Westmoreland,0
-entities,region.JM-11,,"Saint Elizabeth",0
-entities,region.JM-12,,Manchester,0
-entities,region.JM-13,,Clarendon,0
-entities,region.JM-14,,"Saint Catherine",0
-entities,region.JO-AJ,,`Ajlun,0
-entities,region.JO-AM,,Amman,0
-entities,region.JO-AQ,,"Al `Aqabah",0
-entities,region.JO-AT,,"Aţ Ţafīlah",0
-entities,region.JO-AZ,,"Az Zarqā'",0
-entities,region.JO-BA,,"Al Balqā'",0
-entities,region.JO-JA,,Jarash,0
-entities,region.JO-JR,,Irbid,0
-entities,region.JO-KA,,"Al Karak",0
-entities,region.JO-MA,,"Al Mafraq",0
-entities,region.JO-MD,,Mādabā,0
-entities,region.JO-MN,,Ma`ān,0
-entities,region.JP-01,,Hokkaido,0
-entities,region.JP-02,,Aomori,0
-entities,region.JP-03,,Iwate,0
-entities,region.JP-04,,Miyagi,0
-entities,region.JP-05,,Akita,0
-entities,region.JP-06,,Yamagata,0
-entities,region.JP-07,,Fukushima,0
-entities,region.JP-08,,Ibaraki,0
-entities,region.JP-09,,Tochigi,0
-entities,region.JP-10,,Gunma,0
-entities,region.JP-11,,Saitama,0
-entities,region.JP-12,,Chiba,0
-entities,region.JP-13,,Tokyo,0
-entities,region.JP-14,,Kanagawa,0
-entities,region.JP-15,,Niigata,0
-entities,region.JP-16,,Toyama,0
-entities,region.JP-17,,Ishikawa,0
-entities,region.JP-18,,Fukui,0
-entities,region.JP-19,,Yamanashi,0
-entities,region.JP-20,,Nagano,0
-entities,region.JP-21,,Gifu,0
-entities,region.JP-22,,Shizuoka,0
-entities,region.JP-23,,Aichi,0
-entities,region.JP-24,,Mie,0
+entities,region.HR-20,"Međimurska županija","Međimurska županija",0
+entities,region.HR-21,"Grad Zagreb","Grad Zagreb",0
+entities,region.HT-AR,Artibonite,Artibonite,0
+entities,region.HT-CE,"Trung tâm",Centre,0
+entities,region.HT-GA,Grande-Anse,Grande-Anse,0
+entities,region.HT-ND,Nord,Nord,0
+entities,region.HT-NE,Nord-Est,Nord-Est,0
+entities,region.HT-NO,Nord-Ouest,Nord-Ouest,0
+entities,region.HT-OU,Ouest,Ouest,0
+entities,region.HT-SD,Sud,Sud,0
+entities,region.HT-SE,Sud-Est,Sud-Est,0
+entities,region.HU-BA,Baranya,Baranya,0
+entities,region.HU-BC,Békéscsaba,Békéscsaba,0
+entities,region.HU-BE,Békés,Békés,0
+entities,region.HU-BK,Bács-Kiskun,Bács-Kiskun,0
+entities,region.HU-BU,Budapest,Budapest,0
+entities,region.HU-BZ,Borsod-Abaúj-Zemplén,Borsod-Abaúj-Zemplén,0
+entities,region.HU-CS,Csongrád,Csongrád,0
+entities,region.HU-DE,Debrecen,Debrecen,0
+entities,region.HU-DU,Dunaújváros,Dunaújváros,0
+entities,region.HU-EG,Eger,Eger,0
+entities,region.HU-ER,Érd,Érd,0
+entities,region.HU-FE,Fejér,Fejér,0
+entities,region.HU-GS,Győr-Moson-Sopron,Győr-Moson-Sopron,0
+entities,region.HU-GY,Győr,Győr,0
+entities,region.HU-HB,Hajdú-Bihar,Hajdú-Bihar,0
+entities,region.HU-HE,Heves,Heves,0
+entities,region.HU-HV,Hódmezővásárhely,Hódmezővásárhely,0
+entities,region.HU-JN,Jász-Nagykun-Szolnok,Jász-Nagykun-Szolnok,0
+entities,region.HU-KE,Komárom-Esztergom,Komárom-Esztergom,0
+entities,region.HU-KM,Kecskemét,Kecskemét,0
+entities,region.HU-KV,Kaposvár,Kaposvár,0
+entities,region.HU-MI,Miskolc,Miskolc,0
+entities,region.HU-NK,Nagykanizsa,Nagykanizsa,0
+entities,region.HU-NO,Nógrád,Nógrád,0
+entities,region.HU-NY,Nyíregyháza,Nyíregyháza,0
+entities,region.HU-PE,"Côn trùng",Pest,0
+entities,region.HU-PS,Pécs,Pécs,0
+entities,region.HU-SD,Szeged,Szeged,0
+entities,region.HU-SF,Székesfehérvár,Székesfehérvár,0
+entities,region.HU-SH,Szombathely,Szombathely,0
+entities,region.HU-SK,Szolnok,Szolnok,0
+entities,region.HU-SN,Sopron,Sopron,0
+entities,region.HU-SO,Somogy,Somogy,0
+entities,region.HU-SS,Szekszárd,Szekszárd,0
+entities,region.HU-ST,Salgótarján,Salgótarján,0
+entities,region.HU-SZ,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmár-Bereg,0
+entities,region.HU-TB,Tatabánya,Tatabánya,0
+entities,region.HU-TO,Tolna,Tolna,0
+entities,region.HU-VA,Vas,Vas,0
+entities,region.HU-VE,"Veszprém (hạt)","Veszprém (county)",0
+entities,region.HU-VM,Veszprém,Veszprém,0
+entities,region.HU-ZA,Zala,Zala,0
+entities,region.HU-ZE,Zalaegerszeg,Zalaegerszeg,0
+entities,region.ID-AC,Aceh,Aceh,0
+entities,region.ID-BA,Bali,Bali,0
+entities,region.ID-BB,"Bangka Belitung","Bangka Belitung",0
+entities,region.ID-BE,Bengkulu,Bengkulu,0
+entities,region.ID-BT,Banten,Banten,0
+entities,region.ID-GO,Gorontalo,Gorontalo,0
+entities,region.ID-IJ,Papua,Papua,0
+entities,region.ID-JA,Jambi,Jambi,0
+entities,region.ID-JB,"Jawa Barat","Jawa Barat",0
+entities,region.ID-JI,"Jawa Timur","Jawa Timur",0
+entities,region.ID-JK,"Jakarta Raya","Jakarta Raya",0
+entities,region.ID-JT,"Jawa Tengah","Jawa Tengah",0
+entities,region.ID-JW,Jawa,Jawa,0
+entities,region.ID-KA,Kalimantan,Kalimantan,0
+entities,region.ID-KB,"Kalimantan Barat","Kalimantan Barat",0
+entities,region.ID-KI,"Kalimantan Timur","Kalimantan Timur",0
+entities,region.ID-KR,"Kepulauan Riau","Kepulauan Riau",0
+entities,region.ID-KS,"Kalimantan Selatan","Kalimantan Selatan",0
+entities,region.ID-KT,"Kalimantan Tengah","Kalimantan Tengah",0
+entities,region.ID-LA,Lampung,Lampung,0
+entities,region.ID-MA,Maluku,Maluku,0
+entities,region.ID-MU,"Maluku Utara","Maluku Utara",0
+entities,region.ID-NB,"Nusa Tenggara Barat","Nusa Tenggara Barat",0
+entities,region.ID-NT,"Nusa Tenggara Timur","Nusa Tenggara Timur",0
+entities,region.ID-NU,"Nusa Tenggara","Nusa Tenggara",0
+entities,region.ID-PA,Papua,Papua,0
+entities,region.ID-PB,"Papua Barat","Papua Barat",0
+entities,region.ID-RI,Riau,Riau,0
+entities,region.ID-SA,"Sulawesi Utara","Sulawesi Utara",0
+entities,region.ID-SB,"Sumatra Barat","Sumatra Barat",0
+entities,region.ID-SG,"Sulawesi Tenggara","Sulawesi Tenggara",0
+entities,region.ID-SL,Sulawesi,Sulawesi,0
+entities,region.ID-SM,Sumatera,Sumatera,0
+entities,region.ID-SN,"Sulawesi Selatan","Sulawesi Selatan",0
+entities,region.ID-SR,"Sulawesi Barat","Sulawesi Barat",0
+entities,region.ID-SS,"Sumatra Selatan","Sumatra Selatan",0
+entities,region.ID-ST,"Sulawesi Tengah","Sulawesi Tengah",0
+entities,region.ID-SU,"Sumatera Utara","Sumatera Utara",0
+entities,region.ID-YO,Yogyakarta,Yogyakarta,0
+entities,region.IE-C,"nút bần",Cork,0
+entities,region.IE-CE,Clare,Clare,0
+entities,region.IE-CN,Cavan,Cavan,0
+entities,region.IE-CW,Carlow,Carlow,0
+entities,region.IE-D,Dublin,Dublin,0
+entities,region.IE-DL,Donegal,Donegal,0
+entities,region.IE-G,Galway,Galway,0
+entities,region.IE-KE,Kildare,Kildare,0
+entities,region.IE-KK,Kilkenny,Kilkenny,0
+entities,region.IE-KY,Kerry,Kerry,0
+entities,region.IE-L,Leinster,Leinster,0
+entities,region.IE-LD,Longford,Longford,0
+entities,region.IE-LH,Louth,Louth,0
+entities,region.IE-LK,Limerick,Limerick,0
+entities,region.IE-LM,Leitrim,Leitrim,0
+entities,region.IE-LS,Laois,Laois,0
+entities,region.IE-M,Munster,Munster,0
+entities,region.IE-MH,Meath,Meath,0
+entities,region.IE-MN,Monaghan,Monaghan,0
+entities,region.IE-MO,Mayo,Mayo,0
+entities,region.IE-OY,Offaly,Offaly,0
+entities,region.IE-RN,Roscommon,Roscommon,0
+entities,region.IE-SO,Sligo,Sligo,0
+entities,region.IE-TA,Tipperary,Tipperary,0
+entities,region.IE-U,Ulster,Ulster,0
+entities,region.IE-WD,Waterford,Waterford,0
+entities,region.IE-WH,Westmeath,Westmeath,0
+entities,region.IE-WW,Wicklow,Wicklow,0
+entities,region.IE-WX,Wexford,Wexford,0
+entities,region.IL-D,HaDarom,HaDarom,0
+entities,region.IL-HA,Hefa,Hefa,0
+entities,region.IL-JM,"Yerushalayim Al Quds","Yerushalayim Al Quds",0
+entities,region.IL-M,HaMerkaz,HaMerkaz,0
+entities,region.IL-TA,Tel-Aviv,Tel-Aviv,0
+entities,region.IL-Z,HaZafon,HaZafon,0
+entities,region.IN-AN,"Quần đảo Andaman và Nicobar","Andaman and Nicobar Islands",0
+entities,region.IN-AP,"Andhra Pradesh","Andhra Pradesh",0
+entities,region.IN-AR,"Arunachal Pradesh","Arunāchal Pradesh",0
+entities,region.IN-AS,Assam,Assam,0
+entities,region.IN-BR,Bihār,Bihār,0
+entities,region.IN-CH,Chandīgarh,Chandīgarh,0
+entities,region.IN-CT,Chhattīsgarh,Chhattīsgarh,0
+entities,region.IN-DD,"Damān và Diu","Damān and Diu",0
+entities,region.IN-DL,Delhi,Delhi,0
+entities,region.IN-DN,"Dādra và Nagar Haveli","Dādra and Nagar Haveli",0
+entities,region.IN-GA,Goa,Goa,0
+entities,region.IN-GJ,Gujarat,Gujarāt,0
+entities,region.IN-HP,"Himāchal Pradesh","Himāchal Pradesh",0
+entities,region.IN-HR,Haryāna,Haryāna,0
+entities,region.IN-JH,Jharkhand,Jharkhand,0
+entities,region.IN-JK,"Jammu và Kashmīr","Jammu and Kashmīr",0
+entities,region.IN-KA,Karnātaka,Karnātaka,0
+entities,region.IN-KL,Kerala,Kerala,0
+entities,region.IN-LD,Lakshadweep,Lakshadweep,0
+entities,region.IN-MH,Mahārāshtra,Mahārāshtra,0
+entities,region.IN-ML,Meghālaya,Meghālaya,0
+entities,region.IN-MN,Manipur,Manipur,0
+entities,region.IN-MP,"Madhya Pradesh","Madhya Pradesh",0
+entities,region.IN-MZ,Mizoram,Mizoram,0
+entities,region.IN-NL,Nāgāland,Nāgāland,0
+entities,region.IN-OR,Orissa,Orissa,0
+entities,region.IN-PB,Punjab,Punjab,0
+entities,region.IN-PY,Pondicherry,Pondicherry,0
+entities,region.IN-RJ,Rājasthān,Rājasthān,0
+entities,region.IN-SK,Sikkim,Sikkim,0
+entities,region.IN-TN,"Tamil Nādu","Tamil Nādu",0
+entities,region.IN-TR,Tripura,Tripura,0
+entities,region.IN-UL,Uttaranchal,Uttaranchal,0
+entities,region.IN-UP,"Uttar Pradesh","Uttar Pradesh",0
+entities,region.IN-WB,"Tây Bengal","West Bengal",0
+entities,region.IQ-AN,"Al Anbar","Al Anbar",0
+entities,region.IQ-AR,Arbil,Arbil,0
+entities,region.IQ-BA,"Al Basrah","Al Basrah",0
+entities,region.IQ-BB,Babil,Babil,0
+entities,region.IQ-BG,Baghdad,Baghdad,0
+entities,region.IQ-DA,Dahuk,Dahuk,0
+entities,region.IQ-DI,Diyala,Diyala,0
+entities,region.IQ-DQ,"Dhi Qar","Dhi Qar",0
+entities,region.IQ-KA,"Karbala '",Karbala',0
+entities,region.IQ-MA,Maysan,Maysan,0
+entities,region.IQ-MU,"Al Muthanna","Al Muthanna",0
+entities,region.IQ-NA,"An Najef","An Najef",0
+entities,region.IQ-NI,Ninawa,Ninawa,0
+entities,region.IQ-QA,"Al Qadisiyah","Al Qadisiyah",0
+entities,region.IQ-SD,"Salah ad Din","Salah ad Din",0
+entities,region.IQ-SW,"Như Sulaymaniyah","As Sulaymaniyah",0
+entities,region.IQ-TS,"At Ta'mim","At Ta'mim",0
+entities,region.IQ-WA,Wasit,Wasit,0
+entities,region.IR-01,"Āzarbāyjān-e Sharqī","Āzarbāyjān-e Sharqī",0
+entities,region.IR-02,"Āzarbāyjān-e Gharbī","Āzarbāyjān-e Gharbī",0
+entities,region.IR-03,Ardabīl,Ardabīl,0
+entities,region.IR-04,Eşfahān,Eşfahān,0
+entities,region.IR-05,Īlām,Īlām,0
+entities,region.IR-06,Būshehr,Būshehr,0
+entities,region.IR-07,Tehrān,Tehrān,0
+entities,region.IR-08,"Chahār Mahāll và Bakhtīārī","Chahār Mahāll va Bakhtīārī",0
+entities,region.IR-10,Khūzestān,Khūzestān,0
+entities,region.IR-11,Zanjān,Zanjān,0
+entities,region.IR-12,Semnān,Semnān,0
+entities,region.IR-13,"Sīstān và Balūchestān","Sīstān va Balūchestān",0
+entities,region.IR-14,Fārs,Fārs,0
+entities,region.IR-15,Kermān,Kermān,0
+entities,region.IR-16,Kordestān,Kordestān,0
+entities,region.IR-17,Kermānshāh,Kermānshāh,0
+entities,region.IR-18,"Kohgīlūyeh và Būyer Ahmad","Kohgīlūyeh va Būyer Ahmad",0
+entities,region.IR-19,Gīlān,Gīlān,0
+entities,region.IR-20,Lorestān,Lorestān,0
+entities,region.IR-21,Māzandarān,Māzandarān,0
+entities,region.IR-22,Markazī,Markazī,0
+entities,region.IR-23,Hormozgān,Hormozgān,0
+entities,region.IR-24,Hamadān,Hamadān,0
+entities,region.IR-25,Yazd,Yazd,0
+entities,region.IR-26,Qom,Qom,0
+entities,region.IR-27,Golestān,Golestān,0
+entities,region.IR-28,Qazvīn,Qazvīn,0
+entities,region.IR-29,"Khorāsān-e Janūbī","Khorāsān-e Janūbī",0
+entities,region.IR-30,"Khorāsān-e Razavī","Khorāsān-e Razavī",0
+entities,region.IR-31,"Khorāsān-e Shemālī","Khorāsān-e Shemālī",0
+entities,region.IS-0,Reykjavík,Reykjavík,0
+entities,region.IS-1,Höfuðborgarsvæðið,Höfuðborgarsvæðið,0
+entities,region.IS-2,Suðurnes,Suðurnes,0
+entities,region.IS-3,Vesturland,Vesturland,0
+entities,region.IS-4,Vestfirðir,Vestfirðir,0
+entities,region.IS-5,"Norðurland vestra","Norðurland vestra",0
+entities,region.IS-6,"Norðurland eystra","Norðurland eystra",0
+entities,region.IS-7,Austurland,Austurland,0
+entities,region.IS-8,Suðurland,Suðurland,0
+entities,region.IT-21,Piemonte,Piemonte,0
+entities,region.IT-23,"Valle d'Aosta","Valle d'Aosta",0
+entities,region.IT-25,Lombardia,Lombardia,0
+entities,region.IT-32,"Trentino-Alto Adige","Trentino-Alto Adige",0
+entities,region.IT-34,Veneto,Veneto,0
+entities,region.IT-36,"Friuli-Venezia Giulia","Friuli-Venezia Giulia",0
+entities,region.IT-42,Liguria,Liguria,0
+entities,region.IT-45,Emilia-Romagna,Emilia-Romagna,0
+entities,region.IT-52,Toscana,Toscana,0
+entities,region.IT-55,Umbria,Umbria,0
+entities,region.IT-57,Marche,Marche,0
+entities,region.IT-62,Lazio,Lazio,0
+entities,region.IT-65,Abruzzo,Abruzzo,0
+entities,region.IT-67,Molise,Molise,0
+entities,region.IT-72,Campania,Campania,0
+entities,region.IT-75,Puglia,Puglia,0
+entities,region.IT-77,Basilicata,Basilicata,0
+entities,region.IT-78,Calabria,Calabria,0
+entities,region.IT-82,Sicilia,Sicilia,0
+entities,region.IT-88,Sardegna,Sardegna,0
+entities,region.IT-AG,Agrigento,Agrigento,0
+entities,region.IT-AL,Alessandria,Alessandria,0
+entities,region.IT-AN,Ancona,Ancona,0
+entities,region.IT-AO,Aosta,Aosta,0
+entities,region.IT-AP,"Ascoli Piceno","Ascoli Piceno",0
+entities,region.IT-AQ,L'Aquila,L'Aquila,0
+entities,region.IT-AR,Arezzo,Arezzo,0
+entities,region.IT-AT,Asti,Asti,0
+entities,region.IT-AV,Avellino,Avellino,0
+entities,region.IT-BA,Bari,Bari,0
+entities,region.IT-BG,Bergamo,Bergamo,0
+entities,region.IT-BI,Biella,Biella,0
+entities,region.IT-BL,Belluno,Belluno,0
+entities,region.IT-BN,Benevento,Benevento,0
+entities,region.IT-BO,Bologna,Bologna,0
+entities,region.IT-BR,Brindisi,Brindisi,0
+entities,region.IT-BS,Brescia,Brescia,0
+entities,region.IT-BT,Barletta-Andria-Trani,Barletta-Andria-Trani,0
+entities,region.IT-BZ,Bolzano,Bolzano,0
+entities,region.IT-CA,Cagliari,Cagliari,0
+entities,region.IT-CB,Campobasso,Campobasso,0
+entities,region.IT-CE,Caserta,Caserta,0
+entities,region.IT-CH,Chieti,Chieti,0
+entities,region.IT-CI,Carbonia-Iglesias,Carbonia-Iglesias,0
+entities,region.IT-CL,Caltanissetta,Caltanissetta,0
+entities,region.IT-CN,Cuneo,Cuneo,0
+entities,region.IT-CO,Como,Como,0
+entities,region.IT-CR,Cremona,Cremona,0
+entities,region.IT-CS,Cosenza,Cosenza,0
+entities,region.IT-CT,Catania,Catania,0
+entities,region.IT-CZ,Catanzaro,Catanzaro,0
+entities,region.IT-EN,Enna,Enna,0
+entities,region.IT-FC,Forlì-Cesena,Forlì-Cesena,0
+entities,region.IT-FE,Ferrara,Ferrara,0
+entities,region.IT-FG,Foggia,Foggia,0
+entities,region.IT-FI,Firenze,Firenze,0
+entities,region.IT-FM,Fermo,Fermo,0
+entities,region.IT-FR,Frosinone,Frosinone,0
+entities,region.IT-GE,Genova,Genova,0
+entities,region.IT-GO,Gorizia,Gorizia,0
+entities,region.IT-GR,Grosseto,Grosseto,0
+entities,region.IT-IM,Imperia,Imperia,0
+entities,region.IT-IS,Isernia,Isernia,0
+entities,region.IT-KR,Crotone,Crotone,0
+entities,region.IT-LC,Lecco,Lecco,0
+entities,region.IT-LE,Lecce,Lecce,0
+entities,region.IT-LI,Livorno,Livorno,0
+entities,region.IT-LO,Lodi,Lodi,0
+entities,region.IT-LT,Latina,Latina,0
+entities,region.IT-LU,Lucca,Lucca,0
+entities,region.IT-MB,"Monza e Brianza","Monza e Brianza",0
+entities,region.IT-ME,Messina,Messina,0
+entities,region.IT-MI,Milano,Milano,0
+entities,region.IT-MN,Mantova,Mantova,0
+entities,region.IT-MO,Modena,Modena,0
+entities,region.IT-MS,Massa-Carrara,Massa-Carrara,0
+entities,region.IT-MT,Matera,Matera,0
+entities,region.IT-NA,Napoli,Napoli,0
+entities,region.IT-NO,Novara,Novara,0
+entities,region.IT-NU,Nuoro,Nuoro,0
+entities,region.IT-OG,Ogliastra,Ogliastra,0
+entities,region.IT-OR,Oristano,Oristano,0
+entities,region.IT-OT,Olbia-Tempio,Olbia-Tempio,0
+entities,region.IT-PA,Palermo,Palermo,0
+entities,region.IT-PC,Piacenza,Piacenza,0
+entities,region.IT-PD,Padova,Padova,0
+entities,region.IT-PE,Pescara,Pescara,0
+entities,region.IT-PG,Perugia,Perugia,0
+entities,region.IT-PI,Pisa,Pisa,0
+entities,region.IT-PN,Pordenone,Pordenone,0
+entities,region.IT-PO,Prato,Prato,0
+entities,region.IT-PR,Parma,Parma,0
+entities,region.IT-PT,Pistoia,Pistoia,0
+entities,region.IT-PU,"Pesaro e Urbino","Pesaro e Urbino",0
+entities,region.IT-PV,Pavia,Pavia,0
+entities,region.IT-PZ,Potenza,Potenza,0
+entities,region.IT-RA,Ravenna,Ravenna,0
+entities,region.IT-RC,"Reggio Calabria","Reggio Calabria",0
+entities,region.IT-RE,"Reggio Emilia","Reggio Emilia",0
+entities,region.IT-RG,Ragusa,Ragusa,0
+entities,region.IT-RI,Rieti,Rieti,0
+entities,region.IT-RM,Roma,Roma,0
+entities,region.IT-RN,Rimini,Rimini,0
+entities,region.IT-RO,Rovigo,Rovigo,0
+entities,region.IT-SA,Salerno,Salerno,0
+entities,region.IT-SC,Macerata,Macerata,0
+entities,region.IT-SI,Siena,Siena,0
+entities,region.IT-SO,Sondrio,Sondrio,0
+entities,region.IT-SP,"La Spezia","La Spezia",0
+entities,region.IT-SR,Siracusa,Siracusa,0
+entities,region.IT-SS,Sassari,Sassari,0
+entities,region.IT-SV,Savona,Savona,0
+entities,region.IT-TA,Taranto,Taranto,0
+entities,region.IT-TE,Teramo,Teramo,0
+entities,region.IT-TN,Trento,Trento,0
+entities,region.IT-TO,Torino,Torino,0
+entities,region.IT-TP,Trapani,Trapani,0
+entities,region.IT-TR,Terni,Terni,0
+entities,region.IT-TS,Trieste,Trieste,0
+entities,region.IT-TV,Treviso,Treviso,0
+entities,region.IT-UD,Udine,Udine,0
+entities,region.IT-VA,Varese,Varese,0
+entities,region.IT-VB,Verbano-Cusio-Ossola,Verbano-Cusio-Ossola,0
+entities,region.IT-VC,Vercelli,Vercelli,0
+entities,region.IT-VE,Venezia,Venezia,0
+entities,region.IT-VI,Vicenza,Vicenza,0
+entities,region.IT-VR,Verona,Verona,0
+entities,region.IT-VS,"Medio Campidano","Medio Campidano",0
+entities,region.IT-VT,Viterbo,Viterbo,0
+entities,region.IT-VV,"Vibo Valentia","Vibo Valentia",0
+entities,region.JM-01,Kingston,Kingston,0
+entities,region.JM-02,"Saint Andrew","Saint Andrew",0
+entities,region.JM-03,"Saint Thomas","Saint Thomas",0
+entities,region.JM-04,Portland,Portland,0
+entities,region.JM-05,"Thánh Mary","Saint Mary",0
+entities,region.JM-06,"Saint Ann","Saint Ann",0
+entities,region.JM-07,Trelawny,Trelawny,0
+entities,region.JM-08,"Saint James","Saint James",0
+entities,region.JM-09,Hanover,Hanover,0
+entities,region.JM-10,Westmoreland,Westmoreland,0
+entities,region.JM-11,"Saint Elizabeth","Saint Elizabeth",0
+entities,region.JM-12,Manchester,Manchester,0
+entities,region.JM-13,Clarendon,Clarendon,0
+entities,region.JM-14,"Saint Catherine","Saint Catherine",0
+entities,region.JO-AJ,`Ajlun,`Ajlun,0
+entities,region.JO-AM,Amman,Amman,0
+entities,region.JO-AQ,"Al `Aqabah","Al `Aqabah",0
+entities,region.JO-AT,"Aţ Ţafīlah","Aţ Ţafīlah",0
+entities,region.JO-AZ,"Az Zarqā '","Az Zarqā'",0
+entities,region.JO-BA,"Al Balqā '","Al Balqā'",0
+entities,region.JO-JA,Jarash,Jarash,0
+entities,region.JO-JR,Irbid,Irbid,0
+entities,region.JO-KA,"Al Karak","Al Karak",0
+entities,region.JO-MA,"Al Mafraq","Al Mafraq",0
+entities,region.JO-MD,Mādabā,Mādabā,0
+entities,region.JO-MN,Ma`ān,Ma`ān,0
+entities,region.JP-01,Hokkaido,Hokkaido,0
+entities,region.JP-02,Aomori,Aomori,0
+entities,region.JP-03,Iwate,Iwate,0
+entities,region.JP-04,Miyagi,Miyagi,0
+entities,region.JP-05,Akita,Akita,0
+entities,region.JP-06,Yamagata,Yamagata,0
+entities,region.JP-07,Fukushima,Fukushima,0
+entities,region.JP-08,Ibaraki,Ibaraki,0
+entities,region.JP-09,Tochigi,Tochigi,0
+entities,region.JP-10,Gunma,Gunma,0
+entities,region.JP-11,Saitama,Saitama,0
+entities,region.JP-12,Chiba,Chiba,0
+entities,region.JP-13,Tokyo,Tokyo,0
+entities,region.JP-14,Kanagawa,Kanagawa,0
+entities,region.JP-15,Niigata,Niigata,0
+entities,region.JP-16,Toyama,Toyama,0
+entities,region.JP-17,Ishikawa,Ishikawa,0
+entities,region.JP-18,Fukui,Fukui,0
+entities,region.JP-19,Yamanashi,Yamanashi,0
+entities,region.JP-20,Nagano,Nagano,0
+entities,region.JP-21,Gifu,Gifu,0
+entities,region.JP-22,Shizuoka,Shizuoka,0
+entities,region.JP-23,Aichi,Aichi,0
+entities,region.JP-24,Mie,Mie,0

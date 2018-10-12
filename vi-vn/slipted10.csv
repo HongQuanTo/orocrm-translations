@@ -1,400 +1,400 @@
-entities,region.PY-ASU,,Asunción,0
-entities,region.QA-DA,,"Ad Dawhah",0
-entities,region.QA-GH,,"Al Ghuwayriyah",0
-entities,region.QA-JB,,"Jariyan al Batnah",0
-entities,region.QA-JU,,"Al Jumayliyah",0
-entities,region.QA-KH,,"Al Khawr",0
-entities,region.QA-MS,,"Madinat ash Shamal",0
-entities,region.QA-RA,,"Ar Rayyan",0
-entities,region.QA-US,,"Umm Salal",0
-entities,region.QA-WA,,"Al Wakrah",0
-entities,region.RO-AB,,Alba,0
-entities,region.RO-AG,,Argeș,0
-entities,region.RO-AR,,Arad,0
-entities,region.RO-B,,București,0
-entities,region.RO-BC,,Bacău,0
-entities,region.RO-BH,,Bihor,0
-entities,region.RO-BN,,Bistrița-Năsăud,0
-entities,region.RO-BR,,Brăila,0
-entities,region.RO-BT,,Botoșani,0
-entities,region.RO-BV,,Brașov,0
-entities,region.RO-BZ,,Buzău,0
-entities,region.RO-CJ,,Cluj,0
-entities,region.RO-CL,,Călărași,0
-entities,region.RO-CS,,Caraș-Severin,0
-entities,region.RO-CT,,Constanța,0
-entities,region.RO-CV,,Covasna,0
-entities,region.RO-DB,,Dâmbovița,0
-entities,region.RO-DJ,,Dolj,0
-entities,region.RO-GJ,,Gorj,0
-entities,region.RO-GL,,Galați,0
-entities,region.RO-GR,,Giurgiu,0
-entities,region.RO-HD,,Hunedoara,0
-entities,region.RO-HR,,Harghita,0
-entities,region.RO-IF,,Ilfov,0
-entities,region.RO-IL,,Ialomița,0
-entities,region.RO-IS,,Iași,0
-entities,region.RO-MH,,Mehedinți,0
-entities,region.RO-MM,,Maramureș,0
-entities,region.RO-MS,,Mureș,0
-entities,region.RO-NT,,Neamț,0
-entities,region.RO-OT,,Olt,0
-entities,region.RO-PH,,Prahova,0
-entities,region.RO-SB,,Sibiu,0
-entities,region.RO-SJ,,Sălaj,0
-entities,region.RO-SM,,"Satu Mare",0
-entities,region.RO-SV,,Suceava,0
-entities,region.RO-TL,,Tulcea,0
-entities,region.RO-TM,,Timiș,0
-entities,region.RO-TR,,Teleorman,0
-entities,region.RO-VL,,Vâlcea,0
-entities,region.RO-VN,,Vrancea,0
-entities,region.RO-VS,,Vaslui,0
-entities,region.RS-00,,Beograd,0
-entities,region.RS-01,,"Severnobački okrug",0
-entities,region.RS-02,,"Srednjebanatski okrug",0
-entities,region.RS-03,,"Severnobanatski okrug",0
-entities,region.RS-04,,"Južnobanatski okrug",0
-entities,region.RS-05,,"Zapadnobački okrug",0
-entities,region.RS-06,,"Južnobački okrug",0
-entities,region.RS-07,,"Sremski okrug",0
-entities,region.RS-08,,"Mačvanski okrug",0
-entities,region.RS-09,,"Kolubarski okrug",0
-entities,region.RS-10,,"Podunavski okrug",0
-entities,region.RS-11,,"Braničevski okrug",0
-entities,region.RS-12,,"Šumadijski okrug",0
-entities,region.RS-13,,"Pomoravski okrug",0
-entities,region.RS-14,,"Borski okrug",0
-entities,region.RS-15,,"Zaječarski okrug",0
-entities,region.RS-16,,"Zlatiborski okrug",0
-entities,region.RS-17,,"Moravički okrug",0
-entities,region.RS-18,,"Raški okrug",0
-entities,region.RS-19,,"Rasinski okrug",0
-entities,region.RS-20,,"Nišavski okrug",0
-entities,region.RS-21,,"Toplički okrug",0
-entities,region.RS-22,,"Pirotski okrug",0
-entities,region.RS-23,,"Jablanički okrug",0
-entities,region.RS-24,,"Pčinjski okrug",0
-entities,region.RS-25,,"Kosovski okrug",0
-entities,region.RS-26,,"Pećki okrug",0
-entities,region.RS-27,,"Prizrenski okrug",0
-entities,region.RS-28,,"Kosovsko-Mitrovački okrug",0
-entities,region.RS-29,,"Kosovsko-Pomoravski okrug",0
-entities,region.RS-KM,,Kosovo-Metohija,0
-entities,region.RS-VO,,Vojvodina,0
-entities,region.RU-AD,,"Adygeya, Respublika",0
-entities,region.RU-AL,,"Altay, Respublika",0
-entities,region.RU-ALT,,"Altayskiy kray",0
-entities,region.RU-AMU,,"Amurskaya oblast'",0
-entities,region.RU-ARK,,"Arkhangel'skaya oblast'",0
-entities,region.RU-AST,,"Astrakhanskaya oblast'",0
-entities,region.RU-BA,,"Bashkortostan, Respublika",0
-entities,region.RU-BEL,,"Belgorodskaya oblast'",0
-entities,region.RU-BRY,,"Bryanskaya oblast'",0
-entities,region.RU-BU,,"Buryatiya, Respublika",0
-entities,region.RU-CE,,"Chechenskaya Respublika",0
-entities,region.RU-CHE,,"Chelyabinskaya oblast'",0
-entities,region.RU-CHU,,"Chukotskiy avtonomnyy okrug",0
-entities,region.RU-CU,,"Chuvashskaya Respublika",0
-entities,region.RU-DA,,"Dagestan, Respublika",0
-entities,region.RU-IN,,"Respublika Ingushetiya",0
-entities,region.RU-IRK,,"Irkutiskaya oblast'",0
-entities,region.RU-IVA,,"Ivanovskaya oblast'",0
-entities,region.RU-KAM,,"Kamchatskiy kray",0
-entities,region.RU-KB,,"Kabardino-Balkarskaya Respublika",0
-entities,region.RU-KC,,"Karachayevo-Cherkesskaya Respublika",0
-entities,region.RU-KDA,,"Krasnodarskiy kray",0
-entities,region.RU-KEM,,"Kemerovskaya oblast'",0
-entities,region.RU-KGD,,"Kaliningradskaya oblast'",0
-entities,region.RU-KGN,,"Kurganskaya oblast'",0
-entities,region.RU-KHA,,"Khabarovskiy kray",0
-entities,region.RU-KHM,,"Khanty-Mansiysky avtonomnyy okrug-Yugra",0
-entities,region.RU-KIR,,"Kirovskaya oblast'",0
-entities,region.RU-KK,,"Khakasiya, Respublika",0
-entities,region.RU-KL,,"Kalmykiya, Respublika",0
-entities,region.RU-KLU,,"Kaluzhskaya oblast'",0
-entities,region.RU-KO,,"Komi, Respublika",0
-entities,region.RU-KOS,,"Kostromskaya oblast'",0
-entities,region.RU-KR,,"Kareliya, Respublika",0
-entities,region.RU-KRS,,"Kurskaya oblast'",0
-entities,region.RU-KYA,,"Krasnoyarskiy kray",0
-entities,region.RU-LEN,,"Leningradskaya oblast'",0
-entities,region.RU-LIP,,"Lipetskaya oblast'",0
-entities,region.RU-MAG,,"Magadanskaya oblast'",0
-entities,region.RU-ME,,"Mariy El, Respublika",0
-entities,region.RU-MO,,"Mordoviya, Respublika",0
-entities,region.RU-MOS,,"Moskovskaya oblast'",0
-entities,region.RU-MOW,,Moskva,0
-entities,region.RU-MUR,,"Murmanskaya oblast'",0
-entities,region.RU-NEN,,"Nenetskiy avtonomnyy okrug",0
-entities,region.RU-NGR,,"Novgorodskaya oblast'",0
-entities,region.RU-NIZ,,"Nizhegorodskaya oblast'",0
-entities,region.RU-NVS,,"Novosibirskaya oblast'",0
-entities,region.RU-OMS,,"Omskaya oblast'",0
-entities,region.RU-ORE,,"Orenburgskaya oblast'",0
-entities,region.RU-ORL,,"Orlovskaya oblast'",0
-entities,region.RU-PER,,"Permskiy kray",0
-entities,region.RU-PNZ,,"Penzenskaya oblast'",0
-entities,region.RU-PRI,,"Primorskiy kray",0
-entities,region.RU-PSK,,"Pskovskaya oblast'",0
-entities,region.RU-ROS,,"Rostovskaya oblast'",0
-entities,region.RU-RYA,,"Ryazanskaya oblast'",0
-entities,region.RU-SA,,"Sakha, Respublika [Yakutiya]",0
-entities,region.RU-SAK,,"Sakhalinskaya oblast'",0
-entities,region.RU-SAM,,"Samaraskaya oblast'",0
-entities,region.RU-SAR,,"Saratovskaya oblast'",0
-entities,region.RU-SE,,"Severnaya Osetiya-Alaniya, Respublika",0
-entities,region.RU-SMO,,"Smolenskaya oblast'",0
-entities,region.RU-SPE,,Sankt-Peterburg,0
-entities,region.RU-STA,,"Stavropol'skiy kray",0
-entities,region.RU-SVE,,"Sverdlovskaya oblast'",0
-entities,region.RU-TA,,"Tatarstan, Respublika",0
-entities,region.RU-TAM,,"Tambovskaya oblast'",0
-entities,region.RU-TOM,,"Tomskaya oblast'",0
-entities,region.RU-TUL,,"Tul'skaya oblast'",0
-entities,region.RU-TVE,,"Tverskaya oblast'",0
-entities,region.RU-TY,,"Tyva, Respublika [Tuva]",0
-entities,region.RU-TYU,,"Tyumenskaya oblast'",0
-entities,region.RU-UD,,"Udmurtskaya Respublika",0
-entities,region.RU-ULY,,"Ul'yanovskaya oblast'",0
-entities,region.RU-VGG,,"Volgogradskaya oblast'",0
-entities,region.RU-VLA,,"Vladimirskaya oblast'",0
-entities,region.RU-VLG,,"Vologodskaya oblast'",0
-entities,region.RU-VOR,,"Voronezhskaya oblast'",0
-entities,region.RU-YAN,,"Yamalo-Nenetskiy avtonomnyy okrug",0
-entities,region.RU-YAR,,"Yaroslavskaya oblast'",0
-entities,region.RU-YEV,,"Yevreyskaya avtonomnaya oblast'",0
-entities,region.RU-ZAB,,"Zabajkal'skij kraj",0
-entities,region.RW-01,,"Ville de Kigali",0
-entities,region.RW-02,,Est,0
-entities,region.RW-03,,Nord,0
-entities,region.RW-04,,Ouest,0
-entities,region.RW-05,,Sud,0
-entities,region.SA-01,,"Ar Riyāḍ",0
-entities,region.SA-02,,Makkah,0
-entities,region.SA-03,,"Al Madīnah",0
-entities,region.SA-04,,"Ash Sharqīyah",0
-entities,region.SA-05,,"Al Qaşīm",0
-entities,region.SA-06,,Ḥā'il,0
-entities,region.SA-07,,Tabūk,0
-entities,region.SA-08,,"Al Ḥudūd ash Shamāliyah",0
-entities,region.SA-09,,Jīzan,0
-entities,region.SA-10,,Najrān,0
-entities,region.SA-11,,"Al Bāhah",0
-entities,region.SA-12,,"Al Jawf",0
-entities,region.SA-14,,`Asīr,0
-entities,region.SB-CE,,Central,0
-entities,region.SB-CH,,Choiseul,0
-entities,region.SB-CT,,"Capital Territory (Honiara)",0
-entities,region.SB-GU,,Guadalcanal,0
-entities,region.SB-IS,,Isabel,0
-entities,region.SB-MK,,Makira,0
-entities,region.SB-ML,,Malaita,0
-entities,region.SB-RB,,"Rennell and Bellona",0
-entities,region.SB-TE,,Temotu,0
-entities,region.SB-WE,,Western,0
-entities,region.SC-01,,"Anse aux Pins",0
-entities,region.SC-02,,"Anse Boileau",0
-entities,region.SC-03,,"Anse Etoile",0
-entities,region.SC-04,,"Anse Louis",0
-entities,region.SC-05,,"Anse Royale",0
-entities,region.SC-06,,"Baie Lazare",0
-entities,region.SC-07,,"Baie Sainte Anne",0
-entities,region.SC-08,,"Beau Vallon",0
-entities,region.SC-09,,"Bel Air",0
-entities,region.SC-10,,"Bel Ombre",0
-entities,region.SC-11,,Cascade,0
-entities,region.SC-12,,Glacis,0
-entities,region.SC-13,,"Grand Anse Mahe",0
-entities,region.SC-14,,"Grand Anse Praslin",0
-entities,region.SC-15,,"La Digue",0
-entities,region.SC-16,,"English River",0
-entities,region.SC-17,,"Mont Buxton",0
-entities,region.SC-18,,"Mont Fleuri",0
-entities,region.SC-19,,Plaisance,0
-entities,region.SC-20,,"Pointe Larue",0
-entities,region.SC-21,,"Port Glaud",0
-entities,region.SC-22,,"Saint Louis",0
-entities,region.SC-23,,Takamaka,0
-entities,region.SC-24,,"Les Mamelles",0
-entities,region.SC-25,,"Roche Caiman",0
-entities,region.SD-01,,"Ash Shamālīyah",0
-entities,region.SD-02,,"Shamāl Dārfūr",0
-entities,region.SD-03,,"Al Kharţūm",0
-entities,region.SD-04,,"An Nīl",0
-entities,region.SD-05,,Kassalā,0
-entities,region.SD-06,,"Al Qaḑārif",0
-entities,region.SD-07,,"Al Jazīrah",0
-entities,region.SD-08,,"An Nīl al Abyaḑ",0
-entities,region.SD-09,,"Shamāl Kurdufān",0
-entities,region.SD-11,,"Janūb Dārfūr",0
-entities,region.SD-12,,"Gharb Dārfūr",0
-entities,region.SD-13,,"Janūb Kurdufān",0
-entities,region.SD-14,,"Gharb Baḩr al Ghazāl",0
-entities,region.SD-15,,"Shamāl Baḩr al Ghazāl",0
-entities,region.SD-16,,"Gharb al Istiwā'īyah",0
-entities,region.SD-17,,"Baḩr al Jabal",0
-entities,region.SD-18,,"Al Buḩayrāt",0
-entities,region.SD-19,,"Sharq al Istiwā'īyah",0
-entities,region.SD-20,,Jūnqalī,0
-entities,region.SD-21,,Wārāb,0
-entities,region.SD-22,,"Al Waḩdah",0
-entities,region.SD-23,,"A‘ālī an Nīl",0
-entities,region.SD-24,,"An Nīl al Azraq",0
-entities,region.SD-25,,Sinnār,0
-entities,region.SD-26,,"Al Baḩr al Aḩmar",0
-entities,region.SE-AB,,"Stockholms län",0
-entities,region.SE-AC,,"Västerbottens län",0
-entities,region.SE-BD,,"Norrbottens län",0
-entities,region.SE-C,,"Uppsala län",0
-entities,region.SE-D,,"Södermanlands län",0
-entities,region.SE-E,,"Östergötlands län",0
-entities,region.SE-F,,"Jönköpings län",0
-entities,region.SE-G,,"Kronobergs län",0
-entities,region.SE-H,,"Kalmar län",0
-entities,region.SE-I,,"Gotlands län",0
-entities,region.SE-K,,"Blekinge län",0
-entities,region.SE-M,,"Skåne län",0
-entities,region.SE-N,,"Hallands län",0
-entities,region.SE-Q,,"Västra Götalands län",0
-entities,region.SE-S,,"Värmlands län",0
-entities,region.SE-T,,"Örebro län",0
-entities,region.SE-U,,"Västmanlands län",0
-entities,region.SE-W,,"Dalarnas län",0
-entities,region.SE-X,,"Gävleborgs län",0
-entities,region.SE-Y,,"Västernorrlands län",0
-entities,region.SE-Z,,"Jämtlande län",0
-entities,region.SG-01,,"Central Singapore",0
-entities,region.SG-02,,"North East",0
-entities,region.SG-03,,"North West",0
-entities,region.SG-04,,"South East",0
-entities,region.SG-05,,"South West",0
-entities,region.SI-001,,Ajdovščina,0
-entities,region.SI-002,,Beltinci,0
-entities,region.SI-003,,Bled,0
-entities,region.SI-004,,Bohinj,0
-entities,region.SI-005,,Borovnica,0
-entities,region.SI-006,,Bovec,0
-entities,region.SI-007,,Brda,0
-entities,region.SI-008,,Brezovica,0
-entities,region.SI-009,,Brežice,0
-entities,region.SI-010,,Tišina,0
-entities,region.SI-011,,Celje,0
-entities,region.SI-012,,"Cerklje na Gorenjskem",0
-entities,region.SI-013,,Cerknica,0
-entities,region.SI-014,,Cerkno,0
-entities,region.SI-015,,Črenšovci,0
-entities,region.SI-016,,"Črna na Koroškem",0
-entities,region.SI-017,,Črnomelj,0
-entities,region.SI-018,,Destrnik,0
-entities,region.SI-019,,Divača,0
-entities,region.SI-020,,Dobrepolje,0
-entities,region.SI-021,,"Dobrova-Polhov Gradec",0
-entities,region.SI-022,,"Dol pri Ljubljani",0
-entities,region.SI-023,,Domžale,0
-entities,region.SI-024,,Dornava,0
-entities,region.SI-025,,Dravograd,0
-entities,region.SI-026,,Duplek,0
-entities,region.SI-027,,"Gorenja vas-Poljane",0
-entities,region.SI-028,,Gorišnica,0
-entities,region.SI-029,,"Gornja Radgona",0
-entities,region.SI-030,,"Gornji Grad",0
-entities,region.SI-031,,"Gornji Petrovci",0
-entities,region.SI-032,,Grosuplje,0
-entities,region.SI-033,,Šalovci,0
-entities,region.SI-034,,Hrastnik,0
-entities,region.SI-035,,Hrpelje-Kozina,0
-entities,region.SI-036,,Idrija,0
-entities,region.SI-037,,Ig,0
-entities,region.SI-038,,"Ilirska Bistrica",0
-entities,region.SI-039,,"Ivančna Gorica",0
-entities,region.SI-040,,Izola/Isola,0
-entities,region.SI-041,,Jesenice,0
-entities,region.SI-042,,Juršinci,0
-entities,region.SI-043,,Kamnik,0
-entities,region.SI-044,,Kanal,0
-entities,region.SI-045,,Kidričevo,0
-entities,region.SI-046,,Kobarid,0
-entities,region.SI-047,,Kobilje,0
-entities,region.SI-048,,Kočevje,0
-entities,region.SI-049,,Komen,0
-entities,region.SI-050,,Koper/Capodistria,0
-entities,region.SI-051,,Kozje,0
-entities,region.SI-052,,Kranj,0
-entities,region.SI-053,,"Kranjska Gora",0
-entities,region.SI-054,,Krško,0
-entities,region.SI-055,,Kungota,0
-entities,region.SI-056,,Kuzma,0
-entities,region.SI-057,,Laško,0
-entities,region.SI-058,,Lenart,0
-entities,region.SI-059,,Lendava/Lendva,0
-entities,region.SI-060,,Litija,0
-entities,region.SI-061,,Ljubljana,0
-entities,region.SI-062,,Ljubno,0
-entities,region.SI-063,,Ljutomer,0
-entities,region.SI-064,,Logatec,0
-entities,region.SI-065,,"Loška dolina",0
-entities,region.SI-066,,"Loški Potok",0
-entities,region.SI-067,,Luče,0
-entities,region.SI-068,,Lukovica,0
-entities,region.SI-069,,Majšperk,0
-entities,region.SI-070,,Maribor,0
-entities,region.SI-071,,Medvode,0
-entities,region.SI-072,,Mengeš,0
-entities,region.SI-073,,Metlika,0
-entities,region.SI-074,,Mežica,0
-entities,region.SI-075,,Miren-Kostanjevica,0
-entities,region.SI-076,,Mislinja,0
-entities,region.SI-077,,Moravče,0
-entities,region.SI-078,,"Moravske Toplice",0
-entities,region.SI-079,,Mozirje,0
-entities,region.SI-080,,"Murska Sobota",0
-entities,region.SI-081,,Muta,0
-entities,region.SI-082,,Naklo,0
-entities,region.SI-083,,Nazarje,0
-entities,region.SI-084,,"Nova Gorica",0
-entities,region.SI-085,,"Novo mesto",0
-entities,region.SI-086,,Odranci,0
-entities,region.SI-087,,Ormož,0
-entities,region.SI-088,,Osilnica,0
-entities,region.SI-089,,Pesnica,0
-entities,region.SI-090,,Piran/Pirano,0
-entities,region.SI-091,,Pivka,0
-entities,region.SI-092,,Podčetrtek,0
-entities,region.SI-093,,Podvelka,0
-entities,region.SI-094,,Postojna,0
-entities,region.SI-095,,Preddvor,0
-entities,region.SI-096,,Ptuj,0
-entities,region.SI-097,,Puconci,0
-entities,region.SI-098,,Rače-Fram,0
-entities,region.SI-099,,Radeče,0
-entities,region.SI-100,,Radenci,0
-entities,region.SI-101,,"Radlje ob Dravi",0
-entities,region.SI-102,,Radovljica,0
-entities,region.SI-103,,"Ravne na Koroškem",0
-entities,region.SI-104,,Ribnica,0
-entities,region.SI-105,,Rogašovci,0
-entities,region.SI-106,,"Rogaška Slatina",0
-entities,region.SI-107,,Rogatec,0
-entities,region.SI-108,,Ruše,0
-entities,region.SI-109,,Semič,0
-entities,region.SI-110,,Sevnica,0
-entities,region.SI-111,,Sežana,0
-entities,region.SI-112,,"Slovenj Gradec",0
-entities,region.SI-113,,"Slovenska Bistrica",0
-entities,region.SI-114,,"Slovenske Konjice",0
-entities,region.SI-115,,Starče,0
-entities,region.SI-116,,"Sveti Jurij",0
-entities,region.SI-117,,Šenčur,0
-entities,region.SI-118,,Šentilj,0
-entities,region.SI-119,,Šentjernej,0
-entities,region.SI-120,,Šentjur,0
-entities,region.SI-121,,Škocjan,0
-entities,region.SI-122,,"Škofja Loka",0
-entities,region.SI-123,,Škofljica,0
-entities,region.SI-124,,"Šmarje pri Jelšah",0
-entities,region.SI-125,,"Šmartno ob Paki",0
-entities,region.SI-126,,Šoštanj,0
-entities,region.SI-127,,Štore,0
-entities,region.SI-128,,Tolmin,0
-entities,region.SI-129,,Trbovlje,0
+entities,region.PY-ASU,Asunción,Asunción,0
+entities,region.QA-DA,"Ad Dawhah","Ad Dawhah",0
+entities,region.QA-GH,"Al Ghuwayriyah","Al Ghuwayriyah",0
+entities,region.QA-JB,"Jariyan al Batnah","Jariyan al Batnah",0
+entities,region.QA-JU,"Al Jumayliyah","Al Jumayliyah",0
+entities,region.QA-KH,"Al Khawr","Al Khawr",0
+entities,region.QA-MS,"Madinat ash Shamal","Madinat ash Shamal",0
+entities,region.QA-RA,"Ar Rayyan","Ar Rayyan",0
+entities,region.QA-US,"Umm Salal","Umm Salal",0
+entities,region.QA-WA,"Al Wakrah","Al Wakrah",0
+entities,region.RO-AB,Alba,Alba,0
+entities,region.RO-AG,Argeș,Argeș,0
+entities,region.RO-AR,Arad,Arad,0
+entities,region.RO-B,București,București,0
+entities,region.RO-BC,Bacău,Bacău,0
+entities,region.RO-BH,Bihor,Bihor,0
+entities,region.RO-BN,Bistrița-Năsăud,Bistrița-Năsăud,0
+entities,region.RO-BR,Brăila,Brăila,0
+entities,region.RO-BT,Botoșani,Botoșani,0
+entities,region.RO-BV,Brașov,Brașov,0
+entities,region.RO-BZ,Buzău,Buzău,0
+entities,region.RO-CJ,Cluj,Cluj,0
+entities,region.RO-CL,Călărași,Călărași,0
+entities,region.RO-CS,Caraș-Severin,Caraș-Severin,0
+entities,region.RO-CT,Constanța,Constanța,0
+entities,region.RO-CV,Covasna,Covasna,0
+entities,region.RO-DB,Dâmbovița,Dâmbovița,0
+entities,region.RO-DJ,Dolj,Dolj,0
+entities,region.RO-GJ,Gorj,Gorj,0
+entities,region.RO-GL,Galați,Galați,0
+entities,region.RO-GR,Giurgiu,Giurgiu,0
+entities,region.RO-HD,Hunedoara,Hunedoara,0
+entities,region.RO-HR,Harghita,Harghita,0
+entities,region.RO-IF,Ilfov,Ilfov,0
+entities,region.RO-IL,Ialomița,Ialomița,0
+entities,region.RO-IS,Iași,Iași,0
+entities,region.RO-MH,Mehedinți,Mehedinți,0
+entities,region.RO-MM,Maramureș,Maramureș,0
+entities,region.RO-MS,Mureș,Mureș,0
+entities,region.RO-NT,Neamț,Neamț,0
+entities,region.RO-OT,Olt,Olt,0
+entities,region.RO-PH,Prahova,Prahova,0
+entities,region.RO-SB,Sibiu,Sibiu,0
+entities,region.RO-SJ,Sălaj,Sălaj,0
+entities,region.RO-SM,"Satu Mare","Satu Mare",0
+entities,region.RO-SV,Suceava,Suceava,0
+entities,region.RO-TL,Tulcea,Tulcea,0
+entities,region.RO-TM,Timiș,Timiș,0
+entities,region.RO-TR,Teleorman,Teleorman,0
+entities,region.RO-VL,Vâlcea,Vâlcea,0
+entities,region.RO-VN,Vrancea,Vrancea,0
+entities,region.RO-VS,Vaslui,Vaslui,0
+entities,region.RS-00,Beograd,Beograd,0
+entities,region.RS-01,"Severnobački okrug","Severnobački okrug",0
+entities,region.RS-02,"Srednjebanatski okrug","Srednjebanatski okrug",0
+entities,region.RS-03,"Severnobanatski okrug","Severnobanatski okrug",0
+entities,region.RS-04,"Južnobanatski okrug","Južnobanatski okrug",0
+entities,region.RS-05,"Zapadnobački okrug","Zapadnobački okrug",0
+entities,region.RS-06,"Južnobački okrug","Južnobački okrug",0
+entities,region.RS-07,"Sremski okrug","Sremski okrug",0
+entities,region.RS-08,"Mačvanski okrug","Mačvanski okrug",0
+entities,region.RS-09,"Kolubarski okrug","Kolubarski okrug",0
+entities,region.RS-10,"Podunavski okrug","Podunavski okrug",0
+entities,region.RS-11,"Braničevski okrug","Braničevski okrug",0
+entities,region.RS-12,"Šumadijski okrug","Šumadijski okrug",0
+entities,region.RS-13,"Pomoravski okrug","Pomoravski okrug",0
+entities,region.RS-14,"Borski okrug","Borski okrug",0
+entities,region.RS-15,"Zaječarski okrug","Zaječarski okrug",0
+entities,region.RS-16,"Zlatiborski okrug","Zlatiborski okrug",0
+entities,region.RS-17,"Moravički okrug","Moravički okrug",0
+entities,region.RS-18,"Raški okrug","Raški okrug",0
+entities,region.RS-19,"Rasinski okrug","Rasinski okrug",0
+entities,region.RS-20,"Nišavski okrug","Nišavski okrug",0
+entities,region.RS-21,"Toplički okrug","Toplički okrug",0
+entities,region.RS-22,"Pirotski okrug","Pirotski okrug",0
+entities,region.RS-23,"Jablanički okrug","Jablanički okrug",0
+entities,region.RS-24,"Pčinjski okrug","Pčinjski okrug",0
+entities,region.RS-25,"Kosovski okrug","Kosovski okrug",0
+entities,region.RS-26,"Pećki okrug","Pećki okrug",0
+entities,region.RS-27,"Prizrenski okrug","Prizrenski okrug",0
+entities,region.RS-28,"Kosovsko-Mitrovački okrug","Kosovsko-Mitrovački okrug",0
+entities,region.RS-29,"Kosovsko-Pomoravski okrug","Kosovsko-Pomoravski okrug",0
+entities,region.RS-KM,Kosovo-Metohija,Kosovo-Metohija,0
+entities,region.RS-VO,Vojvodina,Vojvodina,0
+entities,region.RU-AD,"Adygeya, Respublika","Adygeya, Respublika",0
+entities,region.RU-AL,"Altay, Respublika","Altay, Respublika",0
+entities,region.RU-ALT,"Altayskiy kray","Altayskiy kray",0
+entities,region.RU-AMU,"Amurskaya oblast'","Amurskaya oblast'",0
+entities,region.RU-ARK,"Arkhangel'skaya oblast'","Arkhangel'skaya oblast'",0
+entities,region.RU-AST,"Astrakhanskaya oblast'","Astrakhanskaya oblast'",0
+entities,region.RU-BA,"Bashkortostan, Respublika","Bashkortostan, Respublika",0
+entities,region.RU-BEL,"Belgorodskaya oblast'","Belgorodskaya oblast'",0
+entities,region.RU-BRY,"Bryanskaya oblast'","Bryanskaya oblast'",0
+entities,region.RU-BU,"Buryatiya, Respublika","Buryatiya, Respublika",0
+entities,region.RU-CE,"Chechenskaya Respublika","Chechenskaya Respublika",0
+entities,region.RU-CHE,"Chelyabinskaya oblast'","Chelyabinskaya oblast'",0
+entities,region.RU-CHU,"Chukotskiy avtonomnyy okrug","Chukotskiy avtonomnyy okrug",0
+entities,region.RU-CU,"Chuvashskaya Respublika","Chuvashskaya Respublika",0
+entities,region.RU-DA,"Dagestan, Respublika","Dagestan, Respublika",0
+entities,region.RU-IN,"Respublika Ingushetiya","Respublika Ingushetiya",0
+entities,region.RU-IRK,"Irkutiskaya oblast'","Irkutiskaya oblast'",0
+entities,region.RU-IVA,"Ivanovskaya oblast'","Ivanovskaya oblast'",0
+entities,region.RU-KAM,"Kamchatskiy kray","Kamchatskiy kray",0
+entities,region.RU-KB,"Kabardino-Balkarskaya Respublika","Kabardino-Balkarskaya Respublika",0
+entities,region.RU-KC,"Karachayevo-Cherkesskaya Respublika","Karachayevo-Cherkesskaya Respublika",0
+entities,region.RU-KDA,"Krasnodarskiy kray","Krasnodarskiy kray",0
+entities,region.RU-KEM,"Kemerovskaya oblast'","Kemerovskaya oblast'",0
+entities,region.RU-KGD,"Kaliningradskaya oblast'","Kaliningradskaya oblast'",0
+entities,region.RU-KGN,"Kurganskaya oblast'","Kurganskaya oblast'",0
+entities,region.RU-KHA,"Khabarovskiy kray","Khabarovskiy kray",0
+entities,region.RU-KHM,"Khanty-Mansiysky avtonomnyy okrug-Yugra","Khanty-Mansiysky avtonomnyy okrug-Yugra",0
+entities,region.RU-KIR,"Kirovskaya oblast'","Kirovskaya oblast'",0
+entities,region.RU-KK,"Khakasiya, Respublika","Khakasiya, Respublika",0
+entities,region.RU-KL,"Kalmykiya, Respublika","Kalmykiya, Respublika",0
+entities,region.RU-KLU,"Kaluzhskaya oblast'","Kaluzhskaya oblast'",0
+entities,region.RU-KO,"Komi, Respublika","Komi, Respublika",0
+entities,region.RU-KOS,"Kostromskaya oblast'","Kostromskaya oblast'",0
+entities,region.RU-KR,"Kareliya, Respublika","Kareliya, Respublika",0
+entities,region.RU-KRS,"Kurskaya oblast'","Kurskaya oblast'",0
+entities,region.RU-KYA,"Krasnoyarskiy kray","Krasnoyarskiy kray",0
+entities,region.RU-LEN,"Leningradskaya oblast'","Leningradskaya oblast'",0
+entities,region.RU-LIP,"Lipetskaya oblast'","Lipetskaya oblast'",0
+entities,region.RU-MAG,"Magadanskaya oblast'","Magadanskaya oblast'",0
+entities,region.RU-ME,"Mariy El, Respublika","Mariy El, Respublika",0
+entities,region.RU-MO,"Mordoviya, Respublika","Mordoviya, Respublika",0
+entities,region.RU-MOS,"Moskovskaya oblast'","Moskovskaya oblast'",0
+entities,region.RU-MOW,Moskva,Moskva,0
+entities,region.RU-MUR,"Murmanskaya oblast'","Murmanskaya oblast'",0
+entities,region.RU-NEN,"Nenetskiy avtonomnyy okrug","Nenetskiy avtonomnyy okrug",0
+entities,region.RU-NGR,"Novgorodskaya oblast'","Novgorodskaya oblast'",0
+entities,region.RU-NIZ,"Nizhegorodskaya oblast'","Nizhegorodskaya oblast'",0
+entities,region.RU-NVS,"Novosibirskaya oblast'","Novosibirskaya oblast'",0
+entities,region.RU-OMS,"Omskaya oblast'","Omskaya oblast'",0
+entities,region.RU-ORE,"Orenburgskaya oblast'","Orenburgskaya oblast'",0
+entities,region.RU-ORL,"Orlovskaya oblast'","Orlovskaya oblast'",0
+entities,region.RU-PER,"Permskiy kray","Permskiy kray",0
+entities,region.RU-PNZ,"Penzenskaya oblast'","Penzenskaya oblast'",0
+entities,region.RU-PRI,"Primorskiy kray","Primorskiy kray",0
+entities,region.RU-PSK,"Pskovskaya oblast'","Pskovskaya oblast'",0
+entities,region.RU-ROS,"Rostovskaya oblast'","Rostovskaya oblast'",0
+entities,region.RU-RYA,"Ryazanskaya oblast'","Ryazanskaya oblast'",0
+entities,region.RU-SA,"Sakha, Respublika [Yakutiya]","Sakha, Respublika [Yakutiya]",0
+entities,region.RU-SAK,"Sakhalinskaya oblast'","Sakhalinskaya oblast'",0
+entities,region.RU-SAM,"Samaraskaya oblast'","Samaraskaya oblast'",0
+entities,region.RU-SAR,"Saratovskaya oblast'","Saratovskaya oblast'",0
+entities,region.RU-SE,"Severnaya Osetiya-Alaniya, Respublika","Severnaya Osetiya-Alaniya, Respublika",0
+entities,region.RU-SMO,"Smolenskaya oblast'","Smolenskaya oblast'",0
+entities,region.RU-SPE,Sankt-Peterburg,Sankt-Peterburg,0
+entities,region.RU-STA,"Stavropol'skiy kray","Stavropol'skiy kray",0
+entities,region.RU-SVE,"Sverdlovskaya oblast'","Sverdlovskaya oblast'",0
+entities,region.RU-TA,"Tatarstan, Respublika","Tatarstan, Respublika",0
+entities,region.RU-TAM,"Tambovskaya oblast'","Tambovskaya oblast'",0
+entities,region.RU-TOM,"Tomskaya oblast'","Tomskaya oblast'",0
+entities,region.RU-TUL,"Tul'skaya oblast'","Tul'skaya oblast'",0
+entities,region.RU-TVE,"Tverskaya oblast'","Tverskaya oblast'",0
+entities,region.RU-TY,"Tyva, Respublika [Tuva]","Tyva, Respublika [Tuva]",0
+entities,region.RU-TYU,"Tyumenskaya oblast'","Tyumenskaya oblast'",0
+entities,region.RU-UD,"Udmurtskaya Respublika","Udmurtskaya Respublika",0
+entities,region.RU-ULY,"Ul'yanovskaya oblast'","Ul'yanovskaya oblast'",0
+entities,region.RU-VGG,"Volgogradskaya oblast'","Volgogradskaya oblast'",0
+entities,region.RU-VLA,"Vladimirskaya oblast'","Vladimirskaya oblast'",0
+entities,region.RU-VLG,"Vologodskaya oblast'","Vologodskaya oblast'",0
+entities,region.RU-VOR,"Voronezhskaya oblast'","Voronezhskaya oblast'",0
+entities,region.RU-YAN,"Yamalo-Nenetskiy avtonomnyy okrug","Yamalo-Nenetskiy avtonomnyy okrug",0
+entities,region.RU-YAR,"Yaroslavskaya oblast'","Yaroslavskaya oblast'",0
+entities,region.RU-YEV,"Yevreyskaya avtonomnaya oblast'","Yevreyskaya avtonomnaya oblast'",0
+entities,region.RU-ZAB,"Zabajkal'skij kraj","Zabajkal'skij kraj",0
+entities,region.RW-01,"Ville de Kigali","Ville de Kigali",0
+entities,region.RW-02,Est,Est,0
+entities,region.RW-03,Nord,Nord,0
+entities,region.RW-04,Ouest,Ouest,0
+entities,region.RW-05,Sud,Sud,0
+entities,region.SA-01,"Ar Riyāḍ","Ar Riyāḍ",0
+entities,region.SA-02,Makkah,Makkah,0
+entities,region.SA-03,"Al Madīnah","Al Madīnah",0
+entities,region.SA-04,"Ash Sharqīyah","Ash Sharqīyah",0
+entities,region.SA-05,"Al Qaşīm","Al Qaşīm",0
+entities,region.SA-06,Ḥā'il,Ḥā'il,0
+entities,region.SA-07,Tabūk,Tabūk,0
+entities,region.SA-08,"Al Ḥudūd ash Shamāliyah","Al Ḥudūd ash Shamāliyah",0
+entities,region.SA-09,Jīzan,Jīzan,0
+entities,region.SA-10,Najrān,Najrān,0
+entities,region.SA-11,"Al Bāhah","Al Bāhah",0
+entities,region.SA-12,"Al Jawf","Al Jawf",0
+entities,region.SA-14,`Asīr,`Asīr,0
+entities,region.SB-CE,Central,Central,0
+entities,region.SB-CH,Choiseul,Choiseul,0
+entities,region.SB-CT,"Capital Territory (Honiara)","Capital Territory (Honiara)",0
+entities,region.SB-GU,Guadalcanal,Guadalcanal,0
+entities,region.SB-IS,Isabel,Isabel,0
+entities,region.SB-MK,Makira,Makira,0
+entities,region.SB-ML,Malaita,Malaita,0
+entities,region.SB-RB,"Rennell and Bellona","Rennell and Bellona",0
+entities,region.SB-TE,Temotu,Temotu,0
+entities,region.SB-WE,Western,Western,0
+entities,region.SC-01,"Anse aux Pins","Anse aux Pins",0
+entities,region.SC-02,"Anse Boileau","Anse Boileau",0
+entities,region.SC-03,"Anse Etoile","Anse Etoile",0
+entities,region.SC-04,"Anse Louis","Anse Louis",0
+entities,region.SC-05,"Anse Royale","Anse Royale",0
+entities,region.SC-06,"Baie Lazare","Baie Lazare",0
+entities,region.SC-07,"Baie Sainte Anne","Baie Sainte Anne",0
+entities,region.SC-08,"Beau Vallon","Beau Vallon",0
+entities,region.SC-09,"Bel Air","Bel Air",0
+entities,region.SC-10,"Bel Ombre","Bel Ombre",0
+entities,region.SC-11,Cascade,Cascade,0
+entities,region.SC-12,Glacis,Glacis,0
+entities,region.SC-13,"Grand Anse Mahe","Grand Anse Mahe",0
+entities,region.SC-14,"Grand Anse Praslin","Grand Anse Praslin",0
+entities,region.SC-15,"La Digue","La Digue",0
+entities,region.SC-16,"English River","English River",0
+entities,region.SC-17,"Mont Buxton","Mont Buxton",0
+entities,region.SC-18,"Mont Fleuri","Mont Fleuri",0
+entities,region.SC-19,Plaisance,Plaisance,0
+entities,region.SC-20,"Pointe Larue","Pointe Larue",0
+entities,region.SC-21,"Port Glaud","Port Glaud",0
+entities,region.SC-22,"Saint Louis","Saint Louis",0
+entities,region.SC-23,Takamaka,Takamaka,0
+entities,region.SC-24,"Les Mamelles","Les Mamelles",0
+entities,region.SC-25,"Roche Caiman","Roche Caiman",0
+entities,region.SD-01,"Ash Shamālīyah","Ash Shamālīyah",0
+entities,region.SD-02,"Shamāl Dārfūr","Shamāl Dārfūr",0
+entities,region.SD-03,"Al Kharţūm","Al Kharţūm",0
+entities,region.SD-04,"An Nīl","An Nīl",0
+entities,region.SD-05,Kassalā,Kassalā,0
+entities,region.SD-06,"Al Qaḑārif","Al Qaḑārif",0
+entities,region.SD-07,"Al Jazīrah","Al Jazīrah",0
+entities,region.SD-08,"An Nīl al Abyaḑ","An Nīl al Abyaḑ",0
+entities,region.SD-09,"Shamāl Kurdufān","Shamāl Kurdufān",0
+entities,region.SD-11,"Janūb Dārfūr","Janūb Dārfūr",0
+entities,region.SD-12,"Gharb Dārfūr","Gharb Dārfūr",0
+entities,region.SD-13,"Janūb Kurdufān","Janūb Kurdufān",0
+entities,region.SD-14,"Gharb Baḩr al Ghazāl","Gharb Baḩr al Ghazāl",0
+entities,region.SD-15,"Shamāl Baḩr al Ghazāl","Shamāl Baḩr al Ghazāl",0
+entities,region.SD-16,"Gharb al Istiwā'īyah","Gharb al Istiwā'īyah",0
+entities,region.SD-17,"Baḩr al Jabal","Baḩr al Jabal",0
+entities,region.SD-18,"Al Buḩayrāt","Al Buḩayrāt",0
+entities,region.SD-19,"Sharq al Istiwā'īyah","Sharq al Istiwā'īyah",0
+entities,region.SD-20,Jūnqalī,Jūnqalī,0
+entities,region.SD-21,Wārāb,Wārāb,0
+entities,region.SD-22,"Al Waḩdah","Al Waḩdah",0
+entities,region.SD-23,"A‘ālī an Nīl","A‘ālī an Nīl",0
+entities,region.SD-24,"An Nīl al Azraq","An Nīl al Azraq",0
+entities,region.SD-25,Sinnār,Sinnār,0
+entities,region.SD-26,"Al Baḩr al Aḩmar","Al Baḩr al Aḩmar",0
+entities,region.SE-AB,"Stockholms län","Stockholms län",0
+entities,region.SE-AC,"Västerbottens län","Västerbottens län",0
+entities,region.SE-BD,"Norrbottens län","Norrbottens län",0
+entities,region.SE-C,"Uppsala län","Uppsala län",0
+entities,region.SE-D,"Södermanlands län","Södermanlands län",0
+entities,region.SE-E,"Östergötlands län","Östergötlands län",0
+entities,region.SE-F,"Jönköpings län","Jönköpings län",0
+entities,region.SE-G,"Kronobergs län","Kronobergs län",0
+entities,region.SE-H,"Kalmar län","Kalmar län",0
+entities,region.SE-I,"Gotlands län","Gotlands län",0
+entities,region.SE-K,"Blekinge län","Blekinge län",0
+entities,region.SE-M,"Skåne län","Skåne län",0
+entities,region.SE-N,"Hallands län","Hallands län",0
+entities,region.SE-Q,"Västra Götalands län","Västra Götalands län",0
+entities,region.SE-S,"Värmlands län","Värmlands län",0
+entities,region.SE-T,"Örebro län","Örebro län",0
+entities,region.SE-U,"Västmanlands län","Västmanlands län",0
+entities,region.SE-W,"Dalarnas län","Dalarnas län",0
+entities,region.SE-X,"Gävleborgs län","Gävleborgs län",0
+entities,region.SE-Y,"Västernorrlands län","Västernorrlands län",0
+entities,region.SE-Z,"Jämtlande län","Jämtlande län",0
+entities,region.SG-01,"Central Singapore","Central Singapore",0
+entities,region.SG-02,"North East","North East",0
+entities,region.SG-03,"North West","North West",0
+entities,region.SG-04,"South East","South East",0
+entities,region.SG-05,"South West","South West",0
+entities,region.SI-001,Ajdovščina,Ajdovščina,0
+entities,region.SI-002,Beltinci,Beltinci,0
+entities,region.SI-003,Bled,Bled,0
+entities,region.SI-004,Bohinj,Bohinj,0
+entities,region.SI-005,Borovnica,Borovnica,0
+entities,region.SI-006,Bovec,Bovec,0
+entities,region.SI-007,Brda,Brda,0
+entities,region.SI-008,Brezovica,Brezovica,0
+entities,region.SI-009,Brežice,Brežice,0
+entities,region.SI-010,Tišina,Tišina,0
+entities,region.SI-011,Celje,Celje,0
+entities,region.SI-012,"Cerklje na Gorenjskem","Cerklje na Gorenjskem",0
+entities,region.SI-013,Cerknica,Cerknica,0
+entities,region.SI-014,Cerkno,Cerkno,0
+entities,region.SI-015,Črenšovci,Črenšovci,0
+entities,region.SI-016,"Črna na Koroškem","Črna na Koroškem",0
+entities,region.SI-017,Črnomelj,Črnomelj,0
+entities,region.SI-018,Destrnik,Destrnik,0
+entities,region.SI-019,Divača,Divača,0
+entities,region.SI-020,Dobrepolje,Dobrepolje,0
+entities,region.SI-021,"Dobrova-Polhov Gradec","Dobrova-Polhov Gradec",0
+entities,region.SI-022,"Dol pri Ljubljani","Dol pri Ljubljani",0
+entities,region.SI-023,Domžale,Domžale,0
+entities,region.SI-024,Dornava,Dornava,0
+entities,region.SI-025,Dravograd,Dravograd,0
+entities,region.SI-026,Duplek,Duplek,0
+entities,region.SI-027,"Gorenja vas-Poljane","Gorenja vas-Poljane",0
+entities,region.SI-028,Gorišnica,Gorišnica,0
+entities,region.SI-029,"Gornja Radgona","Gornja Radgona",0
+entities,region.SI-030,"Gornji Grad","Gornji Grad",0
+entities,region.SI-031,"Gornji Petrovci","Gornji Petrovci",0
+entities,region.SI-032,Grosuplje,Grosuplje,0
+entities,region.SI-033,Šalovci,Šalovci,0
+entities,region.SI-034,Hrastnik,Hrastnik,0
+entities,region.SI-035,Hrpelje-Kozina,Hrpelje-Kozina,0
+entities,region.SI-036,Idrija,Idrija,0
+entities,region.SI-037,Ig,Ig,0
+entities,region.SI-038,"Ilirska Bistrica","Ilirska Bistrica",0
+entities,region.SI-039,"Ivančna Gorica","Ivančna Gorica",0
+entities,region.SI-040,Izola/Isola,Izola/Isola,0
+entities,region.SI-041,Jesenice,Jesenice,0
+entities,region.SI-042,Juršinci,Juršinci,0
+entities,region.SI-043,Kamnik,Kamnik,0
+entities,region.SI-044,Kanal,Kanal,0
+entities,region.SI-045,Kidričevo,Kidričevo,0
+entities,region.SI-046,Kobarid,Kobarid,0
+entities,region.SI-047,Kobilje,Kobilje,0
+entities,region.SI-048,Kočevje,Kočevje,0
+entities,region.SI-049,Komen,Komen,0
+entities,region.SI-050,Koper/Capodistria,Koper/Capodistria,0
+entities,region.SI-051,Kozje,Kozje,0
+entities,region.SI-052,Kranj,Kranj,0
+entities,region.SI-053,"Kranjska Gora","Kranjska Gora",0
+entities,region.SI-054,Krško,Krško,0
+entities,region.SI-055,Kungota,Kungota,0
+entities,region.SI-056,Kuzma,Kuzma,0
+entities,region.SI-057,Laško,Laško,0
+entities,region.SI-058,Lenart,Lenart,0
+entities,region.SI-059,Lendava/Lendva,Lendava/Lendva,0
+entities,region.SI-060,Litija,Litija,0
+entities,region.SI-061,Ljubljana,Ljubljana,0
+entities,region.SI-062,Ljubno,Ljubno,0
+entities,region.SI-063,Ljutomer,Ljutomer,0
+entities,region.SI-064,Logatec,Logatec,0
+entities,region.SI-065,"Loška dolina","Loška dolina",0
+entities,region.SI-066,"Loški Potok","Loški Potok",0
+entities,region.SI-067,Luče,Luče,0
+entities,region.SI-068,Lukovica,Lukovica,0
+entities,region.SI-069,Majšperk,Majšperk,0
+entities,region.SI-070,Maribor,Maribor,0
+entities,region.SI-071,Medvode,Medvode,0
+entities,region.SI-072,Mengeš,Mengeš,0
+entities,region.SI-073,Metlika,Metlika,0
+entities,region.SI-074,Mežica,Mežica,0
+entities,region.SI-075,Miren-Kostanjevica,Miren-Kostanjevica,0
+entities,region.SI-076,Mislinja,Mislinja,0
+entities,region.SI-077,Moravče,Moravče,0
+entities,region.SI-078,"Moravske Toplice","Moravske Toplice",0
+entities,region.SI-079,Mozirje,Mozirje,0
+entities,region.SI-080,"Murska Sobota","Murska Sobota",0
+entities,region.SI-081,Muta,Muta,0
+entities,region.SI-082,Naklo,Naklo,0
+entities,region.SI-083,Nazarje,Nazarje,0
+entities,region.SI-084,"Nova Gorica","Nova Gorica",0
+entities,region.SI-085,"Novo mesto","Novo mesto",0
+entities,region.SI-086,Odranci,Odranci,0
+entities,region.SI-087,Ormož,Ormož,0
+entities,region.SI-088,Osilnica,Osilnica,0
+entities,region.SI-089,Pesnica,Pesnica,0
+entities,region.SI-090,Piran/Pirano,Piran/Pirano,0
+entities,region.SI-091,Pivka,Pivka,0
+entities,region.SI-092,Podčetrtek,Podčetrtek,0
+entities,region.SI-093,Podvelka,Podvelka,0
+entities,region.SI-094,Postojna,Postojna,0
+entities,region.SI-095,Preddvor,Preddvor,0
+entities,region.SI-096,Ptuj,Ptuj,0
+entities,region.SI-097,Puconci,Puconci,0
+entities,region.SI-098,Rače-Fram,Rače-Fram,0
+entities,region.SI-099,Radeče,Radeče,0
+entities,region.SI-100,Radenci,Radenci,0
+entities,region.SI-101,"Radlje ob Dravi","Radlje ob Dravi",0
+entities,region.SI-102,Radovljica,Radovljica,0
+entities,region.SI-103,"Ravne na Koroškem","Ravne na Koroškem",0
+entities,region.SI-104,Ribnica,Ribnica,0
+entities,region.SI-105,Rogašovci,Rogašovci,0
+entities,region.SI-106,"Rogaška Slatina","Rogaška Slatina",0
+entities,region.SI-107,Rogatec,Rogatec,0
+entities,region.SI-108,Ruše,Ruše,0
+entities,region.SI-109,Semič,Semič,0
+entities,region.SI-110,Sevnica,Sevnica,0
+entities,region.SI-111,Sežana,Sežana,0
+entities,region.SI-112,"Slovenj Gradec","Slovenj Gradec",0
+entities,region.SI-113,"Slovenska Bistrica","Slovenska Bistrica",0
+entities,region.SI-114,"Slovenske Konjice","Slovenske Konjice",0
+entities,region.SI-115,Starče,Starče,0
+entities,region.SI-116,"Sveti Jurij","Sveti Jurij",0
+entities,region.SI-117,Šenčur,Šenčur,0
+entities,region.SI-118,Šentilj,Šentilj,0
+entities,region.SI-119,Šentjernej,Šentjernej,0
+entities,region.SI-120,Šentjur,Šentjur,0
+entities,region.SI-121,Škocjan,Škocjan,0
+entities,region.SI-122,"Škofja Loka","Škofja Loka",0
+entities,region.SI-123,Škofljica,Škofljica,0
+entities,region.SI-124,"Šmarje pri Jelšah","Šmarje pri Jelšah",0
+entities,region.SI-125,"Šmartno ob Paki","Šmartno ob Paki",0
+entities,region.SI-126,Šoštanj,Šoštanj,0
+entities,region.SI-127,Štore,Štore,0
+entities,region.SI-128,Tolmin,Tolmin,0
+entities,region.SI-129,Trbovlje,Trbovlje,0

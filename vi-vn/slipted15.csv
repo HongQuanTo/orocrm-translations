@@ -1,400 +1,400 @@
-jsmessages,oro.user.mass_actions.disable_users.confirm_content,,"Selected users will be disabled.",0
-jsmessages,oro.user.mass_actions.disable_users.confirm_ok,,Apply,0
-jsmessages,oro.user.mass_actions.disable_users.confirm_title,,"Enable users",0
-jsmessages,oro.user.mass_actions.enable_users.confirm_content,,"Selected users will be enabled.",0
-jsmessages,oro.user.mass_actions.enable_users.confirm_ok,,Apply,0
-jsmessages,oro.user.mass_actions.enable_users.confirm_title,,"Disable Users",0
-jsmessages,oro.user.reset_password.flash.success,,"Reset password email has been sent to user",0
-jsmessages,oro.user.reset_password.mass_action.label,,Reset,0
-jsmessages,oro.user.reset_password.mass_action.question,,"The selected users will receive reset password by email and will be disabled from login.",0
-jsmessages,oro.user.reset_password.mass_action.title,,"Reset password",0
-jsmessages,oro.user.reset_password.popup.label,,Reset,0
-jsmessages,oro.user.reset_password.popup.question,,"User <b>{{ user }}</b> will receive the email to reset password and will be disabled from login.",0
-jsmessages,oro.user.reset_password.popup.title,,"Reset password",0
-jsmessages,oro.user.show_hide_password.label,,"Show/hide password",0
-jsmessages,oro.user.suggest_password.label,,"Suggest password",0
-jsmessages,oro.user.update_status.label,,"Update status",0
-jsmessages,oro.workflow.activated,,"Workflow activated",0
-jsmessages,oro.workflow.change_entity_confirmation,,"Are you sure you want to change entity?",0
-jsmessages,oro.workflow.deactivated_list,,"Deactivated workflows: ",0
-jsmessages,oro.workflow.error.cannot.set.step,,"Cannot set end step to <i>(Start)</i> step. Please select another one",0
-jsmessages,oro.workflow.error.maxconnections,,"Maximum connections ({{ maxConnections }}) reached",0
-jsmessages,oro.workflow.translation_rebuild_required,,"Translation cache update is required. <a href='{{ path }}'>Click here</a> to update",0
-jsmessages,oro.workflow.workflowdefinition.activate,,"Activate workflow ""{{ label }}""",0
-jsmessages,oro.workflow.workflowdefinition.deactivate,,"Deactivate workflow ""{{ label }}""",0
-jsmessages,oro.workflow.workflowdefinition.deactivate_button_text,,"Yes, Deactivate",0
-jsmessages,oro.workflow.workflowdefinition.reset,,"Workflow reset",0
-jsmessages,oro.workflow.workflowdefinition.reset_button_text,,"Yes, Reset",0
-jsmessages,oro.workflow.workflowdefinition.reset_message,,"Attention: This action will reset workflow data for this workflow.",0
-jsmessages,oro.workflow.workflowdefinition.reset_workflow_data_message,,"Attention: This action will reset workflow data for this workflow.",0
-jsmessages,oro.zendesk.reverse_sync.fail_message,,"Could not schedule publishing to Zendesk",0
-jsmessages,oro.zendesk.reverse_sync.success_message,,"Publishing to Zendesk was scheduled",0
-jsmessages,oro_datagrid.action.refresh,,Refresh,0
-jsmessages,oro_datagrid.action.reset,,Reset,0
-jsmessages,oro_datagrid.label_add_filter,,"Manage filters",0
-jsmessages,oro_datagrid.label_reset_button,,"Reset Filter",0
-jsmessages,P,,P,0
-jsmessages,"Per page",,"Per page",0
-jsmessages,Phone,,Phone,0
-jsmessages,"Please select",,"Please select",0
-jsmessages,"Please select a file...",,"Please select a file...",0
-jsmessages,"Please select items to delete.",,"Please select items to delete.",0
-jsmessages,"Please select view",,"Please select view",0
-jsmessages,"Please wait until page will be reloaded...",,"Please wait until page will be reloaded...",0
-jsmessages,"Please, select item to perform action.",,"Please, select item to perform action.",0
-jsmessages,"Please, select items to perform mass action.",,"Please, select items to perform mass action.",0
-jsmessages,PM,,PM,0
-jsmessages,pm,,pm,0
-jsmessages,postpositions,,ago|apart|aside|away|hence|through,0
-jsmessages,prepositions,,a|an|per|aboard|about|bout|above|abreast|abroad|across|after|against|again|along|amid|among|around|as|astride|at|atop|ontop|bar|before|afore|tofore|B4|behind|ahind|below|ablow|beneath|beside|besides|between|beyond|but|by|come|despite|spite|down|during|except|for|4|from|in|inside|into|less|like|minus|near|of|off|on|onto|opposite|out|outside|over|past|per|post|pre|pro|re|short|since|than|through|thru|throughout|thruout|to|2|@|the|toward|towards|under|underneath|unlike|until|til|till|up|upon|upside|versus|via|vice|with|within|without|worth,0
-jsmessages,Prev,,Prev,0
-jsmessages,Preview,,Preview,0
-jsmessages,Primary,,Primary,0
-jsmessages,Read,,Read,0
-jsmessages,"Red button",,"Red button",0
-jsmessages,Redo,,Redo,0
-jsmessages,"Refresh Confirmation",,"Refresh Confirmation",0
-jsmessages,"Related entity must be selected to add step.",,"Related entity must be selected to add step.",0
-jsmessages,"Related entity must be selected to add transition.",,"Related entity must be selected to add transition.",0
-jsmessages,Reminders,,Reminders,0
-jsmessages,remove,,remove,0
-jsmessages,Remove,,Remove,0
-jsmessages,"Reset Confirmation",,"Reset Confirmation",0
-jsmessages,restore,,restore,0
-jsmessages,Running,,Running,0
-jsmessages,Save,,Save,0
-jsmessages,Saving...,,Saving...,0
-jsmessages,"Schema update confirmation",,"Schema update confirmation",0
-jsmessages,Searching...,,Searching...,0
-jsmessages,Second,,Second,0
-jsmessages,"Select {{ entity }}",,"Select {{ entity }}",0
-jsmessages,"Selected items were deleted.",,"Selected items were deleted.",0
-jsmessages,"Selected items were not deleted.",,"Selected items were not deleted.",0
-jsmessages,"Selected Rows",,"Selected Rows",0
-jsmessages,"Server error",,"Server error",0
-jsmessages,"Settings will be restored to saved values. Please confirm you want to continue.",,"Settings will be restored to saved values. Please confirm you want to continue.",0
-jsmessages,"Show Transition Labels",,"Show Transition Labels",0
-jsmessages,"Sorry, a synchronization error has occurred.",,"Sorry, a synchronization error has occurred.",0
-jsmessages,"Sorry, an unexpected error has occurred.",,"Sorry, an unexpected error has occurred.",0
-jsmessages,"Sorry, calendar event was not saved correctly",,"Sorry, calendar event was not saved correctly",0
-jsmessages,"Sorry, calendar events were not loaded correctly",,"Sorry, calendar events were not loaded correctly",0
-jsmessages,"Sorry, page was not loaded correctly",,"Sorry, page was not loaded correctly",0
-jsmessages,"Sorry, the calendar addition has failed.",,"Sorry, the calendar addition has failed.",0
-jsmessages,"Sorry, the calendar excluding was failed",,"Sorry, the calendar removal has failed.",0
-jsmessages,"Sorry, the calendar update has failed.",,"Sorry, the calendar update has failed.",0
-jsmessages,Status,,Status,0
-jsmessages,"Step saved.",,"Step saved.",0
-jsmessages,"Successfully removed",,"Successfully removed",0
-jsmessages,sync.connection.established,,"Synchronizer has established connection",0
-jsmessages,sync.connection.lost,,"]-Inf,0]Synchronizer can't connect to server. Please contact your Administrator.|{1,2}Synchronizer has lost connection to the server. {{ remain }} reconnections attempts remain.|{3}Synchronizer has lost connection to the server. {{ remain }} reconnections attempt remain.",0
-jsmessages,sync.message.content.outdated,,"Content of {{ title }} page is outdated, please <a href='#' data-action='page-refresh'>refresh the page</a>",0
-jsmessages,"Task created successfully",,"Task created successfully",0
-jsmessages,"Tentatively accepted",,"Tentatively accepted",0
-jsmessages,"The calendar cannot be changed because the event has guests",,"The calendar cannot be changed because the event has guests",0
-jsmessages,"There is no entities selected",,"There is no entities selected",0
-jsmessages,"This field cannot be restored because a field with similar name exists.",,"This field cannot be restored because a field with similar name exists.",0
-jsmessages,"this is long text for test",,"this is long text for test",0
-jsmessages,Time,,Time,0
-jsmessages,"Time Zone",,"Time Zone",0
-jsmessages,to,,to,0
-jsmessages,Today,,Today,0
-jsmessages,Undo,,Undo,0
-jsmessages,"Unexpected format",,"Unexpected format",0
-jsmessages,unknown,,unknown,0
-jsmessages,"Unmet conditions",,"Unmet conditions",0
-jsmessages,"Up to date",,"Up to date",0
-jsmessages,Update,,Update,0
-jsmessages,"Update Address",,"Update Address",0
-jsmessages,"Update attachment",,"Update attachment",0
-jsmessages,"Update finished.",,"Update finished.",0
-jsmessages,"Update item",,"Update item",0
-jsmessages,Upload,,Upload,0
-jsmessages,"User input error",,"User input error",0
-jsmessages,View,,View,0
-jsmessages,"View Event",,"View Event",0
-jsmessages,"View more...",,"View more...",0
-jsmessages,"View per page",,"View per page",0
-jsmessages,Warning,,Warning,0
-jsmessages,Wk,,Wk,0
-jsmessages,"Workflow saved.",,"Workflow saved.",0
-jsmessages,"Yellow button",,"Yellow button",0
-jsmessages,Yes,,Yes,0
-jsmessages,"Yes, Delete",,"Yes, Delete",0
-jsmessages,"Yes, do it",,"Yes, do it",0
-jsmessages,"Yes, I Agree",,"Yes, I Agree",0
-jsmessages,"Yes, Proceed",,"Yes, Proceed",0
-jsmessages,Yesterday,,Yesterday,0
-jsmessages,"You do not have permission to perform this action.",,"You do not have permission to perform this action.",0
-jsmessages,"You have unsaved changes, are you sure you want to leave this page?",,"You have unsaved changes, are you sure you want to leave this page?",0
-jsmessages,"Your config changes will be applied to schema.",,"Your config changes will be applied to schema.",0
-jsmessages,"Your local changes will be lost. Are you sure you want to refresh grid?",,"Your local changes will be lost. Are you sure you want to refresh grid?",0
-jsmessages,"Your local changes will be lost. Are you sure you want to refresh the page?",,"Your local changes will be lost. Are you sure you want to refresh the page?",0
-jsmessages,"Your local changes will be lost. Are you sure you want to reset grid?",,"Your local changes will be lost. Are you sure you want to reset grid?",0
-maintenance,lexik_maintenance.not_success_lock,,"Server is already locking.",0
-maintenance,lexik_maintenance.not_success_unlock,,"Impossible to do this action.",0
-maintenance,lexik_maintenance.success_lock_database,,"Server is under maintenance with driver database.",0
-maintenance,lexik_maintenance.success_lock_file,,"Server is under maintenance with driver file.",0
-maintenance,lexik_maintenance.success_lock_memc,,"Server is under maintenance with memcache.",0
-maintenance,lexik_maintenance.success_lock_shm,,"Server is under maintenance with shm.",0
-maintenance,lexik_maintenance.success_unlock,,"Server is online.",0
-messages,"%groups% and %roles%",,"%groups% and %roles%",0
-messages,"%report.name% - Edit - Reports",,"%report.name% - Edit - Reports",0
-messages,"%report.name% - Reports",,"%report.name% - Reports",0
-messages,"%subject% - Email",,"%subject% - Email",0
-messages,(default),,"Default permission on entities",0
-messages,Accept,,Accept,0
-messages,"Access Settings",,"Access Settings",0
-messages,Actions,,Actions,0
-messages,Active,,Active,0
-messages,Add,,Add,0
-messages,"Add Address",,"Add Address",0
-messages,"Add another email",,"Add another email",0
-messages,"Add call log",,"Add call log",0
-messages,"Add step",,"Add step",0
-messages,"Add transition",,"Add transition",0
-messages,"Add transition to this step",,"Add transition to this step",0
-messages,add_comment,,"Add Comment",0
-messages,Additional,,Additional,0
-messages,"Additional Information",,"Additional Information",0
-messages,"Address manipulation",,"Address manipulation",0
-messages,Addresses,,Addresses,0
-messages,All,,All,0
-messages,Any,,Any,0
-messages,Apply,,Apply,0
-messages,"Are you sure you want to delete this report?",,"Are you sure you want to delete this report?",0
-messages,"Are you sure you want to delete this workflow item?",,"Are you sure you want to delete this workflow item?",0
-messages,"Ascending Order",,"Ascending order - Click to sort in descending order",0
-messages,ASSIGN,,Assign,0
-messages,Attachments,,Attachments,0
-messages,Attributes,,Attributes,0
-messages,"Auto sort",,"Auto sort",0
-messages,"Back to Installed Packages",,"Back to Installed Packages",0
-messages,"Basic Information",,"Basic Information",0
-messages,Bcc,,Bcc,0
-messages,Body,,Body,0
-messages,"Business Unit",,"Business Unit",0
-messages,Button,,Button,0
-messages,"Button preview",,"Button preview",0
-messages,"Button style",,"Button style",0
-messages,"Call deleted successfully",,"Call deleted successfully",0
-messages,"Call logged successfully",,"Call saved",0
-messages,Cancel,,Cancel,0
-messages,Cc,,Cc,0
-messages,Cc/Bcc,,Cc/Bcc,0
-messages,change_password.flash.success,,"The password has been changed",0
-messages,Choose,,Choose,0
-messages,"Choose an organization...",,"Choose an organization...",0
-messages,"Choose Another",,"Choose Another",0
-messages,"Choose Existing",,"Choose Existing",0
-messages,"Click to go back",,"Click to go back",0
-messages,"Clone this step",,"Clone this step",0
-messages,"Clone this transition",,"Clone this transition",0
-messages,Close,,Close,0
-messages,"Collapse All",,"Collapse All",0
-messages,Communications,,Communications,0
-messages,Configuration,,Configuration,0
-messages,"Contact Details",,"Contact Details",0
-messages,Content,,Content,0
-messages,Continue,,Continue,0
-messages,CREATE,,Create,0
-messages,"Create address",,"Create address",0
-messages,"Create call",,"Create call",0
-messages,"Create New",,"Create New",0
-messages,"Create Report - Reports",,"Create Report - Reports",0
-messages,"Create Workflow",,"Create Workflow",0
-messages,"Current Step",,"Current Step",0
-messages,Custom,,Custom,0
-messages,Date,,Date,0
-messages,Decline,,Decline,0
-messages,DELETE,,Delete,0
-messages,Delete,,Delete,0
-messages,"Delete field",,"Delete field",0
-messages,"Delete report",,"Delete report",0
-messages,"Delete this step",,"Delete this step",0
-messages,"Delete this transition",,"Delete this transition",0
-messages,"Delete workflow item",,"Delete workflow item",0
-messages,Deleted,,Deleted,0
-messages,Deleting...,,Deleting...,0
-messages,"Descending Order",,"Descending order - Click to sort in ascending order",0
-messages,Designer,,Designer,0
-messages,Disabled,,Disabled,0
-messages,E-commerce,,E-commerce,0
-messages,EDIT,,Edit,0
-messages,Edit,,Edit,0
-messages,"Edit address",,"Edit address",0
-messages,"Edit report",,"Edit report",0
-messages,"Entity field",,"Entity field",0
-messages,"Expand All",,"Expand All",0
-messages,"Field successfully deleted",,"Field successfully deleted",0
-messages,Final,,Final,0
-messages,"Forgot Password",,"Forgot Password",0
-messages,"Forgot your password?",,"Forgot your password?",0
-messages,From,,From,0
-messages,"From step",,"From step",0
-messages,General,,General,0
-messages,"General Information",,"General Information",0
-messages,"Generate key",,"Generate key",0
-messages,"Generate key was successful. New key:",,"Generate key was successful. New key&#58;",0
-messages,"Get help",,"Get help",0
-messages,Go,,Go,0
-messages,google,,Google,0
-messages,"Identity only",,"Identity only",0
-messages,Inactive,,Inactive,0
-messages,Info,,Info,0
-messages,Information,,Information,0
-messages,"Invalid report configuration",,"No data to show. Please navigate to the edit report page to make sure that the report was configured properly.",0
-messages,"It may take few minutes...",,"It may take few minutes...",0
-messages,"Item deleted",,"Item deleted",0
-messages,Label,,Label,0
-messages,"Leave empty for system value",,"Leave empty for system value",0
-messages,Loading...,,Loading...,0
-messages,Log,,Log,0
-messages,"Log in",,"Log in",0
-messages,Login,,Login,0
-messages,"Login page",,"Login page",0
-messages,Logout,,Logout,0
-messages,"Manage Custom Reports",,"Manage Custom Reports",0
-messages,"Manage Custom Reports - Reports",,"Manage Custom Reports - Reports",0
-messages,Me,,me,0
-messages,N/A,,N/A,0
-messages,Name,,Name,0
-messages,New,,New,0
-messages,"New contact",,"New contact",0
-messages,"New Contact Information",,"New Contact Information",0
-messages,"New Report",,"New Report",0
-messages,No,,No,0
-messages,"No workflow items are available",,"No workflow items are available",0
-messages,None,,None,0
-messages,OK,,OK,0
-messages,"Opportunity Information",,"Opportunity Information",0
-messages,Organization,,Organization,0
-messages,"ORO Business Application Platform",,"ORO Business Application Platform",0
-messages,oro.abandonedcart.abandonedcartcampaign.campaign.label,,Campaign,0
-messages,oro.abandonedcart.abandonedcartcampaign.entity_label,,"Abandoned Cart Campaign",0
-messages,oro.abandonedcart.abandonedcartcampaign.entity_plural_label,,"Abandoned Cart Campaigns",0
-messages,oro.abandonedcart.abandonedcartcampaign.id.label,,ID,0
-messages,oro.abandonedcart.abandonedcartcampaign.marketing_list.label,,"Marketing List",0
-messages,oro.abandonedcart.acl.action.general.description,,"Creates segments of abandoned shopping carts in Oro and link them to MailChimp campaign automation. To use this feature, Connect to MailChimp capability should also be enabled.",0
-messages,oro.abandonedcart.acl.action.general.label,,"Manage abandoned cart campaigns",0
-messages,oro.abandonedcart.block.conversion,,Conversion,0
-messages,oro.abandonedcart.block.general,,"General Information",0
-messages,oro.abandonedcart.block.removed,,"Removed Items",0
-messages,oro.abandonedcart.campaign_code_mergevar.label,,"Campaign Code",0
-messages,oro.abandonedcart.connection.confirmation.disconnect,,"Are you sure you want to unlink this Abandoned Cart from MailChimp",0
-messages,oro.abandonedcart.connection.message.disconnect,,"Abandoned Cart disconnected from MailChimp",0
-messages,oro.abandonedcart.connection.message.syncronize_scheduled,,"Abandoned Cart scheduled to synchronize with MailChimp",0
-messages,oro.abandonedcart.connector.automation_campaign.job,,"Import automation campaigns from MailChimp",0
-messages,oro.abandonedcart.connector.automation_campaign.label,,"Automation Campaign Connector",0
-messages,oro.abandonedcart.conversion.button.enable,,"Related Campaigns",0
-messages,oro.abandonedcart.conversion.dialog.button.cancel,,Cancel,0
-messages,oro.abandonedcart.conversion.dialog.button.connect,,"Enable conversion",0
-messages,oro.abandonedcart.conversion.dialog.button.update,,Update,0
-messages,oro.abandonedcart.conversion.dialog.title.connect,,"MailChimp Workflow Automation",0
-messages,oro.abandonedcart.conversion.message.update,,"MailChimp Automation Workflows updated",0
-messages,oro.abandonedcart.conversion.name,,Conversion,0
-messages,oro.abandonedcart.conversion.title.orders,,Orders,0
-messages,oro.abandonedcart.conversion.title.summary,,Summary,0
-messages,oro.abandonedcart.conversion.title.total,,Total,0
-messages,oro.abandonedcart.datagrid.campaign_name_label,,Name,0
-messages,oro.abandonedcart.datagrid.columns_total_label,,Total,0
-messages,oro.abandonedcart.description.label,,Description,0
-messages,oro.abandonedcart.entity.label,,Entity,0
-messages,oro.abandonedcart.entity.saved,,"Abandoned Cart list saved",0
-messages,oro.abandonedcart.form.columns_notice,,"At least one column with contact information must be selected. Available contact information fields",0
-messages,oro.abandonedcart.form.importance,,Important,0
-messages,oro.abandonedcart.mergevar.cart_item.name.label,,"Cart Item Name (%index%)",0
-messages,oro.abandonedcart.mergevar.cart_item.price.label,,"Cart Item Price (%index%)",0
-messages,oro.abandonedcart.mergevar.cart_item.qty.label,,"Cart Item Qty (%index%)",0
-messages,oro.abandonedcart.mergevar.cart_item.total.label,,"Cart Item Row Total (%index%)",0
-messages,oro.abandonedcart.mergevar.cart_item.url.label,,"Cart Item Product URL (%index%)",0
-messages,oro.abandonedcart.name.label,,Name,0
-messages,oro.abandonedcart.owner.label,,Owner,0
-messages,oro.account.account_actions,,"Account actions",0
-messages,oro.account.assigned.label,,Assigned,0
-messages,oro.account.contact.email,,"Contact email",0
-messages,oro.account.contact.first_name,,"Contact first name",0
-messages,oro.account.contact.last_name,,"Contact last name",0
-messages,oro.account.contact.name,,"Contact name",0
-messages,oro.account.contact.phone,,"Contact phone",0
-messages,oro.account.contact_information.label,,"Contact Information",0
-messages,oro.account.contacts.description,,"The collection of contacts related to an account.",0
-messages,oro.account.contacts.label,,Contacts,0
-messages,oro.account.controller.account.saved.message,,"Account saved",0
-messages,oro.account.default_contact.description,,"The default contact details for an account.",0
-messages,oro.account.default_contact.label,,"Default Contact",0
-messages,oro.account.email.label,,Email,0
-messages,oro.account.entity_description,,"Accounts represent a person, a company or a group of people. Account aggregates details of all the customer identities assigned to it, providing for a 360-degree view of the customer activity.",0
-messages,oro.account.entity_label,,Account,0
-messages,oro.account.entity_plural_label,,Accounts,0
-messages,oro.account.extend_description.description,,"Details or a short description of an account record.",0
-messages,oro.account.extend_description.label,,Description,0
-messages,oro.account.form.choose_account,,"Choose an account...",0
-messages,oro.account.form.select_contacts,,"Select contacts",0
-messages,oro.account.id.description,,"The unique identifier of an account record.",0
-messages,oro.account.id.label,,Id,0
-messages,oro.account.lifetime_value.label,,"Lifetime sales value",0
-messages,oro.account.menu.account_list.description,,"List of accounts",0
-messages,oro.account.menu.customers_tab.label,,Customers,0
-messages,oro.account.menu.shortcut_list_accounts.description,,"List of accounts",0
-messages,oro.account.menu.shortcut_list_accounts.label,,"Show Accounts list",0
-messages,oro.account.menu.shortcut_new_account.description,,"Create new account instance",0
-messages,oro.account.menu.shortcut_new_account.label,,"Create new Account",0
-messages,oro.account.name.description,,"Unique name that identifies an account record.",0
-messages,oro.account.name.label,,"Account name",0
-messages,oro.account.organization.label,,Organization,0
-messages,oro.account.owner.label,,Owner,0
-messages,oro.account.phone.label,,Phone,0
-messages,oro.account.referred_by.description,,"A link to a different account. ***The parameter is currently deprecated.***",0
-messages,oro.account.referred_by.label,,"Referred By",0
-messages,oro.account.sections.general,,General,0
-messages,oro.account.sections.website_activity,,"Website Activity",0
-messages,oro.account.widgets.account_information,,"Account Information",0
-messages,oro.account.widgets.magento_channel,,"Magento Channel",0
-messages,oro.action.clone,,Clone,0
-messages,oro.action.clone.error,,"Cloning entity failed.",0
-messages,oro.action.clone.label,,"Copy of {label}",0
-messages,oro.action.clone.success,,"Entity cloned successfully.",0
-messages,oro.action.clone_entity,,Clone,0
-messages,oro.action.delete,,Delete,0
-messages,oro.action.delete_confirm,,"Are you sure you want to delete this %entityLabel%?",0
-messages,oro.action.delete_entity,,"Delete %entityLabel%",0
-messages,oro.action.delete_message,,"%entityLabel% deleted",0
-messages,oro.action.edit,,Edit,0
-messages,oro.action.edit_entity,,"Edit %entityLabel%",0
-messages,oro.activity.activities,,Activities,0
-messages,oro.activity.contexts.add_context.label,,"Add Context",0
-messages,oro.activity.contexts.add_context_entity.label,,"Add Context Entity",0
-messages,oro.activity.contexts.added,,"The context has been added",0
-messages,oro.activity.contexts.added.already,,"The context has already been added",0
-messages,oro.activity.contexts.column.label,,Contexts,0
-messages,oro.activity.contexts.label,,Context,0
-messages,oro.activity.contexts.placeholder,,"Add Context",0
-messages,oro.activity.contexts.removed,,"The context has been removed",0
-messages,oro.activity.contexts.type.not_supported,,"The context type is not supported",0
-messages,oro.activity.menu.activities_tab.label,,Activities,0
-messages,oro.activity.merge.label,,"%activity% Activity",0
-messages,oro.activity.sections.activities,,Activity,0
-messages,oro.activity_contact.ac_contact_count.description,,"The total number of all contact attempts (emails sent, calls logged, and other contact activities). Marketing emails are not counted.",0
-messages,oro.activity_contact.ac_contact_count.label,,"Total times contacted",0
-messages,oro.activity_contact.ac_contact_count_in.description,,"The total number of all incoming contact attempts (emails sent, calls logged, and other contact activities). Marketing emails are not counted.",0
-messages,oro.activity_contact.ac_contact_count_in.label,,"Total number of incoming contact attempts",0
-messages,oro.activity_contact.ac_contact_count_out.description,,"The total number of all outgoing contact attempts (emails sent, outgoing calls logged, and other contact activities). Marketing emails are not counted.",0
-messages,oro.activity_contact.ac_contact_count_out.label,,"Total number of outgoing contact attempts",0
-messages,oro.activity_contact.ac_last_contact_date.description,,"Date and time of the last contact attempt (email sent, call logged, or other contact activity). Marketing emails are not counted.",0
-messages,oro.activity_contact.ac_last_contact_date.label,,"Last contact datetime",0
-messages,oro.activity_contact.ac_last_contact_date_in.description,,"Date and time of the last incoming contact attempt (email received, incoming call logged, or other contact activity). Marketing emails are not counted.",0
-messages,oro.activity_contact.ac_last_contact_date_in.label,,"Last incoming contact datetime",0
-messages,oro.activity_contact.ac_last_contact_date_out.description,,"Date and time of the last outgoing contact attempt (email sent, outgoing call logged, or other contact activity). Marketing emails are not counted.",0
-messages,oro.activity_contact.ac_last_contact_date_out.label,,"Last outgoing contact datetime",0
-messages,oro.activity_contact.days_since_last_contact.label,,"Days since the last contact",0
-messages,oro.activity_contact.info_title_last,,"Last Contacted: {{ direction }} {{ last_datetime }}",0
-messages,oro.activity_contact.info_title_no_data,,"Not contacted yet",0
-messages,oro.activity_contact.info_title_times,,"Times Contacted: {{ total_contacted }}",0
-messages,oro.activitylist.activity_owners.label,,"Activity Owners",0
-messages,oro.activitylist.condition_builder.criteria.activity,,Activity,0
-messages,oro.activitylist.created_at.label,,"Created at",0
-messages,oro.activitylist.data.label,,Data,0
-messages,oro.activitylist.description.label,,Description,0
-messages,oro.activitylist.editor.label,,"Updated by",0
-messages,oro.activitylist.entity_description,,"Represent activities list",0
-messages,oro.activitylist.entity_label,,"Activity list",0
+jsmessages,oro.user.mass_actions.disable_users.confirm_content,Người dùng đã chọn sẽ bị vô hiệu hóa.,Selected users will be disabled.,0
+jsmessages,oro.user.mass_actions.disable_users.confirm_ok,Áp dụng,Apply,0
+jsmessages,oro.user.mass_actions.disable_users.confirm_title,Bật người dùng,Enable users,0
+jsmessages,oro.user.mass_actions.enable_users.confirm_content,Người dùng được chọn sẽ được bật.,Selected users will be enabled.,0
+jsmessages,oro.user.mass_actions.enable_users.confirm_ok,Áp dụng,Apply,0
+jsmessages,oro.user.mass_actions.enable_users.confirm_title,Vô hiệu hóa người dùng,Disable Users,0
+jsmessages,oro.user.reset_password.flash.success,Email đặt lại mật khẩu đã được gửi đến người dùng,Reset password email has been sent to user,0
+jsmessages,oro.user.reset_password.mass_action.label,Cài lại,Reset,0
+jsmessages,oro.user.reset_password.mass_action.question,Người dùng được chọn sẽ nhận lại mật khẩu đặt lại qua email và sẽ không đăng nhập được.,The selected users will receive reset password by email and will be disabled from login.,0
+jsmessages,oro.user.reset_password.mass_action.title,Đặt lại mật khẩu,Reset password,0
+jsmessages,oro.user.reset_password.popup.label,Cài lại,Reset,0
+jsmessages,oro.user.reset_password.popup.question,Người dùng <b> {{ user }} </ b> sẽ nhận được email để đặt lại mật khẩu và sẽ không đăng nhập được.,User <b>{{ user }}</b> will receive the email to reset password and will be disabled from login.,0
+jsmessages,oro.user.reset_password.popup.title,Đặt lại mật khẩu,Reset password,0
+jsmessages,oro.user.show_hide_password.label,Hiển thị / ẩn mật khẩu,Show/hide password,0
+jsmessages,oro.user.suggest_password.label,Đề xuất mật khẩu,Suggest password,0
+jsmessages,oro.user.update_status.label,Cập nhật trạng thái,Update status,0
+jsmessages,oro.workflow.activated,Đã kích hoạt quy trình làm việc,Workflow activated,0
+jsmessages,oro.workflow.change_entity_confirmation,Bạn có chắc chắn muốn thay đổi thực thể không?,Are you sure you want to change entity?,0
+jsmessages,oro.workflow.deactivated_list,Đã vô hiệu hóa quy trình công việc:,Deactivated workflows: ,0
+jsmessages,oro.workflow.error.cannot.set.step,Không thể đặt bước cuối cùng thành bước <i> (Bắt đầu) </ i>. Vui lòng chọn một số khác,Cannot set end step to <i>(Start)</i> step. Please select another one,0
+jsmessages,oro.workflow.error.maxconnections,Đã đạt đến kết nối tối đa ({{ maxConnections }}),Maximum connections ({{ maxConnections }}) reached,0
+jsmessages,oro.workflow.translation_rebuild_required,Yêu cầu cập nhật bộ nhớ cache bản dịch. <a href='{{  path  }}'> Nhấp vào đây </a> để cập nhật,Translation cache update is required. <a href='{{ path }}'>Click here</a> to update,0
+jsmessages,oro.workflow.workflowdefinition.activate,"Kích hoạt quy trình làm việc ""{{ label }}""","Activate workflow ""{{ label }}""",0
+jsmessages,oro.workflow.workflowdefinition.deactivate,"Tắt quy trình làm việc ""{{ label }}""","Deactivate workflow ""{{ label }}""",0
+jsmessages,oro.workflow.workflowdefinition.deactivate_button_text,"Có, tắt đi","Yes, Deactivate",0
+jsmessages,oro.workflow.workflowdefinition.reset,Đặt lại luồng công việc,Workflow reset,0
+jsmessages,oro.workflow.workflowdefinition.reset_button_text,"Có, đặt lại","Yes, Reset",0
+jsmessages,oro.workflow.workflowdefinition.reset_message,Lưu ý: Hành động này sẽ đặt lại dữ liệu luồng công việc cho luồng công việc này.,Attention: This action will reset workflow data for this workflow.,0
+jsmessages,oro.workflow.workflowdefinition.reset_workflow_data_message,Lưu ý: Hành động này sẽ đặt lại dữ liệu luồng công việc cho luồng công việc này.,Attention: This action will reset workflow data for this workflow.,0
+jsmessages,oro.zendesk.reverse_sync.fail_message,Không thể lên lịch xuất bản cho Zendesk,Could not schedule publishing to Zendesk,0
+jsmessages,oro.zendesk.reverse_sync.success_message,Xuất bản lên Zendesk đã được lên lịch,Publishing to Zendesk was scheduled,0
+jsmessages,oro_datagrid.action.refresh,Làm tươi,Refresh,0
+jsmessages,oro_datagrid.action.reset,Cài lại,Reset,0
+jsmessages,oro_datagrid.label_add_filter,Quản lý bộ lọc,Manage filters,0
+jsmessages,oro_datagrid.label_reset_button,Đặt lại bộ lọc,Reset Filter,0
+jsmessages,P,P,P,0
+jsmessages,Per page,Trên một trang,Per page,0
+jsmessages,Phone,Điện thoại,Phone,0
+jsmessages,Please select,Vui lòng chọn,Please select,0
+jsmessages,Please select a file...,Vui lòng chọn tệp ...,Please select a file...,0
+jsmessages,Please select items to delete.,Vui lòng chọn các mục cần xóa.,Please select items to delete.,0
+jsmessages,Please select view,Vui lòng chọn chế độ xem,Please select view,0
+jsmessages,Please wait until page will be reloaded...,Vui lòng đợi cho đến khi trang được tải lại ...,Please wait until page will be reloaded...,0
+jsmessages,"Please, select item to perform action.",Vui lòng chọn mục để thực hiện tác vụ.,"Please, select item to perform action.",0
+jsmessages,"Please, select items to perform mass action.",Vui lòng chọn các mục để thực hiện hành động đại chúng.,"Please, select items to perform mass action.",0
+jsmessages,PM,CH,PM,0
+jsmessages,pm,ch,pm,0
+jsmessages,postpositions,trước | ngoài | sang một bên | xa | do đó | qua,ago|apart|aside|away|hence|through,0
+jsmessages,prepositions,a | an | per | aboard | về | bout | ở trên | ngang nhau | ở nước ngoài | ngang | sau | lại | lại | cùng | giữa | giữa | quanh | dưới | astride | at | atop | ontop | bar | trước | afore | tofore | B4 | đằng sau | ahind | dưới | ablow | bên dưới | bên cạnh | bên cạnh | giữa | ngoài | nhưng | bởi | đến | mặc dù | bất chấp | xuống | trong | ngoại trừ | cho | 4 | từ | trong | bên trong | vào | ít | như | trừ | gần | của | off | on | lên | đối diện | ra | bên ngoài | qua | quá khứ | mỗi | bài | trước | pro | re | ngắn | từ | hơn | qua | qua | trong suốt | thông qua | đến | 2 | @ | the | hướng tới | hướng | dưới | bên dưới | không giống | cho đến | til | đến | lên | khi | upside | so | qua | phó | với | bên trong | không | giá trị,a|an|per|aboard|about|bout|above|abreast|abroad|across|after|against|again|along|amid|among|around|as|astride|at|atop|ontop|bar|before|afore|tofore|B4|behind|ahind|below|ablow|beneath|beside|besides|between|beyond|but|by|come|despite|spite|down|during|except|for|4|from|in|inside|into|less|like|minus|near|of|off|on|onto|opposite|out|outside|over|past|per|post|pre|pro|re|short|since|than|through|thru|throughout|thruout|to|2|@|the|toward|towards|under|underneath|unlike|until|til|till|up|upon|upside|versus|via|vice|with|within|without|worth,0
+jsmessages,Prev,Trước đó,Prev,0
+jsmessages,Preview,Xem trước,Preview,0
+jsmessages,Primary,Chính,Primary,0
+jsmessages,Read,Đọc,Read,0
+jsmessages,Red button,Nút màu đỏ,Red button,0
+jsmessages,Redo,Làm lại,Redo,0
+jsmessages,Refresh Confirmation,Làm mới xác nhận,Refresh Confirmation,0
+jsmessages,Related entity must be selected to add step.,Thực thể liên quan phải được chọn để thêm bước.,Related entity must be selected to add step.,0
+jsmessages,Related entity must be selected to add transition.,Thực thể liên quan phải được chọn để thêm chuyển đổi.,Related entity must be selected to add transition.,0
+jsmessages,Reminders,Nhắc nhở,Reminders,0
+jsmessages,remove,xóa bỏ,remove,0
+jsmessages,Remove,Xóa bỏ,Remove,0
+jsmessages,Reset Confirmation,Xác nhận đặt lại,Reset Confirmation,0
+jsmessages,restore,khôi phục,restore,0
+jsmessages,Running,Đang chạy,Running,0
+jsmessages,Save,Lưu lại,Save,0
+jsmessages,Saving...,Đang lưu …,Saving...,0
+jsmessages,Schema update confirmation,Xác nhận cập nhật bộ khung (schema),Schema update confirmation,0
+jsmessages,Searching...,Đang tìm kiếm...,Searching...,0
+jsmessages,Second,Thứ nhì,Second,0
+jsmessages,Select {{ entity }},Chọn {{ entity }},Select {{ entity }},0
+jsmessages,Selected items were deleted.,Các mục đã chọn đã bị xóa.,Selected items were deleted.,0
+jsmessages,Selected items were not deleted.,Các mục đã chọn không bị xóa.,Selected items were not deleted.,0
+jsmessages,Selected Rows,Hàng đã chọn,Selected Rows,0
+jsmessages,Server error,Lỗi máy chủ,Server error,0
+jsmessages,Settings will be restored to saved values. Please confirm you want to continue.,Cài đặt sẽ được khôi phục về giá trị đã lưu. Vui lòng xác nhận bạn muốn tiếp tục.,Settings will be restored to saved values. Please confirm you want to continue.,0
+jsmessages,Show Transition Labels,Hiển thị nhãn chuyển tiếp,Show Transition Labels,0
+jsmessages,"Sorry, a synchronization error has occurred.","Rất tiếc, đã xảy ra lỗi đồng bộ hóa.","Sorry, a synchronization error has occurred.",0
+jsmessages,"Sorry, an unexpected error has occurred.","Rất tiếc, đã xảy ra lỗi không mong muốn.","Sorry, an unexpected error has occurred.",0
+jsmessages,"Sorry, calendar event was not saved correctly","Xin lỗi, sự kiện lịch chưa được lưu chính xác","Sorry, calendar event was not saved correctly",0
+jsmessages,"Sorry, calendar events were not loaded correctly","Rất tiếc, các sự kiện lịch không được tải chính xác","Sorry, calendar events were not loaded correctly",0
+jsmessages,"Sorry, page was not loaded correctly","Rất tiếc, trang không được tải chính xác","Sorry, page was not loaded correctly",0
+jsmessages,"Sorry, the calendar addition has failed.","Xin lỗi, việc bổ sung lịch đã thất bại.","Sorry, the calendar addition has failed.",0
+jsmessages,"Sorry, the calendar excluding was failed","Rất tiếc, việc xóa lịch đã không thành công.","Sorry, the calendar removal has failed.",0
+jsmessages,"Sorry, the calendar update has failed.","Rất tiếc, cập nhật lịch không thành công.","Sorry, the calendar update has failed.",0
+jsmessages,Status,Trạng thái,Status,0
+jsmessages,Step saved.,Đã lưu bước.,Step saved.,0
+jsmessages,Successfully removed,Đã xóa thành công,Successfully removed,0
+jsmessages,sync.connection.established,Trình đồng bộ (Synchronizer) đã thiết lập kết nối,Synchronizer has established connection,0
+jsmessages,sync.connection.lost,"]-Inf,0] Trình đồng bộ hóa không thể kết nối với máy chủ. Vui lòng liên hệ với Quản trị viên của bạn.|{1,2} Bộ đồng bộ hóa đã mất kết nối với máy chủ. {{ remain }} cố gắng kết nối lại. |{3} Trình đồng bộ hóa đã mất kết nối với máy chủ. Vẫn còn {{ remain }} nỗ lực kết nối lại.","]-Inf,0]Synchronizer can't connect to server. Please contact your Administrator.|{1,2}Synchronizer has lost connection to the server. {{ remain }} reconnections attempts remain.|{3}Synchronizer has lost connection to the server. {{ remain }} reconnections attempt remain.",0
+jsmessages,sync.message.content.outdated,"Nội dung của trang {{ title }} đã lỗi thời, vui lòng <a href='#' data-action='page-refresh'> làm mới trang </a>","Content of {{ title }} page is outdated, please <a href='#' data-action='page-refresh'>refresh the page</a>",0
+jsmessages,Task created successfully,Tác vụ được tạo thành công,Task created successfully,0
+jsmessages,Tentatively accepted,Tạm chấp nhận,Tentatively accepted,0
+jsmessages,The calendar cannot be changed because the event has guests,Không thể thay đổi lịch vì sự kiện có khách,The calendar cannot be changed because the event has guests,0
+jsmessages,There is no entities selected,Không có mục nào được chọn,There is no entities selected,0
+jsmessages,This field cannot be restored because a field with similar name exists.,Không thể khôi phục trường này vì trường có tên tương tự tồn tại.,This field cannot be restored because a field with similar name exists.,0
+jsmessages,this is long text for test,đây là văn bản dài để kiểm tra,this is long text for test,0
+jsmessages,Time,Thời gian,Time,0
+jsmessages,Time Zone,Múi giờ,Time Zone,0
+jsmessages,to,đến,to,0
+jsmessages,Today,Hôm nay,Today,0
+jsmessages,Undo,Hoàn tác,Undo,0
+jsmessages,Unexpected format,Định dạng không mong muốn,Unexpected format,0
+jsmessages,unknown,không xác định,unknown,0
+jsmessages,Unmet conditions,Điều kiện chưa được đáp ứng,Unmet conditions,0
+jsmessages,Up to date,Cập nhật,Up to date,0
+jsmessages,Update,Cập nhật,Update,0
+jsmessages,Update Address,Cập nhật địa chỉ,Update Address,0
+jsmessages,Update attachment,Cập nhật tệp đính kèm,Update attachment,0
+jsmessages,Update finished.,Cập nhật xong.,Update finished.,0
+jsmessages,Update item,Cập nhật mục,Update item,0
+jsmessages,Upload,Tải lên,Upload,0
+jsmessages,User input error,Lỗi nhập của người dùng,User input error,0
+jsmessages,View,Xem,View,0
+jsmessages,View Event,xem sự kiện,View Event,0
+jsmessages,View more...,Xem thêm...,View more...,0
+jsmessages,View per page,Xem trên mỗi trang,View per page,0
+jsmessages,Warning,Cảnh báo,Warning,0
+jsmessages,Wk,Tuần,Wk,0
+jsmessages,Workflow saved.,Đã lưu quy trình làm việc.,Workflow saved.,0
+jsmessages,Yellow button,Nút màu vàng,Yellow button,0
+jsmessages,Yes,Vâng,Yes,0
+jsmessages,"Yes, Delete","Có, Xóa","Yes, Delete",0
+jsmessages,"Yes, do it",Ừ làm đi,"Yes, do it",0
+jsmessages,"Yes, I Agree",Vâng tôi đồng ý,"Yes, I Agree",0
+jsmessages,"Yes, Proceed","Có, Tiếp tục","Yes, Proceed",0
+jsmessages,Yesterday,Hôm qua,Yesterday,0
+jsmessages,You do not have permission to perform this action.,Bạn không có quyền thực hiện hành động này.,You do not have permission to perform this action.,0
+jsmessages,"You have unsaved changes, are you sure you want to leave this page?","Bạn có các thay đổi chưa lưu, bạn có chắc chắn muốn thoát khỏi trang này không?","You have unsaved changes, are you sure you want to leave this page?",0
+jsmessages,Your config changes will be applied to schema.,Thay đổi cấu hình của bạn sẽ được áp dụng cho lược đồ (schema).,Your config changes will be applied to schema.,0
+jsmessages,Your local changes will be lost. Are you sure you want to refresh grid?,Các thay đổi cục bộ của bạn sẽ bị mất. Bạn có chắc chắn muốn làm mới lưới không?,Your local changes will be lost. Are you sure you want to refresh grid?,0
+jsmessages,Your local changes will be lost. Are you sure you want to refresh the page?,Các thay đổi cục bộ của bạn sẽ bị mất. Bạn có chắc chắn muốn làm mới trang không?,Your local changes will be lost. Are you sure you want to refresh the page?,0
+jsmessages,Your local changes will be lost. Are you sure you want to reset grid?,Các thay đổi cục bộ của bạn sẽ bị mất. Bạn có chắc chắn muốn đặt lại lưới không?,Your local changes will be lost. Are you sure you want to reset grid?,0
+maintenance,lexik_maintenance.not_success_lock,Máy chủ đã được khóa.,Server is already locking.,0
+maintenance,lexik_maintenance.not_success_unlock,Không thể thực hiện hành động này.,Impossible to do this action.,0
+maintenance,lexik_maintenance.success_lock_database,Máy chủ đang được bảo trì với cơ sở dữ liệu trình điều khiển.,Server is under maintenance with driver database.,0
+maintenance,lexik_maintenance.success_lock_file,Máy chủ đang được bảo trì với tệp trình điều khiển.,Server is under maintenance with driver file.,0
+maintenance,lexik_maintenance.success_lock_memc,Máy chủ đang được bảo trì với memcache.,Server is under maintenance with memcache.,0
+maintenance,lexik_maintenance.success_lock_shm,Máy chủ đang được bảo trì với shm.,Server is under maintenance with shm.,0
+maintenance,lexik_maintenance.success_unlock,Máy chủ đang trực tuyến.,Server is online.,0
+messages,%groups% and %roles%,%groups% và %roles%,%groups% and %roles%,0
+messages,%report.name% - Edit - Reports,%report.name% - Chỉnh sửa - Báo cáo,%report.name% - Edit - Reports,0
+messages,%report.name% - Reports,%report.name% - Báo cáo,%report.name% - Reports,0
+messages,%subject% - Email,%subject% - Email,%subject% - Email,0
+messages,(default),Quyền mặc định trên các thực thể,Default permission on entities,0
+messages,Accept,Chấp nhận,Accept,0
+messages,Access Settings,Cài đặt Truy cập,Access Settings,0
+messages,Actions,Hành động,Actions,0
+messages,Active,Hoạt động,Active,0
+messages,Add,Thêm vào,Add,0
+messages,Add Address,Thêm địa chỉ,Add Address,0
+messages,Add another email,Thêm email khác,Add another email,0
+messages,Add call log,Thêm nhật ký cuộc gọi,Add call log,0
+messages,Add step,Thêm bước,Add step,0
+messages,Add transition,Thêm quá trình chuyển đổi,Add transition,0
+messages,Add transition to this step,Thêm chuyển đổi cho bước này,Add transition to this step,0
+messages,add_comment,Thêm bình luận,Add Comment,0
+messages,Additional,Bổ sung,Additional,0
+messages,Additional Information,Thông tin thêm,Additional Information,0
+messages,Address manipulation,Thao tác địa chỉ,Address manipulation,0
+messages,Addresses,Địa chỉ,Addresses,0
+messages,All,Tất cả,All,0
+messages,Any,Bất kì,Any,0
+messages,Apply,Áp dụng,Apply,0
+messages,Are you sure you want to delete this report?,Bạn có chắc chắn muốn xóa báo cáo này không?,Are you sure you want to delete this report?,0
+messages,Are you sure you want to delete this workflow item?,Bạn có chắc chắn muốn xóa mục dòng công việc này không?,Are you sure you want to delete this workflow item?,0
+messages,Ascending Order,Thứ tự tăng dần - Nhấp để sắp xếp theo thứ tự giảm dần,Ascending order - Click to sort in descending order,0
+messages,ASSIGN,Chỉ định,Assign,0
+messages,Attachments,Tệp đính kèm,Attachments,0
+messages,Attributes,Thuộc tính,Attributes,0
+messages,Auto sort,Sắp xếp tự động,Auto sort,0
+messages,Back to Installed Packages,Quay lại các gói đã cài đặt,Back to Installed Packages,0
+messages,Basic Information,Thông tin cơ bản,Basic Information,0
+messages,Bcc,Bcc,Bcc,0
+messages,Body,Nội dung,Body,0
+messages,Business Unit,Đơn vị kinh doanh,Business Unit,0
+messages,Button,Nút,Button,0
+messages,Button preview,Xem trước nút,Button preview,0
+messages,Button style,Kiểu nút,Button style,0
+messages,Call deleted successfully,Đã xóa cuộc gọi thành công,Call deleted successfully,0
+messages,Call logged successfully,Đã lưu cuộc gọi,Call saved,0
+messages,Cancel,Hủy bỏ,Cancel,0
+messages,Cc,Cc,Cc,0
+messages,Cc/Bcc,Cc / Bcc,Cc/Bcc,0
+messages,change_password.flash.success,Mật khẩu đã được thay đổi,The password has been changed,0
+messages,Choose,Chọn,Choose,0
+messages,Choose an organization...,Chọn tổ chức ...,Choose an organization...,0
+messages,Choose Another,Chọn loại khác,Choose Another,0
+messages,Choose Existing,Chọn những cái có sẵn,Choose Existing,0
+messages,Click to go back,Nhấp để quay lại,Click to go back,0
+messages,Clone this step,Sao chép bước này,Clone this step,0
+messages,Clone this transition,Nhân bản quá trình chuyển đổi này,Clone this transition,0
+messages,Close,Gần,Close,0
+messages,Collapse All,Thu gọn tất cả,Collapse All,0
+messages,Communications,Truyền thông,Communications,0
+messages,Configuration,Cấu hình,Configuration,0
+messages,Contact Details,Chi tiết liên lạc,Contact Details,0
+messages,Content,Nội dung,Content,0
+messages,Continue,Tiếp tục,Continue,0
+messages,CREATE,Tạo nên,Create,0
+messages,Create address,Tạo địa chỉ,Create address,0
+messages,Create call,Tạo cuộc gọi,Create call,0
+messages,Create New,Tạo mới,Create New,0
+messages,Create Report - Reports,Tạo báo cáo - Báo cáo,Create Report - Reports,0
+messages,Create Workflow,Tạo quy trình làm việc,Create Workflow,0
+messages,Current Step,Bước hiện tại,Current Step,0
+messages,Custom,Tập quán,Custom,0
+messages,Date,Ngày,Date,0
+messages,Decline,Từ chối,Decline,0
+messages,DELETE,Xóa bỏ,Delete,0
+messages,Delete,Xóa bỏ,Delete,0
+messages,Delete field,Xóa trường,Delete field,0
+messages,Delete report,Xóa báo cáo,Delete report,0
+messages,Delete this step,Xóa bước này,Delete this step,0
+messages,Delete this transition,Xóa quá trình chuyển đổi này,Delete this transition,0
+messages,Delete workflow item,Xóa mục dòng công việc,Delete workflow item,0
+messages,Deleted,Đã xóa,Deleted,0
+messages,Deleting...,Đang xóa ...,Deleting...,0
+messages,Descending Order,Thứ tự giảm dần - Nhấp để sắp xếp theo thứ tự tăng dần,Descending order - Click to sort in ascending order,0
+messages,Designer,Nhà thiết kế,Designer,0
+messages,Disabled,Vô hiệu hóa,Disabled,0
+messages,E-commerce,Thương mại điện tử,E-commerce,0
+messages,EDIT,Chỉnh sửa,Edit,0
+messages,Edit,Chỉnh sửa,Edit,0
+messages,Edit address,Sửa địa chỉ,Edit address,0
+messages,Edit report,Chỉnh sửa báo cáo,Edit report,0
+messages,Entity field,Trường thực thể,Entity field,0
+messages,Expand All,Mở rộng tất cả,Expand All,0
+messages,Field successfully deleted,Đã xóa trường thành công,Field successfully deleted,0
+messages,Final,Sau cùng,Final,0
+messages,Forgot Password,Quên mật khẩu,Forgot Password,0
+messages,Forgot your password?,Quên mật khẩu hả?,Forgot your password?,0
+messages,From,Từ,From,0
+messages,From step,Từ bước,From step,0
+messages,General,Chung,General,0
+messages,General Information,Thông tin chung,General Information,0
+messages,Generate key,Tạo khóa,Generate key,0
+messages,Generate key was successful. New key:,Tạo khóa đã thành công. Chìa khoá key&#58; mới: ,Generate key was successful. New key&#58;,0
+messages,Get help,Tiìm sự giúp đỡ,Get help,0
+messages,Go,Đi,Go,0
+messages,google,Google,Google,0
+messages,Identity only,Chỉ ID,Identity only,0
+messages,Inactive,Không hoạt động,Inactive,0
+messages,Info,Thông tin,Info,0
+messages,Information,Thông tin,Information,0
+messages,Invalid report configuration,Không có dữ liệu để hiển thị. Vui lòng điều hướng đến trang báo cáo chỉnh sửa để đảm bảo rằng báo cáo được định cấu hình đúng.,No data to show. Please navigate to the edit report page to make sure that the report was configured properly.,0
+messages,It may take few minutes...,Có thể mất vài phút ...,It may take few minutes...,0
+messages,Item deleted,Đã xóa mục,Item deleted,0
+messages,Label,Nhãn,Label,0
+messages,Leave empty for system value,Để trống: hệ thống tự xác định,Leave empty for system value,0
+messages,Loading...,Tải...,Loading...,0
+messages,Log,Nhật ký,Log,0
+messages,Log in,Đăng nhập,Log in,0
+messages,Login,Đăng nhập,Login,0
+messages,Login page,Trang đăng nhập,Login page,0
+messages,Logout,Đăng xuất,Logout,0
+messages,Manage Custom Reports,Quản lý báo cáo tùy chỉnh,Manage Custom Reports,0
+messages,Manage Custom Reports - Reports,Quản lý báo cáo tùy chỉnh - Báo cáo,Manage Custom Reports - Reports,0
+messages,Me,tui,me,0
+messages,N/A,Không áp dụng,N/A,0
+messages,Name,Tên,Name,0
+messages,New,Mới,New,0
+messages,New contact,Địa chỉ liên lạc mới,New contact,0
+messages,New Contact Information,Thông tin liên hệ mới,New Contact Information,0
+messages,New Report,Báo cáo mới,New Report,0
+messages,No,Không,No,0
+messages,No workflow items are available,Không có mục quy trình công việc nào,No workflow items are available,0
+messages,None,Không,None,0
+messages,OK,OK,OK,0
+messages,Opportunity Information,Thông tin cơ hội,Opportunity Information,0
+messages,Organization,Cơ quan,Organization,0
+messages,ORO Business Application Platform,Nền tảng ứng dụng kinh doanh ORO,ORO Business Application Platform,0
+messages,oro.abandonedcart.abandonedcartcampaign.campaign.label,Chiến dịch,Campaign,0
+messages,oro.abandonedcart.abandonedcartcampaign.entity_label,Chiến dịch giỏ hàng bị bỏ lờ,Abandoned Cart Campaign,0
+messages,oro.abandonedcart.abandonedcartcampaign.entity_plural_label,Các Chiến dịch giỏ hàng bị bỏ lờ,Abandoned Cart Campaigns,0
+messages,oro.abandonedcart.abandonedcartcampaign.id.label,ID,ID,0
+messages,oro.abandonedcart.abandonedcartcampaign.marketing_list.label,Danh sách tiếp thị,Marketing List,0
+messages,oro.abandonedcart.acl.action.general.description,"Tạo các phần của giỏ hàng bị bỏ rơi ở Oro và liên kết chúng với tự động hóa chiến dịch MailChimp. Để sử dụng tính năng này, bạn cũng nên bật tính năng Kết nối với MailChimp.","Creates segments of abandoned shopping carts in Oro and link them to MailChimp campaign automation. To use this feature, Connect to MailChimp capability should also be enabled.",0
+messages,oro.abandonedcart.acl.action.general.label,Quản lý chiến dịch giỏ hàng bị bỏ lờ,Manage abandoned cart campaigns,0
+messages,oro.abandonedcart.block.conversion,Chuyển đổi,Conversion,0
+messages,oro.abandonedcart.block.general,Thông tin chung,General Information,0
+messages,oro.abandonedcart.block.removed,Các mục đã xóa,Removed Items,0
+messages,oro.abandonedcart.campaign_code_mergevar.label,Mã chiến dịch,Campaign Code,0
+messages,oro.abandonedcart.connection.confirmation.disconnect,Bạn có chắc chắn muốn hủy liên kết Giỏ hàng bị bỏ lờ này khỏi MailChimp không,Are you sure you want to unlink this Abandoned Cart from MailChimp,0
+messages,oro.abandonedcart.connection.message.disconnect,Bỏ giỏ hàng bị ngắt kết nối khỏi MailChimp,Abandoned Cart disconnected from MailChimp,0
+messages,oro.abandonedcart.connection.message.syncronize_scheduled,Giỏ bị bỏ rơi được lên lịch để đồng bộ hóa với MailChimp,Abandoned Cart scheduled to synchronize with MailChimp,0
+messages,oro.abandonedcart.connector.automation_campaign.job,Nhập các chiến dịch tự động hóa từ MailChimp,Import automation campaigns from MailChimp,0
+messages,oro.abandonedcart.connector.automation_campaign.label,Trình kết nối chiến dịch tự động,Automation Campaign Connector,0
+messages,oro.abandonedcart.conversion.button.enable,Chiến dịch có liên quan,Related Campaigns,0
+messages,oro.abandonedcart.conversion.dialog.button.cancel,Hủy bỏ,Cancel,0
+messages,oro.abandonedcart.conversion.dialog.button.connect,Bật chuyển đổi,Enable conversion,0
+messages,oro.abandonedcart.conversion.dialog.button.update,Cập nhật,Update,0
+messages,oro.abandonedcart.conversion.dialog.title.connect,MailChimp Workflow Automation,MailChimp Workflow Automation,0
+messages,oro.abandonedcart.conversion.message.update,Đã cập nhật luồng công việc tự động hóa MailChimp,MailChimp Automation Workflows updated,0
+messages,oro.abandonedcart.conversion.name,Chuyển đổi,Conversion,0
+messages,oro.abandonedcart.conversion.title.orders,Đơn đặt hàng,Orders,0
+messages,oro.abandonedcart.conversion.title.summary,Tóm lược,Summary,0
+messages,oro.abandonedcart.conversion.title.total,Toàn bộ,Total,0
+messages,oro.abandonedcart.datagrid.campaign_name_label,Tên,Name,0
+messages,oro.abandonedcart.datagrid.columns_total_label,Toàn bộ,Total,0
+messages,oro.abandonedcart.description.label,Sự miêu tả,Description,0
+messages,oro.abandonedcart.entity.label,Thực thể,Entity,0
+messages,oro.abandonedcart.entity.saved,Đã lưu danh sách giỏ hàng bị bỏ rơi,Abandoned Cart list saved,0
+messages,oro.abandonedcart.form.columns_notice,Phải chọn ít nhất một cột có thông tin liên hệ. Các trường thông tin liên hệ có sẵn,At least one column with contact information must be selected. Available contact information fields,0
+messages,oro.abandonedcart.form.importance,Quan trọng,Important,0
+messages,oro.abandonedcart.mergevar.cart_item.name.label,Tên mục hàng (%index%),Cart Item Name (%index%),0
+messages,oro.abandonedcart.mergevar.cart_item.price.label,Giá mặt hàng của giỏ hàng (%index%),Cart Item Price (%index%),0
+messages,oro.abandonedcart.mergevar.cart_item.qty.label,Giỏ hàng Số lượng (%index%),Cart Item Qty (%index%),0
+messages,oro.abandonedcart.mergevar.cart_item.total.label,Tổng số mục hàng trong giỏ hàng (%index%),Cart Item Row Total (%index%),0
+messages,oro.abandonedcart.mergevar.cart_item.url.label,Mục sản phẩm URL sản phẩm (%index%),Cart Item Product URL (%index%),0
+messages,oro.abandonedcart.name.label,Tên,Name,0
+messages,oro.abandonedcart.owner.label,Chủ nhân,Owner,0
+messages,oro.account.account_actions,Hành động tài khoản,Account actions,0
+messages,oro.account.assigned.label,Giao,Assigned,0
+messages,oro.account.contact.email,Địa chỉ email liên lạc,Contact email,0
+messages,oro.account.contact.first_name,Tên liên hệ,Contact first name,0
+messages,oro.account.contact.last_name,Tên liên lạc,Contact last name,0
+messages,oro.account.contact.name,Tên Liên lạc,Contact name,0
+messages,oro.account.contact.phone,Điện thoại liên hệ,Contact phone,0
+messages,oro.account.contact_information.label,Thông tin liên lạc,Contact Information,0
+messages,oro.account.contacts.description,Tập hợp các liên lạc liên quan đến tài khoản.,The collection of contacts related to an account.,0
+messages,oro.account.contacts.label,Danh bạ,Contacts,0
+messages,oro.account.controller.account.saved.message,Đã lưu tài khoản,Account saved,0
+messages,oro.account.default_contact.description,Chi tiết liên hệ mặc định cho tài khoản.,The default contact details for an account.,0
+messages,oro.account.default_contact.label,Liên hệ mặc định,Default Contact,0
+messages,oro.account.email.label,E-mail,Email,0
+messages,oro.account.entity_description,"Tài khoản đại diện cho một người, một công ty hoặc một nhóm người. Tài khoản tổng hợp chi tiết của tất cả các danh tính khách hàng được gán cho nó, cung cấp chế độ xem 360 độ về hoạt động của khách hàng.","Accounts represent a person, a company or a group of people. Account aggregates details of all the customer identities assigned to it, providing for a 360-degree view of the customer activity.",0
+messages,oro.account.entity_label,Tài khoản,Account,0
+messages,oro.account.entity_plural_label,Các tài khoản,Accounts,0
+messages,oro.account.extend_description.description,Chi tiết hoặc mô tả ngắn về bản ghi tài khoản.,Details or a short description of an account record.,0
+messages,oro.account.extend_description.label,Sự miêu tả,Description,0
+messages,oro.account.form.choose_account,Chọn một tài khoản...,Choose an account...,0
+messages,oro.account.form.select_contacts,Chọn liên hệ,Select contacts,0
+messages,oro.account.id.description,Số nhận dạng duy nhất của bản ghi tài khoản.,The unique identifier of an account record.,0
+messages,oro.account.id.label,ID,Id,0
+messages,oro.account.lifetime_value.label,Giá trị bán hàng trọn đời,Lifetime sales value,0
+messages,oro.account.menu.account_list.description,Danh sách tài khoản,List of accounts,0
+messages,oro.account.menu.customers_tab.label,Khách hàng,Customers,0
+messages,oro.account.menu.shortcut_list_accounts.description,Danh sách tài khoản,List of accounts,0
+messages,oro.account.menu.shortcut_list_accounts.label,Hiển thị danh sách tài khoản,Show Accounts list,0
+messages,oro.account.menu.shortcut_new_account.description,Tạo cá thể tài khoản mới,Create new account instance,0
+messages,oro.account.menu.shortcut_new_account.label,Tạo tài khoản mới,Create new Account,0
+messages,oro.account.name.description,Tên duy nhất xác định hồ sơ tài khoản.,Unique name that identifies an account record.,0
+messages,oro.account.name.label,Tên tài khoản,Account name,0
+messages,oro.account.organization.label,Cơ quan,Organization,0
+messages,oro.account.owner.label,Chủ nhân,Owner,0
+messages,oro.account.phone.label,Điện thoại,Phone,0
+messages,oro.account.referred_by.description,Một liên kết đến một tài khoản khác. *** Thông số hiện không được chấp nhận. ***,A link to a different account. ***The parameter is currently deprecated.***,0
+messages,oro.account.referred_by.label,Liên kết,Referred By,0
+messages,oro.account.sections.general,Chung,General,0
+messages,oro.account.sections.website_activity,Hoạt động trang web,Website Activity,0
+messages,oro.account.widgets.account_information,thông tin tài khoản,Account Information,0
+messages,oro.account.widgets.magento_channel,Kênh Magento,Magento Channel,0
+messages,oro.action.clone,Sao chép,Clone,0
+messages,oro.action.clone.error,Nhân bản sao chép không thành công.,Cloning entity failed.,0
+messages,oro.action.clone.label,Bản sao của {label},Copy of {label},0
+messages,oro.action.clone.success,Pháp nhân nhân bản thành công.,Entity cloned successfully.,0
+messages,oro.action.clone_entity,Sao chép,Clone,0
+messages,oro.action.delete,Xóa bỏ,Delete,0
+messages,oro.action.delete_confirm,Bạn có chắc chắn muốn xóa %entityLabel% này không?,Are you sure you want to delete this %entityLabel%?,0
+messages,oro.action.delete_entity,Xóa %entityLabel%,Delete %entityLabel%,0
+messages,oro.action.delete_message,%entityLabel% đã xóa,%entityLabel% deleted,0
+messages,oro.action.edit,Chỉnh sửa,Edit,0
+messages,oro.action.edit_entity,Chỉnh sửa %entityLabel%,Edit %entityLabel%,0
+messages,oro.activity.activities,Hoạt động,Activities,0
+messages,oro.activity.contexts.add_context.label,Thêm ngữ cảnh,Add Context,0
+messages,oro.activity.contexts.add_context_entity.label,Thêm thực thể ngữ cảnh,Add Context Entity,0
+messages,oro.activity.contexts.added,Ngữ cảnh đã được thêm vào,The context has been added,0
+messages,oro.activity.contexts.added.already,Ngữ cảnh đã được thêm vào,The context has already been added,0
+messages,oro.activity.contexts.column.label,Ngữ cảnh,Contexts,0
+messages,oro.activity.contexts.label,Bối cảnh,Context,0
+messages,oro.activity.contexts.placeholder,Thêm ngữ cảnh,Add Context,0
+messages,oro.activity.contexts.removed,Ngữ cảnh đã bị xóa,The context has been removed,0
+messages,oro.activity.contexts.type.not_supported,Loại ngữ cảnh không được hỗ trợ,The context type is not supported,0
+messages,oro.activity.menu.activities_tab.label,Hoạt động,Activities,0
+messages,oro.activity.merge.label,%hoạt động% hoạt động,%activity% Activity,0
+messages,oro.activity.sections.activities,Hoạt động,Activity,0
+messages,oro.activity_contact.ac_contact_count.description,"Tổng số lần thử liên lạc (email được gửi, cuộc gọi đã đăng nhập và các hoạt động liên lạc khác). Email tiếp thị không được tính.","The total number of all contact attempts (emails sent, calls logged, and other contact activities). Marketing emails are not counted.",0
+messages,oro.activity_contact.ac_contact_count.label,Tổng số lần được liên hệ,Total times contacted,0
+messages,oro.activity_contact.ac_contact_count_in.description,"Tổng số tất cả các lần gửi liên hệ đến (email được gửi, cuộc gọi đã đăng nhập và các hoạt động liên hệ khác). Email tiếp thị không được tính.","The total number of all incoming contact attempts (emails sent, calls logged, and other contact activities). Marketing emails are not counted.",0
+messages,oro.activity_contact.ac_contact_count_in.label,Tổng số lần thử liên hệ đến,Total number of incoming contact attempts,0
+messages,oro.activity_contact.ac_contact_count_out.description,"Tổng số lần thử liên lạc gửi đi (email được gửi, cuộc gọi đi đã đăng nhập và các hoạt động liên lạc khác). Email tiếp thị không được tính.","The total number of all outgoing contact attempts (emails sent, outgoing calls logged, and other contact activities). Marketing emails are not counted.",0
+messages,oro.activity_contact.ac_contact_count_out.label,Tổng số lần thử liên hệ đi,Total number of outgoing contact attempts,0
+messages,oro.activity_contact.ac_last_contact_date.description,"Ngày và giờ của lần thử liên lạc cuối cùng (email được gửi, cuộc gọi đã đăng nhập hoặc hoạt động liên hệ khác). Email tiếp thị không được tính.","Date and time of the last contact attempt (email sent, call logged, or other contact activity). Marketing emails are not counted.",0
+messages,oro.activity_contact.ac_last_contact_date.label,Ngày giờ liên hệ cuối cùng,Last contact datetime,0
+messages,oro.activity_contact.ac_last_contact_date_in.description,"Ngày và giờ của lần thử liên hệ đến cuối cùng (email nhận được, cuộc gọi đến đã đăng nhập hoặc hoạt động liên hệ khác). Email tiếp thị không được tính.","Date and time of the last incoming contact attempt (email received, incoming call logged, or other contact activity). Marketing emails are not counted.",0
+messages,oro.activity_contact.ac_last_contact_date_in.label,Ngày giờ liên hệ đến cuối cùng,Last incoming contact datetime,0
+messages,oro.activity_contact.ac_last_contact_date_out.description,"Ngày và giờ của lần thử liên hệ gửi đi cuối cùng (email được gửi, cuộc gọi đi đã đăng nhập hoặc hoạt động liên hệ khác). Email tiếp thị không được tính.","Date and time of the last outgoing contact attempt (email sent, outgoing call logged, or other contact activity). Marketing emails are not counted.",0
+messages,oro.activity_contact.ac_last_contact_date_out.label,Ngày giờ liên hệ gửi đi cuối cùng,Last outgoing contact datetime,0
+messages,oro.activity_contact.days_since_last_contact.label,Số ngày kể từ lần liên hệ cuối cùng,Days since the last contact,0
+messages,oro.activity_contact.info_title_last,Liên hệ lần cuối: {{ direction }} {{ last_datetime }},Last Contacted: {{ direction }} {{ last_datetime }},0
+messages,oro.activity_contact.info_title_no_data,Chưa được liên hệ,Not contacted yet,0
+messages,oro.activity_contact.info_title_times,Số lần liên hệ: {{ total_contacted }},Times Contacted: {{ total_contacted }},0
+messages,oro.activitylist.activity_owners.label,Chủ sở hữu hoạt động,Activity Owners,0
+messages,oro.activitylist.condition_builder.criteria.activity,Hoạt động,Activity,0
+messages,oro.activitylist.created_at.label,Được tạo vào lúc,Created at,0
+messages,oro.activitylist.data.label,Dữ liệu,Data,0
+messages,oro.activitylist.description.label,Mô tả,Description,0
+messages,oro.activitylist.editor.label,Cập nhật vào lúc,Updated by,0
+messages,oro.activitylist.entity_description,Danh sách hoạt động đại diện,Represent activities list,0
+messages,oro.activitylist.entity_label,Danh sách hoạt động,Activity list,0
