@@ -175,226 +175,226 @@ messages,oro.attachment.file.filename.label,Tên tệp,File name,0
 messages,oro.attachment.file.filepath.label,Đường dẫn tập tin,File path,0
 messages,oro.attachment.file.id.label,ID,Id,0
 messages,oro.attachment.file.label,Tập tin,File,0
-messages,oro.attachment.file.mime_type.description,,"A media type and subtype of the file. Allowed MIME types are ""image/*"", ""application/pdf"", ""application/zip"", ""application/x-gzip"", ""application/msword"", ""application/vnd.openxmlformats-officedocument.wordprocessingml.document"", ""application/vnd.ms-excel"", ""application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"", ""application/vnd.ms-powerpoint"", ""application/vnd.openxmlformats-officedocument.presentationml.presentation"".",0
-messages,oro.attachment.file.mime_type.label,,Mime type,0
-messages,oro.attachment.file.original_filename.description,,The name of the file uploaded to the system.,0
-messages,oro.attachment.file.original_filename.label,,Original file name,0
-messages,oro.attachment.file.owner.description,,An user who is the owner of the file.,0
-messages,oro.attachment.file.owner.label,,Owner,0
-messages,oro.attachment.formatter.image_link.default,,N/A,0
-messages,oro.attachment.id.label,,Id,0
-messages,oro.attachment.max_size.tooltip,,Max allowed file size to upload in MB.,0
-messages,oro.attachment.maxsize,,"Max allowed file size, Mb",0
-messages,oro.attachment.mimetypes,,Allowed MIME types,0
-messages,oro.attachment.mimetypes.tooltip,,"The format of MIME types must follow the examples: application/pdf, image/*",0
-messages,oro.attachment.organization.label,,Organization,0
-messages,oro.attachment.owner.label,,Owner,0
-messages,oro.attachment.thumb_height.tooltip,,Thumbnail height in pixels.,0
-messages,oro.attachment.thumb_width.tooltip,,Thumbnail width in pixels.,0
-messages,oro.auth.copy,,"© 2018 Oro, Inc. All Rights Reserved",0
-messages,oro.auth.description.logo,,OroCRM,0
-messages,oro.auth.description.main,,The CRM for Marketing and Sales,0
-messages,oro.auth.description.text,,"All the Features Required to Boost Sales, Optimize Marketing, and Increase Customer Satisfaction",0
-messages,oro.business_unit.controller.message.saved,,Business Unit saved,0
-messages,oro.business_unit.dashboard.current_business_unit,,Current user's business unit,0
-messages,oro.business_unit.datagrid.action.delete,,Delete,0
-messages,oro.business_unit.datagrid.action.update,,Update,0
-messages,oro.business_unit.datagrid.action.view,,View,0
-messages,oro.business_unit.datagrid.has_business_unit,,Has business unit,0
-messages,oro.business_unit.datagrid.owner,,Owner Business Unit,0
-messages,oro.business_unit.form.choose_business_user,,Choose a business unit...,0
-messages,oro.business_unit.form.none_business_user,,None,0
-messages,oro.business_unit.label,,Business Unit,0
-messages,oro.business_unit.menu.list.description,,List of business units,0
-messages,oro.cache.invalidate.action.cancel,,Cancel,0
-messages,oro.cache.invalidate.action.remove,,Remove Scheduled Invalidation,0
-messages,oro.cache.invalidate.action.submit,,Submit,0
-messages,oro.cache.invalidate.at.label,,at,0
-messages,oro.cache.invalidate.flash.invalidate_success,,Cache was successfully invalidated,0
-messages,oro.cache.invalidate.flash.save_success,,Cache settings have been saved,0
-messages,oro.cache.invalidate.invalidate_cache_at.label,,Invalidate cache at,0
-messages,oro.cache.invalidate.invalidate_now.label,,Invalidate Now,0
-messages,oro.cache.invalidate.invalidate_service.label,,Invalidate Cache Service,0
-messages,oro.cache.invalidate.label,,Invalidate cache,0
-messages,oro.cache.invalidate.type.immediate,,Now,0
-messages,oro.cache.invalidate.type.scheduled,,Schedule Invalidation,0
-messages,oro.calendar.action.calendar_event_assign.description,,Enables a user to assign Calendar Events to users' calendars,0
-messages,oro.calendar.action.calendar_event_assign.label,,Assign calendar events,0
-messages,oro.calendar.action.public_calendar_management.description,,"If set to None, the user cannot view/create/edit/delete system calendars",0
-messages,oro.calendar.action.public_calendar_management.label,,Manage system calendars (and their events),0
-messages,oro.calendar.action.system_calendar_management.description,,"If set to None, the user cannot view/create/edit/delete organization calendars",0
-messages,oro.calendar.action.system_calendar_management.label,,Manage organization calendars (and their events),0
-messages,oro.calendar.add_event,,Add Event,0
-messages,oro.calendar.add_event.title,,Add an event to this record,0
-messages,oro.calendar.add_to_calendar,,Add to %name%,0
-messages,oro.calendar.assign_event,,Assign Event,0
-messages,oro.calendar.assign_event.title,,Assign an event to this user,0
-messages,oro.calendar.assign_event.widget_title,,Assign Event to %username%,0
-messages,oro.calendar.attendee.calendar_event.label,,Calendar Event,0
-messages,oro.calendar.attendee.display_name.label,,Display Name,0
-messages,oro.calendar.attendee.email.label,,Email,0
-messages,oro.calendar.attendee.entity_label,,Attendee,0
-messages,oro.calendar.attendee.entity_plural_label,,Attendees,0
-messages,oro.calendar.attendee.id.label,,Id,0
-messages,oro.calendar.attendee.status.label,,Status,0
-messages,oro.calendar.attendee.type.label,,Type,0
-messages,oro.calendar.attendee.type.optional.label,,Optional,0
-messages,oro.calendar.attendee.type.organizer.label,,Organizer,0
-messages,oro.calendar.attendee.type.required.label,,Required,0
-messages,oro.calendar.attendee.user.label,,User,0
-messages,oro.calendar.autocomplete.attendees,,Calendar event Guests,0
-messages,oro.calendar.calendarevent.action.going_status.accepted.label,,Yes,0
-messages,oro.calendar.calendarevent.action.going_status.declined.label,,No,0
-messages,oro.calendar.calendarevent.action.going_status.label,,Going?,0
-messages,oro.calendar.calendarevent.action.going_status.tentative.label,,Maybe,0
-messages,oro.calendar.calendarevent.action.status.accepted.label,,Accept,0
-messages,oro.calendar.calendarevent.action.status.declined.label,,Decline,0
-messages,oro.calendar.calendarevent.action.status.tentative.label,,Tentative,0
-messages,oro.calendar.calendarevent.added_by,,added by {{ user }},0
-messages,oro.calendar.calendarevent.all_day.label,,All-day event,0
-messages,oro.calendar.calendarevent.attendees.label,,Guests,0
-messages,oro.calendar.calendarevent.background_color.label,,Color,0
-messages,oro.calendar.calendarevent.calendar.label,,Calendar,0
-messages,oro.calendar.calendarevent.cancelled.label,,Is Cancelled,0
-messages,oro.calendar.calendarevent.child_events.label,,Child events,0
-messages,oro.calendar.calendarevent.delete_event,,Delete {{ entity }},0
-messages,oro.calendar.calendarevent.description.label,,Description,0
-messages,oro.calendar.calendarevent.end.label,,End,0
-messages,oro.calendar.calendarevent.entity_description,,Represent calendar event,0
-messages,oro.calendar.calendarevent.entity_label,,Calendar event,0
-messages,oro.calendar.calendarevent.entity_plural_label,,Calendar Events,0
-messages,oro.calendar.calendarevent.id.label,,Id,0
-messages,oro.calendar.calendarevent.invitation_status.label,,Invitation status,0
-messages,oro.calendar.calendarevent.is_organizer.label,,Is Organizer,0
-messages,oro.calendar.calendarevent.na.label,,N/A,0
-messages,oro.calendar.calendarevent.no_color,,Use calendar color,0
-messages,oro.calendar.calendarevent.organizer.label,,Organizer,0
-messages,oro.calendar.calendarevent.organizer_display_name.label,,Organizer Display Name,0
-messages,oro.calendar.calendarevent.organizer_email.label,,Organizer Email,0
-messages,oro.calendar.calendarevent.organizer_user.label,,Organizer User,0
-messages,oro.calendar.calendarevent.original_start.label,,Original Start,0
-messages,oro.calendar.calendarevent.owner.label,,Owner,0
-messages,oro.calendar.calendarevent.parent.label,,Parent,0
-messages,oro.calendar.calendarevent.recurrence.alias.recurrent,,Recurrent,0
-messages,oro.calendar.calendarevent.recurrence.exception.label,,Part of Series,0
-messages,oro.calendar.calendarevent.recurrence.label,,Recurrence,0
-messages,oro.calendar.calendarevent.recurrence.na,,N/A,0
-messages,oro.calendar.calendarevent.recurring_event.label,,Recurring Event,0
-messages,oro.calendar.calendarevent.recurring_event_exceptions.label,,Recurring Event Exceptions,0
-messages,oro.calendar.calendarevent.related_attendee.label,,Related Attendee,0
-messages,oro.calendar.calendarevent.start.label,,Start,0
-messages,oro.calendar.calendarevent.statuses.accepted.label,,Accepted,0
-messages,oro.calendar.calendarevent.statuses.declined.label,,Declined,0
-messages,oro.calendar.calendarevent.statuses.none.label,,Not responded,0
-messages,oro.calendar.calendarevent.statuses.tentative.label,,Tentatively accepted,0
-messages,oro.calendar.calendarevent.system_calendar.label,,System Calendar,0
-messages,oro.calendar.calendarevent.title.label,,Title,0
-messages,oro.calendar.calendarevent.uid.label,,Uid,0
-messages,oro.calendar.calendarevent.update_event,,Update {{ entity }},0
-messages,oro.calendar.calendarevent.updated_by,,"added by {{ user }}, updated by {{ editor }}",0
-messages,oro.calendar.calendarevent.use_hangout.label,,Call via Hangout,0
-messages,oro.calendar.calendarevent.use_hangout.tooltip,,Please note that Google limits the number of participants in a Hangout. The exact limit depends on your account; the default limit is 5. Only first guests that fit into the limit will be called.,0
-messages,oro.calendar.calendarevent.view_event,,View {{ entity }},0
-messages,oro.calendar.calendarproperty.background_color.label,,Background,0
-messages,oro.calendar.calendarproperty.calendar.label,,Calendar Id,0
-messages,oro.calendar.calendarproperty.calendar_alias.label,,Calendar Alias,0
-messages,oro.calendar.calendarproperty.color.label,,Color,0
-messages,oro.calendar.calendarproperty.entity_description,,Represent different kind of user's properties for a calendar,0
-messages,oro.calendar.calendarproperty.entity_label,,Calendar property,0
-messages,oro.calendar.calendarproperty.entity_plural_label,,Calendar properties,0
-messages,oro.calendar.calendarproperty.id.label,,Id,0
-messages,oro.calendar.calendarproperty.position.label,,Position,0
-messages,oro.calendar.calendarproperty.target_calendar.label,,Target Calendar,0
-messages,oro.calendar.calendarproperty.visible.label,,Visible,0
-messages,oro.calendar.context.edit_color,,Edit color...,0
-messages,oro.calendar.context.hide,,Hide calendar,0
-messages,oro.calendar.context.remove,,Remove calendar,0
-messages,oro.calendar.context.show,,Show calendar,0
-messages,oro.calendar.control.all_day,,,0
-messages,oro.calendar.control.day,,day,0
-messages,oro.calendar.control.month,,month,0
-messages,oro.calendar.control.today,,today,0
-messages,oro.calendar.control.week,,week,0
-messages,oro.calendar.controller.event.saved.message,,Calendar event saved,0
-messages,oro.calendar.controller.systemcalendar.saved.message,,Calendar saved,0
-messages,oro.calendar.delete_event.confirmation,,Are you sure you want to delete this event?,0
-messages,oro.calendar.delete_event.title,,Delete event,0
-messages,oro.calendar.entity_description,,Represent user's calendar,0
-messages,oro.calendar.entity_label,,Calendar,0
-messages,oro.calendar.entity_plural_label,,Calendars,0
-messages,oro.calendar.events.label,,Events,0
-messages,oro.calendar.form.choose_user_to_add_calendar,,Choose a user to add...,0
-messages,oro.calendar.id.label,,Id,0
-messages,oro.calendar.label_not_available,,N/A,0
-messages,oro.calendar.menu.view_default,,My Calendar,0
-messages,oro.calendar.my_calendar,,My Calendar,0
-messages,oro.calendar.my_calendar_widget_description,,This widget displays a calendar for today.,0
-messages,oro.calendar.my_calendar_widget_title,,Today's Calendar,0
-messages,oro.calendar.name.label,,Name,0
-messages,oro.calendar.organization.label,,Organization,0
-messages,oro.calendar.organization_calendar,,Organization Calendar,0
-messages,oro.calendar.owner.label,,Owner,0
-messages,oro.calendar.print,,Print,0
-messages,oro.calendar.recurrence.day_of_month.label,,Day of month,0
-messages,oro.calendar.recurrence.day_of_week.label,,Day of week,0
-messages,oro.calendar.recurrence.days.day,,day,0
-messages,oro.calendar.recurrence.days.friday,,Friday,0
-messages,oro.calendar.recurrence.days.monday,,Monday,0
-messages,oro.calendar.recurrence.days.saturday,,Saturday,0
-messages,oro.calendar.recurrence.days.sunday,,Sunday,0
-messages,oro.calendar.recurrence.days.thursday,,Thursday,0
-messages,oro.calendar.recurrence.days.tuesday,,Tuesday,0
-messages,oro.calendar.recurrence.days.wednesday,,Wednesday,0
-messages,oro.calendar.recurrence.days.weekday,,weekday,0
-messages,oro.calendar.recurrence.days.weekend,,weekend,0
-messages,oro.calendar.recurrence.end_time.label,,End time,0
-messages,oro.calendar.recurrence.entity_label,,Recurrence,0
-messages,oro.calendar.recurrence.entity_plural_label,,Recurrences,0
-messages,oro.calendar.recurrence.instance.label,,Instance,0
-messages,oro.calendar.recurrence.instances.first,,First,0
-messages,oro.calendar.recurrence.instances.fourth,,Fourth,0
-messages,oro.calendar.recurrence.instances.last,,Last,0
-messages,oro.calendar.recurrence.instances.second,,Second,0
-messages,oro.calendar.recurrence.instances.third,,Third,0
-messages,oro.calendar.recurrence.interval.label,,Interval,0
-messages,oro.calendar.recurrence.month_of_year.label,,Month of year,0
-messages,oro.calendar.recurrence.occurrences.label,,Occurrences,0
-messages,oro.calendar.recurrence.patterns.daily,,"{1} Daily every 1 day%occurrences%%end_date%%timezone_info%|]1,Inf[ Daily every %count% days%occurrences%%end_date%%timezone_info%",0
-messages,oro.calendar.recurrence.patterns.end_date,,", end by %date%",0
-messages,oro.calendar.recurrence.patterns.monthly,,"{1} Monthly day %day% of every 1 month%occurrences%%end_date%%timezone_info%|]1,Inf[ Monthly day %day% of every %count% months%occurrences%%end_date%%timezone_info%",0
-messages,oro.calendar.recurrence.patterns.monthnth,,"{1} Monthly the %instance% %day% of every 1 month%occurrences%%end_date%%timezone_info%|]1,Inf[ Monthly the %instance% %day% of every %count% months%occurrences%%end_date%%timezone_info%",0
-messages,oro.calendar.recurrence.patterns.occurrences,,"{1} , end after 1 occurrence|]1,Inf[ , end after %count% occurrences",0
-messages,oro.calendar.recurrence.patterns.timezone,,(%timezone% GMT%timezone_offset%),0
-messages,oro.calendar.recurrence.patterns.weekday,,"Daily, every weekday%occurrences%%end_date%%timezone_info%",0
-messages,oro.calendar.recurrence.patterns.weekly,,"{1} Weekly every 1 week on %days%%occurrences%%end_date%%timezone_info%|]1,Inf[ Weekly every %count% weeks on %days%%occurrences%%end_date%%timezone_info%",0
-messages,oro.calendar.recurrence.patterns.yearly,,"{1} Yearly every 1 year on %day%%occurrences%%end_date%%timezone_info%|]1,Inf[ Yearly every %count% years on %day%%occurrences%%end_date%%timezone_info%",0
-messages,oro.calendar.recurrence.patterns.yearnth,,"{1} Yearly every 1 year on the %instance% %day% of %month%%occurrences%%end_date%%timezone_info%|]1,Inf[ Yearly every %count% years on the %instance% %day% of %month%%occurrences%%end_date%%timezone_info%",0
-messages,oro.calendar.recurrence.start_time.label,,Start time,0
-messages,oro.calendar.recurrence.timezone.label,,Time Zone,0
-messages,oro.calendar.recurrence.type.label,,Recurrence type,0
-messages,oro.calendar.recurrence.types.daily,,Daily,0
-messages,oro.calendar.recurrence.types.monthly,,Monthly,0
-messages,oro.calendar.recurrence.types.monthnth,,Monthnth,0
-messages,oro.calendar.recurrence.types.weekly,,Weekly,0
-messages,oro.calendar.recurrence.types.yearly,,Yearly,0
-messages,oro.calendar.recurrence.types.yearnth,,Yearnth,0
-messages,oro.calendar.reminder_template.due_message,,is starting at,0
-messages,oro.calendar.system_configuration.fields.calendar_colors.label,,Calendar colors,0
-messages,oro.calendar.system_configuration.fields.event_colors.label,,Event colors,0
-messages,oro.calendar.system_configuration.groups.calendar_settings.title,,Calendar settings,0
-messages,oro.calendar.systemcalendar.background_color.label,,Color,0
-messages,oro.calendar.systemcalendar.entity_description,,Represent system calendar,0
-messages,oro.calendar.systemcalendar.entity_label,,System Calendar,0
-messages,oro.calendar.systemcalendar.entity_plural_label,,System Calendars,0
-messages,oro.calendar.systemcalendar.events.label,,Events,0
-messages,oro.calendar.systemcalendar.extend_description.label,,Description,0
-messages,oro.calendar.systemcalendar.id.label,,Id,0
-messages,oro.calendar.systemcalendar.name.label,,Calendar Name,0
-messages,oro.calendar.systemcalendar.no_color,,Assign automatically,0
-messages,oro.calendar.systemcalendar.organization.label,,Organization,0
-messages,oro.calendar.systemcalendar.public.label,,Scope,0
-messages,oro.calendar.systemcalendar.scope.organization,,Organization,0
-messages,oro.calendar.systemcalendar.scope.system,,System,0
-messages,oro.calendar.view,,View event,0
-messages,oro.calendar.view_events,,Events,0
-messages,oro.call.block.additional,,Additional,0
+messages,oro.attachment.file.mime_type.description,"Loại đa phương tiện và loại phụ của tệp. Các loại MIME được phép là ""image/*"", ""application/pdf"", ""application/zip"", ""application/x-gzip"", ""application/msword"", ""application/vnd.openxmlformats-officedocument.wordprocessingml.document"", ""application/vnd.ms-excel"", ""application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"", ""application/vnd.ms-powerpoint"", ""application/vnd.openxmlformats-officedocument.presentationml.presentation"".","A media type and subtype of the file. Allowed MIME types are ""image/*"", ""application/pdf"", ""application/zip"", ""application/x-gzip"", ""application/msword"", ""application/vnd.openxmlformats-officedocument.wordprocessingml.document"", ""application/vnd.ms-excel"", ""application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"", ""application/vnd.ms-powerpoint"", ""application/vnd.openxmlformats-officedocument.presentationml.presentation"".",0
+messages,oro.attachment.file.mime_type.label,Loại Mime,Mime type,0
+messages,oro.attachment.file.original_filename.description,Tên của tệp được tải lên hệ thống.,The name of the file uploaded to the system.,0
+messages,oro.attachment.file.original_filename.label,Tên tệp gốc,Original file name,0
+messages,oro.attachment.file.owner.description,Người dùng là chủ sở hữu của tệp.,An user who is the owner of the file.,0
+messages,oro.attachment.file.owner.label,Chủ nhân,Owner,0
+messages,oro.attachment.formatter.image_link.default,Không áp dụng,N/A,0
+messages,oro.attachment.id.label,ID,Id,0
+messages,oro.attachment.max_size.tooltip,Kích thước tệp tối đa được phép tải lên tính bằng MB.,Max allowed file size to upload in MB.,0
+messages,oro.attachment.maxsize,"Kích thước tệp tối đa được phép, Mb","Max allowed file size, Mb",0
+messages,oro.attachment.mimetypes,Các loại MIME được phép,Allowed MIME types,0
+messages,oro.attachment.mimetypes.tooltip,"Định dạng của các loại MIME phải tuân theo các ví dụ: application/pdf, image/*","The format of MIME types must follow the examples: application/pdf, image/*",0
+messages,oro.attachment.organization.label,Cơ quan,Organization,0
+messages,oro.attachment.owner.label,Chủ nhân,Owner,0
+messages,oro.attachment.thumb_height.tooltip,Chiều cao hình thu nhỏ tính bằng pixel.,Thumbnail height in pixels.,0
+messages,oro.attachment.thumb_width.tooltip,Chiều rộng hình thu nhỏ tính theo pixel.,Thumbnail width in pixels.,0
+messages,oro.auth.copy,"© 2018 Oro, Inc. Mọi quyền được bảo lưu","© 2018 Oro, Inc. All Rights Reserved",0
+messages,oro.auth.description.logo,OroCRM,OroCRM,0
+messages,oro.auth.description.main,CRM cho tiếp thị và bán hàng,The CRM for Marketing and Sales,0
+messages,oro.auth.description.text,"Tất cả các tính năng cần thiết để tăng cường bán hàng, tối ưu hóa tiếp thị và tăng sự hài lòng của khách hàng","All the Features Required to Boost Sales, Optimize Marketing, and Increase Customer Satisfaction",0
+messages,oro.business_unit.controller.message.saved,Đơn vị kinh doanh (Business Unit) đã được lưu,Business Unit saved,0
+messages,oro.business_unit.dashboard.current_business_unit,Đơn vị kinh doanh (Business Unit) của người dùng hiện tại,Current user's business unit,0
+messages,oro.business_unit.datagrid.action.delete,Xóa bỏ,Delete,0
+messages,oro.business_unit.datagrid.action.update,Cập nhật,Update,0
+messages,oro.business_unit.datagrid.action.view,Lượt xem,View,0
+messages,oro.business_unit.datagrid.has_business_unit,Có đơn vị kinh doanh,Has business unit,0
+messages,oro.business_unit.datagrid.owner,Đơn vị kinh doanh chủ nhân,Owner Business Unit,0
+messages,oro.business_unit.form.choose_business_user,Chọn nhân viên kinh doanh ...,Choose a business unit...,0
+messages,oro.business_unit.form.none_business_user,không phải nhân viên kinh doanh,None,0
+messages,oro.business_unit.label,Đơn vị kinh doanh,Business Unit,0
+messages,oro.business_unit.menu.list.description,Danh sách các đơn vị kinh doanh,List of business units,0
+messages,oro.cache.invalidate.action.cancel,Hủy bỏ,Cancel,0
+messages,oro.cache.invalidate.action.remove,Xóa bỏ hiệu lực theo lịch,Remove Scheduled Invalidation,0
+messages,oro.cache.invalidate.action.submit,Gửi đi,Submit,0
+messages,oro.cache.invalidate.at.label,tại,at,0
+messages,oro.cache.invalidate.flash.invalidate_success,Đã vô hiệu hóa thành công bộ nhớ cache,Cache was successfully invalidated,0
+messages,oro.cache.invalidate.flash.save_success,Đã lưu cài đặt bộ nhớ cache,Cache settings have been saved,0
+messages,oro.cache.invalidate.invalidate_cache_at.label,Vô hiệu bộ nhớ cache tại,Invalidate cache at,0
+messages,oro.cache.invalidate.invalidate_now.label,Vô hiệu hóa ngay,Invalidate Now,0
+messages,oro.cache.invalidate.invalidate_service.label,Dịch vụ bộ nhớ cache không hợp lệ,Invalidate Cache Service,0
+messages,oro.cache.invalidate.label,Bộ nhớ cache không hợp lệ,Invalidate cache,0
+messages,oro.cache.invalidate.type.immediate,Hiện nay,Now,0
+messages,oro.cache.invalidate.type.scheduled,Lập lịch bỏ hiệu lực,Schedule Invalidation,0
+messages,oro.calendar.action.calendar_event_assign.description,Cho phép người dùng gán Lịch sự kiện cho lịch của người dùng,Enables a user to assign Calendar Events to users' calendars,0
+messages,oro.calendar.action.calendar_event_assign.label,Gán các sự kiện lịch,Assign calendar events,0
+messages,oro.calendar.action.public_calendar_management.description,"Nếu được đặt thành Không, người dùng không thể xem / tạo / chỉnh sửa / xóa lịch hệ thống","If set to None, the user cannot view/create/edit/delete system calendars",0
+messages,oro.calendar.action.public_calendar_management.label,Quản lý lịch hệ thống (và các sự kiện của họ),Manage system calendars (and their events),0
+messages,oro.calendar.action.system_calendar_management.description,"Nếu được đặt thành Không, người dùng không thể xem / tạo / chỉnh sửa / xóa lịch tổ chức","If set to None, the user cannot view/create/edit/delete organization calendars",0
+messages,oro.calendar.action.system_calendar_management.label,Quản lý lịch tổ chức (và các sự kiện của họ),Manage organization calendars (and their events),0
+messages,oro.calendar.add_event,Thêm sự kiện,Add Event,0
+messages,oro.calendar.add_event.title,Thêm sự kiện vào hồ sơ này,Add an event to this record,0
+messages,oro.calendar.add_to_calendar,Thêm vào %name%,Add to %name%,0
+messages,oro.calendar.assign_event,Chỉ định sự kiện,Assign Event,0
+messages,oro.calendar.assign_event.title,Chỉ định một sự kiện cho người dùng này,Assign an event to this user,0
+messages,oro.calendar.assign_event.widget_title,Gán sự kiện cho %username%,Assign Event to %username%,0
+messages,oro.calendar.attendee.calendar_event.label,Sự kiện lịch,Calendar Event,0
+messages,oro.calendar.attendee.display_name.label,Tên hiển thị,Display Name,0
+messages,oro.calendar.attendee.email.label,E-mail,Email,0
+messages,oro.calendar.attendee.entity_label,Người tham dự,Attendee,0
+messages,oro.calendar.attendee.entity_plural_label,Những người tham dự,Attendees,0
+messages,oro.calendar.attendee.id.label,ID,Id,0
+messages,oro.calendar.attendee.status.label,Trạng thái,Status,0
+messages,oro.calendar.attendee.type.label,Kiểu,Type,0
+messages,oro.calendar.attendee.type.optional.label,Không bắt buộc,Optional,0
+messages,oro.calendar.attendee.type.organizer.label,Người tổ chức,Organizer,0
+messages,oro.calendar.attendee.type.required.label,Cần thiết,Required,0
+messages,oro.calendar.attendee.user.label,Người dùng,User,0
+messages,oro.calendar.autocomplete.attendees,Khách tham gia Sự kiện,Calendar event Guests,0
+messages,oro.calendar.calendarevent.action.going_status.accepted.label,Đồng ý,Yes,0
+messages,oro.calendar.calendarevent.action.going_status.declined.label,Không,No,0
+messages,oro.calendar.calendarevent.action.going_status.label,Sẽ đi?,Going?,0
+messages,oro.calendar.calendarevent.action.going_status.tentative.label,Có lẽ,Maybe,0
+messages,oro.calendar.calendarevent.action.status.accepted.label,Chấp nhận,Accept,0
+messages,oro.calendar.calendarevent.action.status.declined.label,Từ chối,Decline,0
+messages,oro.calendar.calendarevent.action.status.tentative.label,Chưa chốt,Tentative,0
+messages,oro.calendar.calendarevent.added_by,được thêm bởi {{ user }},added by {{ user }},0
+messages,oro.calendar.calendarevent.all_day.label,Sự kiện cả ngày,All-day event,0
+messages,oro.calendar.calendarevent.attendees.label,Khách,Guests,0
+messages,oro.calendar.calendarevent.background_color.label,Màu,Color,0
+messages,oro.calendar.calendarevent.calendar.label,Lịch,Calendar,0
+messages,oro.calendar.calendarevent.cancelled.label,Bị hủy,Is Cancelled,0
+messages,oro.calendar.calendarevent.child_events.label,Sự kiện trẻ em,Child events,0
+messages,oro.calendar.calendarevent.delete_event,Xóa {{ entity }},Delete {{ entity }},0
+messages,oro.calendar.calendarevent.description.label,Sự miêu tả,Description,0
+messages,oro.calendar.calendarevent.end.label,Kết thúc,End,0
+messages,oro.calendar.calendarevent.entity_description,Đại diện cho sự kiện lịch,Represent calendar event,0
+messages,oro.calendar.calendarevent.entity_label,Sự kiện,Calendar event,0
+messages,oro.calendar.calendarevent.entity_plural_label,Những sự kiện,Calendar Events,0
+messages,oro.calendar.calendarevent.id.label,ID,Id,0
+messages,oro.calendar.calendarevent.invitation_status.label,Trạng thái lời mời,Invitation status,0
+messages,oro.calendar.calendarevent.is_organizer.label,Là người tổ chức,Is Organizer,0
+messages,oro.calendar.calendarevent.na.label,Không áp dụng,N/A,0
+messages,oro.calendar.calendarevent.no_color,Sử dụng màu lịch,Use calendar color,0
+messages,oro.calendar.calendarevent.organizer.label,Người tổ chức,Organizer,0
+messages,oro.calendar.calendarevent.organizer_display_name.label,Tên hiển thị của tổ chức,Organizer Display Name,0
+messages,oro.calendar.calendarevent.organizer_email.label,Email của người tổ chức,Organizer Email,0
+messages,oro.calendar.calendarevent.organizer_user.label,Người dùng tổ chức,Organizer User,0
+messages,oro.calendar.calendarevent.original_start.label,Bắt đầu ban đầu,Original Start,0
+messages,oro.calendar.calendarevent.owner.label,Chủ nhân,Owner,0
+messages,oro.calendar.calendarevent.parent.label,Cha mẹ,Parent,0
+messages,oro.calendar.calendarevent.recurrence.alias.recurrent,Định kỳ,Recurrent,0
+messages,oro.calendar.calendarevent.recurrence.exception.label,Một phần của chuỗi sự kiện,Part of Series,0
+messages,oro.calendar.calendarevent.recurrence.label,Cách lặp lại,Recurrence,0
+messages,oro.calendar.calendarevent.recurrence.na,Không áp dụng,N/A,0
+messages,oro.calendar.calendarevent.recurring_event.label,Sự kiện định kỳ,Recurring Event,0
+messages,oro.calendar.calendarevent.recurring_event_exceptions.label,Trường hợp ngoại lệ sự kiện định kỳ,Recurring Event Exceptions,0
+messages,oro.calendar.calendarevent.related_attendee.label,Người tham dự có liên quan,Related Attendee,0
+messages,oro.calendar.calendarevent.start.label,Khởi đầu,Start,0
+messages,oro.calendar.calendarevent.statuses.accepted.label,Đã chấp nhận,Accepted,0
+messages,oro.calendar.calendarevent.statuses.declined.label,Bị từ chối,Declined,0
+messages,oro.calendar.calendarevent.statuses.none.label,Chưa trả lời,Not responded,0
+messages,oro.calendar.calendarevent.statuses.tentative.label,Tạm chấp nhận,Tentatively accepted,0
+messages,oro.calendar.calendarevent.system_calendar.label,Lịch hệ thống,System Calendar,0
+messages,oro.calendar.calendarevent.title.label,Chức vụ,Title,0
+messages,oro.calendar.calendarevent.uid.label,Uid,Uid,0
+messages,oro.calendar.calendarevent.update_event,Cập nhật {{ entity }},Update {{ entity }},0
+messages,oro.calendar.calendarevent.updated_by,"được thêm bởi {{ user }}, được cập nhật bởi {{ editor }}","added by {{ user }}, updated by {{ editor }}",0
+messages,oro.calendar.calendarevent.use_hangout.label,Gọi qua Hangout,Call via Hangout,0
+messages,oro.calendar.calendarevent.use_hangout.tooltip,Xin lưu ý rằng Google giới hạn số lượng người tham gia trong một Hangout. Giới hạn chính xác tùy thuộc vào tài khoản của bạn; giới hạn mặc định là 5. Chỉ những khách đầu tiên phù hợp với giới hạn sẽ được gọi.,Please note that Google limits the number of participants in a Hangout. The exact limit depends on your account; the default limit is 5. Only first guests that fit into the limit will be called.,0
+messages,oro.calendar.calendarevent.view_event,Xem {{ entity }},View {{ entity }},0
+messages,oro.calendar.calendarproperty.background_color.label,Lý lịch,Background,0
+messages,oro.calendar.calendarproperty.calendar.label,ID lịch,Calendar Id,0
+messages,oro.calendar.calendarproperty.calendar_alias.label,Tên khác của lịch,Calendar Alias,0
+messages,oro.calendar.calendarproperty.color.label,Màu,Color,0
+messages,oro.calendar.calendarproperty.entity_description,Trình bày các loại thuộc tính của người dùng khác nhau cho một lịch,Represent different kind of user's properties for a calendar,0
+messages,oro.calendar.calendarproperty.entity_label,Thuộc tính lịch,Calendar property,0
+messages,oro.calendar.calendarproperty.entity_plural_label,Các thuộc tính lịch,Calendar properties,0
+messages,oro.calendar.calendarproperty.id.label,ID,Id,0
+messages,oro.calendar.calendarproperty.position.label,Chức vụ,Position,0
+messages,oro.calendar.calendarproperty.target_calendar.label,Lịch mục tiêu,Target Calendar,0
+messages,oro.calendar.calendarproperty.visible.label,Có thể nhìn thấy,Visible,0
+messages,oro.calendar.context.edit_color,Chỉnh sửa màu ...,Edit color...,0
+messages,oro.calendar.context.hide,Ẩn lịch,Hide calendar,0
+messages,oro.calendar.context.remove,Xóa lịch,Remove calendar,0
+messages,oro.calendar.context.show,Hiển thị lịch,Show calendar,0
+messages,oro.calendar.control.all_day,mọi ngày,All,0
+messages,oro.calendar.control.day,ngày,day,0
+messages,oro.calendar.control.month,tháng,month,0
+messages,oro.calendar.control.today,hôm nay,today,0
+messages,oro.calendar.control.week,tuần,week,0
+messages,oro.calendar.controller.event.saved.message,Đã lưu sự kiện lịch,Calendar event saved,0
+messages,oro.calendar.controller.systemcalendar.saved.message,Đã lưu lịch,Calendar saved,0
+messages,oro.calendar.delete_event.confirmation,Bạn có chắc chắn muốn xóa sự kiện này?,Are you sure you want to delete this event?,0
+messages,oro.calendar.delete_event.title,Xóa sự kiện,Delete event,0
+messages,oro.calendar.entity_description,Đại diện cho lịch của người dùng,Represent user's calendar,0
+messages,oro.calendar.entity_label,Lịch,Calendar,0
+messages,oro.calendar.entity_plural_label,Lịch,Calendars,0
+messages,oro.calendar.events.label,Sự kiện,Events,0
+messages,oro.calendar.form.choose_user_to_add_calendar,Chọn người dùng để thêm ...,Choose a user to add...,0
+messages,oro.calendar.id.label,ID,Id,0
+messages,oro.calendar.label_not_available,Không áp dụng,N/A,0
+messages,oro.calendar.menu.view_default,Lịch của tôi,My Calendar,0
+messages,oro.calendar.my_calendar,Lịch của tôi,My Calendar,0
+messages,oro.calendar.my_calendar_widget_description,Tiện ích này hiển thị lịch cho ngày hôm nay.,This widget displays a calendar for today.,0
+messages,oro.calendar.my_calendar_widget_title,Lịch hôm nay,Today's Calendar,0
+messages,oro.calendar.name.label,Tên,Name,0
+messages,oro.calendar.organization.label,Cơ quan,Organization,0
+messages,oro.calendar.organization_calendar,Lịch của cơ quan,Organization Calendar,0
+messages,oro.calendar.owner.label,Chủ nhân,Owner,0
+messages,oro.calendar.print,In,Print,0
+messages,oro.calendar.recurrence.day_of_month.label,Ngày trong tháng,Day of month,0
+messages,oro.calendar.recurrence.day_of_week.label,Ngày trong tuần,Day of week,0
+messages,oro.calendar.recurrence.days.day,ngày,day,0
+messages,oro.calendar.recurrence.days.friday,Thứ sáu,Friday,0
+messages,oro.calendar.recurrence.days.monday,Thứ hai,Monday,0
+messages,oro.calendar.recurrence.days.saturday,Thứ bảy,Saturday,0
+messages,oro.calendar.recurrence.days.sunday,Chủ nhật,Sunday,0
+messages,oro.calendar.recurrence.days.thursday,Thứ năm,Thursday,0
+messages,oro.calendar.recurrence.days.tuesday,Thứ ba,Tuesday,0
+messages,oro.calendar.recurrence.days.wednesday,Thứ tư,Wednesday,0
+messages,oro.calendar.recurrence.days.weekday,ngày trong tuần,weekday,0
+messages,oro.calendar.recurrence.days.weekend,ngày cuối tuần,weekend,0
+messages,oro.calendar.recurrence.end_time.label,Thời gian kết thúc,End time,0
+messages,oro.calendar.recurrence.entity_label,Lần tái xuất,Recurrence,0
+messages,oro.calendar.recurrence.entity_plural_label,Những lần tái xuất,Recurrences,0
+messages,oro.calendar.recurrence.instance.label,Ví dụ,Instance,0
+messages,oro.calendar.recurrence.instances.first,Thứ nhất,First,0
+messages,oro.calendar.recurrence.instances.fourth,Thứ tư,Fourth,0
+messages,oro.calendar.recurrence.instances.last,Cuối cùng,Last,0
+messages,oro.calendar.recurrence.instances.second,Thứ nhì,Second,0
+messages,oro.calendar.recurrence.instances.third,Thứ ba,Third,0
+messages,oro.calendar.recurrence.interval.label,Khoảng thời gian,Interval,0
+messages,oro.calendar.recurrence.month_of_year.label,Tháng trong năm,Month of year,0
+messages,oro.calendar.recurrence.occurrences.label,Số lần xuất hiện,Occurrences,0
+messages,oro.calendar.recurrence.patterns.daily,"{1} Mỗi ngày %occurrences%%end_date%%timezone_info%|]1,Inf[ Cứ mỗi %count% ngày %occurrences%%end_date%%timezone_info%","{1} Daily every 1 day%occurrences%%end_date%%timezone_info%|]1,Inf[ Daily every %count% days%occurrences%%end_date%%timezone_info%",0
+messages,oro.calendar.recurrence.patterns.end_date,", kết thúc trước %date%",", end by %date%",0
+messages,oro.calendar.recurrence.patterns.monthly,"{1} Cứ vào %day% mỗi 1 tháng %occurrences%%end_date%%timezone_info%|]1,Inf[ Cứ vào ngày %day% mỗi %count% tháng %occurrences%%end_date%%timezone_info%","{1} Monthly day %day% of every 1 month%occurrences%%end_date%%timezone_info%|]1,Inf[ Monthly day %day% of every %count% months%occurrences%%end_date%%timezone_info%",0
+messages,oro.calendar.recurrence.patterns.monthnth,"{1} Cứ vào %instance% %day% mỗi một tháng %occurrences%%end_date%%timezone_info%|]1,Inf[ Cứ vào %instance% %day% mỗi %count% tháng%occurrences%%end_date%%timezone_info%","{1} Monthly the %instance% %day% of every 1 month%occurrences%%end_date%%timezone_info%|]1,Inf[ Monthly the %instance% %day% of every %count% months%occurrences%%end_date%%timezone_info%",0
+messages,oro.calendar.recurrence.patterns.occurrences,"{1} , kết thúc sau 1 lần duy nhất|]1,Inf[ , kết thúc sau %count% Lần","{1} , end after 1 occurrence|]1,Inf[ , end after %count% occurrences",0
+messages,oro.calendar.recurrence.patterns.timezone,(%timezone% GMT%timezone_offset%),(%timezone% GMT%timezone_offset%),0
+messages,oro.calendar.recurrence.patterns.weekday,"Hằng ngày, mỗi ngày trong tuần %occurrences%%end_date%%timezone_info%","Daily, every weekday%occurrences%%end_date%%timezone_info%",0
+messages,oro.calendar.recurrence.patterns.weekly,"{1} Mỗi tuần 1 lần vào ngày %days%%occurrences%%end_date%%timezone_info%|]1,Inf[ Mỗi %count% tuần vào ngày %days%%occurrences%%end_date%%timezone_info%","{1} Weekly every 1 week on %days%%occurrences%%end_date%%timezone_info%|]1,Inf[ Weekly every %count% weeks on %days%%occurrences%%end_date%%timezone_info%",0
+messages,oro.calendar.recurrence.patterns.yearly,"{1} Mỗi năm 1 lần vào ngày %day%%occurrences%%end_date%%timezone_info%|]1,Inf[ Mỗi %count% năm vào ngày %day%%occurrences%%end_date%%timezone_info%","{1} Yearly every 1 year on %day%%occurrences%%end_date%%timezone_info%|]1,Inf[ Yearly every %count% years on %day%%occurrences%%end_date%%timezone_info%",0
+messages,oro.calendar.recurrence.patterns.yearnth,"{1} Mỗi năm 1 lần vào ngày %instance% %day% trong tháng %month%%occurrences%%end_date%%timezone_info%|]1,Inf[ Mỗi %count% năm vào ngày %instance% %day% trong tháng %month%%occurrences%%end_date%%timezone_info%","{1} Yearly every 1 year on the %instance% %day% of %month%%occurrences%%end_date%%timezone_info%|]1,Inf[ Yearly every %count% years on the %instance% %day% of %month%%occurrences%%end_date%%timezone_info%",0
+messages,oro.calendar.recurrence.start_time.label,Thời gian bắt đầu,Start time,0
+messages,oro.calendar.recurrence.timezone.label,Múi giờ,Time Zone,0
+messages,oro.calendar.recurrence.type.label,Loại lặp lại,Recurrence type,0
+messages,oro.calendar.recurrence.types.daily,hằng ngày,Daily,0
+messages,oro.calendar.recurrence.types.monthly,Hàng tháng,Monthly,0
+messages,oro.calendar.recurrence.types.monthnth,Tháng thứ,Monthnth,0
+messages,oro.calendar.recurrence.types.weekly,Hàng tuần,Weekly,0
+messages,oro.calendar.recurrence.types.yearly,Hàng năm,Yearly,0
+messages,oro.calendar.recurrence.types.yearnth,Năm thứ năm,Yearnth,0
+messages,oro.calendar.reminder_template.due_message,đang bắt đầu lúc,is starting at,0
+messages,oro.calendar.system_configuration.fields.calendar_colors.label,Màu lịch,Calendar colors,0
+messages,oro.calendar.system_configuration.fields.event_colors.label,Màu sự kiện,Event colors,0
+messages,oro.calendar.system_configuration.groups.calendar_settings.title,Cài đặt lịch,Calendar settings,0
+messages,oro.calendar.systemcalendar.background_color.label,Màu,Color,0
+messages,oro.calendar.systemcalendar.entity_description,Biểu diễn lịch hệ thống,Represent system calendar,0
+messages,oro.calendar.systemcalendar.entity_label,Lịch hệ thống,System Calendar,0
+messages,oro.calendar.systemcalendar.entity_plural_label,Lịch hệ thống,System Calendars,0
+messages,oro.calendar.systemcalendar.events.label,Sự kiện,Events,0
+messages,oro.calendar.systemcalendar.extend_description.label,Sự miêu tả,Description,0
+messages,oro.calendar.systemcalendar.id.label,ID,Id,0
+messages,oro.calendar.systemcalendar.name.label,Tên lịch,Calendar Name,0
+messages,oro.calendar.systemcalendar.no_color,Gán tự động,Assign automatically,0
+messages,oro.calendar.systemcalendar.organization.label,Cơ quan,Organization,0
+messages,oro.calendar.systemcalendar.public.label,Phạm vi,Scope,0
+messages,oro.calendar.systemcalendar.scope.organization,Cơ quan,Organization,0
+messages,oro.calendar.systemcalendar.scope.system,Hệ thống,System,0
+messages,oro.calendar.view,Xem sự kiện,View event,0
+messages,oro.calendar.view_events,Sự kiện,Events,0
+messages,oro.call.block.additional,Bổ sung,Additional,0

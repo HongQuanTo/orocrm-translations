@@ -1,400 +1,400 @@
-messages,oro.contact.contactaddress.country_name.label,,"Country name",0
-messages,oro.contact.contactaddress.created.description,,"The date and time when the contact address was created.",0
-messages,oro.contact.contactaddress.created.label,,"Created at",0
-messages,oro.contact.contactaddress.entity_description,,"The address configured for the contact.",0
-messages,oro.contact.contactaddress.entity_label,,"Contact Address",0
-messages,oro.contact.contactaddress.entity_plural_label,,"Contact Addresses",0
-messages,oro.contact.contactaddress.first_name.description,,"The first name that is specified in the contact address.",0
-messages,oro.contact.contactaddress.first_name.label,,"First name",0
-messages,oro.contact.contactaddress.id.label,,Id,0
-messages,oro.contact.contactaddress.label.description,,"The label specified for the contact address. The label is used to refer to the contact address on the interface.",0
-messages,oro.contact.contactaddress.label.label,,Label,0
-messages,oro.contact.contactaddress.last_name.description,,"The last name that is specified in the contact address.",0
-messages,oro.contact.contactaddress.last_name.label,,"Last name",0
-messages,oro.contact.contactaddress.middle_name.description,,"The middle name that is specified in the contact address.",0
-messages,oro.contact.contactaddress.middle_name.label,,"Middle name",0
-messages,oro.contact.contactaddress.name_prefix.description,,"The name prefix specified in the contact address.",0
-messages,oro.contact.contactaddress.name_prefix.label,,"Name prefix",0
-messages,oro.contact.contactaddress.name_suffix.description,,"The name suffix specified in the contact address.",0
-messages,oro.contact.contactaddress.name_suffix.label,,"Name suffix",0
-messages,oro.contact.contactaddress.organization.description,,"The organization that is specified in the contact address.",0
-messages,oro.contact.contactaddress.organization.label,,Organization,0
-messages,oro.contact.contactaddress.owner.description,,"The contact who is the owner of the contact address. The contact address is displayed on the view page of this contact.",0
-messages,oro.contact.contactaddress.owner.label,,Owner,0
-messages,oro.contact.contactaddress.postal_code.description,,"The postal code specified in the contact address.",0
-messages,oro.contact.contactaddress.postal_code.label,,"Zip/Postal Code",0
-messages,oro.contact.contactaddress.primary.description,,"Defines whether the contact address is a primary contact address.",0
-messages,oro.contact.contactaddress.primary.label,,Primary,0
-messages,oro.contact.contactaddress.region.description,,"The region specified in the contact address.",0
-messages,oro.contact.contactaddress.region.label,,State,0
-messages,oro.contact.contactaddress.region_code.label,,"State ISO code",0
-messages,oro.contact.contactaddress.region_name.label,,"State name",0
-messages,oro.contact.contactaddress.region_text.label,,State,0
-messages,oro.contact.contactaddress.street.description,,"The first line of the street address. Usually contains the street name and the building number.",0
-messages,oro.contact.contactaddress.street.label,,Street,0
-messages,oro.contact.contactaddress.street2.description,,"The second line of the street address. May contain the appartment number, P.O. box, building name, etc.",0
-messages,oro.contact.contactaddress.street2.label,,"Street 2",0
-messages,oro.contact.contactaddress.types.description,,"The address types (whether it is a billing address, shipping address, or both) configured for the contact address.",0
-messages,oro.contact.contactaddress.types.label,,Types,0
-messages,oro.contact.contactaddress.updated.description,,"The date and time when the contact address was last updated.",0
-messages,oro.contact.contactaddress.updated.label,,"Updated at",0
-messages,oro.contact.contactemail.email.label,,Email,0
-messages,oro.contact.contactemail.entity_description,,"Represent contact's email",0
-messages,oro.contact.contactemail.entity_label,,"Contact Email",0
-messages,oro.contact.contactemail.entity_plural_label,,"Contact Emails",0
-messages,oro.contact.contactemail.id.label,,Id,0
-messages,oro.contact.contactemail.owner.label,,Owner,0
-messages,oro.contact.contactemail.primary.label,,Primary,0
-messages,oro.contact.contactphone.entity_description,,"Represent contact's phone",0
-messages,oro.contact.contactphone.entity_label,,"Contact Phone",0
-messages,oro.contact.contactphone.entity_plural_label,,"Contact Phones",0
-messages,oro.contact.contactphone.id.label,,Id,0
-messages,oro.contact.contactphone.owner.label,,Owner,0
-messages,oro.contact.contactphone.phone.label,,Phone,0
-messages,oro.contact.contactphone.primary.label,,Primary,0
-messages,oro.contact.controller.contact.saved.message,,"Contact saved",0
-messages,oro.contact.controller.contact_group.saved.message,,"Contact Group saved",0
-messages,oro.contact.created_by.description,,"OroCRM user who has created the record.",0
-messages,oro.contact.created_by.label,,"Created By",0
-messages,oro.contact.datagrid.contact_name,,"Contact name",0
-messages,oro.contact.datagrid.delete,,Delete,0
-messages,oro.contact.datagrid.update,,Update,0
-messages,oro.contact.datagrid.view,,View,0
-messages,oro.contact.default_in_accounts.description,,"A collection of accounts where the contact is set as default.",0
-messages,oro.contact.default_in_accounts.label,,"Accounts Default Contact",0
-messages,oro.contact.description.description,,"Extended description of the contact.",0
-messages,oro.contact.description.label,,Description,0
-messages,oro.contact.email.label,,Email,0
-messages,oro.contact.emails.label,,Emails,0
-messages,oro.contact.entity_description,,"Personal information of people with whom a user gets in touch during the business activities.",0
-messages,oro.contact.entity_label,,Contact,0
-messages,oro.contact.entity_plural_label,,Contacts,0
-messages,oro.contact.facebook.description,,"Facebook profile of the contact.",0
-messages,oro.contact.facebook.label,,Facebook,0
-messages,oro.contact.fax.description,,"Fax number of the contact.",0
-messages,oro.contact.fax.label,,Fax,0
-messages,oro.contact.first_name.description,,"First name of the contact person.",0
-messages,oro.contact.first_name.label,,"First name",0
-messages,oro.contact.form.choose_contact,,"Choose a contact...",0
-messages,oro.contact.form.choose_contact_method,,"Choose a contact method...",0
-messages,oro.contact.form.choose_phone,,"Choose a phone...",0
-messages,oro.contact.gender.description,,"Gender of the contact person.",0
-messages,oro.contact.gender.label,,Gender,0
-messages,oro.contact.google_plus.description,,"Google+ profile of the contact.",0
-messages,oro.contact.google_plus.label,,Google+,0
-messages,oro.contact.group.entity_description,,"The set of contacts classed together by some common factor. Contact groups are mainly used to simplify the configuration of filters and segments.",0
-messages,oro.contact.group.entity_label,,"Contact Group",0
-messages,oro.contact.group.entity_plural_label,,"Contact Groups",0
-messages,oro.contact.group.has_group.label,,"Has group",0
-messages,oro.contact.group.id.label,,Id,0
-messages,oro.contact.group.label.description,,"The name used to refer to the contact group on the interface.",0
-messages,oro.contact.group.label.label,,Label,0
-messages,oro.contact.group.manage,,"Manage groups",0
-messages,oro.contact.group.organization.label,,Organization,0
-messages,oro.contact.group.owner.label,,Owner,0
-messages,oro.contact.groups.description,,"Contact groups the contact belongs to.",0
-messages,oro.contact.groups.label,,Groups,0
-messages,oro.contact.id.label,,Id,0
-messages,oro.contact.import.strategy.tooltip,,"<b>Add and Replace</b> strategy adds new contact information from the imported file and updates the existing one. <br> <b>Add strategy</b> does not change existing records. All contacts are added as new records allowing duplicates.",0
-messages,oro.contact.job_title.description,,"Job title of the contact person within their organization.",0
-messages,oro.contact.job_title.label,,"Job Title",0
-messages,oro.contact.last_name.description,,"Last name of the contact person.",0
-messages,oro.contact.last_name.label,,"Last name",0
-messages,oro.contact.linked_in.description,,"LinkedIn profile of the contact.",0
-messages,oro.contact.linked_in.label,,LinkedIn,0
-messages,oro.contact.menu.contact_group_list.description,,"List of contact groups",0
-messages,oro.contact.menu.contact_list.description,,"List of contacts",0
-messages,oro.contact.menu.shortcut_list_contacts.description,,"List of contacts",0
-messages,oro.contact.menu.shortcut_list_contacts.label,,"Show Contacts list",0
-messages,oro.contact.menu.shortcut_new_contact.description,,"Create new contact instance",0
-messages,oro.contact.menu.shortcut_new_contact.label,,"Create new Contact",0
-messages,oro.contact.menu.shortcut_new_contact_group.description,,"Create new contact group instance",0
-messages,oro.contact.menu.shortcut_new_contact_group.label,,"Create new Contact Group",0
-messages,oro.contact.method.description,,"Preferred way of communication for this contact.",0
-messages,oro.contact.method.entity_description,,"The mean of communications with the contact.",0
-messages,oro.contact.method.entity_label,,"Contact Method",0
-messages,oro.contact.method.entity_plural_label,,"Contact Methods",0
-messages,oro.contact.method.label,,"Contact Method",0
-messages,oro.contact.method.label.description,,"The label of the contact method ('Email,' 'Mail,' or ' Phone').",0
-messages,oro.contact.method.label.label,,Label,0
-messages,oro.contact.method.method.description,,"Source of the contact.",0
-messages,oro.contact.method.method.label,,Source,0
-messages,oro.contact.method.name.label,,Name,0
-messages,oro.contact.middle_name.description,,"Middle name of the contact person.",0
-messages,oro.contact.middle_name.label,,"Middle name",0
-messages,oro.contact.name_prefix.description,,"Name prefix or honorific of the contact person (Mr./Ms., Dr., Prof., etc.)",0
-messages,oro.contact.name_prefix.label,,"Name prefix",0
-messages,oro.contact.name_suffix.description,,"Name suffix of the contact person (Sr./Jr., M.D., OBE, etc.)",0
-messages,oro.contact.name_suffix.label,,"Name suffix",0
-messages,oro.contact.organization.label,,Organization,0
-messages,oro.contact.owner.label,,Owner,0
-messages,oro.contact.phones.label,,Phones,0
-messages,oro.contact.picture.description,,"Photo or other identifying image of the contact.",0
-messages,oro.contact.picture.label,,Picture,0
-messages,oro.contact.primary_addr.label,,"Primary Address",0
-messages,oro.contact.primary_email.label,,"Primary Email",0
-messages,oro.contact.primary_phone.label,,"Primary Phone",0
-messages,oro.contact.reports_to.description,,"A contact who serves as direct supervisor of the contact within their organization.",0
-messages,oro.contact.reports_to.label,,"Reports to",0
-messages,oro.contact.skype.description,,"Skype profile of the contact.",0
-messages,oro.contact.skype.label,,Skype,0
-messages,oro.contact.social.label,,Social,0
-messages,oro.contact.source.description,,"Source of the contact.",0
-messages,oro.contact.source.entity_description,,"How the information about the contact was recieved.",0
-messages,oro.contact.source.entity_label,,"Contact Source",0
-messages,oro.contact.source.entity_plural_label,,"Contact Sources",0
-messages,oro.contact.source.label,,Source,0
-messages,oro.contact.source.label.description,,"The label of the contact source ('Phone Call,' 'Other Source,' TV,' or 'Website').",0
-messages,oro.contact.source.label.label,,Source,0
-messages,oro.contact.source.name.label,,Name,0
-messages,oro.contact.source.source.description,,"Source of the contact.",0
-messages,oro.contact.source.source.label,,Source,0
-messages,oro.contact.twitter.description,,"Twitter profile of the contact.",0
-messages,oro.contact.twitter.label,,Twitter,0
-messages,oro.contact.updated_by.description,,"OroCRM user who had last updated the record.",0
-messages,oro.contact.updated_by.label,,"Updated By",0
-messages,oro.contact.widgets.account_contacts,,Contacts,0
-messages,oro.contactus.block.additional,,Additional,0
-messages,oro.contactus.block.general,,General,0
-messages,oro.contactus.block.request_information,,"Request Information",0
-messages,oro.contactus.contactreason.deleted_at.label,,"Deleted At",0
-messages,oro.contactus.contactreason.entity_description,,"Represents contact reason",0
-messages,oro.contactus.contactreason.entity_label,,"Contact Reason",0
-messages,oro.contactus.contactreason.entity_plural_label,,"Contact Reasons",0
-messages,oro.contactus.contactreason.id.label,,ID,0
-messages,oro.contactus.contactreason.label.label,,Label,0
-messages,oro.contactus.contactreason.saved,,"Contact reason has been saved successfully",0
-messages,oro.contactus.contactrequest.calls.label,,Calls,0
-messages,oro.contactus.contactrequest.choose_contact_reason.label,,"Choose contact reason...",0
-messages,oro.contactus.contactrequest.comment.label,,Comment,0
-messages,oro.contactus.contactrequest.contact_reason.label,,"Contact reason",0
-messages,oro.contactus.contactrequest.datagrid.delete,,Delete,0
-messages,oro.contactus.contactrequest.datagrid.update,,Update,0
-messages,oro.contactus.contactrequest.datagrid.view,,View,0
-messages,oro.contactus.contactrequest.email_address.label,,Email,0
-messages,oro.contactus.contactrequest.emails.label,,Emails,0
-messages,oro.contactus.contactrequest.entity.saved,,"Contact request has been saved successfully",0
-messages,oro.contactus.contactrequest.entity_label,,"Contact Request",0
-messages,oro.contactus.contactrequest.entity_plural_label,,"Contact Requests",0
-messages,oro.contactus.contactrequest.feedback.label,,Feedback,0
-messages,oro.contactus.contactrequest.first_name.label,,"First name",0
-messages,oro.contactus.contactrequest.id.label,,ID,0
-messages,oro.contactus.contactrequest.last_name.label,,"Last name",0
-messages,oro.contactus.contactrequest.lead.label,,Lead,0
-messages,oro.contactus.contactrequest.method.both,,"Both phone & email",0
-messages,oro.contactus.contactrequest.method.email,,Email,0
-messages,oro.contactus.contactrequest.method.phone,,Phone,0
-messages,oro.contactus.contactrequest.opportunity.label,,Opportunity,0
-messages,oro.contactus.contactrequest.organization_name.label,,"Organization name",0
-messages,oro.contactus.contactrequest.owner.label,,Organization,0
-messages,oro.contactus.contactrequest.phone.label,,Phone,0
-messages,oro.contactus.contactrequest.preferred_contact_method.label,,"Preferred contact method",0
-messages,oro.contactus.contactrequest.status.label,,Status,0
-messages,oro.contactus.contactrequest.widget.info.title,,"Contact Request Details",0
-messages,oro.cron.header.closed_at,,"Closed At",0
-messages,oro.cron.header.command,,Command,0
-messages,oro.cron.header.error,,"Error output",0
-messages,oro.cron.header.id,,ID,0
-messages,oro.cron.header.job,,"Job ""%name%""",0
-messages,oro.cron.header.jobs,,Jobs,0
-messages,oro.cron.header.memory,,"Memory usage, MB",0
-messages,oro.cron.header.output,,Output,0
-messages,oro.cron.header.priority,,Priority,0
-messages,oro.cron.header.queue,,Queue,0
-messages,oro.cron.header.retry,,"Retry jobs",0
-messages,oro.cron.header.runtime,,"Runtime, s",0
-messages,oro.cron.header.started_at,,"Started At",0
-messages,oro.cron.header.state,,State,0
-messages,oro.cron.header.statistics,,Statistics,0
-messages,oro.cron.header.trace,,"Stack trace",0
-messages,oro.cron.header.view,,View,0
-messages,oro.cron.job.status.canceled,,Canceled,0
-messages,oro.cron.job.status.failed,,Failed,0
-messages,oro.cron.job.status.finished,,Finished,0
-messages,oro.cron.job.status.incomplete,,Incomplete,0
-messages,oro.cron.job.status.new,,New,0
-messages,oro.cron.job.status.pending,,Pending,0
-messages,oro.cron.job.status.running,,Running,0
-messages,oro.cron.job.status.terminated,,Terminated,0
-messages,oro.cron.job.status.unknown,,Unknown,0
-messages,oro.cron.menu.cron_job.description,,"Cron job queue",0
-messages,oro.cron.menu.cron_job.label,,"Job Queue",0
-messages,oro.cron.menu.cron_job_shortcut.description,,"List of cron jobs",0
-messages,oro.cron.menu.cron_job_shortcut.label,,"Jobs List",0
-messages,oro.cron.menu.cron_schedule.description,,"Cron Scheduled Tasks",0
-messages,oro.cron.menu.cron_schedule.label,,"Scheduled Tasks",0
-messages,oro.cron.message.start.fail,,"Failed to start daemon",0
-messages,oro.cron.message.start.success,,"Daemon started",0
-messages,oro.cron.message.stop.fail,,"Failed to stop daemon",0
-messages,oro.cron.message.stop.success,,"Daemon stopped",0
-messages,oro.cron.schedule.arguments.label,,Arguments,0
-messages,oro.cron.schedule.arguments_hash.label,,"Arguments Hash",0
-messages,oro.cron.schedule.command.label,,Command,0
-messages,oro.cron.schedule.definition.label,,Definition,0
-messages,oro.cron.schedule.entity_label,,Schedule,0
-messages,oro.cron.schedule.entity_plural_label,,Schedules,0
-messages,oro.cron.schedule.id.label,,Id,0
-messages,oro.cron.schedule_interval.active_at.label,,"Activate At",0
-messages,oro.cron.schedule_interval.active_now,,"Is active now.",0
-messages,oro.cron.schedule_interval.add,,Add,0
-messages,oro.cron.schedule_interval.deactivate_at.label,,"Deactivate At",0
-messages,oro.cron.schedule_interval.not_active_now,,"Is not active now.",0
-messages,oro.cron.schedule_interval.was_activated,,"Was activated on %date%.",0
-messages,oro.cron.schedule_interval.was_deactivated,,"Was deactivated on %date%.",0
-messages,oro.cron.schedule_interval.will_be_acitivated,,"Will become active on %date%.",0
-messages,oro.cron.schedule_interval.will_be_deacitivated,,"Will be deactivated on %date%.",0
-messages,oro.cron.sidebar.check,,"Check status",0
-messages,oro.cron.sidebar.not_running,,"Not running",0
-messages,oro.cron.sidebar.pid,,"Daemon PID",0
-messages,oro.cron.sidebar.run,,"Run daemon",0
-messages,oro.cron.sidebar.running,,Running,0
-messages,oro.cron.sidebar.status,,"Daemon status",0
-messages,oro.cron.sidebar.stop,,"Stop daemon",0
-messages,oro.cron.view.dependencies,,Dendencies,0
-messages,oro.cron.view.in_deps,,"Incoming Dependencies",0
-messages,oro.cron.view.original,,"Original Job",0
-messages,oro.cron.view.related,,"Related Entities",0
-messages,oro.currency.currency.form.choose,,"Choose Currency...",0
-messages,oro.currency.form.tooltip.currency,,"Select the default currency",0
-messages,oro.currency.form.tooltip.currency_display,,"Select whether to display the currency ISO code (e.g. USD) or the currency symbol (e.g. $)",0
-messages,oro.currency.system_configuration.fields.allowed_currencies.label,,"Allowed Currencies",0
-messages,oro.currency.system_configuration.fields.currency_display.choices.iso_code,,"Currency Code",0
-messages,oro.currency.system_configuration.fields.currency_display.choices.symbol,,"Currency Symbol",0
-messages,oro.currency.system_configuration.fields.currency_display.label,,"Display format",0
-messages,oro.currency.system_configuration.fields.default_currency.label,,"Default Currency",0
-messages,oro.currency.system_configuration.groups.currency.title,,Currency,0
-messages,oro.currency.system_configuration.groups.currency_settings.title,,"Currency settings",0
-messages,oro.custom_entity.organization.label,,Organization,0
-messages,oro.custom_entity.owner.description,,,0
-messages,oro.custom_entity.owner.label,,Owner,0
-messages,oro.dashboard.add_dashboard_widgets.add_to_dashboard,,Add,0
-messages,oro.dashboard.add_dashboard_widgets.add_widget,,"Add widget",0
-messages,oro.dashboard.calendar.new_event,,"New Event",0
-messages,oro.dashboard.calendar.view_calendar,,"My Calendar",0
-messages,oro.dashboard.chart.date.label,,Week,0
-messages,oro.dashboard.chart.day.label,,Day,0
-messages,oro.dashboard.chart.month.label,,Month,0
-messages,oro.dashboard.chart.time.label,,Hour,0
-messages,oro.dashboard.chart.year.label,,Year,0
-messages,oro.dashboard.create_dashboard_link.text,,Create,0
-messages,oro.dashboard.create_dashboard_link.title,,"Create new dashboard",0
-messages,oro.dashboard.datagrid.actions.add.label,,Add,0
-messages,oro.dashboard.datagrid.actions.add_all.label,,"Add all",0
-messages,oro.dashboard.datagrid.actions.delete.label,,"Delete column",0
-messages,oro.dashboard.datagrid.actions.move_column.label,,"Move column",0
-messages,oro.dashboard.datagrid.actions.move_column_down.label,,"Move column down",0
-messages,oro.dashboard.datagrid.actions.move_column_up.label,,"Move column up",0
-messages,oro.dashboard.datagrid.columns.actions,,Actions,0
-messages,oro.dashboard.date_range.label,,"Date range",0
-messages,oro.dashboard.delete_dashboard_link.text,,"Delete dashboard",0
-messages,oro.dashboard.delete_dashboard_link.title,,"Remove current dashboard",0
-messages,oro.dashboard.edit_dashboard_link.text,,Edit,0
-messages,oro.dashboard.edit_dashboard_link.title,,"Edit current dashboard",0
-messages,oro.dashboard.empty_column_message.allowed,,"Drag your widgets here or <a class=""dashboard-widgets-add"" href=""#"">add a new widget</a>.",0
-messages,oro.dashboard.empty_column_message.denied,,"No available widgets",0
-messages,oro.dashboard.entity_label,,Dashboard,0
-messages,oro.dashboard.entity_plural_label,,Dashboards,0
-messages,oro.dashboard.form.choose_business_unit,,"Choose a business unit...",0
-messages,oro.dashboard.grid.fields.grid_view.label,,"Grid view",0
-messages,oro.dashboard.id.label,,Id,0
-messages,oro.dashboard.is_default.label,,"Is Default",0
-messages,oro.dashboard.label,,Label,0
-messages,oro.dashboard.label.label,,Label,0
-messages,oro.dashboard.lead_statistics.description,,"This widget displays a set of metrics that indicate performance of lead pipeline.",0
-messages,oro.dashboard.lead_statistics.new_leads_count.label,,"New Leads",0
-messages,oro.dashboard.lead_statistics.open_leads_count.label,,"Open Leads",0
-messages,oro.dashboard.lead_statistics.title,,"Lead statistics",0
-messages,oro.dashboard.list,,List,0
-messages,oro.dashboard.management_title,,"Manage Dashboards",0
-messages,oro.dashboard.menu.dashboards_list.label,,"Manage Dashboards",0
-messages,oro.dashboard.menu.dashboards_tab.label,,Dashboards,0
-messages,oro.dashboard.my_accounts_activity.description,,"This widget displays the list of recently accessed accounts",0
-messages,oro.dashboard.my_accounts_activity.title,,"Recently accessed accounts",0
-messages,oro.dashboard.my_accounts_activity.view_all,,"View all",0
-messages,oro.dashboard.my_contacts_activity.description,,"This widget displays the list of recently accessed contacts",0
-messages,oro.dashboard.my_contacts_activity.title,,"Recently accessed contacts",0
-messages,oro.dashboard.my_contacts_activity.view_all,,"View all",0
-messages,oro.dashboard.my_sales_flow.b2b,,B2B,0
-messages,oro.dashboard.my_sales_flow.b2c,,B2C,0
-messages,oro.dashboard.name.label,,Name,0
-messages,oro.dashboard.no_data_found,,"No data found",0
-messages,oro.dashboard.no_one_available,,"You have no dashboards available",0
-messages,oro.dashboard.opportunity_statistics.description,,"This widget displays a set of metrics that indicate performance of opportunity pipeline.",0
-messages,oro.dashboard.opportunity_statistics.new_opportunities_amount.label,,"New Opportunities amount",0
-messages,oro.dashboard.opportunity_statistics.new_opportunities_count.label,,"New Opportunities count",0
-messages,oro.dashboard.opportunity_statistics.title,,"Opportunity statistics",0
-messages,oro.dashboard.opportunity_statistics.won_opportunities_to_date_amount.label,,"Won Opportunities to date amount",0
-messages,oro.dashboard.opportunity_statistics.won_opportunities_to_date_count.label,,"Won Opportunities to date count",0
-messages,oro.dashboard.options.label,,Options,0
-messages,oro.dashboard.organization.label,,Organization,0
-messages,oro.dashboard.owner,,Owner,0
-messages,oro.dashboard.owner.label,,Owner,0
-messages,oro.dashboard.previous_date_range.label,,"Compare with previous period",0
-messages,oro.dashboard.query_filter.collapse,,Collapse,0
-messages,oro.dashboard.query_filter.expand,,Expand,0
-messages,oro.dashboard.query_filter.label,,"Advanced Filter",0
-messages,oro.dashboard.quick_launchpad_widget_description,,"This widget gives you access to most commonly used actions and pages",0
-messages,oro.dashboard.recent_calls.description,,"This widget displays the list of recently logged calls",0
-messages,oro.dashboard.recent_calls.title,,"Recent calls",0
-messages,oro.dashboard.recent_calls.view_all,,"View All",0
-messages,oro.dashboard.recent_emails.description,,"This widget enables you to see the most recent additions to your inbox and outbox",0
-messages,oro.dashboard.recent_emails.inbox,,Inbox,0
-messages,oro.dashboard.recent_emails.reply,,Reply,0
-messages,oro.dashboard.recent_emails.sent,,Sent,0
-messages,oro.dashboard.recent_emails.title,,"Recent Emails",0
-messages,oro.dashboard.recent_emails.unread,,"Unread Emails",0
-messages,oro.dashboard.recent_emails.view_all,,"View All",0
-messages,oro.dashboard.recent_emails.view_email,,"View Email",0
-messages,oro.dashboard.saved_message,,"Dashboard saved",0
-messages,oro.dashboard.start_dashboard,,"Clone from",0
-messages,oro.dashboard.start_dashboard.empty_value,,"Blank Dashboard",0
-messages,oro.dashboard.title.chose_dashboard,,"Choose dashboard",0
-messages,oro.dashboard.title.label,,"Widget title",0
-messages,oro.dashboard.title.main,,Dashboard,0
-messages,oro.dashboard.title.quick_launchpad,,"Quick Launchpad",0
-messages,oro.dashboard.title.use_default.label,,"Use default",0
-messages,oro.dashboard.tools_dropdown.label,,Tools,0
-messages,oro.dashboard.widget.big_number.choose_metrics,,"Choose Metrics",0
-messages,oro.dashboard.widget.big_number.choose_metrics_placeholder,,"Choose Metrics...",0
-messages,oro.dashboard.widget.big_number.compare_to.label,,"Compare to",0
-messages,oro.dashboard.widget.big_number.metricName,,"Metric name",0
-messages,oro.dashboard.widget.big_number.metrics,,Metrics,0
-messages,oro.dashboard.widget.big_number.no_available_metrics,,"No available metrics",0
-messages,oro.dashboard.widget.big_number.no_changes,,"No changes",0
-messages,oro.dashboard.widget.configuration.success,,"Widget has been successfully configured",0
-messages,oro.dashboard.widget.filter.date_range.all_time,,"All time",0
-messages,oro.dashboard.widget.filter.date_range.this_month,,"This month",0
-messages,oro.dashboard.widget.filter.date_range.this_quarter,,"This quarter",0
-messages,oro.dashboard.widget.filter.date_range.this_week,,"This week",0
-messages,oro.dashboard.widget.filter.date_range.this_year,,"This year",0
-messages,oro.dashboard.widget.filter.date_range.today,,Today,0
-messages,oro.dashboard.widget.sort_by.label,,"Sort By",0
-messages,oro.dashboard.widget.sort_by.order.asc.label,,Ascending,0
-messages,oro.dashboard.widget.sort_by.order.desc.label,,Descending,0
-messages,oro.dashboard.widget.sort_by.property.placeholder,,"Choose a property...",0
-messages,oro.dashboard.widgets.label,,Widgets,0
-messages,oro.dashboard.widgets.quick_launchpad.title,,Settings,0
-messages,oro.dataaudit.abstractaudit.action.label,,"Audit action",0
-messages,oro.dataaudit.abstractaudit.additional_fields.label,,"Additional fields",0
-messages,oro.dataaudit.abstractaudit.entity_label,,Audit,0
-messages,oro.dataaudit.abstractaudit.entity_plural_label,,Audits,0
-messages,oro.dataaudit.abstractaudit.fields.label,,"Audit fields",0
-messages,oro.dataaudit.abstractaudit.id.label,,Id,0
-messages,oro.dataaudit.abstractaudit.impersonation.label,,"Audit impersonation",0
-messages,oro.dataaudit.abstractaudit.logged_at.label,,"Logged at",0
-messages,oro.dataaudit.abstractaudit.object_class.label,,"Audit class",0
-messages,oro.dataaudit.abstractaudit.object_id.label,,Id,0
-messages,oro.dataaudit.abstractaudit.object_name.label,,Audit,0
-messages,oro.dataaudit.abstractaudit.organization.label,,"Audit organization",0
-messages,oro.dataaudit.abstractaudit.owner_description.label,,"Audit owner description",0
-messages,oro.dataaudit.abstractaudit.transaction_id.label,,"Audit transaction id",0
-messages,oro.dataaudit.abstractaudit.user.label,,"Audit user",0
-messages,oro.dataaudit.abstractaudit.version.label,,"Audit version",0
-messages,oro.dataaudit.action.create,,Create,0
-messages,oro.dataaudit.action.remove,,Remove,0
-messages,oro.dataaudit.action.update,,Update,0
-messages,oro.dataaudit.audit.action.label,,"Audit action",0
-messages,oro.dataaudit.audit.additional_fields.label,,"Additional fields",0
-messages,oro.dataaudit.audit.entity_label,,Audit,0
-messages,oro.dataaudit.audit.entity_plural_label,,Audits,0
-messages,oro.dataaudit.audit.fields.label,,"Audit fields",0
+messages,oro.contact.contactaddress.country_name.label,Tên quốc gia,Country name,0
+messages,oro.contact.contactaddress.created.description,Ngày và giờ khi địa chỉ liên hệ được tạo.,The date and time when the contact address was created.,0
+messages,oro.contact.contactaddress.created.label,Được tạo tại,Created at,0
+messages,oro.contact.contactaddress.entity_description,Địa chỉ được định cấu hình cho liên hệ.,The address configured for the contact.,0
+messages,oro.contact.contactaddress.entity_label,Địa chỉ liên hệ,Contact Address,0
+messages,oro.contact.contactaddress.entity_plural_label,Địa chỉ liên hệ,Contact Addresses,0
+messages,oro.contact.contactaddress.first_name.description,Tên đầu tiên được chỉ định trong địa chỉ liên hệ.,The first name that is specified in the contact address.,0
+messages,oro.contact.contactaddress.first_name.label,Tên đầu tiên,First name,0
+messages,oro.contact.contactaddress.id.label,ID,Id,0
+messages,oro.contact.contactaddress.label.description,Nhãn được chỉ định cho địa chỉ liên hệ. Nhãn được sử dụng để chỉ địa chỉ liên lạc trên giao diện.,The label specified for the contact address. The label is used to refer to the contact address on the interface.,0
+messages,oro.contact.contactaddress.label.label,Nhãn,Label,0
+messages,oro.contact.contactaddress.last_name.description,Tên cuối cùng được chỉ định trong địa chỉ liên hệ.,The last name that is specified in the contact address.,0
+messages,oro.contact.contactaddress.last_name.label,Họ,Last name,0
+messages,oro.contact.contactaddress.middle_name.description,Tên đệm được chỉ định trong địa chỉ liên hệ.,The middle name that is specified in the contact address.,0
+messages,oro.contact.contactaddress.middle_name.label,Tên đệm,Middle name,0
+messages,oro.contact.contactaddress.name_prefix.description,Tiền tố tên được chỉ định trong địa chỉ liên hệ.,The name prefix specified in the contact address.,0
+messages,oro.contact.contactaddress.name_prefix.label,Tiền tố tên,Name prefix,0
+messages,oro.contact.contactaddress.name_suffix.description,Hậu tố tên được chỉ định trong địa chỉ liên hệ.,The name suffix specified in the contact address.,0
+messages,oro.contact.contactaddress.name_suffix.label,Hậu tố tên,Name suffix,0
+messages,oro.contact.contactaddress.organization.description,Tổ chức được chỉ định trong địa chỉ liên hệ.,The organization that is specified in the contact address.,0
+messages,oro.contact.contactaddress.organization.label,Cơ quan,Organization,0
+messages,oro.contact.contactaddress.owner.description,Người liên hệ là chủ sở hữu của địa chỉ liên hệ. Địa chỉ liên hệ được hiển thị trên trang xem của liên hệ này.,The contact who is the owner of the contact address. The contact address is displayed on the view page of this contact.,0
+messages,oro.contact.contactaddress.owner.label,Chủ nhân,Owner,0
+messages,oro.contact.contactaddress.postal_code.description,Mã bưu chính được chỉ định trong địa chỉ liên hệ.,The postal code specified in the contact address.,0
+messages,oro.contact.contactaddress.postal_code.label,Mã Zip / Mã bưu chính,Zip/Postal Code,0
+messages,oro.contact.contactaddress.primary.description,Xác định xem địa chỉ liên hệ có phải là địa chỉ liên hệ chính hay không.,Defines whether the contact address is a primary contact address.,0
+messages,oro.contact.contactaddress.primary.label,Sơ cấp,Primary,0
+messages,oro.contact.contactaddress.region.description,Vùng được chỉ định trong địa chỉ liên hệ.,The region specified in the contact address.,0
+messages,oro.contact.contactaddress.region.label,Tiểu bang,State,0
+messages,oro.contact.contactaddress.region_code.label,Mã ISO nhà nước,State ISO code,0
+messages,oro.contact.contactaddress.region_name.label,Tên nhà nước,State name,0
+messages,oro.contact.contactaddress.region_text.label,Tiểu bang,State,0
+messages,oro.contact.contactaddress.street.description,Dòng đầu tiên của địa chỉ đường phố. Thường chứa tên phố và số tòa nhà.,The first line of the street address. Usually contains the street name and the building number.,0
+messages,oro.contact.contactaddress.street.label,đường phố,Street,0
+messages,oro.contact.contactaddress.street2.description,"Dòng thứ hai của địa chỉ đường phố. Có thể chứa số khoang, P.O. hộp, tên tòa nhà, v.v.","The second line of the street address. May contain the appartment number, P.O. box, building name, etc.",0
+messages,oro.contact.contactaddress.street2.label,Đường phố 2,Street 2,0
+messages,oro.contact.contactaddress.types.description,"Các loại địa chỉ (cho dù đó là địa chỉ thanh toán, địa chỉ giao hàng hoặc cả hai) được định cấu hình cho địa chỉ liên hệ.","The address types (whether it is a billing address, shipping address, or both) configured for the contact address.",0
+messages,oro.contact.contactaddress.types.label,Các loại,Types,0
+messages,oro.contact.contactaddress.updated.description,Ngày và giờ khi địa chỉ liên hệ được cập nhật lần cuối.,The date and time when the contact address was last updated.,0
+messages,oro.contact.contactaddress.updated.label,Cập nhật tại,Updated at,0
+messages,oro.contact.contactemail.email.label,E-mail,Email,0
+messages,oro.contact.contactemail.entity_description,Đại diện cho email của người liên hệ,Represent contact's email,0
+messages,oro.contact.contactemail.entity_label,địa chỉ email liên lạc,Contact Email,0
+messages,oro.contact.contactemail.entity_plural_label,Liên hệ email,Contact Emails,0
+messages,oro.contact.contactemail.id.label,ID,Id,0
+messages,oro.contact.contactemail.owner.label,Chủ nhân,Owner,0
+messages,oro.contact.contactemail.primary.label,Sơ cấp,Primary,0
+messages,oro.contact.contactphone.entity_description,Đại diện cho điện thoại của người liên hệ,Represent contact's phone,0
+messages,oro.contact.contactphone.entity_label,Điện thoại liên hệ,Contact Phone,0
+messages,oro.contact.contactphone.entity_plural_label,Điện thoại liên lạc,Contact Phones,0
+messages,oro.contact.contactphone.id.label,ID,Id,0
+messages,oro.contact.contactphone.owner.label,Chủ nhân,Owner,0
+messages,oro.contact.contactphone.phone.label,Điện thoại,Phone,0
+messages,oro.contact.contactphone.primary.label,Sơ cấp,Primary,0
+messages,oro.contact.controller.contact.saved.message,Đã lưu liên hệ,Contact saved,0
+messages,oro.contact.controller.contact_group.saved.message,Nhóm liên hệ đã được lưu,Contact Group saved,0
+messages,oro.contact.created_by.description,Người dùng OroCRM đã tạo bản ghi.,OroCRM user who has created the record.,0
+messages,oro.contact.created_by.label,Được tạo bởi,Created By,0
+messages,oro.contact.datagrid.contact_name,Tên Liên lạc,Contact name,0
+messages,oro.contact.datagrid.delete,Xóa bỏ,Delete,0
+messages,oro.contact.datagrid.update,Cập nhật,Update,0
+messages,oro.contact.datagrid.view,Lượt xem,View,0
+messages,oro.contact.default_in_accounts.description,Một tập hợp các tài khoản có liên hệ được đặt làm mặc định.,A collection of accounts where the contact is set as default.,0
+messages,oro.contact.default_in_accounts.label,Liên hệ mặc định tài khoản,Accounts Default Contact,0
+messages,oro.contact.description.description,Mô tả mở rộng của liên hệ.,Extended description of the contact.,0
+messages,oro.contact.description.label,Sự miêu tả,Description,0
+messages,oro.contact.email.label,E-mail,Email,0
+messages,oro.contact.emails.label,Email,Emails,0
+messages,oro.contact.entity_description,Thông tin cá nhân của những người mà người dùng liên lạc trong các hoạt động kinh doanh.,Personal information of people with whom a user gets in touch during the business activities.,0
+messages,oro.contact.entity_label,Tiếp xúc,Contact,0
+messages,oro.contact.entity_plural_label,Danh bạ,Contacts,0
+messages,oro.contact.facebook.description,Hồ sơ trên Facebook của người liên hệ.,Facebook profile of the contact.,0
+messages,oro.contact.facebook.label,Facebook,Facebook,0
+messages,oro.contact.fax.description,Số fax của số liên lạc.,Fax number of the contact.,0
+messages,oro.contact.fax.label,Số fax,Fax,0
+messages,oro.contact.first_name.description,Tên của người liên lạc.,First name of the contact person.,0
+messages,oro.contact.first_name.label,Tên đầu tiên,First name,0
+messages,oro.contact.form.choose_contact,Chọn một liên hệ ...,Choose a contact...,0
+messages,oro.contact.form.choose_contact_method,Chọn phương thức liên hệ ...,Choose a contact method...,0
+messages,oro.contact.form.choose_phone,Chọn điện thoại ...,Choose a phone...,0
+messages,oro.contact.gender.description,Giới tính của người liên lạc.,Gender of the contact person.,0
+messages,oro.contact.gender.label,Giới tính,Gender,0
+messages,oro.contact.google_plus.description,Hồ sơ trên Google+ của người liên hệ.,Google+ profile of the contact.,0
+messages,oro.contact.google_plus.label,Google+,Google+,0
+messages,oro.contact.group.entity_description,Tập hợp các địa chỉ liên hệ được phân loại cùng nhau bởi một số yếu tố phổ biến. Các nhóm liên hệ chủ yếu được sử dụng để đơn giản hóa cấu hình bộ lọc và phân đoạn.,The set of contacts classed together by some common factor. Contact groups are mainly used to simplify the configuration of filters and segments.,0
+messages,oro.contact.group.entity_label,Nhóm liên hệ,Contact Group,0
+messages,oro.contact.group.entity_plural_label,Nhóm liên hệ,Contact Groups,0
+messages,oro.contact.group.has_group.label,Có nhóm,Has group,0
+messages,oro.contact.group.id.label,ID,Id,0
+messages,oro.contact.group.label.description,Tên được sử dụng để chỉ nhóm liên hệ trên giao diện.,The name used to refer to the contact group on the interface.,0
+messages,oro.contact.group.label.label,Nhãn,Label,0
+messages,oro.contact.group.manage,Quản lý nhóm,Manage groups,0
+messages,oro.contact.group.organization.label,Cơ quan,Organization,0
+messages,oro.contact.group.owner.label,Chủ nhân,Owner,0
+messages,oro.contact.groups.description,Các nhóm liên hệ mà người liên hệ thuộc về.,Contact groups the contact belongs to.,0
+messages,oro.contact.groups.label,Các nhóm,Groups,0
+messages,oro.contact.id.label,ID,Id,0
+messages,oro.contact.import.strategy.tooltip,<b> Thêm và thay thế chiến lược </ b> thêm thông tin liên hệ mới từ tệp đã nhập và cập nhật tệp hiện có. <br> <b> Thêm chiến lược </ b> không thay đổi các bản ghi hiện có. Tất cả các địa chỉ liên lạc được thêm vào dưới dạng bản ghi mới cho phép các bản sao.,<b>Add and Replace</b> strategy adds new contact information from the imported file and updates the existing one. <br> <b>Add strategy</b> does not change existing records. All contacts are added as new records allowing duplicates.,0
+messages,oro.contact.job_title.description,Chức vụ của người liên lạc trong tổ chức của họ.,Job title of the contact person within their organization.,0
+messages,oro.contact.job_title.label,Chức vụ,Job Title,0
+messages,oro.contact.last_name.description,Họ của người liên lạc.,Last name of the contact person.,0
+messages,oro.contact.last_name.label,Họ,Last name,0
+messages,oro.contact.linked_in.description,Hồ sơ LinkedIn của người liên hệ.,LinkedIn profile of the contact.,0
+messages,oro.contact.linked_in.label,LinkedIn,LinkedIn,0
+messages,oro.contact.menu.contact_group_list.description,Danh sách các nhóm liên lạc,List of contact groups,0
+messages,oro.contact.menu.contact_list.description,Danh bạ,List of contacts,0
+messages,oro.contact.menu.shortcut_list_contacts.description,Danh bạ,List of contacts,0
+messages,oro.contact.menu.shortcut_list_contacts.label,Hiển thị danh sách liên hệ,Show Contacts list,0
+messages,oro.contact.menu.shortcut_new_contact.description,Tạo cá thể liên hệ mới,Create new contact instance,0
+messages,oro.contact.menu.shortcut_new_contact.label,Tạo liên hệ mới,Create new Contact,0
+messages,oro.contact.menu.shortcut_new_contact_group.description,Tạo cá thể nhóm liên hệ mới,Create new contact group instance,0
+messages,oro.contact.menu.shortcut_new_contact_group.label,Tạo nhóm liên hệ mới,Create new Contact Group,0
+messages,oro.contact.method.description,Cách giao tiếp ưu tiên cho liên hệ này.,Preferred way of communication for this contact.,0
+messages,oro.contact.method.entity_description,Ý nghĩa của giao tiếp với người liên hệ.,The mean of communications with the contact.,0
+messages,oro.contact.method.entity_label,Phương pháp liên lạc,Contact Method,0
+messages,oro.contact.method.entity_plural_label,Phương thức liên hệ,Contact Methods,0
+messages,oro.contact.method.label,Phương pháp liên lạc,Contact Method,0
+messages,oro.contact.method.label.description,"Nhãn của phương thức liên hệ ('Email', 'Thư' hoặc 'Điện thoại').","The label of the contact method ('Email,' 'Mail,' or ' Phone').",0
+messages,oro.contact.method.label.label,Nhãn,Label,0
+messages,oro.contact.method.method.description,Nguồn của liên hệ.,Source of the contact.,0
+messages,oro.contact.method.method.label,Nguồn,Source,0
+messages,oro.contact.method.name.label,Tên,Name,0
+messages,oro.contact.middle_name.description,Tên đệm của người liên lạc.,Middle name of the contact person.,0
+messages,oro.contact.middle_name.label,Tên đệm,Middle name,0
+messages,oro.contact.name_prefix.description,"Tên tiền tố hoặc danh dự của người liên lạc (Mr./Ms., Dr., Prof., v.v.)","Name prefix or honorific of the contact person (Mr./Ms., Dr., Prof., etc.)",0
+messages,oro.contact.name_prefix.label,Tiền tố tên,Name prefix,0
+messages,oro.contact.name_suffix.description,"Tên hậu tố của người liên hệ (Sr./Jr., M.D., OBE, v.v.)","Name suffix of the contact person (Sr./Jr., M.D., OBE, etc.)",0
+messages,oro.contact.name_suffix.label,Hậu tố tên,Name suffix,0
+messages,oro.contact.organization.label,Cơ quan,Organization,0
+messages,oro.contact.owner.label,Chủ nhân,Owner,0
+messages,oro.contact.phones.label,Điện thoại,Phones,0
+messages,oro.contact.picture.description,Ảnh hoặc hình ảnh nhận dạng khác của liên hệ.,Photo or other identifying image of the contact.,0
+messages,oro.contact.picture.label,Hình ảnh,Picture,0
+messages,oro.contact.primary_addr.label,Địa chỉ chính,Primary Address,0
+messages,oro.contact.primary_email.label,Email chính,Primary Email,0
+messages,oro.contact.primary_phone.label,Điện thoại chính,Primary Phone,0
+messages,oro.contact.reports_to.description,Người liên hệ làm người giám sát trực tiếp của người liên hệ trong tổ chức của họ.,A contact who serves as direct supervisor of the contact within their organization.,0
+messages,oro.contact.reports_to.label,Báo cáo cho,Reports to,0
+messages,oro.contact.skype.description,Hồ sơ Skype của người liên hệ.,Skype profile of the contact.,0
+messages,oro.contact.skype.label,Skype,Skype,0
+messages,oro.contact.social.label,Xã hội,Social,0
+messages,oro.contact.source.description,Nguồn của liên hệ.,Source of the contact.,0
+messages,oro.contact.source.entity_description,Làm thế nào các thông tin về liên lạc đã được nhận.,How the information about the contact was recieved.,0
+messages,oro.contact.source.entity_label,Nguồn liên hệ,Contact Source,0
+messages,oro.contact.source.entity_plural_label,Nguồn liên hệ,Contact Sources,0
+messages,oro.contact.source.label,Nguồn,Source,0
+messages,oro.contact.source.label.description,"Nhãn của nguồn liên hệ ('Cuộc gọi điện thoại', 'Nguồn khác', 'TV' hoặc 'Trang web').","The label of the contact source ('Phone Call,' 'Other Source,' TV,' or 'Website').",0
+messages,oro.contact.source.label.label,Nguồn,Source,0
+messages,oro.contact.source.name.label,Tên,Name,0
+messages,oro.contact.source.source.description,Nguồn của liên hệ.,Source of the contact.,0
+messages,oro.contact.source.source.label,Nguồn,Source,0
+messages,oro.contact.twitter.description,Hồ sơ trên Twitter của người liên hệ.,Twitter profile of the contact.,0
+messages,oro.contact.twitter.label,Twitter,Twitter,0
+messages,oro.contact.updated_by.description,Người dùng OroCRM đã cập nhật bản ghi lần cuối.,OroCRM user who had last updated the record.,0
+messages,oro.contact.updated_by.label,Cập nhật,Updated By,0
+messages,oro.contact.widgets.account_contacts,Danh bạ,Contacts,0
+messages,oro.contactus.block.additional,Bổ sung,Additional,0
+messages,oro.contactus.block.general,Chung,General,0
+messages,oro.contactus.block.request_information,Yêu cầu thông tin,Request Information,0
+messages,oro.contactus.contactreason.deleted_at.label,Đã xóa lúc,Deleted At,0
+messages,oro.contactus.contactreason.entity_description,Đại diện cho lý do liên hệ,Represents contact reason,0
+messages,oro.contactus.contactreason.entity_label,Lý do liên hệ,Contact Reason,0
+messages,oro.contactus.contactreason.entity_plural_label,Lý do liên hệ,Contact Reasons,0
+messages,oro.contactus.contactreason.id.label,ID,ID,0
+messages,oro.contactus.contactreason.label.label,Nhãn,Label,0
+messages,oro.contactus.contactreason.saved,Lý do liên hệ đã được lưu thành công,Contact reason has been saved successfully,0
+messages,oro.contactus.contactrequest.calls.label,Cuộc gọi,Calls,0
+messages,oro.contactus.contactrequest.choose_contact_reason.label,Chọn lý do liên hệ ...,Choose contact reason...,0
+messages,oro.contactus.contactrequest.comment.label,Bình luận,Comment,0
+messages,oro.contactus.contactrequest.contact_reason.label,Lý do liên hệ,Contact reason,0
+messages,oro.contactus.contactrequest.datagrid.delete,Xóa bỏ,Delete,0
+messages,oro.contactus.contactrequest.datagrid.update,Cập nhật,Update,0
+messages,oro.contactus.contactrequest.datagrid.view,Lượt xem,View,0
+messages,oro.contactus.contactrequest.email_address.label,E-mail,Email,0
+messages,oro.contactus.contactrequest.emails.label,Email,Emails,0
+messages,oro.contactus.contactrequest.entity.saved,Yêu cầu liên hệ đã được lưu thành công,Contact request has been saved successfully,0
+messages,oro.contactus.contactrequest.entity_label,Yêu cầu liên hệ,Contact Request,0
+messages,oro.contactus.contactrequest.entity_plural_label,Yêu cầu liên hệ,Contact Requests,0
+messages,oro.contactus.contactrequest.feedback.label,Phản hồi,Feedback,0
+messages,oro.contactus.contactrequest.first_name.label,Tên đầu tiên,First name,0
+messages,oro.contactus.contactrequest.id.label,ID,ID,0
+messages,oro.contactus.contactrequest.last_name.label,Họ,Last name,0
+messages,oro.contactus.contactrequest.lead.label,Chì,Lead,0
+messages,oro.contactus.contactrequest.method.both,Cả điện thoại và email,Both phone & email,0
+messages,oro.contactus.contactrequest.method.email,E-mail,Email,0
+messages,oro.contactus.contactrequest.method.phone,Điện thoại,Phone,0
+messages,oro.contactus.contactrequest.opportunity.label,Cơ hội,Opportunity,0
+messages,oro.contactus.contactrequest.organization_name.label,Tên tổ chức,Organization name,0
+messages,oro.contactus.contactrequest.owner.label,Cơ quan,Organization,0
+messages,oro.contactus.contactrequest.phone.label,Điện thoại,Phone,0
+messages,oro.contactus.contactrequest.preferred_contact_method.label,Liên hệ ưa thích,Preferred contact method,0
+messages,oro.contactus.contactrequest.status.label,Trạng thái,Status,0
+messages,oro.contactus.contactrequest.widget.info.title,Chi tiết yêu cầu liên hệ,Contact Request Details,0
+messages,oro.cron.header.closed_at,Đóng cửa lúc,Closed At,0
+messages,oro.cron.header.command,Chỉ huy,Command,0
+messages,oro.cron.header.error,Lỗi đầu ra,Error output,0
+messages,oro.cron.header.id,ID,ID,0
+messages,oro.cron.header.job,"Tên công việc%""","Job ""%name%""",0
+messages,oro.cron.header.jobs,Việc làm,Jobs,0
+messages,oro.cron.header.memory,"Sử dụng bộ nhớ, MB","Memory usage, MB",0
+messages,oro.cron.header.output,Đầu ra,Output,0
+messages,oro.cron.header.priority,Sự ưu tiên,Priority,0
+messages,oro.cron.header.queue,Xếp hàng,Queue,0
+messages,oro.cron.header.retry,Thử lại công việc,Retry jobs,0
+messages,oro.cron.header.runtime,"Thời gian chạy, s","Runtime, s",0
+messages,oro.cron.header.started_at,Bắt đầu vào lúc,Started At,0
+messages,oro.cron.header.state,Tiểu bang,State,0
+messages,oro.cron.header.statistics,Số liệu thống kê,Statistics,0
+messages,oro.cron.header.trace,Theo dõi ngăn xếp,Stack trace,0
+messages,oro.cron.header.view,Lượt xem,View,0
+messages,oro.cron.job.status.canceled,Đã hủy,Canceled,0
+messages,oro.cron.job.status.failed,Thất bại,Failed,0
+messages,oro.cron.job.status.finished,Đã kết thúc,Finished,0
+messages,oro.cron.job.status.incomplete,chưa hoàn thiện,Incomplete,0
+messages,oro.cron.job.status.new,Mới,New,0
+messages,oro.cron.job.status.pending,Đang chờ xử lý,Pending,0
+messages,oro.cron.job.status.running,Đang chạy,Running,0
+messages,oro.cron.job.status.terminated,Chấm dứt,Terminated,0
+messages,oro.cron.job.status.unknown,không xác định,Unknown,0
+messages,oro.cron.menu.cron_job.description,Hàng đợi công việc của Cron,Cron job queue,0
+messages,oro.cron.menu.cron_job.label,Hàng đợi công việc,Job Queue,0
+messages,oro.cron.menu.cron_job_shortcut.description,Danh sách cron jobs,List of cron jobs,0
+messages,oro.cron.menu.cron_job_shortcut.label,Danh sách công việc,Jobs List,0
+messages,oro.cron.menu.cron_schedule.description,Nhiệm vụ được lập lịch của Cron,Cron Scheduled Tasks,0
+messages,oro.cron.menu.cron_schedule.label,Tác vụ theo lịch,Scheduled Tasks,0
+messages,oro.cron.message.start.fail,Không khởi động được daemon,Failed to start daemon,0
+messages,oro.cron.message.start.success,Daemon đã bắt đầu,Daemon started,0
+messages,oro.cron.message.stop.fail,Không thể dừng daemon,Failed to stop daemon,0
+messages,oro.cron.message.stop.success,Daemon dừng lại,Daemon stopped,0
+messages,oro.cron.schedule.arguments.label,Lập luận,Arguments,0
+messages,oro.cron.schedule.arguments_hash.label,Hash đối số,Arguments Hash,0
+messages,oro.cron.schedule.command.label,Chỉ huy,Command,0
+messages,oro.cron.schedule.definition.label,Định nghĩa,Definition,0
+messages,oro.cron.schedule.entity_label,Lịch biểu,Schedule,0
+messages,oro.cron.schedule.entity_plural_label,Lịch biểu,Schedules,0
+messages,oro.cron.schedule.id.label,ID,Id,0
+messages,oro.cron.schedule_interval.active_at.label,Kích hoạt tại,Activate At,0
+messages,oro.cron.schedule_interval.active_now,Hiện đang hoạt động.,Is active now.,0
+messages,oro.cron.schedule_interval.add,Thêm vào,Add,0
+messages,oro.cron.schedule_interval.deactivate_at.label,Tắt tại,Deactivate At,0
+messages,oro.cron.schedule_interval.not_active_now,Hiện không hoạt động.,Is not active now.,0
+messages,oro.cron.schedule_interval.was_activated,Đã được kích hoạt vào% date%.,Was activated on %date%.,0
+messages,oro.cron.schedule_interval.was_deactivated,Đã bị vô hiệu hóa vào% date%.,Was deactivated on %date%.,0
+messages,oro.cron.schedule_interval.will_be_acitivated,Sẽ hoạt động vào% date%.,Will become active on %date%.,0
+messages,oro.cron.schedule_interval.will_be_deacitivated,Sẽ ngừng hoạt động vào% date%.,Will be deactivated on %date%.,0
+messages,oro.cron.sidebar.check,Kiểm tra trạng thái,Check status,0
+messages,oro.cron.sidebar.not_running,Không chạy,Not running,0
+messages,oro.cron.sidebar.pid,Daemon PID,Daemon PID,0
+messages,oro.cron.sidebar.run,Chạy daemon,Run daemon,0
+messages,oro.cron.sidebar.running,Đang chạy,Running,0
+messages,oro.cron.sidebar.status,Trạng thái Daemon,Daemon status,0
+messages,oro.cron.sidebar.stop,Dừng daemon,Stop daemon,0
+messages,oro.cron.view.dependencies,Dendencies,Dendencies,0
+messages,oro.cron.view.in_deps,Phụ thuộc đến,Incoming Dependencies,0
+messages,oro.cron.view.original,Công việc ban đầu,Original Job,0
+messages,oro.cron.view.related,Các thực thể liên quan,Related Entities,0
+messages,oro.currency.currency.form.choose,Chọn loại tiền tệ ...,Choose Currency...,0
+messages,oro.currency.form.tooltip.currency,Chọn loại tiền tệ mặc định,Select the default currency,0
+messages,oro.currency.form.tooltip.currency_display,Chọn hiển thị hoặc không hiển thị mã tiền tệ ISO (ví dụ: USD) hoặc ký hiệu tiền tệ (ví dụ: $),Select whether to display the currency ISO code (e.g. USD) or the currency symbol (e.g. $),0
+messages,oro.currency.system_configuration.fields.allowed_currencies.label,Đơn vị tiền tệ được phép,Allowed Currencies,0
+messages,oro.currency.system_configuration.fields.currency_display.choices.iso_code,Mã tiền tệ,Currency Code,0
+messages,oro.currency.system_configuration.fields.currency_display.choices.symbol,Ký hiệu tiền tệ,Currency Symbol,0
+messages,oro.currency.system_configuration.fields.currency_display.label,Định dạng hiển thị,Display format,0
+messages,oro.currency.system_configuration.fields.default_currency.label,mặc định ngoại tệ,Default Currency,0
+messages,oro.currency.system_configuration.groups.currency.title,Tiền tệ,Currency,0
+messages,oro.currency.system_configuration.groups.currency_settings.title,Cài đặt đơn vị tiền tệ,Currency settings,0
+messages,oro.custom_entity.organization.label,Cơ quan,Organization,0
+messages,oro.custom_entity.owner.description,Mô tả,Owner Description,0
+messages,oro.custom_entity.owner.label,Chủ nhân,Owner,0
+messages,oro.dashboard.add_dashboard_widgets.add_to_dashboard,Thêm vào,Add,0
+messages,oro.dashboard.add_dashboard_widgets.add_widget,Thêm tiện ích,Add widget,0
+messages,oro.dashboard.calendar.new_event,Sự kiện mới,New Event,0
+messages,oro.dashboard.calendar.view_calendar,Lịch của tôi,My Calendar,0
+messages,oro.dashboard.chart.date.label,Tuần,Week,0
+messages,oro.dashboard.chart.day.label,ngày,Day,0
+messages,oro.dashboard.chart.month.label,tháng,Month,0
+messages,oro.dashboard.chart.time.label,Giờ,Hour,0
+messages,oro.dashboard.chart.year.label,Năm,Year,0
+messages,oro.dashboard.create_dashboard_link.text,Tạo nên,Create,0
+messages,oro.dashboard.create_dashboard_link.title,Tạo trang tổng quan mới,Create new dashboard,0
+messages,oro.dashboard.datagrid.actions.add.label,Thêm vào,Add,0
+messages,oro.dashboard.datagrid.actions.add_all.label,Thêm tất cả,Add all,0
+messages,oro.dashboard.datagrid.actions.delete.label,Xóa cột,Delete column,0
+messages,oro.dashboard.datagrid.actions.move_column.label,Di chuyển cột,Move column,0
+messages,oro.dashboard.datagrid.actions.move_column_down.label,Di chuyển cột xuống,Move column down,0
+messages,oro.dashboard.datagrid.actions.move_column_up.label,Di chuyển cột lên,Move column up,0
+messages,oro.dashboard.datagrid.columns.actions,Hành động,Actions,0
+messages,oro.dashboard.date_range.label,Phạm vi ngày,Date range,0
+messages,oro.dashboard.delete_dashboard_link.text,Xóa trang tổng quan,Delete dashboard,0
+messages,oro.dashboard.delete_dashboard_link.title,Xóa trang tổng quan hiện tại,Remove current dashboard,0
+messages,oro.dashboard.edit_dashboard_link.text,Chỉnh sửa,Edit,0
+messages,oro.dashboard.edit_dashboard_link.title,Chỉnh sửa trang tổng quan hiện tại,Edit current dashboard,0
+messages,oro.dashboard.empty_column_message.allowed,"Kéo tiện ích của bạn tại đây hoặc <a class=""dashboard-widgets-add"" href=""#""> thêm tiện ích con mới </a>.","Drag your widgets here or <a class=""dashboard-widgets-add"" href=""#"">add a new widget</a>.",0
+messages,oro.dashboard.empty_column_message.denied,Không có tiện ích con nào,No available widgets,0
+messages,oro.dashboard.entity_label,bảng điều khiển,Dashboard,0
+messages,oro.dashboard.entity_plural_label,Trang tổng quan,Dashboards,0
+messages,oro.dashboard.form.choose_business_unit,Chọn đơn vị kinh doanh ...,Choose a business unit...,0
+messages,oro.dashboard.grid.fields.grid_view.label,Chế độ hiển thị theo ô,Grid view,0
+messages,oro.dashboard.id.label,ID,Id,0
+messages,oro.dashboard.is_default.label,Mặc định,Is Default,0
+messages,oro.dashboard.label,Nhãn,Label,0
+messages,oro.dashboard.label.label,Nhãn,Label,0
+messages,oro.dashboard.lead_statistics.description,Tiện ích con này hiển thị một tập hợp các chỉ số cho biết hiệu suất của đường ống dẫn.,This widget displays a set of metrics that indicate performance of lead pipeline.,0
+messages,oro.dashboard.lead_statistics.new_leads_count.label,Khách hàng tiềm năng mới,New Leads,0
+messages,oro.dashboard.lead_statistics.open_leads_count.label,Mở khách hàng tiềm năng,Open Leads,0
+messages,oro.dashboard.lead_statistics.title,Thống kê chì,Lead statistics,0
+messages,oro.dashboard.list,Danh sách,List,0
+messages,oro.dashboard.management_title,Quản lý Trang tổng quan,Manage Dashboards,0
+messages,oro.dashboard.menu.dashboards_list.label,Quản lý Trang tổng quan,Manage Dashboards,0
+messages,oro.dashboard.menu.dashboards_tab.label,Trang tổng quan,Dashboards,0
+messages,oro.dashboard.my_accounts_activity.description,Tiện ích này hiển thị danh sách các tài khoản được truy cập gần đây,This widget displays the list of recently accessed accounts,0
+messages,oro.dashboard.my_accounts_activity.title,Tài khoản được truy cập gần đây,Recently accessed accounts,0
+messages,oro.dashboard.my_accounts_activity.view_all,Xem tất cả,View all,0
+messages,oro.dashboard.my_contacts_activity.description,Tiện ích này hiển thị danh sách các địa chỉ liên hệ được truy cập gần đây,This widget displays the list of recently accessed contacts,0
+messages,oro.dashboard.my_contacts_activity.title,Danh bạ được truy cập gần đây,Recently accessed contacts,0
+messages,oro.dashboard.my_contacts_activity.view_all,Xem tất cả,View all,0
+messages,oro.dashboard.my_sales_flow.b2b,B2B,B2B,0
+messages,oro.dashboard.my_sales_flow.b2c,B2C,B2C,0
+messages,oro.dashboard.name.label,Tên,Name,0
+messages,oro.dashboard.no_data_found,Không tìm thấy dữ liệu nào,No data found,0
+messages,oro.dashboard.no_one_available,Bạn không có sẵn trang tổng quan,You have no dashboards available,0
+messages,oro.dashboard.opportunity_statistics.description,Tiện ích này hiển thị một tập hợp các chỉ số cho biết hiệu suất của đường ống cơ hội.,This widget displays a set of metrics that indicate performance of opportunity pipeline.,0
+messages,oro.dashboard.opportunity_statistics.new_opportunities_amount.label,Số lượng cơ hội mới,New Opportunities amount,0
+messages,oro.dashboard.opportunity_statistics.new_opportunities_count.label,Số cơ hội mới,New Opportunities count,0
+messages,oro.dashboard.opportunity_statistics.title,Thống kê cơ hội,Opportunity statistics,0
+messages,oro.dashboard.opportunity_statistics.won_opportunities_to_date_amount.label,Đã giành cơ hội cho đến ngày,Won Opportunities to date amount,0
+messages,oro.dashboard.opportunity_statistics.won_opportunities_to_date_count.label,Đã giành cơ hội để đếm ngày,Won Opportunities to date count,0
+messages,oro.dashboard.options.label,Tùy chọn,Options,0
+messages,oro.dashboard.organization.label,Cơ quan,Organization,0
+messages,oro.dashboard.owner,Chủ nhân,Owner,0
+messages,oro.dashboard.owner.label,Chủ nhân,Owner,0
+messages,oro.dashboard.previous_date_range.label,So sánh với kỳ trước,Compare with previous period,0
+messages,oro.dashboard.query_filter.collapse,Sự sụp đổ,Collapse,0
+messages,oro.dashboard.query_filter.expand,Mở rộng,Expand,0
+messages,oro.dashboard.query_filter.label,Bộ lọc nâng cao,Advanced Filter,0
+messages,oro.dashboard.quick_launchpad_widget_description,Tiện ích này cung cấp cho bạn quyền truy cập vào các trang và hành động thường được sử dụng nhất,This widget gives you access to most commonly used actions and pages,0
+messages,oro.dashboard.recent_calls.description,Widget này hiển thị danh sách các cuộc gọi đã đăng nhập gần đây,This widget displays the list of recently logged calls,0
+messages,oro.dashboard.recent_calls.title,Những cuộc gọi gần đây,Recent calls,0
+messages,oro.dashboard.recent_calls.view_all,Xem tất cả,View All,0
+messages,oro.dashboard.recent_emails.description,Tiện ích này cho phép bạn xem những bổ sung mới nhất cho hộp thư đến và hộp thư đi của bạn,This widget enables you to see the most recent additions to your inbox and outbox,0
+messages,oro.dashboard.recent_emails.inbox,Hộp thư đến,Inbox,0
+messages,oro.dashboard.recent_emails.reply,Đáp lại,Reply,0
+messages,oro.dashboard.recent_emails.sent,Gởi,Sent,0
+messages,oro.dashboard.recent_emails.title,Email gần đây,Recent Emails,0
+messages,oro.dashboard.recent_emails.unread,Email chưa đọc,Unread Emails,0
+messages,oro.dashboard.recent_emails.view_all,Xem tất cả,View All,0
+messages,oro.dashboard.recent_emails.view_email,Xem email,View Email,0
+messages,oro.dashboard.saved_message,Đã lưu trang tổng quan,Dashboard saved,0
+messages,oro.dashboard.start_dashboard,Sao chép từ,Clone from,0
+messages,oro.dashboard.start_dashboard.empty_value,Trang tổng quan trống,Blank Dashboard,0
+messages,oro.dashboard.title.chose_dashboard,Chọn trang tổng quan,Choose dashboard,0
+messages,oro.dashboard.title.label,Tên tiện ích,Widget title,0
+messages,oro.dashboard.title.main,bảng điều khiển,Dashboard,0
+messages,oro.dashboard.title.quick_launchpad,Quick Launchpad,Quick Launchpad,0
+messages,oro.dashboard.title.use_default.label,Sử dụng mặc định,Use default,0
+messages,oro.dashboard.tools_dropdown.label,Công cụ,Tools,0
+messages,oro.dashboard.widget.big_number.choose_metrics,Chọn số liệu,Choose Metrics,0
+messages,oro.dashboard.widget.big_number.choose_metrics_placeholder,Chọn số liệu ...,Choose Metrics...,0
+messages,oro.dashboard.widget.big_number.compare_to.label,So với,Compare to,0
+messages,oro.dashboard.widget.big_number.metricName,Tên chỉ số,Metric name,0
+messages,oro.dashboard.widget.big_number.metrics,Số liệu,Metrics,0
+messages,oro.dashboard.widget.big_number.no_available_metrics,Không có số liệu có sẵn,No available metrics,0
+messages,oro.dashboard.widget.big_number.no_changes,Không thay đổi,No changes,0
+messages,oro.dashboard.widget.configuration.success,Tiện ích con đã được định cấu hình thành công,Widget has been successfully configured,0
+messages,oro.dashboard.widget.filter.date_range.all_time,Tất cả thời gian,All time,0
+messages,oro.dashboard.widget.filter.date_range.this_month,Tháng này,This month,0
+messages,oro.dashboard.widget.filter.date_range.this_quarter,Hình vuông này,This quarter,0
+messages,oro.dashboard.widget.filter.date_range.this_week,Tuần này,This week,0
+messages,oro.dashboard.widget.filter.date_range.this_year,Năm nay,This year,0
+messages,oro.dashboard.widget.filter.date_range.today,Hôm nay,Today,0
+messages,oro.dashboard.widget.sort_by.label,Sắp xếp theo,Sort By,0
+messages,oro.dashboard.widget.sort_by.order.asc.label,Tăng dần,Ascending,0
+messages,oro.dashboard.widget.sort_by.order.desc.label,Giảm dần,Descending,0
+messages,oro.dashboard.widget.sort_by.property.placeholder,Chọn một tài sản ...,Choose a property...,0
+messages,oro.dashboard.widgets.label,Tiện ích,Widgets,0
+messages,oro.dashboard.widgets.quick_launchpad.title,Cài đặt,Settings,0
+messages,oro.dataaudit.abstractaudit.action.label,Hành động kiểm toán,Audit action,0
+messages,oro.dataaudit.abstractaudit.additional_fields.label,Các trường bổ sung,Additional fields,0
+messages,oro.dataaudit.abstractaudit.entity_label,Kiểm toán,Audit,0
+messages,oro.dataaudit.abstractaudit.entity_plural_label,Kiểm tra,Audits,0
+messages,oro.dataaudit.abstractaudit.fields.label,Trường kiểm toán,Audit fields,0
+messages,oro.dataaudit.abstractaudit.id.label,ID,Id,0
+messages,oro.dataaudit.abstractaudit.impersonation.label,Kiểm tra mạo danh,Audit impersonation,0
+messages,oro.dataaudit.abstractaudit.logged_at.label,Đã đăng nhập tại,Logged at,0
+messages,oro.dataaudit.abstractaudit.object_class.label,Lớp kiểm toán,Audit class,0
+messages,oro.dataaudit.abstractaudit.object_id.label,ID,Id,0
+messages,oro.dataaudit.abstractaudit.object_name.label,Kiểm toán,Audit,0
+messages,oro.dataaudit.abstractaudit.organization.label,Tổ chức kiểm toán,Audit organization,0
+messages,oro.dataaudit.abstractaudit.owner_description.label,Mô tả chủ sở hữu kiểm tra,Audit owner description,0
+messages,oro.dataaudit.abstractaudit.transaction_id.label,Id giao dịch kiểm tra,Audit transaction id,0
+messages,oro.dataaudit.abstractaudit.user.label,Người dùng kiểm tra,Audit user,0
+messages,oro.dataaudit.abstractaudit.version.label,Phiên bản kiểm tra,Audit version,0
+messages,oro.dataaudit.action.create,Tạo nên,Create,0
+messages,oro.dataaudit.action.remove,Tẩy,Remove,0
+messages,oro.dataaudit.action.update,Cập nhật,Update,0
+messages,oro.dataaudit.audit.action.label,Hành động kiểm toán,Audit action,0
+messages,oro.dataaudit.audit.additional_fields.label,Các trường bổ sung,Additional fields,0
+messages,oro.dataaudit.audit.entity_label,Kiểm toán,Audit,0
+messages,oro.dataaudit.audit.entity_plural_label,Kiểm tra,Audits,0
+messages,oro.dataaudit.audit.fields.label,Trường kiểm toán,Audit fields,0
