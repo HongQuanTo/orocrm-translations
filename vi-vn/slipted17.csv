@@ -5,7 +5,7 @@ messages,oro.call.call_status.label,Trạng thái cuộc gọi,Call status,0
 messages,oro.call.calldirection.entity_description,Hướng gọi xác định cuộc gọi đến hay đi.,The call direction defines whether the call is incoming or outgoing.,0
 messages,oro.call.calldirection.entity_label,Phương hướng,Direction,0
 messages,oro.call.calldirection.entity_plural_label,Hướng,Directions,0
-messages,oro.call.calldirection.label.description,Nhãn của hướng gọi ('Incoming' hoặc 'Outgoing').,The label of the call direction ('Incoming' or 'Outgoing').,0
+messages,oro.call.calldirection.label.description,Nhãn của hướng gọi ('Gọi đến' hoặc 'Gọi đi').,The label of the call direction ('Incoming' or 'Outgoing').,0
 messages,oro.call.calldirection.label.label,Nhãn,Label,0
 messages,oro.call.calldirection.name.description,Số nhận dạng duy nhất của bản ghi hướng của cuộc gọi.,The unique identifier of the call's direction record.,0
 messages,oro.call.calldirection.name.label,Tên,Name,0
@@ -16,21 +16,21 @@ messages,oro.call.callstatus.label.description,Nhãn của trạng thái cuộc 
 messages,oro.call.callstatus.label.label,Nhãn,Label,0
 messages,oro.call.callstatus.name.description,Số nhận dạng duy nhất của hồ sơ trạng thái của cuộc gọi.,The unique identifier of the call's status record.,0
 messages,oro.call.callstatus.name.label,Tên,Name,0
-messages,oro.call.changed_by,"được thêm bởi {{user}}, được cập nhật bởi {{editor}}","added by {{ user }}, updated by {{ editor }}",0
+messages,oro.call.changed_by,"được thêm bởi {{ user }}, được cập nhật bởi {{ editor }}","added by {{ user }}, updated by {{ editor }}",0
 messages,oro.call.contexts.label,Ngữ cảnh,Contexts,0
 messages,oro.call.controller.call.deleted.message,Đã xóa cuộc gọi thành công,Call deleted successfully,0
 messages,oro.call.controller.call.saved.message,Đã lưu cuộc gọi,Call saved,0
-messages,oro.call.created_by,được ghi lại bởi {{user}},logged by {{ user }},0
+messages,oro.call.created_by,được ghi lại bởi {{ user }},logged by {{ user }},0
 messages,oro.call.datagrid.date_time,Ngày gọi,Call date,0
-messages,oro.call.delete_call,Xóa nhật ký {{entity}},Delete {{ entity }} log,0
+messages,oro.call.delete_call,Xóa nhật ký {{ entity }},Delete {{ entity }} log,0
 messages,oro.call.direction.description,Xác định xem cuộc gọi có được gửi đi hay không.,Defines whether the call is outgoing or incoming.,0
-messages,oro.call.direction.label,Phương hướng,Direction,0
-messages,oro.call.direction_label.label,Phương hướng,Direction,0
+messages,oro.call.direction.label,Hướng,Direction,0
+messages,oro.call.direction_label.label,Hướng,Direction,0
 messages,oro.call.duration.description,Thời lượng của cuộc gọi tính bằng giây.,The duration of the call in seconds.,0
 messages,oro.call.duration.label,Thời lượng,Duration,0
 messages,oro.call.entity_description,Thông tin về các cuộc gọi được thực hiện hoặc nhận bởi người dùng.,The information about calls made or received by users.,0
-messages,oro.call.entity_label,Gọi điện,Call,0
-messages,oro.call.entity_plural_label,Cuộc gọi,Calls,0
+messages,oro.call.entity_label,Cuộc gọi,Call,0
+messages,oro.call.entity_plural_label,Các cuộc gọi,Calls,0
 messages,oro.call.form.choose_or_enter_phone,Chọn hoặc nhập số điện thoại ...,Choose or enter a phone number ...,0
 messages,oro.call.id.description,Số nhận dạng duy nhất của bản ghi cuộc gọi.,The unique identifier of the call record.,0
 messages,oro.call.id.label,ID,Id,0
@@ -39,7 +39,7 @@ messages,oro.call.menu.call_list.description,Danh sách cuộc gọi,List of cal
 messages,oro.call.menu.shortcut_call_list.description,Danh sách cuộc gọi,List of calls,0
 messages,oro.call.menu.shortcut_call_list.label,Hiển thị danh sách cuộc gọi,Show Calls list,0
 messages,oro.call.notes.description,Văn bản của ghi chú được thực hiện trên cuộc gọi.,The text of the note made on the call.,0
-messages,oro.call.notes.label,Ý kiến ​​khác,Additional comments,0
+messages,oro.call.notes.label,Ý kiến khác,Additional comments,0
 messages,oro.call.organization.label,Cơ quan,Organization,0
 messages,oro.call.owner.label,Chủ nhân,Owner,0
 messages,oro.call.phone_number.description,Số điện thoại mà cuộc gọi được thực hiện / nhận từ.,The phone number that the call was made to / received from.,0
@@ -47,10 +47,10 @@ messages,oro.call.phone_number.label,Số điện thoại,Phone number,0
 messages,oro.call.sections.general,Chung,General,0
 messages,oro.call.subject.description,Xác định cuộc gọi là gì.,Defines what the call was about.,0
 messages,oro.call.subject.label,Môn học,Subject,0
-messages,oro.call.update_call,Cập nhật nhật ký {{entity}},Update {{ entity }} log,0
+messages,oro.call.update_call,Cập nhật nhật ký {{ entity }},Update {{ entity }} log,0
 messages,oro.call.update_log_call,Cập nhật cuộc gọi,Update call,0
 messages,oro.call.view,Xem nhật ký cuộc gọi,View call log,0
-messages,oro.call.view_call,Xem nhật ký {{entity}},View {{ entity }} log,0
+messages,oro.call.view_call,Xem nhật ký {{ entity }},View {{ entity }} log,0
 messages,oro.call.widget.call_information,Thông tin cuộc gọi,Call Information,0
 messages,oro.campaign.acl.send_emails.description,Gửi email theo cách thủ công trong chiến dịch email,Manually send emails within an email campaign,0
 messages,oro.campaign.acl.send_emails.label,Gửi email chiến dịch,Send campaign emails,0
@@ -77,7 +77,7 @@ messages,oro.campaign.dashboard.campaigns_opportunity.title,Chiến dịch tạo
 messages,oro.campaign.datagrid.actions.delete.label,Xóa bỏ,Delete,0
 messages,oro.campaign.datagrid.actions.update.label,Cập nhật,Update,0
 messages,oro.campaign.datagrid.actions.view.label,Lượt xem,View,0
-messages,oro.campaign.description.label,Sự miêu tả,Description,0
+messages,oro.campaign.description.label,Mô tả,Description,0
 messages,oro.campaign.emailcampaign.block.email_settings,Cài đặt email,Email Settings,0
 messages,oro.campaign.emailcampaign.block.general,Thông tin chung,General Information,0
 messages,oro.campaign.emailcampaign.block.recipients,Người nhận,Recipients,0
@@ -87,12 +87,12 @@ messages,oro.campaign.emailcampaign.controller.saved.message,Đã lưu chiến d
 messages,oro.campaign.emailcampaign.controller.send_disallowed,Không thể gửi chiến dịch email. Vui lòng kiểm tra xem tất cả các cài đặt có chính xác hay không.,"Email campaign could not be sent. Please, check that all settings are correct.",0
 messages,oro.campaign.emailcampaign.controller.sent,Chiến dịch email đã được gửi,Email campaign was sent,0
 messages,oro.campaign.emailcampaign.created_at.label,Được tạo lúc,Created At,0
-messages,oro.campaign.emailcampaign.datagrid.actions.delete.label,Xóa bỏ,Delete,0
+messages,oro.campaign.emailcampaign.datagrid.actions.delete.label,Xóa,Delete,0
 messages,oro.campaign.emailcampaign.datagrid.actions.update.label,Cập nhật,Update,0
 messages,oro.campaign.emailcampaign.datagrid.actions.view.label,Lượt xem,View,0
-messages,oro.campaign.emailcampaign.datagrid.campaignContactedTimes,Đã liên hệ với chiến dịch,Campaign contacted,0
-messages,oro.campaign.emailcampaign.datagrid.campaignLastContactedAt,Chiến dịch được liên hệ lần cuối lúc,Campaign last contacted at,0
-messages,oro.campaign.emailcampaign.description.label,Sự miêu tả,Description,0
+messages,oro.campaign.emailcampaign.datagrid.campaignContactedTimes,Số lần tương tác,Campaign contacted,0
+messages,oro.campaign.emailcampaign.datagrid.campaignLastContactedAt,Lần liên hệ lần cuối lúc,Campaign last contacted at,0
+messages,oro.campaign.emailcampaign.description.label,Mô tả,Description,0
 messages,oro.campaign.emailcampaign.entity_description,Chiến dịch email tiếp thị,Marketing email campaigns,0
 messages,oro.campaign.emailcampaign.entity_label,Chiến dịch email,Email Campaign,0
 messages,oro.campaign.emailcampaign.entity_plural_label,Chiến dịch email,Email Campaigns,0
@@ -116,15 +116,15 @@ messages,oro.campaign.emailcampaign.stats.click.label,Nhấp chuột,Click,0
 messages,oro.campaign.emailcampaign.stats.open.label,Mở,Open,0
 messages,oro.campaign.emailcampaign.stats.unsubscribe.label,Hủy đăng ký,Unsubscribe,0
 messages,oro.campaign.emailcampaign.status.not_sent,Chưa được gửi,Not sent,0
-messages,oro.campaign.emailcampaign.status.sent,Gởi,Sent,0
+messages,oro.campaign.emailcampaign.status.sent,Đã gửi,Sent,0
 messages,oro.campaign.emailcampaign.system_configuration.campaign_sender_email,Email người gửi,Sender Email,0
 messages,oro.campaign.emailcampaign.system_configuration.campaign_sender_name,Tên người gửi,Sender Name,0
 messages,oro.campaign.emailcampaign.system_configuration.title,Chiến dịch,Campaign,0
-messages,oro.campaign.emailcampaign.template.label,Bản mẫu,Template,0
+messages,oro.campaign.emailcampaign.template.label,Mẫu,Template,0
 messages,oro.campaign.emailcampaign.transport.internal,Oro,Oro,0
 messages,oro.campaign.emailcampaign.transport.label,Vận chuyển,Transport,0
-messages,oro.campaign.emailcampaign.transport_settings.label,Cài đặt Giao thông,Transport Settings,0
-messages,oro.campaign.emailcampaign.updated_at.label,Cập nhật tại,Updated At,0
+messages,oro.campaign.emailcampaign.transport_settings.label,Cài đặt Vận chuyển,Transport Settings,0
+messages,oro.campaign.emailcampaign.updated_at.label,Cập nhật lúc,Updated At,0
 messages,oro.campaign.emailcampaignstatistics.abuse_count.label,Tổng số lạm dụng,Abuse Count,0
 messages,oro.campaign.emailcampaignstatistics.block.label,Thống kê chiến dịch email,Email Campaign Statistics,0
 messages,oro.campaign.emailcampaignstatistics.bounce_count.label,Số lần trả lại,Bounce Count,0
@@ -190,13 +190,13 @@ messages,oro.case.casecomment.error.delete,"Rất tiếc, không thể xóa nh�
 messages,oro.case.casecomment.error.load,"Xin lỗi, bình luận không được tải đúng.","Sorry, comments were not loaded correctly.",0
 messages,oro.case.casecomment.id.description,Số nhận dạng duy nhất của hồ sơ nhận xét trường hợp.,The unique identifier of the case comment record.,0
 messages,oro.case.casecomment.id.label,ID,Id,0
-messages,oro.case.casecomment.message.delete_confirmation,bạn có chắc là bạn muốn xoá bình luận này không?,Are you sure you want to delete this comment?,0
+messages,oro.case.casecomment.message.delete_confirmation,Bạn có chắc là bạn muốn xoá bình luận này không?,Are you sure you want to delete this comment?,0
 messages,oro.case.casecomment.message.description,Văn bản nhận xét trường hợp.,The case comment text.,0
 messages,oro.case.casecomment.message.label,Thông điệp,Message,0
 messages,oro.case.casecomment.message.no_records,Không có lời bình luận nào.,There are no comments.,0
 messages,oro.case.casecomment.message.removed,Đã xóa nhận xét,Comment Removed,0
 messages,oro.case.casecomment.message.saved,Đã lưu nhận xét,Comment Saved,0
-messages,oro.case.casecomment.message.updated_by,Cập nhật trước {{user}} vào {{date}},Updated by {{ user }} at {{ date }},0
+messages,oro.case.casecomment.message.updated_by,Cập nhật trước {{ user }} vào {{ date }},Updated by {{ user }} at {{ date }},0
 messages,oro.case.casecomment.organization.label,Cơ quan,Organization,0
 messages,oro.case.casecomment.owner.label,Chủ nhân,Owner,0
 messages,oro.case.casecomment.public.description,Xác định xem nhận xét phải được công khai trên Zendesk hay không.,Defines whether the comment must be public on Zendesk.,0
@@ -279,8 +279,8 @@ messages,oro.case.datagrid.related_contact.label,Liên hệ liên quan,Related C
 messages,oro.case.datagrid.reported_on.label,Đã báo cáo vào,Reported On,0
 messages,oro.case.datagrid.source.label,Nguồn,Source,0
 messages,oro.case.datagrid.status.label,Trạng thái,Status,0
-messages,oro.case.datagrid.subject.label,Môn học,Subject,0
-messages,oro.case.mailbox.process.case.label,Chuyển đổi thành Case,Convert To Case,0
+messages,oro.case.datagrid.subject.label,Tiêu đề,Subject,0
+messages,oro.case.mailbox.process.case.label,Chuyển đổi thành Trường hợp,Convert To Case,0
 messages,oro.case.menu.index.label,Các trường hợp,Cases,0
 messages,oro.case.message.saved,Đã lưu trường hợp,Case saved,0
 messages,oro.case.widgets.account_cases,Các trường hợp,Cases,0
@@ -310,9 +310,9 @@ messages,oro.channel.dashboard.average_lifetime_sales_chart.month,tháng,Month,0
 messages,oro.channel.dashboard.average_lifetime_sales_chart.title,Doanh số trọn đời trung bình,Average lifetime sales,0
 messages,oro.channel.dashboard.e_commerce.label,Thương mại điện tử,Ecommerce,0
 messages,oro.channel.data.label,Dữ liệu bổ sung,Additional Data,0
-messages,oro.channel.data_source.description,Hội nhập,Integration,0
-messages,oro.channel.data_source.label,Hội nhập,Integration,0
-messages,oro.channel.datagrid.action.delete.label,Xóa bỏ,Delete,0
+messages,oro.channel.data_source.description,Tích hợp,Integration,0
+messages,oro.channel.data_source.label,Tích hợp,Integration,0
+messages,oro.channel.datagrid.action.delete.label,Xóa,Delete,0
 messages,oro.channel.datagrid.action.update.label,Cập nhật,Update,0
 messages,oro.channel.entities.description,Xác định trường nào sẽ được xác định trong trường thực thể sau khi loại kênh đã được chọn,Determines which fields will be defined in entities field after channel type has been selected,0
 messages,oro.channel.entities.label,Thực thể,Entities,0
@@ -331,14 +331,14 @@ messages,oro.channel.owner.label,Chủ nhân,Owner,0
 messages,oro.channel.status.description,Xác định trạng thái bản ghi. Giá trị có thể có: True (Activated) hoặc False (Ngừng hoạt động).,Determines the record status. Possible values: True(Activated) or False(Inactivated).,0
 messages,oro.channel.status.label,Trạng thái,Status,0
 messages,oro.channel.tracking_website_channel_select.tooltip,Vui lòng chọn kênh mà trang web theo dõi này thuộc về. Tùy thuộc vào loại kênh các quy tắc khác nhau có thể được áp dụng cho nhận dạng khách hàng.,Please select channel for which this tracking website belongs to. Depending on channel type different rules can be applied for customer identification.,0
-messages,oro.chart.bar_chart.label,Biểu đồ thanh,Bar Chart,0
+messages,oro.chart.bar_chart.label,Biểu đồ cột,Bar Chart,0
 messages,oro.chart.bar_chart.params.label,Danh mục (Trục X),Category (X axis),0
 messages,oro.chart.bar_chart.params.value,Giá trị (trục Y),Value (Y axis),0
-messages,oro.chart.flow_chart.label,Sơ đồ,Flow Chart,0
-messages,oro.chart.flow_chart.params.is_nozzle,Là bước vòi phun,Is step nozzle,0
-messages,oro.chart.flow_chart.params.label,Nhãn bước,Step label,0
-messages,oro.chart.flow_chart.params.value,Giá trị bước,Step value,0
-messages,oro.chart.form.chart_empty_value,không ai,None,0
+messages,oro.chart.flow_chart.label,Biểu đồ,Flow Chart,0
+messages,oro.chart.flow_chart.params.is_nozzle,Là bước vòi phun (nozzle),Is step nozzle,0
+messages,oro.chart.flow_chart.params.label,Tham số,Step label,0
+messages,oro.chart.flow_chart.params.value,Giá trị,Step value,0
+messages,oro.chart.form.chart_empty_value,Rỗng,None,0
 messages,oro.chart.form.name.label,Loại biểu đồ,Chart Type,0
 messages,oro.chart.line_chart.label,Biểu đồ đường kẻ,Line Chart,0
 messages,oro.chart.line_chart.params.label,Danh mục (Trục X),Category (X axis),0

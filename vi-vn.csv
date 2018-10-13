@@ -4816,418 +4816,418 @@ entities,region.WS-VS,Vaisigano,Vaisigano,0
 entities,region.YE-AB,Abyān,Abyān,0
 entities,region.YE-AD,'Adan,'Adan,0
 entities,region.YE-AM,'Amrān,'Amrān,0
-entities,region.YE-BA,"Al Bayḑā'","Al Bayḑā'",0
-entities,region.YE-DA,"Aḑ Ḑāli‘","Aḑ Ḑāli‘",0
+entities,region.YE-BA,Al Bayḑā',Al Bayḑā',0
+entities,region.YE-DA,Aḑ Ḑāli‘,Aḑ Ḑāli‘,0
 entities,region.YE-DH,Dhamār,Dhamār,0
 entities,region.YE-HD,Ḩaḑramawt,Ḩaḑramawt,0
 entities,region.YE-HJ,Ḩajjah,Ḩajjah,0
 entities,region.YE-IB,Ibb,Ibb,0
-entities,region.YE-JA,"Al Jawf","Al Jawf",0
+entities,region.YE-JA,Al Jawf,Al Jawf,0
 entities,region.YE-LA,Laḩij,Laḩij,0
 entities,region.YE-MA,Ma'rib,Ma'rib,0
-entities,region.YE-MR,"Al Mahrah","Al Mahrah",0
-entities,region.YE-MU,"Al Ḩudaydah","Al Ḩudaydah",0
-entities,region.YE-MW,"Al Maḩwīt","Al Maḩwīt",0
+entities,region.YE-MR,Al Mahrah,Al Mahrah,0
+entities,region.YE-MU,Al Ḩudaydah,Al Ḩudaydah,0
+entities,region.YE-MW,Al Maḩwīt,Al Maḩwīt,0
 entities,region.YE-RA,Raymah,Raymah,0
 entities,region.YE-SD,Şa'dah,Şa'dah,0
 entities,region.YE-SH,Shabwah,Shabwah,0
 entities,region.YE-SN,Şan'ā',Şan'ā',0
 entities,region.YE-TA,Tā'izz,Tā'izz,0
-entities,region.ZA-EC,"Eastern Cape","Eastern Cape",0
-entities,region.ZA-FS,"Free State","Free State",0
+entities,region.ZA-EC,Eastern Cape,Eastern Cape,0
+entities,region.ZA-FS,Free State,Free State,0
 entities,region.ZA-GT,Gauteng,Gauteng,0
 entities,region.ZA-LP,Limpopo,Limpopo,0
 entities,region.ZA-MP,Mpumalanga,Mpumalanga,0
-entities,region.ZA-NC,"Northern Cape","Northern Cape",0
+entities,region.ZA-NC,Northern Cape,Northern Cape,0
 entities,region.ZA-NL,Kwazulu-Natal,Kwazulu-Natal,0
-entities,region.ZA-NW,"North-West (South Africa)","North-West (South Africa)",0
-entities,region.ZA-WC,"Western Cape","Western Cape",0
+entities,region.ZA-NW,North-West (South Africa),North-West (South Africa),0
+entities,region.ZA-WC,Western Cape,Western Cape,0
 entities,region.ZM-01,Western,Western,0
 entities,region.ZM-02,Central,Central,0
 entities,region.ZM-03,Eastern,Eastern,0
 entities,region.ZM-04,Luapula,Luapula,0
 entities,region.ZM-05,Northern,Northern,0
 entities,region.ZM-06,North-Western,North-Western,0
-entities,region.ZM-07,"Southern (Zambia)","Southern (Zambia)",0
+entities,region.ZM-07,Southern (Zambia),Southern (Zambia),0
 entities,region.ZM-08,Copperbelt,Copperbelt,0
 entities,region.ZM-09,Lusaka,Lusaka,0
 entities,region.ZW-BU,Bulawayo,Bulawayo,0
 entities,region.ZW-HA,Harare,Harare,0
 entities,region.ZW-MA,Manicaland,Manicaland,0
-entities,region.ZW-MC,"Mashonaland Central","Mashonaland Central",0
-entities,region.ZW-ME,"Mashonaland East","Mashonaland East",0
+entities,region.ZW-MC,Mashonaland Central,Mashonaland Central,0
+entities,region.ZW-ME,Mashonaland East,Mashonaland East,0
 entities,region.ZW-MI,Midlands,Midlands,0
-entities,region.ZW-MN,"Matabeleland North","Matabeleland North",0
-entities,region.ZW-MS,"Matabeleland South","Matabeleland South",0
+entities,region.ZW-MN,Matabeleland North,Matabeleland North,0
+entities,region.ZW-MS,Matabeleland South,Matabeleland South,0
 entities,region.ZW-MV,Masvingo,Masvingo,0
-entities,region.ZW-MW,"Mashonaland West","Mashonaland West",0
+entities,region.ZW-MW,Mashonaland West,Mashonaland West,0
 entities,ticket_priority.high,Cao,High,0
 entities,ticket_priority.low,Thấp,Low,0
-entities,ticket_priority.normal,"Bình thường",Normal,0
-entities,ticket_priority.urgent,"Khẩn cấp",Urgent,0
-entities,ticket_status.closed,"Đã đóng",Closed,0
-entities,ticket_status.hold,"Tạm hoãn",Hold,0
+entities,ticket_priority.normal,Bình thường,Normal,0
+entities,ticket_priority.urgent,Khẩn cấp,Urgent,0
+entities,ticket_status.closed,Đã đóng,Closed,0
+entities,ticket_status.hold,Tạm hoãn,Hold,0
 entities,ticket_status.new,Mới,New,0
 entities,ticket_status.open,Mở,Open,0
-entities,ticket_status.pending,"Đang chờ xử lý",Pending,0
-entities,ticket_status.solved,"Đã giải quyết",Solved,0
-entities,ticket_type.incident,"Biến cố",Incident,0
-entities,ticket_type.problem,"Vấn đề",Problem,0
-entities,ticket_type.question,"Câu hỏi",Question,0
-entities,ticket_type.task,"Công việc",Task,0
-entities,zendesk_user_role.admin,"Quản trị viên",Admin,0
-entities,zendesk_user_role.agent,"Đại lý",Agent,0
-entities,zendesk_user_role.end-user,"Người dùng cuối",End-user,0
-HWIOAuthBundle,connect.confirm.cancel,"Hủy bỏ",Cancel,0
-HWIOAuthBundle,connect.confirm.submit,"Kết nối tài khoản","Connect account",0
+entities,ticket_status.pending,Đang chờ xử lý,Pending,0
+entities,ticket_status.solved,Đã giải quyết,Solved,0
+entities,ticket_type.incident,Biến cố,Incident,0
+entities,ticket_type.problem,Vấn đề,Problem,0
+entities,ticket_type.question,Câu hỏi,Question,0
+entities,ticket_type.task,Công việc,Task,0
+entities,zendesk_user_role.admin,Quản trị viên,Admin,0
+entities,zendesk_user_role.agent,Đại lý,Agent,0
+entities,zendesk_user_role.end-user,Người dùng cuối,End-user,0
+HWIOAuthBundle,connect.confirm.cancel,Hủy bỏ,Cancel,0
+HWIOAuthBundle,connect.confirm.submit,Kết nối tài khoản,Connect account,0
 HWIOAuthBundle,connect.confirm.text,"Bạn có chắc chắn muốn kết nối tài khoản ""%name%"" từ %service% với tài khoản hiện tại của mình không?","Are you sure that you want to connect your %service% account ""%name%"" to your current account?",0
-HWIOAuthBundle,connect.registration.cancel,"Hủy bỏ",Cancel,0
-HWIOAuthBundle,connect.registration.submit,"Đăng ký tài khoản","Register account",0
-HWIOAuthBundle,header.connecting,"Đang kết nối",Connecting,0
+HWIOAuthBundle,connect.registration.cancel,Hủy bỏ,Cancel,0
+HWIOAuthBundle,connect.registration.submit,Đăng ký tài khoản,Register account,0
+HWIOAuthBundle,header.connecting,Đang kết nối,Connecting,0
 HWIOAuthBundle,header.register,"Đăng ký với tài khoản ""%name%""","Register with the account ""%name%""",0
 HWIOAuthBundle,header.registration_success,"Đã đăng ký và kết nối thành công tài khoản ""%username%""!","Successfully registered and connected the account ""%username%""!",0
 HWIOAuthBundle,header.success,"Đã kết nối thành công tài khoản ""%name%""!","Successfully connected the account ""%name%""!",0
-jsmessages,(Start),"(Bắt đầu)",(Start),0
+jsmessages,(Start),(Bắt đầu),(Start),0
 jsmessages,A,A,A,0
 jsmessages,abbreviate_ignore_list,một|cái|of|at|per|in|on,a|an|the|of|at|per|in|on,0
-jsmessages,Accepted,"Đã chấp nhận",Accepted,0
-jsmessages,"Action is not performed.","Hành động không được thực hiện.","Action is not performed.",0
-jsmessages,"Action performed.","Đã thực hiện hành động.","Action performed.",0
-jsmessages,Actions,"Các hành động",Actions,0
-jsmessages,Add,"Thêm vào",Add,0
-jsmessages,"Add Address","Thêm Địa chỉ","Add Address",0
-jsmessages,"Add New Event","Thêm Sự kiện mới","Add New Event",0
-jsmessages,"Add new step","Thêm Bước mới","Add new step",0
-jsmessages,"Add new transition","Thêm Chuyển đổi mới","Add new transition",0
-jsmessages,"Address saved","Đã lưu địa chỉ","Address saved",0
+jsmessages,Accepted,Đã chấp nhận,Accepted,0
+jsmessages,Action is not performed.,Hành động không được thực hiện.,Action is not performed.,0
+jsmessages,Action performed.,Đã thực hiện hành động.,Action performed.,0
+jsmessages,Actions,Các hành động,Actions,0
+jsmessages,Add,Thêm vào,Add,0
+jsmessages,Add Address,Thêm Địa chỉ,Add Address,0
+jsmessages,Add New Event,Thêm Sự kiện mới,Add New Event,0
+jsmessages,Add new step,Thêm Bước mới,Add new step,0
+jsmessages,Add new transition,Thêm Chuyển đổi mới,Add new transition,0
+jsmessages,Address saved,Đã lưu địa chỉ,Address saved,0
 jsmessages,after,sau,after,0
-jsmessages,All,"Tất cả các",All,0
+jsmessages,All,Tất cả,All,0
 jsmessages,AM,SA,AM,0
 jsmessages,am,sa,am,0
-jsmessages,"An unexpected error has occurred. Please contact the system administrator.","Một lỗi không mong muốn đã xảy ra. Hãy liên hệ với quản trị hệ thống.","An unexpected error has occurred. Please contact the system administrator.",0
+jsmessages,An unexpected error has occurred. Please contact the system administrator.,Một lỗi không mong muốn đã xảy ra. Hãy liên hệ với quản trị hệ thống.,An unexpected error has occurred. Please contact the system administrator.,0
 jsmessages,and,và,and,0
-jsmessages,"Are you sure you want to delete these items?","Bạn có chắc chắn muốn xóa các mục này không?","Are you sure you want to delete these items?",0
-jsmessages,"Are you sure you want to delete this field?","Bạn có chắc chắn muốn xóa trường này không?","Are you sure you want to delete this field?",0
-jsmessages,"Are you sure you want to delete this item?","bạn có chắc bạn muốn xóa mục này?","Are you sure you want to delete this item?",0
-jsmessages,"Are you sure you want to delete this step?","Bạn có chắc chắn muốn xóa bước này không?","Are you sure you want to delete this step?",0
-jsmessages,"Are you sure you want to delete this transition?","Bạn có chắc chắn muốn xóa chuyển đổi này không?","Are you sure you want to delete this transition?",0
-jsmessages,"Are you sure you want to do this?","Bạn chắc chắn chứ?","Are you sure you want to do this?",0
-jsmessages,"Are you sure you want to remove this item?","Bạn có chắc chắn muốn xóa mục này không?","Are you sure you want to remove this item?",0
-jsmessages,articles,"một|vài|mỗi|bất kỳ|không",a|an|the|some|every|any|no,0
-jsmessages,"At least one step should be added to add transition.","Phải thêm ít nhất một bước để thêm chuyển đổi.","At least one step should be added to add transition.",0
-jsmessages,"Attach file:","Tệp đính kèm:","Attach file:",0
-jsmessages,"Attachment created successfully","Đã tạo tệp đính kèm thành công","Attachment created successfully",0
-jsmessages,"Attachment updated successfully","Đã cập nhật tệp đính kèm thành công","Attachment updated successfully",0
-jsmessages,Back,"Trở lại",Back,0
+jsmessages,Are you sure you want to delete these items?,Bạn có chắc chắn muốn xóa các mục này không?,Are you sure you want to delete these items?,0
+jsmessages,Are you sure you want to delete this field?,Bạn có chắc chắn muốn xóa trường này không?,Are you sure you want to delete this field?,0
+jsmessages,Are you sure you want to delete this item?,bạn có chắc bạn muốn xóa mục này?,Are you sure you want to delete this item?,0
+jsmessages,Are you sure you want to delete this step?,Bạn có chắc chắn muốn xóa bước này không?,Are you sure you want to delete this step?,0
+jsmessages,Are you sure you want to delete this transition?,Bạn có chắc chắn muốn xóa chuyển đổi này không?,Are you sure you want to delete this transition?,0
+jsmessages,Are you sure you want to do this?,Bạn chắc chắn chứ?,Are you sure you want to do this?,0
+jsmessages,Are you sure you want to remove this item?,Bạn có chắc chắn muốn xóa mục này không?,Are you sure you want to remove this item?,0
+jsmessages,articles,một|vài|mỗi|bất kỳ|không,a|an|the|some|every|any|no,0
+jsmessages,At least one step should be added to add transition.,Phải thêm ít nhất một bước để thêm chuyển đổi.,At least one step should be added to add transition.,0
+jsmessages,Attach file:,Tệp đính kèm:,Attach file:,0
+jsmessages,Attachment created successfully,Đã tạo tệp đính kèm thành công,Attachment created successfully,0
+jsmessages,Attachment updated successfully,Đã cập nhật tệp đính kèm thành công,Attachment updated successfully,0
+jsmessages,Back,Trở lại,Back,0
 jsmessages,before,trước,before,0
-jsmessages,"Black button","Nút màu đen","Black button",0
-jsmessages,"Blue button","Nút màu xanh lam","Blue button",0
-jsmessages,"Calendar event doesn't exist. Please refresh page.","Sự kiện lịch không tồn tại. Vui lòng làm mới trang.","Calendar event doesn't exist. Please refresh page.",0
-jsmessages,Cancel,"Hủy bỏ",Cancel,0
-jsmessages,"Cannot reset workflow item data.","Không thể đặt lại dữ liệu mục công việc.","Cannot reset workflow item data.",0
-jsmessages,"Change Entity Confirmation","Thay đổi xác thực đối tượng","Change Entity Confirmation",0
-jsmessages,"Change Integration Confirmation","Thay đổi xác nhận tích hợp","Change Integration Confirmation",0
-jsmessages,"Choose a column first","Chọn cột trước","Choose a column first",0
-jsmessages,"Choose a condition","Chọn điều kiện","Choose a condition",0
-jsmessages,"Choose field...","Chọn trường ...","Choose field...",0
-jsmessages,"Choose File","Chọn tập tin","Choose File",0
-jsmessages,"Choose step...","Chọn bước ...","Choose step...",0
-jsmessages,"Choose Time","Chọn thời gian","Choose Time",0
-jsmessages,"Choose values","Chọn giá trị","Choose values",0
-jsmessages,Clone,"Sao chép",Clone,0
-jsmessages,"Clone step","Sao chép Bước","Clone step",0
-jsmessages,"Clone transition","Sao chép Chuyển đổi","Clone transition",0
+jsmessages,Black button,Nút màu đen,Black button,0
+jsmessages,Blue button,Nút màu xanh lam,Blue button,0
+jsmessages,Calendar event doesn't exist. Please refresh page.,Sự kiện lịch không tồn tại. Vui lòng làm mới trang.,Calendar event doesn't exist. Please refresh page.,0
+jsmessages,Cancel,Hủy bỏ,Cancel,0
+jsmessages,Cannot reset workflow item data.,Không thể đặt lại dữ liệu mục công việc.,Cannot reset workflow item data.,0
+jsmessages,Change Entity Confirmation,Thay đổi xác thực đối tượng,Change Entity Confirmation,0
+jsmessages,Change Integration Confirmation,Thay đổi xác nhận tích hợp,Change Integration Confirmation,0
+jsmessages,Choose a column first,Chọn cột trước,Choose a column first,0
+jsmessages,Choose a condition,Chọn điều kiện,Choose a condition,0
+jsmessages,Choose field...,Chọn trường ...,Choose field...,0
+jsmessages,Choose File,Chọn tập tin,Choose File,0
+jsmessages,Choose step...,Chọn bước ...,Choose step...,0
+jsmessages,Choose Time,Chọn thời gian,Choose Time,0
+jsmessages,Choose values,Chọn giá trị,Choose values,0
+jsmessages,Clone,Sao chép,Clone,0
+jsmessages,Clone step,Sao chép Bước,Clone step,0
+jsmessages,Clone transition,Sao chép Chuyển đổi,Clone transition,0
 jsmessages,close,đóng,close,0
 jsmessages,Close,Đóng,Close,0
-jsmessages,"Configure integration","Chỉnh cấu hình tích hợp","Configure integration",0
-jsmessages,Confirmation,"Xác nhận",Confirmation,0
-jsmessages,"Content of pinned page is outdated","Nội dung của trang được ghim đã lỗi thời","Content of pinned page is outdated",0
-jsmessages,copy,"sao chép",copy,0
-jsmessages,"Copy of","Bản sao của","Copy of",0
-jsmessages,"Copy to Clipboard","Sao chép vào clipboard","Copy to Clipboard",0
+jsmessages,Configure integration,Chỉnh cấu hình tích hợp,Configure integration,0
+jsmessages,Confirmation,Xác nhận,Confirmation,0
+jsmessages,Content of pinned page is outdated,Nội dung của trang được ghim đã lỗi thời,Content of pinned page is outdated,0
+jsmessages,copy,sao chép,copy,0
+jsmessages,Copy of,Bản sao của,Copy of,0
+jsmessages,Copy to Clipboard,Sao chép vào clipboard,Copy to Clipboard,0
 jsmessages,"Could not download translations, error: ","Không thể tải xuống bản dịch, lỗi:","Could not download translations, error&#58; ",0
-jsmessages,"Could not perform action","Không thể thực hiện tác vụ","Could not perform action",0
-jsmessages,"Could not perform transition","Không thể thực hiện chuyển đổi","Could not perform transition",0
-jsmessages,"Could not save workflow.","Không thể lưu quy trình làm việc.","Could not save workflow.",0
-jsmessages,"Could not save workflow. Please add at least one step and one transition.","Không thể lưu quy trình làm việc. Vui lòng thêm ít nhất một bước và một chuyển đổi.","Could not save workflow. Please add at least one step and one transition.",0
-jsmessages,"Could not save workflow. Please either set default step or add transitions to starting point.","Không thể lưu quy trình làm việc. Vui lòng đặt bước mặc định hoặc thêm chuyển tiếp vào điểm bắt đầu.","Could not save workflow. Please either set default step or add transitions to starting point.",0
-jsmessages,"Could not save workflow. Please set related entity.","Không thể lưu quy trình làm việc. Vui lòng đặt thực thể liên quan.","Could not save workflow. Please set related entity.",0
-jsmessages,"Could not save workflow. Please set workflow name.","Không thể lưu quy trình làm việc. Vui lòng đặt tên quy trình làm việc.","Could not save workflow. Please set workflow name.",0
-jsmessages,"Create Address","Tạo địa chỉ","Create Address",0
-jsmessages,"Create task","Tạo tác vụ","Create task",0
-jsmessages,"Create {{ entity }}","Tạo {{ entity }}","Create {{ entity }}",0
-jsmessages,Default,"Mặc định",Default,0
-jsmessages,Delete,"Xóa bỏ",Delete,0
-jsmessages,"Delete Confirmation","Xác nhận Xóa bỏ","Delete Confirmation",0
-jsmessages,"Delete Error","Lỗi khi Xóa","Delete Error",0
-jsmessages,"Delete Event","Xóa Sự kiện","Delete Event",0
-jsmessages,Deleting...,"Đang xóa ...",Deleting...,0
+jsmessages,Could not perform action,Không thể thực hiện tác vụ,Could not perform action,0
+jsmessages,Could not perform transition,Không thể thực hiện chuyển đổi,Could not perform transition,0
+jsmessages,Could not save workflow.,Không thể lưu quy trình làm việc.,Could not save workflow.,0
+jsmessages,Could not save workflow. Please add at least one step and one transition.,Không thể lưu quy trình làm việc. Vui lòng thêm ít nhất một bước và một chuyển đổi.,Could not save workflow. Please add at least one step and one transition.,0
+jsmessages,Could not save workflow. Please either set default step or add transitions to starting point.,Không thể lưu quy trình làm việc. Vui lòng đặt bước mặc định hoặc thêm chuyển tiếp vào điểm bắt đầu.,Could not save workflow. Please either set default step or add transitions to starting point.,0
+jsmessages,Could not save workflow. Please set related entity.,Không thể lưu quy trình làm việc. Vui lòng đặt thực thể liên quan.,Could not save workflow. Please set related entity.,0
+jsmessages,Could not save workflow. Please set workflow name.,Không thể lưu quy trình làm việc. Vui lòng đặt tên quy trình làm việc.,Could not save workflow. Please set workflow name.,0
+jsmessages,Create Address,Tạo địa chỉ,Create Address,0
+jsmessages,Create task,Tạo tác vụ,Create task,0
+jsmessages,Create {{ entity }},Tạo {{ entity }},Create {{ entity }},0
+jsmessages,Default,Mặc định,Default,0
+jsmessages,Delete,Xóa bỏ,Delete,0
+jsmessages,Delete Confirmation,Xác nhận Xóa bỏ,Delete Confirmation,0
+jsmessages,Delete Error,Lỗi khi Xóa,Delete Error,0
+jsmessages,Delete Event,Xóa Sự kiện,Delete Event,0
+jsmessages,Deleting...,Đang xóa ...,Deleting...,0
 jsmessages,Disable,Tắt,Disable,0
-jsmessages,Discard,"Hủy bỏ",Discard,0
-jsmessages,"Don't notify","Đừng thông báo","Don't notify",0
-jsmessages,Done,"Làm xong",Done,0
-jsmessages,"Download finished.","Đã hoàn tất tải xuống.","Download finished.",0
-jsmessages,"Drop condition here","Thả Điều kiện ở đây","Drop condition here",0
-jsmessages,Edit,"Chỉnh sửa",Edit,0
-jsmessages,edit,"chỉnh sửa",edit,0
-jsmessages,"Edit Event","Chỉnh sửa sự kiện","Edit Event",0
-jsmessages,"Edit step","Chỉnh sửa bước","Edit step",0
-jsmessages,"Edit transition","Chỉnh sửa chuyển đổi","Edit transition",0
+jsmessages,Discard,Hủy bỏ,Discard,0
+jsmessages,Don't notify,Đừng thông báo,Don't notify,0
+jsmessages,Done,Làm xong,Done,0
+jsmessages,Download finished.,Đã hoàn tất tải xuống.,Download finished.,0
+jsmessages,Drop condition here,Thả Điều kiện ở đây,Drop condition here,0
+jsmessages,Edit,Chỉnh sửa,Edit,0
+jsmessages,edit,chỉnh sửa,edit,0
+jsmessages,Edit Event,Chỉnh sửa sự kiện,Edit Event,0
+jsmessages,Edit step,Chỉnh sửa bước,Edit step,0
+jsmessages,Edit transition,Chỉnh sửa chuyển đổi,Edit transition,0
 jsmessages,Email,E-mail,Email,0
-jsmessages,embedded_form.confirm_box.content,"Thay đổi của bạn sẽ bị mất.","Your changes will be lost.",0
+jsmessages,embedded_form.confirm_box.content,Thay đổi của bạn sẽ bị mất.,Your changes will be lost.,0
 jsmessages,embedded_form.confirm_box.ok_text,"Có, tiếp tục","Yes, continue",0
-jsmessages,embedded_form.confirm_box.title,"Thay đổi Loại Biểu mẫu","Change Form Type",0
-jsmessages,"Empty Address Book","Sổ địa chỉ trống","Address book is empty",0
+jsmessages,embedded_form.confirm_box.title,Thay đổi Loại Biểu mẫu,Change Form Type,0
+jsmessages,Empty Address Book,Sổ địa chỉ trống,Address book is empty,0
 jsmessages,Enable,Bật,Enable,0
-jsmessages,Entity,"Thực thể",Entity,0
-jsmessages,"Error! Incorrect server response.","Lỗi! Phản hồi máy chủ không đúng.","Error! Incorrect server response.",0
-jsmessages,"Execution Confirmation","Xác nhận thực thi","Execution Confirmation",0
-jsmessages,"Export Confirmation","Xuất xác nhận","Export Confirmation",0
-jsmessages,"Field successfully deleted","Đã xóa trường thành công","Field successfully deleted",0
-jsmessages,"Field was restored","Đã khôi phục trường","Field was restored",0
+jsmessages,Entity,Thực thể,Entity,0
+jsmessages,Error! Incorrect server response.,Lỗi! Phản hồi máy chủ không đúng.,Error! Incorrect server response.,0
+jsmessages,Execution Confirmation,Xác nhận thực thi,Execution Confirmation,0
+jsmessages,Export Confirmation,Xuất xác nhận,Export Confirmation,0
+jsmessages,Field successfully deleted,Đã xóa trường thành công,Field successfully deleted,0
+jsmessages,Field was restored,Đã khôi phục trường,Field was restored,0
 jsmessages,from,từ,from,0
-jsmessages,"Gray button","Nút màu xám","Gray button",0
-jsmessages,"Green button","Nút màu xanh lá cây","Green button",0
+jsmessages,Gray button,Nút màu xám,Gray button,0
+jsmessages,Green button,Nút màu xanh lá cây,Green button,0
 jsmessages,Hour,Giờ,Hour,0
-jsmessages,"Input Label","Nhãn nhập vào","Input Label",0
-jsmessages,"It may take few minutes...","Có thể mất vài phút ...","It may take few minutes...",0
-jsmessages,"Item deleted","Đã xóa mục","Item deleted",0
-jsmessages,"Item updated successfully","Đã cập nhật thành công mục","Item updated successfully",0
-jsmessages,"less than","sớm hơn","earlier than",0
-jsmessages,Link,"Liên kết",Link,0
-jsmessages,"Loading more results...","Đang tải thêm kết quả ...","Loading more results...",0
+jsmessages,Input Label,Nhãn nhập vào,Input Label,0
+jsmessages,It may take few minutes...,Có thể mất vài phút ...,It may take few minutes...,0
+jsmessages,Item deleted,Đã xóa mục,Item deleted,0
+jsmessages,Item updated successfully,Đã cập nhật thành công mục,Item updated successfully,0
+jsmessages,less than,sớm hơn,earlier than,0
+jsmessages,Link,Liên kết,Link,0
+jsmessages,Loading more results...,Đang tải thêm kết quả ...,Loading more results...,0
 jsmessages,Loading...,Tải...,Loading...,0
-jsmessages,map.unknown.location,"Địa chỉ không được nhận dạng. Vui lòng kiểm tra thông tin địa chỉ được cung cấp.","The address is not recognized. Please check  the provided address information.",0
-jsmessages,map.unknown.unavailable,"Bản đồ không thể hiển thị được lúc này. Vui lòng thử lại sau hoặc liên hệ với quản trị viên của bạn.","The map cannot be displayed. Please try again later or contact your administrator.",0
-jsmessages,"Mass Action Confirmation","Xác nhận hành động hàng loạt","Mass Action Confirmation",0
-jsmessages,"Mass action is not performed.","Hành động hàng loạt không được thực hiện.","Mass action is not performed.",0
-jsmessages,"Mass action performed.","Hành động hàng loạt đã được thực hiện.","Mass action performed.",0
-jsmessages,maximize,"tối đa hóa",maximize,0
+jsmessages,map.unknown.location,Địa chỉ không được nhận dạng. Vui lòng kiểm tra thông tin địa chỉ được cung cấp.,The address is not recognized. Please check  the provided address information.,0
+jsmessages,map.unknown.unavailable,Bản đồ không thể hiển thị được lúc này. Vui lòng thử lại sau hoặc liên hệ với quản trị viên của bạn.,The map cannot be displayed. Please try again later or contact your administrator.,0
+jsmessages,Mass Action Confirmation,Xác nhận hành động hàng loạt,Mass Action Confirmation,0
+jsmessages,Mass action is not performed.,Hành động hàng loạt không được thực hiện.,Mass action is not performed.,0
+jsmessages,Mass action performed.,Hành động hàng loạt đã được thực hiện.,Mass action performed.,0
+jsmessages,maximize,tối đa hóa,maximize,0
 jsmessages,Microsecond,Miligiây,Microsecond,0
-jsmessages,Millisecond,"Mili giây",Millisecond,0
-jsmessages,minimize,"giảm thiểu",minimize,0
+jsmessages,Millisecond,Mili giây,Millisecond,0
+jsmessages,minimize,giảm thiểu,minimize,0
 jsmessages,Minute,Phút,Minute,0
-jsmessages,"more than","muộn hơn","later than",0
-jsmessages,N/A,"Không áp dụng",N/A,0
-jsmessages,"Navy blue button","Nút màu xanh hải quân","Navy blue button",0
-jsmessages,Next,"Kế tiếp",Next,0
+jsmessages,more than,muộn hơn,later than,0
+jsmessages,N/A,Không áp dụng,N/A,0
+jsmessages,Navy blue button,Nút màu xanh hải quân,Navy blue button,0
+jsmessages,Next,Kế tiếp,Next,0
 jsmessages,No,Không,No,0
-jsmessages,"No matches found","Lọc kết quả tìm thấy","No matches found",0
-jsmessages,"Not Found","Không tìm thấy","Not Found",0
-jsmessages,"Not responded","Chưa trả lời","Not responded",0
-jsmessages,"Not running","Không chạy","Not running",0
-jsmessages,"Not tagged","Không được gắn thẻ","Not tagged",0
-jsmessages,Notify,"Thông báo",Notify,0
-jsmessages,"Notify about update message","Bạn có muốn thông báo cho người dùng hiện được mời về các thay đổi không?","Do you want to notify currently invited users about changes?",0
-jsmessages,"Notify guests message","Bạn có muốn gửi lời mời đến các khách đã chọn không?","Do you want to send invitations to selected guests?",0
-jsmessages,"Notify guests title","Xác nhận thông báo","Notification confirmation",0
-jsmessages,Now,"Hiện nay",Now,0
+jsmessages,No matches found,Lọc kết quả tìm thấy,No matches found,0
+jsmessages,Not Found,Không tìm thấy,Not Found,0
+jsmessages,Not responded,Chưa trả lời,Not responded,0
+jsmessages,Not running,Không chạy,Not running,0
+jsmessages,Not tagged,Không được gắn thẻ,Not tagged,0
+jsmessages,Notify,Thông báo,Notify,0
+jsmessages,Notify about update message,Bạn có muốn thông báo cho người dùng hiện được mời về các thay đổi không?,Do you want to notify currently invited users about changes?,0
+jsmessages,Notify guests message,Bạn có muốn gửi lời mời đến các khách đã chọn không?,Do you want to send invitations to selected guests?,0
+jsmessages,Notify guests title,Xác nhận thông báo,Notification confirmation,0
+jsmessages,Now,Hiện nay,Now,0
 jsmessages,OK,OK,OK,0
 jsmessages,"OK, got it.","OK, đã hiểu.","OK, got it.",0
-jsmessages,"only short","nhanh thôi","only short",0
-jsmessages,"Only this particular event will be deleted from the series.","Chỉ riêng sự kiện này sẽ bị xóa khỏi chuỗi sự kiện.","Only this particular event will be deleted from the series.",0
-jsmessages,oro.abandonedcart.list.change_entity_confirmation,"Bạn có muốn xóa tất cả dữ liệu mẫu không?","Do you want to clear all template data?",0
+jsmessages,only short,nhanh thôi,only short,0
+jsmessages,Only this particular event will be deleted from the series.,Chỉ riêng sự kiện này sẽ bị xóa khỏi chuỗi sự kiện.,Only this particular event will be deleted from the series.,0
+jsmessages,oro.abandonedcart.list.change_entity_confirmation,Bạn có muốn xóa tất cả dữ liệu mẫu không?,Do you want to clear all template data?,0
 jsmessages,oro.action.button.delete,"Có, Xóa","Yes, Delete",0
-jsmessages,oro.action.confirm_content,"Bạn có chắc chắn muốn thực hiện hành động này không?","Are you sure you want to perform this action?",0
-jsmessages,oro.action.confirm_title,"Xác nhận hành động","Action Confirmation",0
-jsmessages,oro.action.delete_confirm,"Bạn có chắc chắn muốn xóa {{ entityLabel }} này không?","Are you sure you want to delete this {{ entityLabel }}?",0
-jsmessages,oro.action.delete_entity,"Xóa {{ entityLabel }}","Delete {{ entityLabel }}",0
-jsmessages,oro.activity.contexts.added,"Ngữ cảnh đã được thêm vào","The context has been added",0
-jsmessages,oro.activity.contexts.removed,"Ngữ cảnh đã bị xóa","The context has been removed",0
-jsmessages,oro.activityCondition.hasActivity,"Có hoạt động","Has activity",0
-jsmessages,oro.activityCondition.hasNotActivity,"Không có hoạt động","Has not activity",0
-jsmessages,oro.activitylist.comment.quantity_label,"Số lượng nhận xét","Comments quantity",0
-jsmessages,oro.activitylist.created_at.label,"Được tạo vào lúc","Created at",0
-jsmessages,oro.activitylist.delete_confirmation,"Bạn có chắc chắn muốn xóa mục hoạt động này không?","Are you sure you want to delete this activity item?",0
+jsmessages,oro.action.confirm_content,Bạn có chắc chắn muốn thực hiện hành động này không?,Are you sure you want to perform this action?,0
+jsmessages,oro.action.confirm_title,Xác nhận hành động,Action Confirmation,0
+jsmessages,oro.action.delete_confirm,Bạn có chắc chắn muốn xóa {{ entityLabel }} này không?,Are you sure you want to delete this {{ entityLabel }}?,0
+jsmessages,oro.action.delete_entity,Xóa {{ entityLabel }},Delete {{ entityLabel }},0
+jsmessages,oro.activity.contexts.added,Ngữ cảnh đã được thêm vào,The context has been added,0
+jsmessages,oro.activity.contexts.removed,Ngữ cảnh đã bị xóa,The context has been removed,0
+jsmessages,oro.activityCondition.hasActivity,Có hoạt động,Has activity,0
+jsmessages,oro.activityCondition.hasNotActivity,Không có hoạt động,Has not activity,0
+jsmessages,oro.activitylist.comment.quantity_label,Số lượng nhận xét,Comments quantity,0
+jsmessages,oro.activitylist.created_at.label,Được tạo vào lúc,Created at,0
+jsmessages,oro.activitylist.delete_confirmation,Bạn có chắc chắn muốn xóa mục hoạt động này không?,Are you sure you want to delete this activity item?,0
 jsmessages,oro.activitylist.delete_error,"Rất tiếc, mục hoạt động đang xóa không thành công.","Sorry, the activity item deleting was failed.",0
-jsmessages,oro.activitylist.delete_title,"Xóa mục hoạt động","Delete activity item",0
-jsmessages,oro.activitylist.edit_title,"Cập nhật mục hoạt động","Update activity item",0
-jsmessages,oro.activitylist.forbidden_activity_data_view_error,"Bạn không có quyền xem dữ liệu của hồ sơ hoạt động này","You do not have permission to view this activity record's data",0
-jsmessages,oro.activitylist.forbidden_error,"Bạn không có quyền thực hiện hành động này.","You do not have permission to perform this action.",0
-jsmessages,oro.activitylist.item_removed,"Đã xóa mục hoạt động","Activity item deleted",0
-jsmessages,oro.activitylist.item_saved,"Đã lưu mục hoạt động","Activity item saved",0
+jsmessages,oro.activitylist.delete_title,Xóa mục hoạt động,Delete activity item,0
+jsmessages,oro.activitylist.edit_title,Cập nhật mục hoạt động,Update activity item,0
+jsmessages,oro.activitylist.forbidden_activity_data_view_error,Bạn không có quyền xem dữ liệu của hồ sơ hoạt động này,You do not have permission to view this activity record's data,0
+jsmessages,oro.activitylist.forbidden_error,Bạn không có quyền thực hiện hành động này.,You do not have permission to perform this action.,0
+jsmessages,oro.activitylist.item_removed,Đã xóa mục hoạt động,Activity item deleted,0
+jsmessages,oro.activitylist.item_saved,Đã lưu mục hoạt động,Activity item saved,0
 jsmessages,oro.activitylist.load_error,"Rất tiếc, danh sách hoạt động đã không được tải chính xác.","Sorry, activity list was not loaded correctly.",0
-jsmessages,oro.activitylist.updated_at.label,"Cập nhật vào lúc","Updated at",0
-jsmessages,oro.activitylist.widget.filter.activity.title,"Loại hoạt động","Activity Type",0
-jsmessages,oro.activitylist.widget.filter.date_picker.title,"Khung ngày","Date Range",0
+jsmessages,oro.activitylist.updated_at.label,Cập nhật vào lúc,Updated at,0
+jsmessages,oro.activitylist.widget.filter.activity.title,Loại hoạt động,Activity Type,0
+jsmessages,oro.activitylist.widget.filter.date_picker.title,Khung ngày,Date Range,0
 jsmessages,oro.analytics.best,tốt,best,0
-jsmessages,oro.analytics.delete_row,"Xóa phân khúc","Delete segment",0
+jsmessages,oro.analytics.delete_row,Xóa phân khúc,Delete segment,0
 jsmessages,oro.analytics.from,Từ,From,0
-jsmessages,oro.analytics.less,"Ít hơn","Less than",0
-jsmessages,oro.analytics.more,"Nhiều hơn","More than",0
-jsmessages,oro.analytics.na,"Không áp dụng",N/A,0
+jsmessages,oro.analytics.less,Ít hơn,Less than,0
+jsmessages,oro.analytics.more,Nhiều hơn,More than,0
+jsmessages,oro.analytics.na,Không áp dụng,N/A,0
 jsmessages,oro.analytics.to,Đến,To,0
-jsmessages,oro.analytics.worst,"tồi tệ nhất",worst,0
+jsmessages,oro.analytics.worst,tồi tệ nhất,worst,0
 jsmessages,oro.attribute.attributes_import_has_finished,"Nhập thuộc tính đã hoàn tất, vui lòng <a href='#' data-action='page-refresh'> làm mới trang </a>","Attributes import has finished, please <a href='#' data-action='page-refresh'>refresh the page</a>",0
-jsmessages,oro.attribute.attributes_moved_to_default_group,"Thuộc tính hệ thống đã được chuyển sang nhóm mặc định","System attributes were moved to default group",0
-jsmessages,oro.attribute.move_from,"di chuyển từ","move from",0
-jsmessages,oro.attribute.noname,"Vô danh","No name",0
-jsmessages,oro.attribute.remove_confirmation_text,"Bạn có chắc chắn muốn xóa Nhóm thuộc tính này không? Tất cả các thuộc tính hệ thống sẽ được chuyển đến mục đầu tiên một cách tự động.","Are you sure to delete this Attribute Group? All system attributes will be moved to first one automatically.",0
-jsmessages,oro.attribute.remove_confirmation_title,"Loại bỏ thuộc tính nhóm với các thuộc tính hệ thống","Remove Attribute Group with system attributes",0
-jsmessages,oro.business_unit.form.choose_business_user,"Chọn đơn vị kinh doanh ...","Choose a business unit...",0
-jsmessages,oro.business_unit.form.none_business_user,"Không ai",None,0
-jsmessages,oro.calendar.control.all_day,"cả ngày","all day",0
+jsmessages,oro.attribute.attributes_moved_to_default_group,Thuộc tính hệ thống đã được chuyển sang nhóm mặc định,System attributes were moved to default group,0
+jsmessages,oro.attribute.move_from,di chuyển từ,move from,0
+jsmessages,oro.attribute.noname,Vô danh,No name,0
+jsmessages,oro.attribute.remove_confirmation_text,Bạn có chắc chắn muốn xóa Nhóm thuộc tính này không? Tất cả các thuộc tính hệ thống sẽ được chuyển đến mục đầu tiên một cách tự động.,Are you sure to delete this Attribute Group? All system attributes will be moved to first one automatically.,0
+jsmessages,oro.attribute.remove_confirmation_title,Loại bỏ thuộc tính nhóm với các thuộc tính hệ thống,Remove Attribute Group with system attributes,0
+jsmessages,oro.business_unit.form.choose_business_user,Chọn đơn vị kinh doanh ...,Choose a business unit...,0
+jsmessages,oro.business_unit.form.none_business_user,Không ai,None,0
+jsmessages,oro.calendar.control.all_day,cả ngày,all day,0
 jsmessages,oro.calendar.control.day,ngày,day,0
 jsmessages,oro.calendar.control.month,tháng,month,0
-jsmessages,oro.calendar.control.today,"hôm nay",today,0
+jsmessages,oro.calendar.control.today,hôm nay,today,0
 jsmessages,oro.calendar.control.week,tuần,week,0
-jsmessages,oro.calendar.error_message.event_model.end_date_earlier_than_start,"Ngày kết thúc không được sớm hơn ngày bắt đầu","The end date can't be earlier than start date",0
-jsmessages,oro.calendar.event.na,"Không áp dụng",N/A,0
-jsmessages,oro.calendar.event.recurrence.control-label.ends,"Kết thúc",Ends,0
-jsmessages,oro.calendar.event.recurrence.control-label.repeat,"Lặp lại",Repeat,0
-jsmessages,oro.calendar.event.recurrence.control-label.repeat-every,"Lặp lại mỗi","Repeat every",0
-jsmessages,oro.calendar.event.recurrence.control-label.repeat-on,"Lặp lại vào","Repeat on",0
-jsmessages,oro.calendar.event.recurrence.control-label.repeats,"Số lần lặp lại",Repeats,0
-jsmessages,oro.calendar.event.recurrence.control-label.summary,"Tóm lược",Summary,0
+jsmessages,oro.calendar.error_message.event_model.end_date_earlier_than_start,Ngày kết thúc không được sớm hơn ngày bắt đầu,The end date can't be earlier than start date,0
+jsmessages,oro.calendar.event.na,Không áp dụng,N/A,0
+jsmessages,oro.calendar.event.recurrence.control-label.ends,Kết thúc,Ends,0
+jsmessages,oro.calendar.event.recurrence.control-label.repeat,Lặp lại,Repeat,0
+jsmessages,oro.calendar.event.recurrence.control-label.repeat-every,Lặp lại mỗi,Repeat every,0
+jsmessages,oro.calendar.event.recurrence.control-label.repeat-on,Lặp lại vào,Repeat on,0
+jsmessages,oro.calendar.event.recurrence.control-label.repeats,Số lần lặp lại,Repeats,0
+jsmessages,oro.calendar.event.recurrence.control-label.summary,Tóm lược,Summary,0
 jsmessages,oro.calendar.event.recurrence.control-modes.after,Sau,After,0
 jsmessages,oro.calendar.event.recurrence.control-modes.by,Bởi,By,0
-jsmessages,oro.calendar.event.recurrence.control-modes.never,"Không bao giờ",Never,0
-jsmessages,oro.calendar.event.recurrence.control-modes.weekday,"Ngày trong tuần",Weekday,0
+jsmessages,oro.calendar.event.recurrence.control-modes.never,Không bao giờ,Never,0
+jsmessages,oro.calendar.event.recurrence.control-modes.weekday,Ngày trong tuần,Weekday,0
 jsmessages,oro.calendar.event.recurrence.controls.day,ngày,Day,0
 jsmessages,oro.calendar.event.recurrence.controls.days,ngày,day(s),0
 jsmessages,oro.calendar.event.recurrence.controls.monthly-repeat-on.day,ngày,Day,0
-jsmessages,oro.calendar.event.recurrence.controls.monthly-repeat-on.first,"Đầu tiên",First,0
-jsmessages,oro.calendar.event.recurrence.controls.monthly-repeat-on.fourth,"Thứ tư",Fourth,0
-jsmessages,oro.calendar.event.recurrence.controls.monthly-repeat-on.last,"Cuối cùng",Last,0
-jsmessages,oro.calendar.event.recurrence.controls.monthly-repeat-on.second,"Thứ nhì",Second,0
-jsmessages,oro.calendar.event.recurrence.controls.monthly-repeat-on.third,"Thứ ba",Third,0
+jsmessages,oro.calendar.event.recurrence.controls.monthly-repeat-on.first,Đầu tiên,First,0
+jsmessages,oro.calendar.event.recurrence.controls.monthly-repeat-on.fourth,Thứ tư,Fourth,0
+jsmessages,oro.calendar.event.recurrence.controls.monthly-repeat-on.last,Cuối cùng,Last,0
+jsmessages,oro.calendar.event.recurrence.controls.monthly-repeat-on.second,Thứ nhì,Second,0
+jsmessages,oro.calendar.event.recurrence.controls.monthly-repeat-on.third,Thứ ba,Third,0
 jsmessages,oro.calendar.event.recurrence.controls.months,tháng,month(s),0
 jsmessages,oro.calendar.event.recurrence.controls.occurrences,lần,occurrences,0
-jsmessages,oro.calendar.event.recurrence.controls.weekday,"Ngày trong tuần",Weekday,0
-jsmessages,oro.calendar.event.recurrence.controls.weekend-day,"Ngày cuối tuần","Weekend Day",0
+jsmessages,oro.calendar.event.recurrence.controls.weekday,Ngày trong tuần,Weekday,0
+jsmessages,oro.calendar.event.recurrence.controls.weekend-day,Ngày cuối tuần,Weekend Day,0
 jsmessages,oro.calendar.event.recurrence.controls.weeks,tuần,week(s),0
 jsmessages,oro.calendar.event.recurrence.controls.years,năm,year(s),0
 jsmessages,oro.calendar.event.recurrence.days.day,ngày,day,0
-jsmessages,oro.calendar.event.recurrence.days.weekday,"ngày trong tuần",weekday,0
-jsmessages,oro.calendar.event.recurrence.days.weekend,"ngày cuối tuần",weekend,0
-jsmessages,oro.calendar.event.recurrence.instance.first,"Đầu tiên",First,0
-jsmessages,oro.calendar.event.recurrence.instance.fourth,"Thứ tư",Fourth,0
-jsmessages,oro.calendar.event.recurrence.instance.last,"Cuối cùng",Last,0
-jsmessages,oro.calendar.event.recurrence.instance.second,"Thứ nhì",Second,0
-jsmessages,oro.calendar.event.recurrence.instance.third,"Thứ ba",Third,0
+jsmessages,oro.calendar.event.recurrence.days.weekday,ngày trong tuần,weekday,0
+jsmessages,oro.calendar.event.recurrence.days.weekend,ngày cuối tuần,weekend,0
+jsmessages,oro.calendar.event.recurrence.instance.first,Đầu tiên,First,0
+jsmessages,oro.calendar.event.recurrence.instance.fourth,Thứ tư,Fourth,0
+jsmessages,oro.calendar.event.recurrence.instance.last,Cuối cùng,Last,0
+jsmessages,oro.calendar.event.recurrence.instance.second,Thứ nhì,Second,0
+jsmessages,oro.calendar.event.recurrence.instance.third,Thứ ba,Third,0
 jsmessages,oro.calendar.event.recurrence.patterns.daily,"{1} Hàng ngày, mỗi ngày |]1,Inf[Hàng ngày sau {{ count }} ngày","{1} Daily every 1 day|]1,Inf[ Daily every {{ count }} days",0
 jsmessages,oro.calendar.event.recurrence.patterns.end-date,", kết thúc trước {{ date }}",", end by {{ date }}",0
 jsmessages,oro.calendar.event.recurrence.patterns.monthly,"{1} Cứ tới {{ day }} hằng tháng |]1,Inf[ Cứ tới {{ ngày }} trong mỗi {{ count }} tháng","{1} Monthly day {{ day }} of every 1 month|]1,Inf[ Monthly day {{ day }} of every {{ count }} months",0
 jsmessages,oro.calendar.event.recurrence.patterns.monthnth,"{1} Cứ tới {{ instance }} {{ day }} hằng tháng |]1,Inf[ Cứ tới {{ instance }} {{ day }} mỗi {{ count }} tháng","{1} Monthly the {{ instance }} {{ day }} of every 1 month|]1,Inf[ Monthly the {{ instance }} {{ day }} of every {{ count }} months",0
 jsmessages,oro.calendar.event.recurrence.patterns.occurrences,"{1}, kết thúc sau 1 lần |]1,Inf[ , kết thúc sau {{ count }} lần","{1} , end after 1 occurrence|]1,Inf[ , end after {{ count }} occurrences",0
-jsmessages,oro.calendar.event.recurrence.patterns.timezone,"({{ timeZone }} GMT {{ timezone_offset }})","({{ timeZone }} GMT{{ timezone_offset }})",0
+jsmessages,oro.calendar.event.recurrence.patterns.timezone,({{ timeZone }} GMT {{ timezone_offset }}),({{ timeZone }} GMT{{ timezone_offset }}),0
 jsmessages,oro.calendar.event.recurrence.patterns.weekday,"Hàng ngày, mỗi ngày trong tuần","Daily, every weekday",0
 jsmessages,oro.calendar.event.recurrence.patterns.weekly,"{1} Hàng tuần vào {{ day }} |]1,Inf[ Hàng {{ count }} tuần một lần vào {{ day }}","{1} Weekly every 1 week on {{ day }}|]1,Inf[ Weekly every {{ count }} weeks on {{ day }}",0
 jsmessages,oro.calendar.event.recurrence.patterns.yearly,"{1} Hàng năm vào {{ day }} |]1,Inf[ Hàng {{ count }} năm một lần vào {{ day }}","{1} Yearly every 1 year on {{ day }}|]1,Inf[ Yearly every {{ count }} years on {{ day }}",0
 jsmessages,oro.calendar.event.recurrence.patterns.yearnth,"{1} Hàng năm vào {{ instance }} {{ day }} trong {{ month }} |]1,Inf[ Hàng {{ count }} năm một lần vào {{ instance }} {{ day} } trong {{ month }}","{1} Yearly every 1 year on the {{ instance }} {{ day }} of {{ month }}|]1,Inf[ Yearly every {{ count }} years on the {{ instance }} {{ day }} of {{ month }}",0
-jsmessages,oro.calendar.event.recurrence.repeat.daily,"hằng ngày",Daily,0
-jsmessages,oro.calendar.event.recurrence.repeat.monthly,"Hàng tháng",Monthly,0
-jsmessages,oro.calendar.event.recurrence.repeat.weekly,"Hàng tuần",Weekly,0
-jsmessages,oro.calendar.event.recurrence.repeat.yearly,"Hàng năm",Yearly,0
-jsmessages,oro.calendar.event.recurrence.validation.dayOfWeek.minMessage,"Bạn phải chọn ít nhất {{ limit }} ngày","You must select at least {{ limit }} day",0
-jsmessages,oro.calendar.event.recurrence.warning.removing-all-exceptions,"Lưu ý rằng tất cả các ngoại lệ trong chuỗi sẽ bị xóa nếu bạn thay đổi mẫu lặp lại.","Note that all exceptions in the series will be removed if you change recurrence pattern.",0
-jsmessages,oro.calendar.event.recurrence.warning.removing-all-series,"Lưu ý rằng tất cả các sự kiện trong chuỗi sẽ bị xóa nếu bạn bỏ chọn tùy chọn Lặp lại.","Note that all events in the series will be removed if you uncheck Repeat option.",0
+jsmessages,oro.calendar.event.recurrence.repeat.daily,hằng ngày,Daily,0
+jsmessages,oro.calendar.event.recurrence.repeat.monthly,Hàng tháng,Monthly,0
+jsmessages,oro.calendar.event.recurrence.repeat.weekly,Hàng tuần,Weekly,0
+jsmessages,oro.calendar.event.recurrence.repeat.yearly,Hàng năm,Yearly,0
+jsmessages,oro.calendar.event.recurrence.validation.dayOfWeek.minMessage,Bạn phải chọn ít nhất {{ limit }} ngày,You must select at least {{ limit }} day,0
+jsmessages,oro.calendar.event.recurrence.warning.removing-all-exceptions,Lưu ý rằng tất cả các ngoại lệ trong chuỗi sẽ bị xóa nếu bạn thay đổi mẫu lặp lại.,Note that all exceptions in the series will be removed if you change recurrence pattern.,0
+jsmessages,oro.calendar.event.recurrence.warning.removing-all-series,Lưu ý rằng tất cả các sự kiện trong chuỗi sẽ bị xóa nếu bạn bỏ chọn tùy chọn Lặp lại.,Note that all events in the series will be removed if you uncheck Repeat option.,0
 jsmessages,oro.calendar.event.recurrence.warning.some-months-have-fewer-days,"Một số tháng có ít hơn {{ number }} ngày. Trong những tháng này, sự xuất hiện sẽ rơi vào ngày cuối cùng của tháng.","Some months have fewer than {{ number }} days. For these months, the occurence will fall on the last day of the month.",0
-jsmessages,oro.calendar.event.select-delete-type.all-events.description,"Tất cả các sự kiện trong chuỗi sẽ bị xóa.","All events in the series will be deleted.",0
-jsmessages,oro.calendar.event.select-delete-type.apply,"Xóa bỏ",Delete,0
-jsmessages,oro.calendar.event.select-edit-type.all-events.description,"Tất cả các sự kiện trong chuỗi sẽ được thay đổi. <br>Mọi thay đổi được thực hiện cho các sự kiện khác sẽ được lưu giữ.","All events in the series will be changed.<br>Any changes made to other events will be kept.",0
-jsmessages,oro.calendar.event.select-edit-type.all-events.title,"Tất cả sự kiện","All events",0
-jsmessages,oro.calendar.event.select-edit-type.apply,"Áp dụng",Apply,0
-jsmessages,oro.calendar.event.select-edit-type.only-this-event.description,"Tất cả các sự kiện khác trong chuỗi sẽ vẫn giữ nguyên.","All other events in series will remain the same.",0
-jsmessages,oro.calendar.event.select-edit-type.only-this-event.title,"Chỉ sự kiện này","Only this event",0
-jsmessages,oro.calendar.flash_message.calendar_added,"Lịch đã được thêm","Calendar was added",0
+jsmessages,oro.calendar.event.select-delete-type.all-events.description,Tất cả các sự kiện trong chuỗi sẽ bị xóa.,All events in the series will be deleted.,0
+jsmessages,oro.calendar.event.select-delete-type.apply,Xóa bỏ,Delete,0
+jsmessages,oro.calendar.event.select-edit-type.all-events.description,Tất cả các sự kiện trong chuỗi sẽ được thay đổi. <br>Mọi thay đổi được thực hiện cho các sự kiện khác sẽ được lưu giữ.,All events in the series will be changed.<br>Any changes made to other events will be kept.,0
+jsmessages,oro.calendar.event.select-edit-type.all-events.title,Tất cả sự kiện,All events,0
+jsmessages,oro.calendar.event.select-edit-type.apply,Áp dụng,Apply,0
+jsmessages,oro.calendar.event.select-edit-type.only-this-event.description,Tất cả các sự kiện khác trong chuỗi sẽ vẫn giữ nguyên.,All other events in series will remain the same.,0
+jsmessages,oro.calendar.event.select-edit-type.only-this-event.title,Chỉ sự kiện này,Only this event,0
+jsmessages,oro.calendar.flash_message.calendar_added,Lịch đã được thêm,Calendar was added,0
 jsmessages,oro.calendar.flash_message.calendar_adding,"Đang thêm lịch, vui lòng chờ ...","Adding calendar, please wait ...",0
-jsmessages,oro.calendar.flash_message.calendar_already_exists,"Lịch này đã tồn tại","This calendar already exists",0
-jsmessages,oro.calendar.flash_message.calendar_removed,"Lịch đã bị xóa","Calendar was removed",0
+jsmessages,oro.calendar.flash_message.calendar_already_exists,Lịch này đã tồn tại,This calendar already exists,0
+jsmessages,oro.calendar.flash_message.calendar_removed,Lịch đã bị xóa,Calendar was removed,0
 jsmessages,oro.calendar.flash_message.calendar_removing,"Đang xóa lịch, vui lòng chờ ...","Removing calendar, please wait ...",0
-jsmessages,oro.calendar.flash_message.calendar_updated,"Lịch đã được cập nhật","Calendar was updated",0
+jsmessages,oro.calendar.flash_message.calendar_updated,Lịch đã được cập nhật,Calendar was updated,0
 jsmessages,oro.calendar.flash_message.calendar_updating,"Đang cập nhật lịch, vui lòng chờ ...","Updating calendar, please wait ...",0
-jsmessages,oro.case.private,"Riêng tư",Private,0
+jsmessages,oro.case.private,Riêng tư,Private,0
 jsmessages,oro.channel.confirmation.agree,Vâng,Yes,0
-jsmessages,oro.channel.confirmation.delete_confirmation,"Lưu ý: việc xóa tích hợp khỏi kênh sẽ xóa hoàn toàn khỏi hệ thống. Tiếp tục thiệt hả?","Attention: removing the integration from the channel will completely delete it from the system. Proceed?",0
-jsmessages,oro.channel.confirmation.text,"Bạn có chắc chắn muốn thay đổi loại kênh không?","Are you sure you want to change channel type?",0
-jsmessages,oro.channel.confirmation.title,"Thay đổi loại kênh","Change Channel Type",0
-jsmessages,oro.channel.entity_owner.Custom,"Tùy chỉnh",Custom,0
-jsmessages,oro.channel.entity_owner.System,"Hệ thống",System,0
-jsmessages,oro.channel.form.entity,"Vui lòng chọn thực thể","Please select entity",0
-jsmessages,oro.chart.flow_chart.label_fromatter.nozzle,"{{ label }} (từ {{ date }}): {{ value }}","{{ label }} (from {{ date }}): {{ value }}",0
-jsmessages,oro.chart.flow_chart.label_fromatter.tick,"{{ label }}: {{ value }}","{{ label }}: {{ value }}",0
-jsmessages,oro.comment.action.delete,"Xóa nhận xét","Delete Comment",0
-jsmessages,oro.comment.action.update,"Cập nhật nhận xét","Update Comment",0
-jsmessages,oro.comment.attachment.delete_confirmation,"Bạn có chắc chắn muốn xóa tệp đính kèm này không?","Are you sure you want to delete this attachment?",0
-jsmessages,oro.comment.attachment.delete_message,"Đã xóa thành công tệp đính kèm nhận xét","The comment attachment is successfully removed",0
-jsmessages,oro.comment.attachment.download,"Tải về",Download,0
-jsmessages,oro.comment.attachment.tooltip,"Tệp được đính kèm {{ filename }}","Attached file {{ filename }}",0
-jsmessages,oro.comment.attachment.view,"Lượt xem",View,0
-jsmessages,oro.comment.deleteConfirmation,"bạn có chắc là bạn muốn xoá bình luận này không?","Are you sure you want to delete this comment?",0
-jsmessages,oro.comment.dialog.add_comment.title,"Thêm bình luận","Add Comment",0
-jsmessages,oro.comment.dialog.edit_comment.title,"Chỉnh sửa nhận xét","Edit Comment",0
-jsmessages,oro.comment.entity_plural_label,"Bình luận",Comments,0
-jsmessages,oro.comment.from.button.add_comment.label,"Thêm bình luận","Add Comment",0
-jsmessages,oro.comment.from.button.cancel_comment.label,"Hủy bỏ",Cancel,0
-jsmessages,oro.comment.from.button.edit_comment.label,"Lưu nhận xét","Save Comment",0
-jsmessages,oro.comment.from.button.send_comment.label,"Thêm vào",Add,0
-jsmessages,oro.comment.item.added,"{{ user }} được thêm vào {{ time }}","{{ user }} added on {{ time }}",0
-jsmessages,oro.comment.item.update,"được cập nhật bởi {{ user }} vào {{ time }}","updated by {{ user }} on {{ time }}",0
-jsmessages,oro.comment.loadMore,"Tải thêm {{ count }}","Load {{ count }} more",0
-jsmessages,oro.comment.loadMoreWithTotals,"Tải thêm {{ count }} trong tổng số {{ total }}","Load {{ count }} more of {{ total }}",0
-jsmessages,oro.comment.noData,"Không tìm thấy bình luận nào.","No comments was found.",0
-jsmessages,oro.comment.plural_label,"Bình luận",Comment,0
-jsmessages,oro.dashboard.add_dashboard_widgets.adding,"Đang thêm ...",Adding...,0
-jsmessages,oro.dashboard.add_dashboard_widgets.title,"Công cụ bảng điều khiển","Dashboard Widgets",0
-jsmessages,oro.dashboard.drop_placeholder_label,"Kéo công cụ của bạn ở đây.","Drag your widget here.",0
-jsmessages,oro.dashboard.widget.collapse,"Thu vào",Collapse,0
+jsmessages,oro.channel.confirmation.delete_confirmation,Lưu ý: việc xóa tích hợp khỏi kênh sẽ xóa hoàn toàn khỏi hệ thống. Tiếp tục thiệt hả?,Attention: removing the integration from the channel will completely delete it from the system. Proceed?,0
+jsmessages,oro.channel.confirmation.text,Bạn có chắc chắn muốn thay đổi loại kênh không?,Are you sure you want to change channel type?,0
+jsmessages,oro.channel.confirmation.title,Thay đổi loại kênh,Change Channel Type,0
+jsmessages,oro.channel.entity_owner.Custom,Tùy chỉnh,Custom,0
+jsmessages,oro.channel.entity_owner.System,Hệ thống,System,0
+jsmessages,oro.channel.form.entity,Vui lòng chọn thực thể,Please select entity,0
+jsmessages,oro.chart.flow_chart.label_fromatter.nozzle,{{ label }} (từ {{ date }}): {{ value }},{{ label }} (from {{ date }}): {{ value }},0
+jsmessages,oro.chart.flow_chart.label_fromatter.tick,{{ label }}: {{ value }},{{ label }}: {{ value }},0
+jsmessages,oro.comment.action.delete,Xóa nhận xét,Delete Comment,0
+jsmessages,oro.comment.action.update,Cập nhật nhận xét,Update Comment,0
+jsmessages,oro.comment.attachment.delete_confirmation,Bạn có chắc chắn muốn xóa tệp đính kèm này không?,Are you sure you want to delete this attachment?,0
+jsmessages,oro.comment.attachment.delete_message,Đã xóa thành công tệp đính kèm nhận xét,The comment attachment is successfully removed,0
+jsmessages,oro.comment.attachment.download,Tải về,Download,0
+jsmessages,oro.comment.attachment.tooltip,Tệp được đính kèm {{ filename }},Attached file {{ filename }},0
+jsmessages,oro.comment.attachment.view,Lượt xem,View,0
+jsmessages,oro.comment.deleteConfirmation,bạn có chắc là bạn muốn xoá bình luận này không?,Are you sure you want to delete this comment?,0
+jsmessages,oro.comment.dialog.add_comment.title,Thêm bình luận,Add Comment,0
+jsmessages,oro.comment.dialog.edit_comment.title,Chỉnh sửa nhận xét,Edit Comment,0
+jsmessages,oro.comment.entity_plural_label,Bình luận,Comments,0
+jsmessages,oro.comment.from.button.add_comment.label,Thêm bình luận,Add Comment,0
+jsmessages,oro.comment.from.button.cancel_comment.label,Hủy bỏ,Cancel,0
+jsmessages,oro.comment.from.button.edit_comment.label,Lưu nhận xét,Save Comment,0
+jsmessages,oro.comment.from.button.send_comment.label,Thêm vào,Add,0
+jsmessages,oro.comment.item.added,{{ user }} được thêm vào {{ time }},{{ user }} added on {{ time }},0
+jsmessages,oro.comment.item.update,được cập nhật bởi {{ user }} vào {{ time }},updated by {{ user }} on {{ time }},0
+jsmessages,oro.comment.loadMore,Tải thêm {{ count }},Load {{ count }} more,0
+jsmessages,oro.comment.loadMoreWithTotals,Tải thêm {{ count }} trong tổng số {{ total }},Load {{ count }} more of {{ total }},0
+jsmessages,oro.comment.noData,Không tìm thấy bình luận nào.,No comments was found.,0
+jsmessages,oro.comment.plural_label,Bình luận,Comment,0
+jsmessages,oro.dashboard.add_dashboard_widgets.adding,Đang thêm ...,Adding...,0
+jsmessages,oro.dashboard.add_dashboard_widgets.title,Công cụ bảng điều khiển,Dashboard Widgets,0
+jsmessages,oro.dashboard.drop_placeholder_label,Kéo công cụ của bạn ở đây.,Drag your widget here.,0
+jsmessages,oro.dashboard.widget.collapse,Thu vào,Collapse,0
 jsmessages,oro.dashboard.widget.configure,Chỉnh,Configure,0
-jsmessages,oro.dashboard.widget.delete_confirmation,"Bạn có chắc muốn gỡ bỏ công cụ này?","Are you sure you want to remove this widget?",0
-jsmessages,oro.dashboard.widget.expand,"Mở ra",Expand,0
-jsmessages,oro.dashboard.widget.move,"Di chuyển",Move,0
-jsmessages,oro.dashboard.widget.remove,"Xóa bỏ",Delete,0
+jsmessages,oro.dashboard.widget.delete_confirmation,Bạn có chắc muốn gỡ bỏ công cụ này?,Are you sure you want to remove this widget?,0
+jsmessages,oro.dashboard.widget.expand,Mở ra,Expand,0
+jsmessages,oro.dashboard.widget.move,Di chuyển,Move,0
+jsmessages,oro.dashboard.widget.remove,Xóa bỏ,Delete,0
 jsmessages,oro.dashboard.widget_configuration_label,Chỉnh,Configuration,0
-jsmessages,oro.dashboard.widget_configuration_success,"Công cụ đã được định cấu hình thành công","Widget has been successfully configured",0
-jsmessages,oro.dataaudit.data_audit_condition.changed,"đã thay đổi","has been changed",0
-jsmessages,oro.dataaudit.data_audit_condition.changed_to_value,"đã được thay đổi thành","has been changed to",0
-jsmessages,oro.dataaudit.data_audit_condition.in_the_interval,"trong khoảng thời gian","in the interval of time",0
-jsmessages,oro.dataaudit.data_audit_condition.value,"giá trị",value,0
-jsmessages,oro.dataaudit.data_audit_condition.value_that,"giá trị mà","value that",0
-jsmessages,oro.datagrid.action.delete_grid_view,"Xóa bỏ",Delete,0
-jsmessages,oro.datagrid.action.discard_grid_view_changes,"Loại bỏ những thay đổi","Discard changes",0
-jsmessages,oro.datagrid.action.rename_grid_view,"Đổi tên",Rename,0
-jsmessages,oro.datagrid.action.save_grid_view,"Tiết kiệm",Save,0
-jsmessages,oro.datagrid.action.save_grid_view_as,"Lưu thành","Save As",0
-jsmessages,oro.datagrid.action.set_as_default_grid_view,"Đặt làm mặc định","Set as default",0
-jsmessages,oro.datagrid.action.share_grid_view,"Chia sẻ với người khác","Share With Others",0
-jsmessages,oro.datagrid.action.unshare_grid_view,"Hủy chia sẻ",Unshare,0
-jsmessages,oro.datagrid.column_manager.close_tooltip,"Đóng Trình quản lý cột","Close Column Manager",0
+jsmessages,oro.dashboard.widget_configuration_success,Công cụ đã được định cấu hình thành công,Widget has been successfully configured,0
+jsmessages,oro.dataaudit.data_audit_condition.changed,đã thay đổi,has been changed,0
+jsmessages,oro.dataaudit.data_audit_condition.changed_to_value,đã được thay đổi thành,has been changed to,0
+jsmessages,oro.dataaudit.data_audit_condition.in_the_interval,trong khoảng thời gian,in the interval of time,0
+jsmessages,oro.dataaudit.data_audit_condition.value,giá trị,value,0
+jsmessages,oro.dataaudit.data_audit_condition.value_that,giá trị mà,value that,0
+jsmessages,oro.datagrid.action.delete_grid_view,Xóa bỏ,Delete,0
+jsmessages,oro.datagrid.action.discard_grid_view_changes,Loại bỏ những thay đổi,Discard changes,0
+jsmessages,oro.datagrid.action.rename_grid_view,Đổi tên,Rename,0
+jsmessages,oro.datagrid.action.save_grid_view,Tiết kiệm,Save,0
+jsmessages,oro.datagrid.action.save_grid_view_as,Lưu thành,Save As,0
+jsmessages,oro.datagrid.action.set_as_default_grid_view,Đặt làm mặc định,Set as default,0
+jsmessages,oro.datagrid.action.share_grid_view,Chia sẻ với người khác,Share With Others,0
+jsmessages,oro.datagrid.action.unshare_grid_view,Hủy chia sẻ,Unshare,0
+jsmessages,oro.datagrid.column_manager.close_tooltip,Đóng Trình quản lý cột,Close Column Manager,0
 jsmessages,oro.datagrid.column_manager.column.name,Tên,Name,0
 jsmessages,oro.datagrid.column_manager.column.show,Hiện,Show,0
-jsmessages,oro.datagrid.column_manager.column.sort,"Sắp xếp",Sort,0
-jsmessages,oro.datagrid.column_manager.deselect_all,"Bỏ chọn tất cả","Deselect All",0
-jsmessages,oro.datagrid.column_manager.empty_list,"Không tìm thấy cột nào","No columns found",0
-jsmessages,oro.datagrid.column_manager.filter.all,"Tất cả",All,0
-jsmessages,oro.datagrid.column_manager.filter.clear_search_tooltip,"Xóa tìm kiếm nhanh","Clear Quick Search",0
-jsmessages,oro.datagrid.column_manager.filter.search_placeholder,"Tìm kiếm nhanh","Quick Search",0
-jsmessages,oro.datagrid.column_manager.filter.select_all,"Chọn tất cả","Select All",0
-jsmessages,oro.datagrid.column_manager.filter.selected,"Đã chọn",Selected,0
-jsmessages,oro.datagrid.column_manager.reset,"Đặt lại lưới","Reset Grid",0
-jsmessages,oro.datagrid.column_manager.select_all,"Chọn tất cả","Select All",0
-jsmessages,oro.datagrid.column_manager.title,"Cài đặt lưới","Grid Settings",0
-jsmessages,oro.datagrid.column_manager.tooltip,"Sử dụng thao tác kéo và thả để sắp xếp các mục","Use drag and drop to sort items",0
-jsmessages,oro.datagrid.column_manager.unselect_all,"Bỏ chọn tất cả","Unselect All",0
-jsmessages,oro.datagrid.entityHint,"Thực thể",Entities,0
+jsmessages,oro.datagrid.column_manager.column.sort,Sắp xếp,Sort,0
+jsmessages,oro.datagrid.column_manager.deselect_all,Bỏ chọn tất cả,Deselect All,0
+jsmessages,oro.datagrid.column_manager.empty_list,Không tìm thấy cột nào,No columns found,0
+jsmessages,oro.datagrid.column_manager.filter.all,Tất cả,All,0
+jsmessages,oro.datagrid.column_manager.filter.clear_search_tooltip,Xóa tìm kiếm nhanh,Clear Quick Search,0
+jsmessages,oro.datagrid.column_manager.filter.search_placeholder,Tìm kiếm nhanh,Quick Search,0
+jsmessages,oro.datagrid.column_manager.filter.select_all,Chọn tất cả,Select All,0
+jsmessages,oro.datagrid.column_manager.filter.selected,Đã chọn,Selected,0
+jsmessages,oro.datagrid.column_manager.reset,Đặt lại lưới,Reset Grid,0
+jsmessages,oro.datagrid.column_manager.select_all,Chọn tất cả,Select All,0
+jsmessages,oro.datagrid.column_manager.title,Cài đặt lưới,Grid Settings,0
+jsmessages,oro.datagrid.column_manager.tooltip,Sử dụng thao tác kéo và thả để sắp xếp các mục,Use drag and drop to sort items,0
+jsmessages,oro.datagrid.column_manager.unselect_all,Bỏ chọn tất cả,Unselect All,0
+jsmessages,oro.datagrid.entityHint,Thực thể,Entities,0
 jsmessages,oro.datagrid.export.fail.message,"Không thể bắt đầu xuất, vui lòng thử lại.","Could not start export, please try again.",0
-jsmessages,oro.datagrid.export.max_limit_message,"Số lượng bản ghi tối đa có thể được xuất cùng một lúc là {{ max_limit }}. <br/>Bạn có chắc chắn muốn xuất {{ total }} bản ghi không?","The maximum number of records that can be exported at once is {{ max_limit }}.<br/> Are you sure you want to export {{ total }} records?",0
-jsmessages,oro.datagrid.export.success.message,"Đã bắt đầu xuất thành công. Bạn sẽ nhận được thông báo qua email sau khi hoàn thành.","Export started successfully. You will receive email notification upon completion.",0
-jsmessages,oro.datagrid.extension.export.label,"Lưới xuất","Export Grid",0
+jsmessages,oro.datagrid.export.max_limit_message,Số lượng bản ghi tối đa có thể được xuất cùng một lúc là {{ max_limit }}. <br/>Bạn có chắc chắn muốn xuất {{ total }} bản ghi không?,The maximum number of records that can be exported at once is {{ max_limit }}.<br/> Are you sure you want to export {{ total }} records?,0
+jsmessages,oro.datagrid.export.success.message,Đã bắt đầu xuất thành công. Bạn sẽ nhận được thông báo qua email sau khi hoàn thành.,Export started successfully. You will receive email notification upon completion.,0
+jsmessages,oro.datagrid.extension.export.label,Lưới xuất,Export Grid,0
 jsmessages,oro.datagrid.extension.export.tooltip,"Với nút này, bạn sẽ xuất nội dung của lưới như nó xuất hiện cho bạn, với các bộ lọc và phân loại được áp dụng. Tất cả các trang sẽ được xuất.","With this button you will export the content of the grid as it appears to you, with filters and sorting applied. All pages will be exported.",0
-jsmessages,oro.datagrid.grid_views.shared_by.label,"Được chia sẻ bởi {{ name }}","Shared by {{ name }}",0
-jsmessages,oro.datagrid.gridView.actions,"Các tùy chọn",Options,0
-jsmessages,oro.datagrid.gridView.all,"Tất cả",All,0
-jsmessages,oro.datagrid.gridView.created,"Chế độ xem đã được tạo thành công","View has been successfully created",0
-jsmessages,oro.datagrid.gridView.data_edited,"Đã chỉnh sửa",Edited,0
-jsmessages,oro.datagrid.gridView.default,"Mặc định",Default,0
-jsmessages,oro.datagrid.gridView.deleted,"Chế độ xem đã được xóa thành công","View has been successfully deleted",0
-jsmessages,oro.datagrid.gridView.error.not_found,"Không tìm thấy chế độ xem","View not found",0
+jsmessages,oro.datagrid.grid_views.shared_by.label,Được chia sẻ bởi {{ name }},Shared by {{ name }},0
+jsmessages,oro.datagrid.gridView.actions,Các tùy chọn,Options,0
+jsmessages,oro.datagrid.gridView.all,Tất cả,All,0
+jsmessages,oro.datagrid.gridView.created,Chế độ xem đã được tạo thành công,View has been successfully created,0
+jsmessages,oro.datagrid.gridView.data_edited,Đã chỉnh sửa,Edited,0
+jsmessages,oro.datagrid.gridView.default,Mặc định,Default,0
+jsmessages,oro.datagrid.gridView.deleted,Chế độ xem đã được xóa thành công,View has been successfully deleted,0
+jsmessages,oro.datagrid.gridView.error.not_found,Không tìm thấy chế độ xem,View not found,0
 jsmessages,oro.datagrid.gridView.name,Tên,Name,0
 jsmessages,oro.datagrid.gridView.save_name,Lưu,Save,0
-jsmessages,oro.datagrid.gridView.updated,"Chế độ xem đã được cập nhật thành công","View has been successfully updated",0
-jsmessages,oro.datagrid.headerCell.selectAll.all,"Tất cả",All,0
-jsmessages,oro.datagrid.headerCell.selectAll.allVisible,"Tất cả hiện lên","All visible",0
-jsmessages,oro.datagrid.headerCell.selectAll.none,"không gì cả",None,0
+jsmessages,oro.datagrid.gridView.updated,Chế độ xem đã được cập nhật thành công,View has been successfully updated,0
+jsmessages,oro.datagrid.headerCell.selectAll.all,Tất cả,All,0
+jsmessages,oro.datagrid.headerCell.selectAll.allVisible,Tất cả hiện lên,All visible,0
+jsmessages,oro.datagrid.headerCell.selectAll.none,không gì cả,None,0
 jsmessages,oro.datagrid.inline_editing.help,"<ul style=""margin-bottom: 0px;"">    <li><span style=""font-family: monospace"">Enter</span>, <span style=""font-family: monospace"">Shift + Enter</span> - Lưu và sửa ô trước/sau trong một cột</li>
  <li><span style=""font-family: monospace"">Tab</span>, <span style=""font-family: monospace"">Shift + Tab</span> - Lưu và sửa ô trước/sau trong một hàng</li>
  <li><span style=""font-family: monospace"">Alt + ←/↑/→/↓  </span> - Di chuyển sang ô khác</li>
@@ -5239,361 +5239,361 @@ jsmessages,oro.datagrid.inline_editing.help,"<ul style=""margin-bottom: 0px;""> 
 	<li><span style=""font-family: monospace"">Ctrl + Enter</span> - Save and close</li>
 	<li><span style=""font-family: monospace"">Escape</span> - Quit</li>
 </ul>",0
-jsmessages,oro.datagrid.inline_editing.message.save_field.permission_denied,"Bạn không được phép thay đổi trường {{ fieldLabel }}.","You do not have permission to change {{ fieldLabel }} field.",0
-jsmessages,oro.datagrid.inline_editing.refresh_confirm_modal.title,"Xác nhận",Confirmation,0
+jsmessages,oro.datagrid.inline_editing.message.save_field.permission_denied,Bạn không được phép thay đổi trường {{ fieldLabel }}.,You do not have permission to change {{ fieldLabel }} field.,0
+jsmessages,oro.datagrid.inline_editing.refresh_confirm_modal.title,Xác nhận,Confirmation,0
 jsmessages,oro.datagrid.loading_failed_message,"Tải dữ liệu không thành công, hãy thử tải lại trang. Nếu sự cố xuất hiện lại, vui lòng liên hệ với quản trị viên của bạn.","Data loading failed, try reloading the page. If the issue appears again please contact your administrator.",0
 jsmessages,oro.datagrid.mass_action.button_title,...,...,0
-jsmessages,oro.datagrid.mass_action.delete.max_limit_message,"Số lượng bản ghi tối đa có thể bị xóa cùng một lúc là {{ max_limit }}. <br/> Bạn có chắc chắn muốn xóa {{ max_limit }} bản ghi đầu tiên trong lựa chọn không?","The maximum number of records that can be deleted at once is {{ max_limit }}.<br/> Are you sure you want to delete first {{ max_limit }} records in the selection?",0
-jsmessages,oro.datagrid.mass_action.delete.restricted_access_empty_message,"Bạn không có quyền xóa bất kỳ bản ghi đã chọn nào.","You don't have permissions to delete any of the selected records.",0
-jsmessages,oro.datagrid.mass_action.delete.restricted_access_message,"Bạn có quyền xóa {{ deletable }} bản ghi trong số {{ selected }} được chọn. <br/> Bạn có chắc chắn muốn xóa chúng không?","You have permissions to delete  {{ deletable }} records out of {{ selected }} selected.<br/> Are you sure you want to delete them?",0
-jsmessages,oro.datagrid.mass_action.delete.selected_message,"Bạn đã chọn {{ selected }} bản ghi. <br/>Bạn có chắc chắn muốn xóa nó không? | Bạn đã chọn {{ selected }} bản ghi. <br/> Bạn có chắc chắn muốn xóa chúng không?","You have selected {{ selected }} record.<br/> Are you sure you want to delete it?|You have selected {{ selected }} records.<br/> Are you sure you want to delete them?",0
-jsmessages,oro.datagrid.mass_action.title,"Hành động hàng loạt","Mass Actions",0
-jsmessages,oro.datagrid.name_modal.title,"Chế độ hiển thị theo ô","Grid view",0
-jsmessages,oro.datagrid.no.columns,"Không có cột nào được định cấu hình cho lưới này","No columns configured for this grid",0
-jsmessages,oro.datagrid.no.entities,"Không có dữ liệu được tìm thấy","No records found",0
-jsmessages,oro.datagrid.no.results,"Không tìm thấy {{ entityHint }} nào phù hợp với tìm kiếm của bạn. Thử sửa đổi tiêu chí tìm kiếm của bạn ...","No {{ entityHint }} were found to match your search. Try modifying your search criteria...",0
-jsmessages,oro.datagrid.not_number,"Không phải là một con số","Not a number",0
+jsmessages,oro.datagrid.mass_action.delete.max_limit_message,Số lượng bản ghi tối đa có thể bị xóa cùng một lúc là {{ max_limit }}. <br/> Bạn có chắc chắn muốn xóa {{ max_limit }} bản ghi đầu tiên trong lựa chọn không?,The maximum number of records that can be deleted at once is {{ max_limit }}.<br/> Are you sure you want to delete first {{ max_limit }} records in the selection?,0
+jsmessages,oro.datagrid.mass_action.delete.restricted_access_empty_message,Bạn không có quyền xóa bất kỳ bản ghi đã chọn nào.,You don't have permissions to delete any of the selected records.,0
+jsmessages,oro.datagrid.mass_action.delete.restricted_access_message,Bạn có quyền xóa {{ deletable }} bản ghi trong số {{ selected }} được chọn. <br/> Bạn có chắc chắn muốn xóa chúng không?,You have permissions to delete  {{ deletable }} records out of {{ selected }} selected.<br/> Are you sure you want to delete them?,0
+jsmessages,oro.datagrid.mass_action.delete.selected_message,Bạn đã chọn {{ selected }} bản ghi. <br/>Bạn có chắc chắn muốn xóa nó không? | Bạn đã chọn {{ selected }} bản ghi. <br/> Bạn có chắc chắn muốn xóa chúng không?,You have selected {{ selected }} record.<br/> Are you sure you want to delete it?|You have selected {{ selected }} records.<br/> Are you sure you want to delete them?,0
+jsmessages,oro.datagrid.mass_action.title,Hành động hàng loạt,Mass Actions,0
+jsmessages,oro.datagrid.name_modal.title,Chế độ hiển thị theo ô,Grid view,0
+jsmessages,oro.datagrid.no.columns,Không có cột nào được định cấu hình cho lưới này,No columns configured for this grid,0
+jsmessages,oro.datagrid.no.entities,Không có dữ liệu được tìm thấy,No records found,0
+jsmessages,oro.datagrid.no.results,Không tìm thấy {{ entityHint }} nào phù hợp với tìm kiếm của bạn. Thử sửa đổi tiêu chí tìm kiếm của bạn ...,No {{ entityHint }} were found to match your search. Try modifying your search criteria...,0
+jsmessages,oro.datagrid.not_number,Không phải là một con số,Not a number,0
 jsmessages,oro.datagrid.pagination.label,Trang,Page,0
-jsmessages,oro.datagrid.pagination.next,"Kế tiếp",Next,0
-jsmessages,oro.datagrid.pagination.prev,"Trước đó",Prev,0
-jsmessages,oro.datagrid.pagination.totalPages,"trong tổng số {{ totalPages }}","of {{ totalPages }}",0
-jsmessages,oro.datagrid.pagination.totalRecords,"Tổng số bản ghi {{ totalRecords }}","Total of {{ totalRecords }} records",0
-jsmessages,oro.datagrid.pagination.totalRecordsShort,"Tổng số bản ghi {{ totalRecords }}","{{ totalRecords }} total records",0
-jsmessages,oro.datagrid.pagination.visibleItems,"Hiển thị {{ count }} của {{ total }} bản ghi","Showing {{ count }} of {{ total }} records",0
-jsmessages,oro.datagrid.sorters.currency.ascending,"Thấp đến Cao","Low to High",0
-jsmessages,oro.datagrid.sorters.currency.descending,"Cao đến thấp","High to Low",0
-jsmessages,oro.datagrid.sorters.datetime.ascending,"Cũ nhất trước","Oldest first",0
-jsmessages,oro.datagrid.sorters.datetime.descending,"Mới nhất trước","Newest first",0
-jsmessages,oro.datagrid.sorters.decimal.ascending,"Thấp đến Cao","Low to High",0
-jsmessages,oro.datagrid.sorters.decimal.descending,"Cao đến thấp","High to Low",0
-jsmessages,oro.datagrid.sorters.not_selected,"Mức độ liên quan",Relevance,0
-jsmessages,oro.datagrid.sorters.number.ascending,"Thấp đến Cao","Low to High",0
-jsmessages,oro.datagrid.sorters.number.descending,"Cao đến thấp","High to Low",0
-jsmessages,oro.datagrid.sorters.string.ascending,"Từ A đến Z","A to Z",0
-jsmessages,oro.datagrid.sorters.string.descending,"Từ Z đến A","Z to A",0
-jsmessages,oro.datagrid.sorters.undefined.ascending,"Thấp đến Cao","Low to High",0
-jsmessages,oro.datagrid.sorters.undefined.descending,"Cao đến thấp","High to Low",0
-jsmessages,oro.datagrid.toolbar_sorting.label,"Được sắp xếp bởi","Sorted By",0
-jsmessages,oro.dotmailer.datafieldmapping.change_channel_confirmation,"Thay đổi tích hợp sẽ xóa tất cả cấu hình ánh xạ. Bạn có muốn tiếp tục?","Changing the integration will erase all mapping configuration. Do you want to continue?",0
-jsmessages,oro.dotmailer.datafieldmapping.change_entity_confirmation,"Thay đổi thực thể sẽ xóa tất cả cấu hình ánh xạ. Bạn có muốn tiếp tục?","Changing the entity will erase all mapping configuration. Do you want to continue?",0
-jsmessages,oro.dotmailer.datafieldmapping.editor,"Trình chỉnh sửa ánh xạ","the Mapping Editor",0
-jsmessages,oro.email.action.error,"Đã xảy ra lỗi","Error has occurred",0
-jsmessages,oro.email.action.success_mark_read,"Email đã được đánh dấu là đã đọc","Email has been marked as read",0
-jsmessages,oro.email.action.success_mark_unread,"Email đã được đánh dấu là chưa đọc","Email has been marked as unread",0
-jsmessages,oro.email.attachment.added,"Đã thêm tệp đính kèm","Attachment added",0
-jsmessages,oro.email.attachment.select_file,"Chọn tập tin","Select file",0
-jsmessages,oro.email.emailtemplate.apply_template_confirmation_content,"Nội dung nội dung sẽ được thay thế bằng mẫu. Bạn có chắc muốn tiếp tục?","The body content will be replaced by a template. Are you sure you want to proceed?",0
-jsmessages,oro.email.emailtemplate.apply_template_confirmation_title,"Áp dụng xác nhận mẫu","Apply Template Confirmation",0
+jsmessages,oro.datagrid.pagination.next,Kế tiếp,Next,0
+jsmessages,oro.datagrid.pagination.prev,Trước đó,Prev,0
+jsmessages,oro.datagrid.pagination.totalPages,trong tổng số {{ totalPages }},of {{ totalPages }},0
+jsmessages,oro.datagrid.pagination.totalRecords,Tổng số bản ghi {{ totalRecords }},Total of {{ totalRecords }} records,0
+jsmessages,oro.datagrid.pagination.totalRecordsShort,Tổng số bản ghi {{ totalRecords }},{{ totalRecords }} total records,0
+jsmessages,oro.datagrid.pagination.visibleItems,Hiển thị {{ count }} của {{ total }} bản ghi,Showing {{ count }} of {{ total }} records,0
+jsmessages,oro.datagrid.sorters.currency.ascending,Thấp đến Cao,Low to High,0
+jsmessages,oro.datagrid.sorters.currency.descending,Cao đến thấp,High to Low,0
+jsmessages,oro.datagrid.sorters.datetime.ascending,Cũ nhất trước,Oldest first,0
+jsmessages,oro.datagrid.sorters.datetime.descending,Mới nhất trước,Newest first,0
+jsmessages,oro.datagrid.sorters.decimal.ascending,Thấp đến Cao,Low to High,0
+jsmessages,oro.datagrid.sorters.decimal.descending,Cao đến thấp,High to Low,0
+jsmessages,oro.datagrid.sorters.not_selected,Mức độ liên quan,Relevance,0
+jsmessages,oro.datagrid.sorters.number.ascending,Thấp đến Cao,Low to High,0
+jsmessages,oro.datagrid.sorters.number.descending,Cao đến thấp,High to Low,0
+jsmessages,oro.datagrid.sorters.string.ascending,Từ A đến Z,A to Z,0
+jsmessages,oro.datagrid.sorters.string.descending,Từ Z đến A,Z to A,0
+jsmessages,oro.datagrid.sorters.undefined.ascending,Thấp đến Cao,Low to High,0
+jsmessages,oro.datagrid.sorters.undefined.descending,Cao đến thấp,High to Low,0
+jsmessages,oro.datagrid.toolbar_sorting.label,Được sắp xếp bởi,Sorted By,0
+jsmessages,oro.dotmailer.datafieldmapping.change_channel_confirmation,Thay đổi tích hợp sẽ xóa tất cả cấu hình ánh xạ. Bạn có muốn tiếp tục?,Changing the integration will erase all mapping configuration. Do you want to continue?,0
+jsmessages,oro.dotmailer.datafieldmapping.change_entity_confirmation,Thay đổi thực thể sẽ xóa tất cả cấu hình ánh xạ. Bạn có muốn tiếp tục?,Changing the entity will erase all mapping configuration. Do you want to continue?,0
+jsmessages,oro.dotmailer.datafieldmapping.editor,Trình chỉnh sửa ánh xạ,the Mapping Editor,0
+jsmessages,oro.email.action.error,Đã xảy ra lỗi,Error has occurred,0
+jsmessages,oro.email.action.success_mark_read,Email đã được đánh dấu là đã đọc,Email has been marked as read,0
+jsmessages,oro.email.action.success_mark_unread,Email đã được đánh dấu là chưa đọc,Email has been marked as unread,0
+jsmessages,oro.email.attachment.added,Đã thêm tệp đính kèm,Attachment added,0
+jsmessages,oro.email.attachment.select_file,Chọn tập tin,Select file,0
+jsmessages,oro.email.emailtemplate.apply_template_confirmation_content,Nội dung nội dung sẽ được thay thế bằng mẫu. Bạn có chắc muốn tiếp tục?,The body content will be replaced by a template. Are you sure you want to proceed?,0
+jsmessages,oro.email.emailtemplate.apply_template_confirmation_title,Áp dụng xác nhận mẫu,Apply Template Confirmation,0
 jsmessages,oro.email.emailtemplate.cannot_insert_variable,"Không thể chèn biến, vui lòng đặt con trỏ vào chủ đề hoặc nội dung của mẫu.","Cannot insert variable, please put the cursor into the subject or the content of the template.",0
-jsmessages,oro.email.emailtemplate.change_entity_confirmation,"Dữ liệu mẫu có thể chứa các biến liên quan đến thực thể được chọn trước đó. Bạn có muốn xóa tất cả dữ liệu mẫu không?","The template data can contain variables related to the previous selected entity. Do you want to clear all template data?",0
-jsmessages,oro.email.emailtemplate.load_failed,"Đã xảy ra lỗi trong khi tải mẫu.","Error occured while loading template.",0
-jsmessages,oro.email.emailtemplate.reference_title,"{{ variable_label }}. Nhấp để chuyển đến các biến có liên quan.","{{ variable_label }}. Click to go to related variables.",0
-jsmessages,oro.email.emailtemplate.variable_title,"{{ variable_label }}. Nhấn vào đây để chèn biến hoặc kéo nó.","{{ variable_label }}. Click to insert variable or drag it.",0
-jsmessages,oro.email.error.get_email_last,"Không nhận được email cuối cùng","Getting last emails failed",0
-jsmessages,oro.email.error.mark_as_read,"Đánh dấu tất cả là đã đọc không thành công","Marking all as read failed",0
-jsmessages,oro.email.form.attach,"Đính kèm",Attach,0
-jsmessages,oro.email.form.no_attachments,"Không có tệp đính kèm nào","No available attachments",0
-jsmessages,oro.email.form.record_attachments,"Ghi tệp đính kèm","Record Attachments",0
-jsmessages,oro.email.form.thread_attachments,"Tệp đính kèm","Thread Attachments",0
-jsmessages,oro.email.handler.unable_to_send_email,"Không thể gửi email.","Unable to send the email.",0
-jsmessages,oro.email.menu.mark_unread.error.message,"Lỗi đánh dấu email là chưa đọc","Error mark message as unread",0
-jsmessages,oro.email.menu.mark_unread.success.message,"Thư đã được đánh dấu là chưa đọc","Message has been marked as unread",0
-jsmessages,oro.email.menu.shortcut_compose_email.label,"Soạn email","Compose Email",0
-jsmessages,oro.email.notification.empty,"Bạn chưa có bất kỳ email nào","You don't have any emails yet",0
-jsmessages,oro.email.notification.mark_read.label,"Đánh dấu tất cả như đã đọc","Mark all as Read",0
-jsmessages,oro.email.notification.menu_item.hint,"Email gần đây","Recent Emails",0
-jsmessages,oro.email.notification.more_unread,"Đọc thêm","More Unread",0
-jsmessages,oro.email.notification.new_email,"Bạn có một email mới","You have a new email",0
-jsmessages,oro.email.notification.user_emails.label,"Thư điện tử của tôi","My emails",0
-jsmessages,oro.email.recent_emails_widget.all_folders,"TẤT CẢ",ALL,0
-jsmessages,oro.email.recent_emails_widget.amount_of_emails,"Số lượng email hiển thị","Amount of Emails to Display",0
-jsmessages,oro.email.recent_emails_widget.default_action,"Hành động mặc định","Default Action",0
-jsmessages,oro.email.recent_emails_widget.default_action_hint,"Hành động mặc định cho tiện ích trong trạng thái thanh bên mở rộng","Default action for widget in a state of extended sidebar",0
-jsmessages,oro.email.recent_emails_widget.description,"Tiện ích này cho phép bạn xem những bổ sung mới nhất cho hộp thư đến và hộp thư đi của bạn","This widget allows you to see most recent additions to your inbox and outbox",0
-jsmessages,oro.email.recent_emails_widget.forward,"Phía trước",Forward,0
-jsmessages,oro.email.recent_emails_widget.mailbox_folder,"Thư mục hộp thư","Mailbox Folder",0
-jsmessages,oro.email.recent_emails_widget.mark_visible_read.label,"Đánh dấu có thể nhìn thấy là đã đọc","Mark Visible as Read",0
-jsmessages,oro.email.recent_emails_widget.no_subject,"không chủ đề","no subject",0
-jsmessages,oro.email.recent_emails_widget.reply,"Đáp lại",Reply,0
-jsmessages,oro.email.recent_emails_widget.reply_all,"Trả lời tất cả","Reply All",0
-jsmessages,oro.email.recent_emails_widget.settings,"Những chỉnh sửa công cụ email gần đây","Recent Emails Widget Settings",0
-jsmessages,oro.email.recent_emails_widget.title_all_folders,"TẤT CẢ EMAIL GẦN ĐÂY","RECENT EMEILS",0
-jsmessages,oro.email.send_email,"Gửi email","Send email",0
-jsmessages,oro.email.smtp_connection.error,"Không thể thiết lập kết nối","Could not establish connection",0
-jsmessages,oro.email.smtp_connection.success,"Đã thiết lập kết nối thành công","Connection established successfully",0
-jsmessages,oro.email.thread.collapse_all.label,"Thu gọn tất cả","Collapse All",0
-jsmessages,oro.email.thread.collapse_all.tooltip,"Thu gọn tất cả email trong chuỗi","Collapse all emails in the thread",0
-jsmessages,oro.email.thread.expand_all.label,"Mở rộng tất cả","Expand All",0
-jsmessages,oro.email.thread.expand_all.tooltip,"Mở rộng tất cả email trong chuỗi","Expand all emails in the thread",0
+jsmessages,oro.email.emailtemplate.change_entity_confirmation,Dữ liệu mẫu có thể chứa các biến liên quan đến thực thể được chọn trước đó. Bạn có muốn xóa tất cả dữ liệu mẫu không?,The template data can contain variables related to the previous selected entity. Do you want to clear all template data?,0
+jsmessages,oro.email.emailtemplate.load_failed,Đã xảy ra lỗi trong khi tải mẫu.,Error occured while loading template.,0
+jsmessages,oro.email.emailtemplate.reference_title,{{ variable_label }}. Nhấp để chuyển đến các biến có liên quan.,{{ variable_label }}. Click to go to related variables.,0
+jsmessages,oro.email.emailtemplate.variable_title,{{ variable_label }}. Nhấn vào đây để chèn biến hoặc kéo nó.,{{ variable_label }}. Click to insert variable or drag it.,0
+jsmessages,oro.email.error.get_email_last,Không nhận được email cuối cùng,Getting last emails failed,0
+jsmessages,oro.email.error.mark_as_read,Đánh dấu tất cả là đã đọc không thành công,Marking all as read failed,0
+jsmessages,oro.email.form.attach,Đính kèm,Attach,0
+jsmessages,oro.email.form.no_attachments,Không có tệp đính kèm nào,No available attachments,0
+jsmessages,oro.email.form.record_attachments,Ghi tệp đính kèm,Record Attachments,0
+jsmessages,oro.email.form.thread_attachments,Tệp đính kèm,Thread Attachments,0
+jsmessages,oro.email.handler.unable_to_send_email,Không thể gửi email.,Unable to send the email.,0
+jsmessages,oro.email.menu.mark_unread.error.message,Lỗi đánh dấu email là chưa đọc,Error mark message as unread,0
+jsmessages,oro.email.menu.mark_unread.success.message,Thư đã được đánh dấu là chưa đọc,Message has been marked as unread,0
+jsmessages,oro.email.menu.shortcut_compose_email.label,Soạn email,Compose Email,0
+jsmessages,oro.email.notification.empty,Bạn chưa có bất kỳ email nào,You don't have any emails yet,0
+jsmessages,oro.email.notification.mark_read.label,Đánh dấu tất cả như đã đọc,Mark all as Read,0
+jsmessages,oro.email.notification.menu_item.hint,Email gần đây,Recent Emails,0
+jsmessages,oro.email.notification.more_unread,Đọc thêm,More Unread,0
+jsmessages,oro.email.notification.new_email,Bạn có một email mới,You have a new email,0
+jsmessages,oro.email.notification.user_emails.label,Thư điện tử của tôi,My emails,0
+jsmessages,oro.email.recent_emails_widget.all_folders,TẤT CẢ,ALL,0
+jsmessages,oro.email.recent_emails_widget.amount_of_emails,Số lượng email hiển thị,Amount of Emails to Display,0
+jsmessages,oro.email.recent_emails_widget.default_action,Hành động mặc định,Default Action,0
+jsmessages,oro.email.recent_emails_widget.default_action_hint,Hành động mặc định cho tiện ích trong trạng thái thanh bên mở rộng,Default action for widget in a state of extended sidebar,0
+jsmessages,oro.email.recent_emails_widget.description,Tiện ích này cho phép bạn xem những bổ sung mới nhất cho hộp thư đến và hộp thư đi của bạn,This widget allows you to see most recent additions to your inbox and outbox,0
+jsmessages,oro.email.recent_emails_widget.forward,Phía trước,Forward,0
+jsmessages,oro.email.recent_emails_widget.mailbox_folder,Thư mục hộp thư,Mailbox Folder,0
+jsmessages,oro.email.recent_emails_widget.mark_visible_read.label,Đánh dấu có thể nhìn thấy là đã đọc,Mark Visible as Read,0
+jsmessages,oro.email.recent_emails_widget.no_subject,không chủ đề,no subject,0
+jsmessages,oro.email.recent_emails_widget.reply,Đáp lại,Reply,0
+jsmessages,oro.email.recent_emails_widget.reply_all,Trả lời tất cả,Reply All,0
+jsmessages,oro.email.recent_emails_widget.settings,Những chỉnh sửa công cụ email gần đây,Recent Emails Widget Settings,0
+jsmessages,oro.email.recent_emails_widget.title_all_folders,TẤT CẢ EMAIL GẦN ĐÂY,RECENT EMEILS,0
+jsmessages,oro.email.send_email,Gửi email,Send email,0
+jsmessages,oro.email.smtp_connection.error,Không thể thiết lập kết nối,Could not establish connection,0
+jsmessages,oro.email.smtp_connection.success,Đã thiết lập kết nối thành công,Connection established successfully,0
+jsmessages,oro.email.thread.collapse_all.label,Thu gọn tất cả,Collapse All,0
+jsmessages,oro.email.thread.collapse_all.tooltip,Thu gọn tất cả email trong chuỗi,Collapse all emails in the thread,0
+jsmessages,oro.email.thread.expand_all.label,Mở rộng tất cả,Expand All,0
+jsmessages,oro.email.thread.expand_all.tooltip,Mở rộng tất cả email trong chuỗi,Expand all emails in the thread,0
 jsmessages,oro.email.thread.load_error,"Rất tiếc, chuỗi email không được tải chính xác.","Sorry, email thread was not loaded correctly.",0
 jsmessages,oro.email.thread.no_signature,"Bạn chưa có chữ ký. Vui lòng thêm nó vào <a href=""{{ url }}""> Cấu hình của tôi </a>.","You don't have a signature yet. Please add it in <a href=""{{ url }}"">My Configuration</a>.",0
-jsmessages,oro.email.thread.no_signature_no_permission,"Bạn chưa có chữ ký. Liên hệ với quản trị viên của bạn để thêm nó.","You don't have a signature yet. Contact your administrator to add it.",0
+jsmessages,oro.email.thread.no_signature_no_permission,Bạn chưa có chữ ký. Liên hệ với quản trị viên của bạn để thêm nó.,You don't have a signature yet. Contact your administrator to add it.,0
 jsmessages,oro.email.to,Đến,To,0
-jsmessages,oro.entity.field_choice.fields,"Lựa chọn",Fields,0
+jsmessages,oro.entity.field_choice.fields,Lựa chọn,Fields,0
 jsmessages,oro.entity.field_choice.none,Không,none,0
-jsmessages,oro.entity.field_choice.relations,"Các lựa chọn đi cùng nhau","Related entities",0
-jsmessages,oro.entity.form.choose_entity_field,"Chọn một trường ...","Choose a field...",0
-jsmessages,oro.entity.not_exist,"Thực thể được sử dụng hoặc trường của nó không tồn tại","Utilized entity or its field does not exist",0
+jsmessages,oro.entity.field_choice.relations,Các lựa chọn đi cùng nhau,Related entities,0
+jsmessages,oro.entity.form.choose_entity_field,Chọn một trường ...,Choose a field...,0
+jsmessages,oro.entity.not_exist,Thực thể được sử dụng hoặc trường của nó không tồn tại,Utilized entity or its field does not exist,0
 jsmessages,oro.entity.structure_outdated.message,"Thông tin cấu trúc đối tượng đã lỗi thời, vui lòng <a href='#' data-action='page-refresh'> làm mới trang </a>","Entities structure information is outdated, please <a href='#' data-action='page-refresh'>refresh the page</a>",0
-jsmessages,oro.entity_config.attributes_grid.delete_attribute.confirm_content,"Bạn có chắc chắn muốn xóa thuộc tính này không?","Are you sure you want to delete this attribute?",0
-jsmessages,oro.entity_extend.delete_field.confirm_content,"Bạn có chắc chắn muốn xóa trường này không?","Are you sure you want to delete this field?",0
-jsmessages,oro.entity_extend.enum_value_collection.clear_default,"Không đặt mặc định","Do not set Default",0
-jsmessages,oro.entity_extend.schema_update_failed,"Cập nhật giản đồ không thành công","Schema update failed",0
-jsmessages,oro.entity_extend.schema_updated,"Đã cập nhật giản đồ","Schema updated",0
-jsmessages,oro.entity_merge.mass_action.validation.maximum_records_error,"Đã chọn quá nhiều bản ghi. Hợp nhất hỗ trợ tối đa {{number}} bản ghi.","Too many records selected. Merge supports maximum {{ number }} records.",0
-jsmessages,oro.entity_merge.mass_action.validation.minimum_records_error,"Chọn từ 2 đến {{number}} bản ghi.","Select from 2 to {{ number }} records.",0
+jsmessages,oro.entity_config.attributes_grid.delete_attribute.confirm_content,Bạn có chắc chắn muốn xóa thuộc tính này không?,Are you sure you want to delete this attribute?,0
+jsmessages,oro.entity_extend.delete_field.confirm_content,Bạn có chắc chắn muốn xóa trường này không?,Are you sure you want to delete this field?,0
+jsmessages,oro.entity_extend.enum_value_collection.clear_default,Không đặt mặc định,Do not set Default,0
+jsmessages,oro.entity_extend.schema_update_failed,Cập nhật giản đồ không thành công,Schema update failed,0
+jsmessages,oro.entity_extend.schema_updated,Đã cập nhật giản đồ,Schema updated,0
+jsmessages,oro.entity_merge.mass_action.validation.maximum_records_error,Đã chọn quá nhiều bản ghi. Hợp nhất hỗ trợ tối đa {{number}} bản ghi.,Too many records selected. Merge supports maximum {{ number }} records.,0
+jsmessages,oro.entity_merge.mass_action.validation.minimum_records_error,Chọn từ 2 đến {{number}} bản ghi.,Select from 2 to {{ number }} records.,0
 jsmessages,oro.entityextend.delete_field.confirm_content,"Bạn có chắc chắn muốn xóa trường này không? Đối với trường loại lưu trữ được nối tiếp, hành động này không thể hoàn tác được.","Are you sure you want to delete this field? For Serialized storage type field, this action cannot be undone.",0
-jsmessages,oro.filter.choice-tree.all,"Tất cả các",All,0
-jsmessages,oro.filter.choice-tree.selected,"Đã chọn",Selected,0
-jsmessages,oro.filter.datagrid-toolbar.filters,"Bộ lọc",Filters,0
-jsmessages,oro.filter.datagrid-toolbar.filters_count,"Bộ lọc ({{ count }})","Filters ({{ count }})",0
-jsmessages,oro.filter.datagrid-toolbar.save_filters,"Lưu bộ lọc","Save Filters",0
+jsmessages,oro.filter.choice-tree.all,Tất cả,All,0
+jsmessages,oro.filter.choice-tree.selected,Đã chọn,Selected,0
+jsmessages,oro.filter.datagrid-toolbar.filters,Bộ lọc,Filters,0
+jsmessages,oro.filter.datagrid-toolbar.filters_count,Bộ lọc ({{ count }}),Filters ({{ count }}),0
+jsmessages,oro.filter.datagrid-toolbar.save_filters,Lưu bộ lọc,Save Filters,0
 jsmessages,oro.filter.date.days.title,Ngày,Days,0
 jsmessages,oro.filter.date.info,"Ngoài các ngày chính xác, bộ lọc hỗ trợ nhập ngày và tháng. Xóa năm kể từ ngày để lọc các bản ghi rơi vào ngày này của bất kỳ năm nào (ví dụ: khách hàng có sinh nhật vào ngày 15 tháng 11); xóa năm và ngày để lọc các bản ghi theo toàn bộ tháng (ví dụ: tất cả các đơn hàng được đặt trong khoảng từ tháng 1 đến tháng 3). Cả tên tháng dài và ngắn đều được hỗ trợ.","In addition to exact dates, the filter supports entry of days and months. Delete the year from the date in order to filter records that fall into this date of any year (e.g. customers that have birthdays on November 15th); delete the year and the day to filter records by entire months (e.g. all orders placed between January and March). Both long and short month names are supported.",0
 jsmessages,oro.filter.date.months.title,Tháng,Months,0
-jsmessages,oro.filter.date.part.day.tooltip,"Số ngày trong tháng (1 - 31)","Number of the day in month (1 - 31)",0
-jsmessages,oro.filter.date.part.dayofyear.tooltip,"Số ngày trong năm (1 - 366)","Number of the day in year (1 - 366)",0
-jsmessages,oro.filter.date.part.quarter.tooltip,"Số quý trong năm (1 - 4)","Number of the quarter of year (1 - 4)",0
-jsmessages,oro.filter.date.part.week.tooltip,"Số tuần (1 - 53)","Number of the week (1 - 53)",0
+jsmessages,oro.filter.date.part.day.tooltip,Số ngày trong tháng (1 - 31),Number of the day in month (1 - 31),0
+jsmessages,oro.filter.date.part.dayofyear.tooltip,Số ngày trong năm (1 - 366),Number of the day in year (1 - 366),0
+jsmessages,oro.filter.date.part.quarter.tooltip,Số quý trong năm (1 - 4),Number of the quarter of year (1 - 4),0
+jsmessages,oro.filter.date.part.week.tooltip,Số tuần (1 - 53),Number of the week (1 - 53),0
 jsmessages,oro.filter.date.part.year.tooltip,"Năm Gregorian, bắt đầu từ 1 sau CN","Gregorian year, starting from 1 AD",0
-jsmessages,oro.filter.date.placeholder.day,"Nhập ngày","Type a day",0
-jsmessages,oro.filter.date.placeholder.dayofweek,"Chọn một ngày","Choose a day",0
-jsmessages,oro.filter.date.placeholder.dayofyear,"Nhập ngày trong năm","Type a day of year",0
-jsmessages,oro.filter.date.placeholder.month,"Nhập một tháng","Type a month",0
-jsmessages,oro.filter.date.placeholder.quarter,"Nhập một phần tư","Type a quarter",0
-jsmessages,oro.filter.date.placeholder.value,"Chọn một ngày","Choose a date",0
-jsmessages,oro.filter.date.placeholder.week,"Nhập một tuần","Type a week",0
-jsmessages,oro.filter.date.placeholder.year,"Nhập một năm","Type a year",0
+jsmessages,oro.filter.date.placeholder.day,Nhập ngày,Type a day,0
+jsmessages,oro.filter.date.placeholder.dayofweek,Chọn một ngày,Choose a day,0
+jsmessages,oro.filter.date.placeholder.dayofyear,Nhập ngày trong năm,Type a day of year,0
+jsmessages,oro.filter.date.placeholder.month,Nhập một tháng,Type a month,0
+jsmessages,oro.filter.date.placeholder.quarter,Nhập một phần tư,Type a quarter,0
+jsmessages,oro.filter.date.placeholder.value,Chọn một ngày,Choose a date,0
+jsmessages,oro.filter.date.placeholder.week,Nhập một tuần,Type a week,0
+jsmessages,oro.filter.date.placeholder.year,Nhập một năm,Type a year,0
 jsmessages,oro.filter.date.tab.calendar,Lịch,Calendar,0
 jsmessages,oro.filter.date.tab.days,Ngày,Days,0
 jsmessages,oro.filter.date.tab.months,Tháng,Months,0
 jsmessages,oro.filter.date.tab.variables,Biến,Variables,0
-jsmessages,oro.filter.date.variable.title,"Biến có sẵn","Available variables",0
+jsmessages,oro.filter.date.variable.title,Biến có sẵn,Available variables,0
 jsmessages,oro.filter.date.variable.tooltip,"Bạn cũng có thể sử dụng chúng để tạo biểu thức. <br/> Ví dụ: <br/> ""hôm nay - 2"" sẽ được đánh giá là ngày hôm trước.","You can also use them to create expressions.<br/> For example:<br/> ""today - 2"" will be evaluated as the day before yesterday.",0
-jsmessages,oro.filter.date.variable.tooltip_title,"Biểu thức ngày tháng","Date expressions",0
-jsmessages,oro.filter.embedded.choice.field_to_value,"giá trị trường","field value",0
-jsmessages,oro.filter.embedded.date.field_to_value,"cánh đồng",field,0
-jsmessages,oro.filter.embedded.select.field_to_value,"giá trị trường là","field value is",0
-jsmessages,oro.filter.reset.label,"Xóa tất cả bộ lọc","Clear All Filters",0
-jsmessages,oro.filter.warning.max_length,"Vui lòng nhập tối đa {{ max_length }} ký tự","Please enter at most {{ max_length }} characters",0
-jsmessages,oro.filter.warning.min_length,"Vui lòng nhập ít nhất {{ min_length }} ký tự","Please enter at least {{ min_length }} characters",0
-jsmessages,oro.filter.wrapper.reset.hint,"Cài lại",Reset,0
-jsmessages,oro.filter.wrapper.reset.tooltip,"Đặt lại bộ lọc này","Reset this filter",0
-jsmessages,oro.form.add_new,"Thêm mới","Add new",0
-jsmessages,oro.form.choose_date,"Chọn một ngày","Choose a date",0
-jsmessages,oro.form.choose_time,"thời gian",time,0
-jsmessages,oro.form.inlineEditing.action.cancel,"Hủy bỏ",Cancel,0
-jsmessages,oro.form.inlineEditing.action.save,"Lưu thay đổi","Save changes",0
-jsmessages,oro.form.inlineEditing.helpMessage,"Nhấp đúp vào ô để chỉnh sửa","Double click on cell to edit",0
-jsmessages,oro.form.inlineEditing.inline_edits,"Chỉnh sửa nội tuyến","Inline edits",0
-jsmessages,oro.form.inlineEditing.loadingError,"Không thể tải thành phần hoặc chế độ xem cho trình chỉnh sửa lưới nội dòng","Cannot load component or view for inline grid editor",0
-jsmessages,oro.form.inlineEditing.multi_checkbox_editor.filter.placeholder,"Lọc giá trị ...","Filter values...",0
-jsmessages,oro.form.inlineEditing.saving_progress,"Chỉnh sửa nội dòng đang được lưu","Inline edits are being saved",0
-jsmessages,oro.form.inlineEditing.successMessage,"Bản ghi đã được cập nhật thành công","Record has been successfully updated",0
+jsmessages,oro.filter.date.variable.tooltip_title,Biểu thức ngày tháng,Date expressions,0
+jsmessages,oro.filter.embedded.choice.field_to_value,giá trị trường,field value,0
+jsmessages,oro.filter.embedded.date.field_to_value,cánh đồng,field,0
+jsmessages,oro.filter.embedded.select.field_to_value,giá trị trường là,field value is,0
+jsmessages,oro.filter.reset.label,Xóa tất cả bộ lọc,Clear All Filters,0
+jsmessages,oro.filter.warning.max_length,Vui lòng nhập tối đa {{ max_length }} ký tự,Please enter at most {{ max_length }} characters,0
+jsmessages,oro.filter.warning.min_length,Vui lòng nhập ít nhất {{ min_length }} ký tự,Please enter at least {{ min_length }} characters,0
+jsmessages,oro.filter.wrapper.reset.hint,Cài lại,Reset,0
+jsmessages,oro.filter.wrapper.reset.tooltip,Đặt lại bộ lọc này,Reset this filter,0
+jsmessages,oro.form.add_new,Thêm mới,Add new,0
+jsmessages,oro.form.choose_date,Chọn một ngày,Choose a date,0
+jsmessages,oro.form.choose_time,thời gian,time,0
+jsmessages,oro.form.inlineEditing.action.cancel,Hủy bỏ,Cancel,0
+jsmessages,oro.form.inlineEditing.action.save,Lưu thay đổi,Save changes,0
+jsmessages,oro.form.inlineEditing.helpMessage,Nhấp đúp vào ô để chỉnh sửa,Double click on cell to edit,0
+jsmessages,oro.form.inlineEditing.inline_edits,Chỉnh sửa nội tuyến,Inline edits,0
+jsmessages,oro.form.inlineEditing.loadingError,Không thể tải thành phần hoặc chế độ xem cho trình chỉnh sửa lưới nội dòng,Cannot load component or view for inline grid editor,0
+jsmessages,oro.form.inlineEditing.multi_checkbox_editor.filter.placeholder,Lọc giá trị ...,Filter values...,0
+jsmessages,oro.form.inlineEditing.saving_progress,Chỉnh sửa nội dòng đang được lưu,Inline edits are being saved,0
+jsmessages,oro.form.inlineEditing.successMessage,Bản ghi đã được cập nhật thành công,Record has been successfully updated,0
 jsmessages,oro.form.new,Mới,New,0
-jsmessages,oro.hangoutscall.log_call_form.field_subject.label,"Chủ đề",Subject,0
-jsmessages,oro.hangoutscall.log_call_form.field_subject.notes,"Biình luận thêm","Additional comments",0
-jsmessages,oro.hangoutscall.log_call_form.title,"Thông tin cuộc gọi CRM","CRM Call Information",0
-jsmessages,oro.hangoutscall.messages.connection_error,"Không thể bắt đầu phiên Google Hangout. Lỗi kết nối API Google.","Cannot start a Google Hangout session. Google API connection error.",0
+jsmessages,oro.hangoutscall.log_call_form.field_subject.label,Chủ đề,Subject,0
+jsmessages,oro.hangoutscall.log_call_form.field_subject.notes,Biình luận thêm,Additional comments,0
+jsmessages,oro.hangoutscall.log_call_form.title,Thông tin cuộc gọi CRM,CRM Call Information,0
+jsmessages,oro.hangoutscall.messages.connection_error,Không thể bắt đầu phiên Google Hangout. Lỗi kết nối API Google.,Cannot start a Google Hangout session. Google API connection error.,0
 jsmessages,oro.hangoutscall.start_hangouts_dialog.content_intro,"{0} Nhấp vào nút 'Bắt đầu Hangout' để mở Google Hangout ngay bây giờ |{1}Nhấp vào nút 'Bắt đầu Hangout' để mời người dùng này tham gia Google Hangout ngay bây giờ |[2,Inf[Nhấp vào 'Bắt đầu Hangout' để mời những người dùng này tham gia Google Hangout ngay bây giờ","{0}Click the 'Start a Hangout' button to open a Google Hangout now|{1}Click the 'Start a Hangout' button to invite this user to a Google Hangout now|[2,Inf[Click the 'Start a Hangout' button to invite these users to a Google Hangout now",0
-jsmessages,oro.hangoutscall.start_hangouts_dialog.content_note,"Bạn có thể mời tối đa 5 người dùng tham gia Google Hangout bằng cách gửi email cho họ hoặc gọi số điện thoại của một người dùng và khởi chạy Google Hangout ngay lập tức. Bạn sẽ có cơ hội thay đổi danh sách mời trước khi Hangout bắt đầu.","You can invite up to 5 users to a Google Hangout by emailing them, or call a single user's phone number and launch a Google Hangout immediately. You will have a chance to alter the invite list before the Hangout begins.",0
-jsmessages,oro.hangoutscall.start_hangouts_dialog.title,"Mời các liên hệ vào Google Hangout","Invite Contacts to a Google Hangout",0
-jsmessages,oro.imap.connection.error,"Các tham số không hợp lệ!","Parameters are not valid!",0
-jsmessages,oro.imap.connection.google.oauth.error.access_deny,"Từ chối truy cập","Access deny",0
-jsmessages,oro.imap.connection.google.oauth.error.blocked_popup,"Đã xảy ra sự cố. Hãy đảm bảo rằng cửa sổ bật lên được bật.","Something has gone wrong. Please make sure that pop-ups are enabled.",0
-jsmessages,oro.imap.connection.google.oauth.error.closed_auth,"Đã xảy ra sự cố. Vui lòng giải quyết quản trị viên của bạn để kiểm tra cài đặt khóa google API.","Something has gone wrong. Please address your administrator to check the google API key settings.",0
-jsmessages,oro.imap.connection.google.oauth.error.emptyClientId,"Giá trị thông số id ứng dụng trống trong Cài đặt tích hợp của Google. Vui lòng định cấu hình cài đặt Google trong cấu hình hệ thống ứng dụng để tiếp tục với Google OAuth.","Client id parameter value is empty in the Google Integration Settings. Please, configure Google settings in the application system configuration to proceed with Google OAuth.",0
-jsmessages,oro.imap.connection.google.oauth.error.request,"Đã xảy ra sự cố.","Something has gone wrong.",0
-jsmessages,oro.imap.connection.imap.error,"Không thể thiết lập kết nối IMAP","Could not establish the IMAP connection",0
-jsmessages,oro.imap.connection.imap.success,"Kết nối IMAP được thiết lập thành công","IMAP connection is established successfully",0
-jsmessages,oro.imap.connection.smtp.error,"Không thể thiết lập kết nối SMTP","Could not establish the SMTP connection",0
-jsmessages,oro.imap.connection.smtp.success,"Kết nối SMTP được thiết lập thành công","SMTP connection is established successfully",0
-jsmessages,oro.imap.connection.success,"Kết nối được thiết lập thành công!","Connection is established successfully!",0
+jsmessages,oro.hangoutscall.start_hangouts_dialog.content_note,Bạn có thể mời tối đa 5 người dùng tham gia Google Hangout bằng cách gửi email cho họ hoặc gọi số điện thoại của một người dùng và khởi chạy Google Hangout ngay lập tức. Bạn sẽ có cơ hội thay đổi danh sách mời trước khi Hangout bắt đầu.,"You can invite up to 5 users to a Google Hangout by emailing them, or call a single user's phone number and launch a Google Hangout immediately. You will have a chance to alter the invite list before the Hangout begins.",0
+jsmessages,oro.hangoutscall.start_hangouts_dialog.title,Mời các liên hệ vào Google Hangout,Invite Contacts to a Google Hangout,0
+jsmessages,oro.imap.connection.error,Các tham số không hợp lệ!,Parameters are not valid!,0
+jsmessages,oro.imap.connection.google.oauth.error.access_deny,Từ chối truy cập,Access deny,0
+jsmessages,oro.imap.connection.google.oauth.error.blocked_popup,Đã xảy ra sự cố. Hãy đảm bảo rằng cửa sổ bật lên được bật.,Something has gone wrong. Please make sure that pop-ups are enabled.,0
+jsmessages,oro.imap.connection.google.oauth.error.closed_auth,Đã xảy ra sự cố. Vui lòng giải quyết quản trị viên của bạn để kiểm tra cài đặt khóa google API.,Something has gone wrong. Please address your administrator to check the google API key settings.,0
+jsmessages,oro.imap.connection.google.oauth.error.emptyClientId,Giá trị thông số id ứng dụng trống trong Cài đặt tích hợp của Google. Vui lòng định cấu hình cài đặt Google trong cấu hình hệ thống ứng dụng để tiếp tục với Google OAuth.,"Client id parameter value is empty in the Google Integration Settings. Please, configure Google settings in the application system configuration to proceed with Google OAuth.",0
+jsmessages,oro.imap.connection.google.oauth.error.request,Đã xảy ra sự cố.,Something has gone wrong.,0
+jsmessages,oro.imap.connection.imap.error,Không thể thiết lập kết nối IMAP,Could not establish the IMAP connection,0
+jsmessages,oro.imap.connection.imap.success,Kết nối IMAP được thiết lập thành công,IMAP connection is established successfully,0
+jsmessages,oro.imap.connection.smtp.error,Không thể thiết lập kết nối SMTP,Could not establish the SMTP connection,0
+jsmessages,oro.imap.connection.smtp.success,Kết nối SMTP được thiết lập thành công,SMTP connection is established successfully,0
+jsmessages,oro.imap.connection.success,Kết nối được thiết lập thành công!,Connection is established successfully!,0
 jsmessages,oro.imap.sync.flash_message.system_box_failed,"Đồng bộ hóa với hộp thư hệ thống (tên người dùng ""{{ username }}"" được lưu trữ trên ""{{ host }}"") đã không thành công. Vui lòng kiểm tra thông tin đăng nhập kết nối trên trang cấu hình email.","Synchronization with the system mailbox (username ""{{ username }}"" hosted on ""{{ host }}"") has failed. Please check the connection credentials on the email configuraton page.",0
 jsmessages,oro.imap.sync.flash_message.user_box_failed,"Đồng bộ hóa với hộp thư của bạn (tên người dùng ""{{ username }}"" được lưu trữ trên ""{{ host }}"") đã không thành công. Vui lòng kiểm tra thông tin đăng nhập kết nối trên trang cấu hình email.","Synchronization with your mailbox (username ""{{ username }}"" hosted on ""{{ host }}"") has failed. Please check the connection credentials on the email configuraton page.",0
-jsmessages,oro.importexport.export.error_template_download.message,"Đã xảy ra lỗi trong khi tải mẫu xuống.","Errors occured while downloading the template.",0
+jsmessages,oro.importexport.export.error_template_download.message,Đã xảy ra lỗi trong khi tải mẫu xuống.,Errors occured while downloading the template.,0
 jsmessages,oro.importexport.export.fail.message,"Không thể bắt đầu xuất, vui lòng thử lại.","Could not start export, please try again.",0
-jsmessages,oro.importexport.export.success.message,"Đã bắt đầu xuất thành công. Bạn sẽ nhận được thông báo qua email sau khi hoàn thành.","Export started successfully. You will receive email notification upon completion.",0
+jsmessages,oro.importexport.export.success.message,Đã bắt đầu xuất thành công. Bạn sẽ nhận được thông báo qua email sau khi hoàn thành.,Export started successfully. You will receive email notification upon completion.,0
 jsmessages,oro.importexport.import.fail.message,"Không thể bắt đầu nhập, vui lòng thử lại.","Could not start import, please try again.",0
 jsmessages,oro.importexport.import.form_fail.message,"Lỗi: Tệp bị lỗi hoặc bị thiếu, Vui lòng chọn tệp hợp lệ để nhập.","Error: Bad or missing file,  Please choose a valid file to import.",0
-jsmessages,oro.importexport.import.starting.message,"Đang bắt đầu nhập ...","Starting import...",0
-jsmessages,oro.importexport.import.success.message,"Đã bắt đầu nhập thành công. Bạn sẽ nhận được thông báo qua email sau khi hoàn thành.","Import started successfully. You will receive email notification upon completion.",0
+jsmessages,oro.importexport.import.starting.message,Đang bắt đầu nhập ...,Starting import...,0
+jsmessages,oro.importexport.import.success.message,Đã bắt đầu nhập thành công. Bạn sẽ nhận được thông báo qua email sau khi hoàn thành.,Import started successfully. You will receive email notification upon completion.,0
 jsmessages,oro.importexport.import_validation.fail.message,"Không thể bắt đầu xác thực nhập, vui lòng thử lại.","Could not start import validation, please try again.",0
 jsmessages,oro.importexport.import_validation.form_fail.message,"Lỗi: Tệp bị lỗi hoặc bị thiếu, Vui lòng chọn tệp hợp lệ để xác thực nhập.","Error: Bad or missing file,  Please choose a valid file for import validation.",0
-jsmessages,oro.importexport.import_validation.starting.message,"Đang bắt đầu xác thực nhập ...","Starting import validation...",0
-jsmessages,oro.importexport.import_validation.success.message,"Quá trình xác thực nhập đã bắt đầu thành công. Bạn sẽ nhận được thông báo qua email sau khi hoàn thành.","Import validation started successfully. You will receive email notification upon completion.",0
-jsmessages,oro.integration.activate.fail.message,"Không thể kích hoạt tích hợp.","Failed to activate integration.",0
-jsmessages,oro.integration.change_type,"Đổi loại","Change Type",0
-jsmessages,oro.integration.channel.sync_priority.tooltip,"Chọn nếu phiên bản dữ liệu cục bộ của bạn hoặc dữ liệu ứng dụng từ xa được ưu tiên trong trường hợp cả hai được cập nhật kể từ lần đồng bộ hóa cuối cùng.","Select if your local version of the data or    the remote application data get priority in the case that both were updated since the last sync process.",0
-jsmessages,oro.integration.deactivate.fail.message,"Không thể hủy kích hoạt tích hợp.","Failed to deactivate integration.",0
+jsmessages,oro.importexport.import_validation.starting.message,Đang bắt đầu xác thực nhập ...,Starting import validation...,0
+jsmessages,oro.importexport.import_validation.success.message,Quá trình xác thực nhập đã bắt đầu thành công. Bạn sẽ nhận được thông báo qua email sau khi hoàn thành.,Import validation started successfully. You will receive email notification upon completion.,0
+jsmessages,oro.integration.activate.fail.message,Không thể kích hoạt tích hợp.,Failed to activate integration.,0
+jsmessages,oro.integration.change_type,Đổi loại,Change Type,0
+jsmessages,oro.integration.channel.sync_priority.tooltip,Chọn nếu phiên bản dữ liệu cục bộ của bạn hoặc dữ liệu ứng dụng từ xa được ưu tiên trong trường hợp cả hai được cập nhật kể từ lần đồng bộ hóa cuối cùng.,Select if your local version of the data or    the remote application data get priority in the case that both were updated since the last sync process.,0
+jsmessages,oro.integration.deactivate.fail.message,Không thể hủy kích hoạt tích hợp.,Failed to deactivate integration.,0
 jsmessages,oro.integration.delete_sync_integration_window.button_ok,"Có, Xóa","Yes, Delete",0
-jsmessages,oro.integration.delete_sync_integration_window.content,"Cảnh báo: Việc xóa tích hợp sẽ xóa tất cả dữ liệu có liên quan","Warning: Removing the integration will delete all related data",0
-jsmessages,oro.integration.delete_sync_integration_window.success,"Tích hợp và tất cả dữ liệu liên quan đã bị xóa","Integration and all related data were deleted",0
-jsmessages,oro.integration.delete_sync_integration_window.title,"Xác nhận Xóa","Delete Confirmation",0
+jsmessages,oro.integration.delete_sync_integration_window.content,Cảnh báo: Việc xóa tích hợp sẽ xóa tất cả dữ liệu có liên quan,Warning: Removing the integration will delete all related data,0
+jsmessages,oro.integration.delete_sync_integration_window.success,Tích hợp và tất cả dữ liệu liên quan đã bị xóa,Integration and all related data were deleted,0
+jsmessages,oro.integration.delete_sync_integration_window.title,Xác nhận Xóa,Delete Confirmation,0
 jsmessages,oro.integration.error,"Đã xảy ra lỗi, vui lòng thử lại sau.","Error was occurred, please try later.",0
-jsmessages,oro.integration.force_sync.cancel,"Hủy bỏ",Cancel,0
-jsmessages,oro.integration.force_sync.message,"Lưu ý: Hành động này sẽ bắt đầu đồng bộ hóa lại tất cả dữ liệu {{ integration_name }}. Nó có thể đòi hỏi một thời gian để hoàn thành.","Attention: This action will start full re-synchronization of all {{ integration_name }} data. It might require some time to complete.",0
-jsmessages,oro.integration.force_sync.ok,"Chạy đồng bộ hóa lại","Run Re-sync",0
-jsmessages,oro.integration.force_sync.title,"Xác nhận lại đồng bộ hóa lại toàn bộ","Confirm full integration re-sync",0
-jsmessages,oro.integration.submit,"Bạn có chắc chắn muốn thay đổi loại không?","Are you sure you want to change type?",0
-jsmessages,oro.locale.localization.delete_confirm,"Tất cả dữ liệu được bản địa hóa có liên quan sẽ bị xóa. Bạn có chắc chắn muốn xóa {{ entityLabel }} này không?","All related localized data will be deleted. Are you sure you want to delete this {{ entityLabel }}?",0
-jsmessages,oro.magento.autocomplete.entity_number,"{{ entityName }} {{ entityNumber }}","{{ entityName }} {{ entityNumber }}",0
-jsmessages,oro.magento.customer_registration.error,"Khách hàng chưa đăng ký","Customer was not registered",0
-jsmessages,oro.magento.customer_registration.success,"Khách hàng đã đăng ký","Customer registered",0
-jsmessages,oro.magento.error,"Kiểm tra kết nối không thành công. Vui lòng thử lại sau.","Check connection failed. Please, try again later.",0
-jsmessages,oro.magento.external_error,"Đã xảy ra lỗi bên ngoài","External error occured",0
-jsmessages,oro.magento.newslettersubscriber.action.confirm_cancel,"Hủy bỏ",Cancel,0
+jsmessages,oro.integration.force_sync.cancel,Hủy bỏ,Cancel,0
+jsmessages,oro.integration.force_sync.message,Lưu ý: Hành động này sẽ bắt đầu đồng bộ hóa lại tất cả dữ liệu {{ integration_name }}. Nó có thể đòi hỏi một thời gian để hoàn thành.,Attention: This action will start full re-synchronization of all {{ integration_name }} data. It might require some time to complete.,0
+jsmessages,oro.integration.force_sync.ok,Chạy đồng bộ hóa lại,Run Re-sync,0
+jsmessages,oro.integration.force_sync.title,Xác nhận lại đồng bộ hóa lại toàn bộ,Confirm full integration re-sync,0
+jsmessages,oro.integration.submit,Bạn có chắc chắn muốn thay đổi loại không?,Are you sure you want to change type?,0
+jsmessages,oro.locale.localization.delete_confirm,Tất cả dữ liệu được bản địa hóa có liên quan sẽ bị xóa. Bạn có chắc chắn muốn xóa {{ entityLabel }} này không?,All related localized data will be deleted. Are you sure you want to delete this {{ entityLabel }}?,0
+jsmessages,oro.magento.autocomplete.entity_number,{{ entityName }} {{ entityNumber }},{{ entityName }} {{ entityNumber }},0
+jsmessages,oro.magento.customer_registration.error,Khách hàng chưa đăng ký,Customer was not registered,0
+jsmessages,oro.magento.customer_registration.success,Khách hàng đã đăng ký,Customer registered,0
+jsmessages,oro.magento.error,Kiểm tra kết nối không thành công. Vui lòng thử lại sau.,"Check connection failed. Please, try again later.",0
+jsmessages,oro.magento.external_error,Đã xảy ra lỗi bên ngoài,External error occured,0
+jsmessages,oro.magento.newslettersubscriber.action.confirm_cancel,Hủy bỏ,Cancel,0
 jsmessages,oro.magento.newslettersubscriber.action.confirm_ok,Vâng,Yes,0
-jsmessages,oro.magento.newslettersubscriber.action.confirm_title.subscribe,"Xác nhận đăng ký","Subscribe Confirmation",0
-jsmessages,oro.magento.newslettersubscriber.action.confirm_title.unsubscribe,"Hủy đăng ký xác nhận","Unsubscribe Confirmation",0
-jsmessages,oro.magento.newslettersubscriber.action.content.subscribe,"Bạn có chắc chắn muốn đăng ký mục này không?","Are you sure you want to subscribe this item?",0
-jsmessages,oro.magento.newslettersubscriber.action.content.unsubscribe,"Bạn có chắc chắn muốn hủy đăng ký mục này không?","Are you sure you want to unsubscribe this item?",0
-jsmessages,oro.magento.newslettersubscriber.action.error.subscribe,"Chưa đăng ký","Not subscribed",0
-jsmessages,oro.magento.newslettersubscriber.action.error.unsubscribe,"Chưa hủy đăng ký","Not unsubscribed",0
-jsmessages,oro.magento.newslettersubscriber.action.success.subscribe,"Đã đăng ký",Subscribed,0
-jsmessages,oro.magento.newslettersubscriber.action.success.unsubscribe,"Đã hủy đăng ký",Unsubscribed,0
-jsmessages,oro.magento.outdated_warning,"Phiên bản mở rộng OroBridge của bạn {{ extension_version }} đã lỗi thời và chức năng của nó bị giới hạn. Vui lòng cập nhật tiện ích mở rộng lên phiên bản {{ required_version }} mới nhất và kiểm tra lại kết nối.","Your OroBridge extension version {{ extension_version }} is outdated and its functionality limited. Please update the extension to the latest version {{ required_version }} and check the connection again.",0
-jsmessages,oro.magento.performing_synchronization,"Đang thực hiện đồng bộ hóa ...","Performing synchronization...",0
-jsmessages,oro.magento.subscription.error,"Đăng ký không được cập nhật","Subscription was not updated",0
-jsmessages,oro.magento.subscription.success,"Đã cập nhật đăng ký","Subscription updated",0
+jsmessages,oro.magento.newslettersubscriber.action.confirm_title.subscribe,Xác nhận đăng ký,Subscribe Confirmation,0
+jsmessages,oro.magento.newslettersubscriber.action.confirm_title.unsubscribe,Hủy đăng ký xác nhận,Unsubscribe Confirmation,0
+jsmessages,oro.magento.newslettersubscriber.action.content.subscribe,Bạn có chắc chắn muốn đăng ký mục này không?,Are you sure you want to subscribe this item?,0
+jsmessages,oro.magento.newslettersubscriber.action.content.unsubscribe,Bạn có chắc chắn muốn hủy đăng ký mục này không?,Are you sure you want to unsubscribe this item?,0
+jsmessages,oro.magento.newslettersubscriber.action.error.subscribe,Chưa đăng ký,Not subscribed,0
+jsmessages,oro.magento.newslettersubscriber.action.error.unsubscribe,Chưa hủy đăng ký,Not unsubscribed,0
+jsmessages,oro.magento.newslettersubscriber.action.success.subscribe,Đã đăng ký,Subscribed,0
+jsmessages,oro.magento.newslettersubscriber.action.success.unsubscribe,Đã hủy đăng ký,Unsubscribed,0
+jsmessages,oro.magento.outdated_warning,Phiên bản mở rộng OroBridge của bạn {{ extension_version }} đã lỗi thời và chức năng của nó bị giới hạn. Vui lòng cập nhật tiện ích mở rộng lên phiên bản {{ required_version }} mới nhất và kiểm tra lại kết nối.,Your OroBridge extension version {{ extension_version }} is outdated and its functionality limited. Please update the extension to the latest version {{ required_version }} and check the connection again.,0
+jsmessages,oro.magento.performing_synchronization,Đang thực hiện đồng bộ hóa ...,Performing synchronization...,0
+jsmessages,oro.magento.subscription.error,Đăng ký không được cập nhật,Subscription was not updated,0
+jsmessages,oro.magento.subscription.success,Đã cập nhật đăng ký,Subscription updated,0
 jsmessages,oro.magento.success,"Kết nối thành công, vui lòng chọn một trang web từ danh sách bên dưới","Connection successful, please select a website from the list below",0
-jsmessages,oro.magento.success_bridge,"Kết nối thành công. Bạn đang chạy phiên bản OroBridge {{ extension_version }}. Vui lòng chọn một trang web từ danh sách bên dưới","Connection was successful. You are running OroBridge version {{ extension_version }}. Please select a website from the list below",0
-jsmessages,oro.magento.view_order,"Xem đơn đặt hàng","View order",0
-jsmessages,oro.mailchimp.integration_transport.api_key.check.message,"Kiểm tra Khóa Api","Check Api Key",0
+jsmessages,oro.magento.success_bridge,Kết nối thành công. Bạn đang chạy phiên bản OroBridge {{ extension_version }}. Vui lòng chọn một trang web từ danh sách bên dưới,Connection was successful. You are running OroBridge version {{ extension_version }}. Please select a website from the list below,0
+jsmessages,oro.magento.view_order,Xem đơn đặt hàng,View order,0
+jsmessages,oro.mailchimp.integration_transport.api_key.check.message,Kiểm tra Khóa Api,Check Api Key,0
 jsmessages,oro.mailchimp.request.error,"Rất tiếc, đã xảy ra lỗi khi thực hiện yêu cầu","Sorry, something went wrong while executing request",0
-jsmessages,oro.marketing.list.change_entity_confirmation,"Dữ liệu mẫu có thể chứa các biến liên quan đến thực thể được chọn trước đó. Bạn có muốn xóa tất cả dữ liệu mẫu không?","The template data can contain variables related to the previous selected entity. Do you want to clear all template data?",0
-jsmessages,oro.marketingactivity.widget.filter.campaign.title,"Chiến dịch",Campaign,0
-jsmessages,oro.marketinglist.refresh_dialog.content,"Vui lòng xác nhận rằng bạn muốn làm mới danh sách này","Please confirm that you want to refresh this list",0
-jsmessages,oro.marketinglist.refresh_dialog.success,"Danh sách tiếp thị được làm mới thành công","Marketing list successfully refreshed",0
-jsmessages,oro.marketinglist.remove_dialog.confirm_cancel,"Hủy bỏ",Cancel,0
+jsmessages,oro.marketing.list.change_entity_confirmation,Dữ liệu mẫu có thể chứa các biến liên quan đến thực thể được chọn trước đó. Bạn có muốn xóa tất cả dữ liệu mẫu không?,The template data can contain variables related to the previous selected entity. Do you want to clear all template data?,0
+jsmessages,oro.marketingactivity.widget.filter.campaign.title,Chiến dịch,Campaign,0
+jsmessages,oro.marketinglist.refresh_dialog.content,Vui lòng xác nhận rằng bạn muốn làm mới danh sách này,Please confirm that you want to refresh this list,0
+jsmessages,oro.marketinglist.refresh_dialog.success,Danh sách tiếp thị được làm mới thành công,Marketing list successfully refreshed,0
+jsmessages,oro.marketinglist.remove_dialog.confirm_cancel,Hủy bỏ,Cancel,0
 jsmessages,oro.marketinglist.remove_dialog.confirm_ok,Vâng,Yes,0
-jsmessages,oro.marketinglist.remove_dialog.confirm_title,"Xóa xác nhận","Remove Confirmation",0
-jsmessages,oro.marketinglist.remove_dialog.content,"Bạn có chắc chắn muốn xóa mục này không?","Are you sure you want to remove this item?",0
-jsmessages,oro.marketinglist.remove_dialog.success,"Đã xóa.",Removed.,0
-jsmessages,oro.marketinglist.unremove_dialog.confirm_cancel,"Hủy bỏ",Cancel,0
+jsmessages,oro.marketinglist.remove_dialog.confirm_title,Xóa xác nhận,Remove Confirmation,0
+jsmessages,oro.marketinglist.remove_dialog.content,Bạn có chắc chắn muốn xóa mục này không?,Are you sure you want to remove this item?,0
+jsmessages,oro.marketinglist.remove_dialog.success,Đã xóa.,Removed.,0
+jsmessages,oro.marketinglist.unremove_dialog.confirm_cancel,Hủy bỏ,Cancel,0
 jsmessages,oro.marketinglist.unremove_dialog.confirm_ok,Vâng,Yes,0
-jsmessages,oro.marketinglist.unremove_dialog.confirm_title,"Hoàn tác xóa xác nhận","Undo Remove Confirmation",0
-jsmessages,oro.marketinglist.unremove_dialog.content,"Bạn có chắc chắn muốn hoàn tác xóa cho mục này không?","Are you sure you want to undo remove for this item?",0
-jsmessages,oro.marketinglist.unremove_dialog.success,"Đã xóa.",Removed.,0
-jsmessages,oro.navigation.menuupdate.moved_success_message,"Menu đã được cập nhật. Vui lòng {{ reload_link }} trang để xem các thay đổi được áp dụng.","The menu has been updated. Please {{ reload_link }} the page to see the changes applied.",0
-jsmessages,oro.navigation.menuupdate.reload_link.label,"tải lại",reload,0
-jsmessages,oro.note.add_note_title,"Thêm ghi chú","Add note",0
+jsmessages,oro.marketinglist.unremove_dialog.confirm_title,Hoàn tác xóa xác nhận,Undo Remove Confirmation,0
+jsmessages,oro.marketinglist.unremove_dialog.content,Bạn có chắc chắn muốn hoàn tác xóa cho mục này không?,Are you sure you want to undo remove for this item?,0
+jsmessages,oro.marketinglist.unremove_dialog.success,Đã xóa.,Removed.,0
+jsmessages,oro.navigation.menuupdate.moved_success_message,Menu đã được cập nhật. Vui lòng {{ reload_link }} trang để xem các thay đổi được áp dụng.,The menu has been updated. Please {{ reload_link }} the page to see the changes applied.,0
+jsmessages,oro.navigation.menuupdate.reload_link.label,tải lại,reload,0
+jsmessages,oro.note.add_note_title,Thêm ghi chú,Add note,0
 jsmessages,oro.note.delete_note_error,"Rất tiếc, xóa ghi chú không thành công.","Sorry, the note deleting was failed.",0
-jsmessages,oro.note.edit_note_title,"Cập nhật ghi chú","Update note",0
-jsmessages,oro.note.forbidden_error,"Bạn không có quyền thực hiện hành động này.","You do not have permission to perform this action.",0
+jsmessages,oro.note.edit_note_title,Cập nhật ghi chú,Update note,0
+jsmessages,oro.note.forbidden_error,Bạn không có quyền thực hiện hành động này.,You do not have permission to perform this action.,0
 jsmessages,oro.note.load_notes_error,"Rất tiếc, ghi chú không được tải chính xác.","Sorry, notes were not loaded correctly.",0
-jsmessages,oro.note.note_delete_confirmation,"Bạn có chắc chắn muốn xóa ghi chú này không?","Are you sure you want to delete this note?",0
-jsmessages,oro.note.note_removed,"Đã xóa ghi chú","Note deleted",0
-jsmessages,oro.note.note_saved,"Đã lưu ghi chú","Note saved",0
+jsmessages,oro.note.note_delete_confirmation,Bạn có chắc chắn muốn xóa ghi chú này không?,Are you sure you want to delete this note?,0
+jsmessages,oro.note.note_removed,Đã xóa ghi chú,Note deleted,0
+jsmessages,oro.note.note_saved,Đã lưu ghi chú,Note saved,0
 jsmessages,oro.platform.maintenance_mode_on_message,"Trang web hiện đang ngừng hoạt động để bảo trì và không thể trả lời yêu cầu của bạn. Sẽ sớm trở lại trực tuyến, vui lòng thử truy cập lại sau vài phút. Xin lỗi vì sự bất tiện. Nếu bạn cần thêm thông tin, vui lòng liên hệ với Quản trị viên của bạn.","The website is currently down for maintenance and cannot respond to your request. It should be back online shortly, please try to re-access in a few minutes.
 Sorry for the inconvenience. If you need more information please contact your Administrator.
 ",0
-jsmessages,oro.platform.maintenance_mode_on_title,"Chế độ bảo trì","Maintenance mode",0
-jsmessages,oro.querydesigner.field_condition.filter_not_supported,"Bộ lọc này không được hỗ trợ.","This filter is not supported.",0
-jsmessages,oro.querydesigner.field_condition.lifetimevalue_filter_not_supported,"Tính năng lọc theo LifetimeValue chưa được hỗ trợ.","The filtering by the LifetimeValue is not supported yet.",0
-jsmessages,oro.querydesigner.field_not_found,"Trường không còn tồn tại","The field no longer exists",0
-jsmessages,oro.report.change_entity_confirmation,"Thay đổi thực thể sẽ xóa tất cả các bộ lọc và cột báo cáo. Bạn có muốn tiếp tục?","Changing the entity will erase all report filters and columns. Do you want to continue?",0
-jsmessages,oro.report.view_sql.hide_sql_query,"Ẩn truy vấn SQL","Hide SQL Query",0
-jsmessages,oro.report.view_sql.messages.copied,"Đã sao chép vào Clipoboard.","Copied to Clipoboard.",0
-jsmessages,oro.report.view_sql.messages.copy_not_successful,"Lệnh sao chép không thành công.","Copy command was not successful.",0
-jsmessages,oro.report.view_sql.messages.copy_not_supported,"Trình duyệt của bạn không hỗ trợ lệnh sao chép. Vui lòng nhấn Ctrl / Cmd + C để sao chép.","Your browser does not support copy command. Please press Ctrl/Cmd+C to copy.",0
-jsmessages,oro.report.view_sql.show_sql_query,"Hiển thị truy vấn SQL","Show SQL Query",0
-jsmessages,oro.role.capability_block.label,"Khả năng",Capabilities,0
-jsmessages,oro.role.capability_block.no_capabilities_available,"Nhóm này không có khả năng","This group has no capabilities",0
-jsmessages,oro.role.capability_block.select_all,"Chọn tất cả","Select All",0
+jsmessages,oro.platform.maintenance_mode_on_title,Chế độ bảo trì,Maintenance mode,0
+jsmessages,oro.querydesigner.field_condition.filter_not_supported,Bộ lọc này không được hỗ trợ.,This filter is not supported.,0
+jsmessages,oro.querydesigner.field_condition.lifetimevalue_filter_not_supported,Tính năng lọc theo LifetimeValue chưa được hỗ trợ.,The filtering by the LifetimeValue is not supported yet.,0
+jsmessages,oro.querydesigner.field_not_found,Trường không còn tồn tại,The field no longer exists,0
+jsmessages,oro.report.change_entity_confirmation,Thay đổi thực thể sẽ xóa tất cả các bộ lọc và cột báo cáo. Bạn có muốn tiếp tục?,Changing the entity will erase all report filters and columns. Do you want to continue?,0
+jsmessages,oro.report.view_sql.hide_sql_query,Ẩn truy vấn SQL,Hide SQL Query,0
+jsmessages,oro.report.view_sql.messages.copied,Đã sao chép vào Clipoboard.,Copied to Clipoboard.,0
+jsmessages,oro.report.view_sql.messages.copy_not_successful,Lệnh sao chép không thành công.,Copy command was not successful.,0
+jsmessages,oro.report.view_sql.messages.copy_not_supported,Trình duyệt của bạn không hỗ trợ lệnh sao chép. Vui lòng nhấn Ctrl / Cmd + C để sao chép.,Your browser does not support copy command. Please press Ctrl/Cmd+C to copy.,0
+jsmessages,oro.report.view_sql.show_sql_query,Hiển thị truy vấn SQL,Show SQL Query,0
+jsmessages,oro.role.capability_block.label,Khả năng,Capabilities,0
+jsmessages,oro.role.capability_block.no_capabilities_available,Nhóm này không có khả năng,This group has no capabilities,0
+jsmessages,oro.role.capability_block.select_all,Chọn tất cả,Select All,0
 jsmessages,oro.role.content_outdated,"Vai trò hiện tại đã được cập nhật. Vui lòng <a href=""#"" onclick=""window.location.reload(false);return false;""> làm mới trang </a> để xem các thay đổi mới","The current role has been updated. Please, <a href=""#"" onclick=""window.location.reload(false);return false;"">refresh the page</a> to view new changes",0
-jsmessages,oro.role.tabs.all.label,"Tất cả các",All,0
-jsmessages,oro.role.tabs.system_capabilities.label,"Khả năng của hệ thống","System Capabilities",0
+jsmessages,oro.role.tabs.all.label,Tất cả,All,0
+jsmessages,oro.role.tabs.system_capabilities.label,Khả năng của hệ thống,System Capabilities,0
 jsmessages,oro.sales.email.error.delete.more_one,"Địa chỉ email không bị xóa, khách hàng tiềm năng có nhiều địa chỉ email, không thể đặt địa chỉ email chính mới.","Email address was not deleted, the lead has more than one email addresses, can't set the new primary.",0
-jsmessages,oro.sales.form.add_new_customer,"Thêm mới {{ account }}","Add new {{ account }}",0
+jsmessages,oro.sales.form.add_new_customer,Thêm mới {{ account }},Add new {{ account }},0
 jsmessages,oro.sales.form.new_customer,Mới,New,0
 jsmessages,oro.sales.phone.error.delete.more_one,"Số điện thoại không bị xóa, khách hàng tiềm năng có nhiều số điện thoại, không thể đặt số điện thoại chính mới.","Phone number was not deleted, the lead has more than one phone number, can't set the new primary.",0
-jsmessages,oro.search.quick_search.noresults,"không có kết quả nào được tìm thấy","no results found",0
-jsmessages,oro.segment.change_entity_confirmation,"Thay đổi thực thể sẽ xóa tất cả các bộ lọc và cột phân đoạn. Bạn có muốn tiếp tục?","Changing the entity will erase all segment filters and columns. Do you want to continue?",0
-jsmessages,oro.segment.confirm.data_issue.invalid_data,"dữ liệu không hợp lệ trong {{ components }}","invalid data in {{ components }}",0
-jsmessages,oro.segment.confirm.data_issue.unsaved_changes,"các thay đổi chưa được lưu trong {{ components }}","unsaved changes in {{ components }}",0
-jsmessages,oro.segment.confirm.dialog.message,"Bạn có {{ data_issue }} sẽ bị mất. Vẫn tiếp tục?","You have {{ data_issue }} that will be lost. Proceed anyway?",0
-jsmessages,oro.segment.confirm.dialog.title,"Dữ liệu sẽ bị mất","Data will be lost",0
-jsmessages,oro.segment.grouping_editor,"Trình chỉnh sửa nhóm","the Grouping Editor",0
-jsmessages,oro.segment.refresh_dialog.content,"Vui lòng xác nhận rằng bạn muốn làm mới phân đoạn này.","Please confirm that you want to refresh this segment.",0
-jsmessages,oro.segment.refresh_dialog.error,"Đã xảy ra lỗi không xác định. Vui lòng liên hệ với Quản trị viên của bạn.","An unidentified error has occurred. Please contact your Administrator.",0
+jsmessages,oro.search.quick_search.noresults,không có kết quả nào được tìm thấy,no results found,0
+jsmessages,oro.segment.change_entity_confirmation,Thay đổi thực thể sẽ xóa tất cả các bộ lọc và cột phân đoạn. Bạn có muốn tiếp tục?,Changing the entity will erase all segment filters and columns. Do you want to continue?,0
+jsmessages,oro.segment.confirm.data_issue.invalid_data,dữ liệu không hợp lệ trong {{ components }},invalid data in {{ components }},0
+jsmessages,oro.segment.confirm.data_issue.unsaved_changes,các thay đổi chưa được lưu trong {{ components }},unsaved changes in {{ components }},0
+jsmessages,oro.segment.confirm.dialog.message,Bạn có {{ data_issue }} sẽ bị mất. Vẫn tiếp tục?,You have {{ data_issue }} that will be lost. Proceed anyway?,0
+jsmessages,oro.segment.confirm.dialog.title,Dữ liệu sẽ bị mất,Data will be lost,0
+jsmessages,oro.segment.grouping_editor,Trình chỉnh sửa nhóm,the Grouping Editor,0
+jsmessages,oro.segment.refresh_dialog.content,Vui lòng xác nhận rằng bạn muốn làm mới phân đoạn này.,Please confirm that you want to refresh this segment.,0
+jsmessages,oro.segment.refresh_dialog.error,Đã xảy ra lỗi không xác định. Vui lòng liên hệ với Quản trị viên của bạn.,An unidentified error has occurred. Please contact your Administrator.,0
 jsmessages,oro.segment.refresh_dialog.okText,Vâng,Yes,0
-jsmessages,oro.segment.refresh_dialog.success,"Đã xử lý thành công phân đoạn.","Segment successfully processed.",0
-jsmessages,oro.segment.refresh_dialog.title,"Xác nhận hành động","Confirm action",0
-jsmessages,oro.segment.report_column_editor,"Trình chỉnh sửa cột báo cáo","the Report Column Editor",0
-jsmessages,oro.sidebar.sticky_note_widget.content,"Nội dung ghi chú","Note content",0
-jsmessages,oro.sidebar.sticky_note_widget.description,"Công cụ này cho phép bạn tạo ghi chú nhanh chóng","This widget allows you to create notes quickly",0
-jsmessages,oro.sidebar.sticky_note_widget.settings,"Cài đặt ghi chú dính","Sticky Note settings",0
+jsmessages,oro.segment.refresh_dialog.success,Đã xử lý thành công phân đoạn.,Segment successfully processed.,0
+jsmessages,oro.segment.refresh_dialog.title,Xác nhận hành động,Confirm action,0
+jsmessages,oro.segment.report_column_editor,Trình chỉnh sửa cột báo cáo,the Report Column Editor,0
+jsmessages,oro.sidebar.sticky_note_widget.content,Nội dung ghi chú,Note content,0
+jsmessages,oro.sidebar.sticky_note_widget.description,Công cụ này cho phép bạn tạo ghi chú nhanh chóng,This widget allows you to create notes quickly,0
+jsmessages,oro.sidebar.sticky_note_widget.settings,Cài đặt ghi chú dính,Sticky Note settings,0
 jsmessages,oro.sidebar.widget.action.close,Gần,Close,0
 jsmessages,oro.sidebar.widget.action.configure,Chỉnh,Configure,0
-jsmessages,oro.sidebar.widget.action.refresh,"Làm tươi",Refresh,0
-jsmessages,oro.sidebar.widget.action.remove,"Loại bỏ",Remove,0
-jsmessages,oro.sidebar.widget.add.content.section_title,"Thêm tiện ích","Add widget",0
-jsmessages,oro.sidebar.widget.add.dialog.title,"Tiện ích thanh bên","Sidebar Widgets",0
-jsmessages,oro.sidebar.widget.remove.confirm.message,"Tiện ích sẽ bị xóa","The widget will be removed",0
-jsmessages,oro.sidebar.widget.setup.dialog.title,"Thiết lập tiện ích","Widget setup",0
-jsmessages,oro.tag.inline_editing.existing_tag,"Thẻ này đã được thêm","This tag is already added",0
-jsmessages,oro.tag.inline_editing.loading,"Đang tải...",Loading...,0
-jsmessages,oro.tag.inline_editing.new_tag,"Thẻ mới","New tag",0
-jsmessages,oro.tag.inline_editing.no_matches,"Lọc kết quả tìm thấy","No matches found",0
-jsmessages,oro.tag.taxonomy.background_color.label,"Màu sắc",Color,0
-jsmessages,oro.tag.taxonomy.created_by.label,"Được tạo bởi","Created By",0
-jsmessages,oro.tag.taxonomy.entity_label,"Phân loại",Taxonomy,0
-jsmessages,oro.tag.taxonomy.entity_plural_label,"Phân loại",Taxonomies,0
+jsmessages,oro.sidebar.widget.action.refresh,Làm tươi,Refresh,0
+jsmessages,oro.sidebar.widget.action.remove,Loại bỏ,Remove,0
+jsmessages,oro.sidebar.widget.add.content.section_title,Thêm tiện ích,Add widget,0
+jsmessages,oro.sidebar.widget.add.dialog.title,Tiện ích thanh bên,Sidebar Widgets,0
+jsmessages,oro.sidebar.widget.remove.confirm.message,Tiện ích sẽ bị xóa,The widget will be removed,0
+jsmessages,oro.sidebar.widget.setup.dialog.title,Thiết lập tiện ích,Widget setup,0
+jsmessages,oro.tag.inline_editing.existing_tag,Thẻ này đã được thêm,This tag is already added,0
+jsmessages,oro.tag.inline_editing.loading,Đang tải...,Loading...,0
+jsmessages,oro.tag.inline_editing.new_tag,Thẻ mới,New tag,0
+jsmessages,oro.tag.inline_editing.no_matches,Lọc kết quả tìm thấy,No matches found,0
+jsmessages,oro.tag.taxonomy.background_color.label,Màu sắc,Color,0
+jsmessages,oro.tag.taxonomy.created_by.label,Được tạo bởi,Created By,0
+jsmessages,oro.tag.taxonomy.entity_label,Phân loại,Taxonomy,0
+jsmessages,oro.tag.taxonomy.entity_plural_label,Phân loại,Taxonomies,0
 jsmessages,oro.tag.taxonomy.id.label,ID,Id,0
-jsmessages,oro.tag.taxonomy.label,"Phân loại",Taxonomy,0
+jsmessages,oro.tag.taxonomy.label,Phân loại,Taxonomy,0
 jsmessages,oro.tag.taxonomy.name.label,Tên,Name,0
-jsmessages,oro.tag.taxonomy.no_color,"Không có màu nào hợp","No color available",0
-jsmessages,oro.tag.taxonomy.organization.label,"Cơ quan",Organization,0
-jsmessages,oro.tag.taxonomy.owner.label,"Chủ nhân",Owner,0
-jsmessages,oro.tag.taxonomy.tagging.label,"Gắn thẻ",Tagging,0
+jsmessages,oro.tag.taxonomy.no_color,Không có màu nào hợp,No color available,0
+jsmessages,oro.tag.taxonomy.organization.label,Cơ quan,Organization,0
+jsmessages,oro.tag.taxonomy.owner.label,Chủ nhân,Owner,0
+jsmessages,oro.tag.taxonomy.tagging.label,Gắn thẻ,Tagging,0
 jsmessages,oro.tag.taxonomy.tags.label,Thẻ,Tags,0
-jsmessages,oro.tag.taxonomy.updated_by.label,"Cập nhật bởi","Updated By",0
-jsmessages,oro.task.assigned_tasks_widget.description,"Tiện ích này cho phép bạn xem các tác vụ được giao cho bạn","This widget allows you to see tasks assigned to you",0
-jsmessages,oro.task.assigned_tasks_widget.number_of_tasks,"Số lượng tác vụ cần hiển thị","Number of tasks to show",0
-jsmessages,oro.task.assigned_tasks_widget.settings,"Tùy chỉnh công cụ quản lý công việc","Task Widget Settings",0
-jsmessages,oro.taxonomy.inline_editing.existing_tag,"Phân loại này đã được thêm","This taxonomy is already added",0
-jsmessages,oro.taxonomy.inline_editing.loading,"Đang tải...",Loading...,0
-jsmessages,oro.taxonomy.inline_editing.new_taxonomy,"Phân loại mới","New taxonomy",0
-jsmessages,oro.taxonomy.inline_editing.no_matches,"Lọc kết quả tìm thấy","No matches found",0
-jsmessages,oro.translation.action.reset.confirm_content,"Bạn có chắc chắn muốn đặt lại các bản dịch đã chọn thành giá trị ban đầu của chúng không?","Are you sure you want to reset selected translations to their original values?",0
-jsmessages,oro.translation.action.reset.confirm_ok,"Cài lại từ đầu",Reset,0
-jsmessages,oro.translation.action.reset.confirm_title,"Xác nhận cài lại từ đầu","Reset Confirmation",0
-jsmessages,oro.translation.action.reset.message,"Đặt lại giá trị đã dịch?","Reset translated value?",0
-jsmessages,oro.ui.components.initialization_error,"Đã xảy ra lỗi trong khi cập nhật bố cục. Vui lòng liên hệ với quản trị viên hệ thống.","Error occurred during layout update. Please contact system administrator.",0
+jsmessages,oro.tag.taxonomy.updated_by.label,Cập nhật bởi,Updated By,0
+jsmessages,oro.task.assigned_tasks_widget.description,Tiện ích này cho phép bạn xem các tác vụ được giao cho bạn,This widget allows you to see tasks assigned to you,0
+jsmessages,oro.task.assigned_tasks_widget.number_of_tasks,Số lượng tác vụ cần hiển thị,Number of tasks to show,0
+jsmessages,oro.task.assigned_tasks_widget.settings,Tùy chỉnh công cụ quản lý công việc,Task Widget Settings,0
+jsmessages,oro.taxonomy.inline_editing.existing_tag,Phân loại này đã được thêm,This taxonomy is already added,0
+jsmessages,oro.taxonomy.inline_editing.loading,Đang tải...,Loading...,0
+jsmessages,oro.taxonomy.inline_editing.new_taxonomy,Phân loại mới,New taxonomy,0
+jsmessages,oro.taxonomy.inline_editing.no_matches,Lọc kết quả tìm thấy,No matches found,0
+jsmessages,oro.translation.action.reset.confirm_content,Bạn có chắc chắn muốn đặt lại các bản dịch đã chọn thành giá trị ban đầu của chúng không?,Are you sure you want to reset selected translations to their original values?,0
+jsmessages,oro.translation.action.reset.confirm_ok,Cài lại từ đầu,Reset,0
+jsmessages,oro.translation.action.reset.confirm_title,Xác nhận cài lại từ đầu,Reset Confirmation,0
+jsmessages,oro.translation.action.reset.message,Đặt lại giá trị đã dịch?,Reset translated value?,0
+jsmessages,oro.ui.components.initialization_error,Đã xảy ra lỗi trong khi cập nhật bố cục. Vui lòng liên hệ với quản trị viên hệ thống.,Error occurred during layout update. Please contact system administrator.,0
 jsmessages,oro.ui.datepicker.close,Gần,Close,0
-jsmessages,oro.ui.datepicker.next,"Kế tiếp",Next,0
-jsmessages,oro.ui.datepicker.prev,"Trước đó",Prev,0
-jsmessages,oro.ui.datepicker.today,"Hôm nay",Today,0
+jsmessages,oro.ui.datepicker.next,Kế tiếp,Next,0
+jsmessages,oro.ui.datepicker.prev,Trước đó,Prev,0
+jsmessages,oro.ui.datepicker.today,Hôm nay,Today,0
 jsmessages,oro.ui.datepicker.wk,Tuần,Wk,0
-jsmessages,oro.ui.delete_confirm_cascade,"Bạn có chắc chắn muốn xóa {{ entity_label }} này với các thực thể khác có liên quan đến nó không?","Are you sure you want to delete this {{ entity_label }} with other entities related to it?",0
-jsmessages,oro.ui.element_value.messages.copied,"Sao chép vào clipboard","Copied to clipboard",0
-jsmessages,oro.ui.element_value.messages.copy_not_successful,"Lệnh sao chép không thành công","Copy command was not successful",0
-jsmessages,oro.ui.element_value.messages.copy_not_supported,"Trình duyệt của bạn không hỗ trợ lệnh sao chép. Vui lòng nhấn Ctrl / Cmd + C để sao chép","Your browser does not support copy command. Please press Ctrl/Cmd+C to copy",0
-jsmessages,oro.ui.error.performing,"Đã xảy ra lỗi khi thực hiện thao tác được yêu cầu. Vui lòng thử lại hoặc liên hệ với chúng tôi để được giúp đỡ.","There was an error performing the requested operation. Please try again or contact us for assistance.",0
-jsmessages,oro.ui.error.unexpected,"Định dạng nội dung không mong muốn","Unexpected content format",0
-jsmessages,oro.ui.forbidden_error,"Bạn không có quyền thực hiện hành động này.","You do not have permission to perform this action.",0
-jsmessages,oro.ui.highlight_switcher.show_all_items,"Hiển thị các mục bị ẩn","Show hidden items",0
-jsmessages,oro.ui.highlight_switcher.show_highlighted_items_only,"Chỉ hiển thị kết quả tìm kiếm","Show search results only",0
-jsmessages,oro.ui.item_add_error,"Không thể thêm mục.","Item adding failed.",0
-jsmessages,oro.ui.item_delete_error,"Không thể xóa mục.","Item deleting failed.",0
-jsmessages,oro.ui.jstree.actions.collapse,"Thu gọn tất cả","Collapse all",0
-jsmessages,oro.ui.jstree.actions.expand,"Mở rộng tất cả","Expand all",0
-jsmessages,oro.ui.jstree.actions.move,"Chuyển tới","Move To",0
-jsmessages,oro.ui.jstree.actions.subitems.do_not_select,"Không chọn phụ {{ itemsLabel }}","Do Not Select Sub {{ itemsLabel }}",0
-jsmessages,oro.ui.jstree.actions.subitems.itemsLabel,"Mặt hàng",Items,0
-jsmessages,oro.ui.jstree.actions.subitems.select,"Chọn Sub {{ itemsLabel }}","Select Sub {{ itemsLabel }}",0
-jsmessages,oro.ui.jstree.move_node_error,"Bạn không thể di chuyển nút {{ nodeText }} tại đây.","You can not move node {{ nodeText }} here.",0
-jsmessages,oro.ui.jstree.no_node_selected_error,"Bạn không chọn bất kỳ điểm nào","You didn't select any node",0
-jsmessages,oro.ui.jstree.search.search_no_found,"Không tìm thấy kết quả nào","No result was found",0
-jsmessages,oro.ui.leave_page_save_data_or_discard,"Bạn có các thay đổi chưa lưu. Bạn có muốn lưu chúng trước khi rời khỏi trang không?","You have unsaved changes. Do you want to save them before leaving the page?",0
-jsmessages,oro.ui.leave_page_save_data_or_discard_title,"Xác nhận điều hướng","Navigation confirmation",0
+jsmessages,oro.ui.delete_confirm_cascade,Bạn có chắc chắn muốn xóa {{ entity_label }} này với các thực thể khác có liên quan đến nó không?,Are you sure you want to delete this {{ entity_label }} with other entities related to it?,0
+jsmessages,oro.ui.element_value.messages.copied,Sao chép vào clipboard,Copied to clipboard,0
+jsmessages,oro.ui.element_value.messages.copy_not_successful,Lệnh sao chép không thành công,Copy command was not successful,0
+jsmessages,oro.ui.element_value.messages.copy_not_supported,Trình duyệt của bạn không hỗ trợ lệnh sao chép. Vui lòng nhấn Ctrl / Cmd + C để sao chép,Your browser does not support copy command. Please press Ctrl/Cmd+C to copy,0
+jsmessages,oro.ui.error.performing,Đã xảy ra lỗi khi thực hiện thao tác được yêu cầu. Vui lòng thử lại hoặc liên hệ với chúng tôi để được giúp đỡ.,There was an error performing the requested operation. Please try again or contact us for assistance.,0
+jsmessages,oro.ui.error.unexpected,Định dạng nội dung không mong muốn,Unexpected content format,0
+jsmessages,oro.ui.forbidden_error,Bạn không có quyền thực hiện hành động này.,You do not have permission to perform this action.,0
+jsmessages,oro.ui.highlight_switcher.show_all_items,Hiển thị các mục bị ẩn,Show hidden items,0
+jsmessages,oro.ui.highlight_switcher.show_highlighted_items_only,Chỉ hiển thị kết quả tìm kiếm,Show search results only,0
+jsmessages,oro.ui.item_add_error,Không thể thêm mục.,Item adding failed.,0
+jsmessages,oro.ui.item_delete_error,Không thể xóa mục.,Item deleting failed.,0
+jsmessages,oro.ui.jstree.actions.collapse,Thu gọn tất cả,Collapse all,0
+jsmessages,oro.ui.jstree.actions.expand,Mở rộng tất cả,Expand all,0
+jsmessages,oro.ui.jstree.actions.move,Chuyển tới,Move To,0
+jsmessages,oro.ui.jstree.actions.subitems.do_not_select,Không chọn phụ {{ itemsLabel }},Do Not Select Sub {{ itemsLabel }},0
+jsmessages,oro.ui.jstree.actions.subitems.itemsLabel,Mặt hàng,Items,0
+jsmessages,oro.ui.jstree.actions.subitems.select,Chọn Sub {{ itemsLabel }},Select Sub {{ itemsLabel }},0
+jsmessages,oro.ui.jstree.move_node_error,Bạn không thể di chuyển nút {{ nodeText }} tại đây.,You can not move node {{ nodeText }} here.,0
+jsmessages,oro.ui.jstree.no_node_selected_error,Bạn không chọn bất kỳ điểm nào,You didn't select any node,0
+jsmessages,oro.ui.jstree.search.search_no_found,Không tìm thấy kết quả nào,No result was found,0
+jsmessages,oro.ui.leave_page_save_data_or_discard,Bạn có các thay đổi chưa lưu. Bạn có muốn lưu chúng trước khi rời khỏi trang không?,You have unsaved changes. Do you want to save them before leaving the page?,0
+jsmessages,oro.ui.leave_page_save_data_or_discard_title,Xác nhận điều hướng,Navigation confirmation,0
 jsmessages,oro.ui.leave_page_with_unsaved_data_confirm,"Bạn có các thay đổi chưa lưu, bạn có chắc chắn muốn thoát khỏi trang này không?","You have unsaved changes, are you sure you want to leave this page?",0
 jsmessages,oro.ui.page_header.button.more,Hơn,More,0
-jsmessages,oro.ui.request_too_large_error,"Thông tin bạn đang gửi không phù hợp với ô cửa ở phía máy chủ. Điều này có thể xảy ra do các hình ảnh có độ phân giải cực cao trong dữ liệu của bạn. Vui lòng thay thế thông tin đính kèm để giảm tổng kích thước dữ liệu hoặc trao đổi với quản trị viên của bạn để mở rộng ô cửa bằng cách cập nhật cấu hình máy chủ HTTP.","The information you are submitting does not fit the doorway on the server side. This may happen due to the extremely high-resolution images in your data. Please replace the attached information to reduce the total data size, or talk to your admin to extend the doorway by updating HTTP server configuration.",0
+jsmessages,oro.ui.request_too_large_error,Thông tin bạn đang gửi không phù hợp với ô cửa ở phía máy chủ. Điều này có thể xảy ra do các hình ảnh có độ phân giải cực cao trong dữ liệu của bạn. Vui lòng thay thế thông tin đính kèm để giảm tổng kích thước dữ liệu hoặc trao đổi với quản trị viên của bạn để mở rộng ô cửa bằng cách cập nhật cấu hình máy chủ HTTP.,"The information you are submitting does not fit the doorway on the server side. This may happen due to the extremely high-resolution images in your data. Please replace the attached information to reduce the total data size, or talk to your admin to extend the doorway by updating HTTP server configuration.",0
 jsmessages,oro.ui.select2.input_too_long,"{1} Vui lòng xóa {{ number }} ký tự |[2,Inf[Vui lòng xóa {{ number }} ký tự","{1}Please delete {{ number }} character|[2,Inf[Please delete {{ number }} characters",0
 jsmessages,oro.ui.select2.input_too_short,"{1} Vui lòng nhập {{ number }} ký tự khác|[2,Inf[Vui lòng nhập {{ number }} ký tự khác","{1}Please enter {{ number }} more character|[2,Inf[Please enter {{ number }} more characters",0
-jsmessages,oro.ui.select2.load_more,"Đang tải thêm kết quả ...","Loading more results...",0
+jsmessages,oro.ui.select2.load_more,Đang tải thêm kết quả ...,Loading more results...,0
 jsmessages,oro.ui.select2.selection_too_big,"{1} Bạn chỉ có thể chọn {{ limit }} mục|[2,Inf[Bạn chỉ có thể chọn {{ limit }} mục","{1}You can only select {{ limit }} item|[2,Inf[You can only select {{ limit }} items",0
 jsmessages,oro.ui.timepicker.AM,SA,AM,0
 jsmessages,oro.ui.timepicker.am,sa,am,0
@@ -5602,14 +5602,14 @@ jsmessages,oro.ui.timepicker.hrs,giờ,hrs,0
 jsmessages,oro.ui.timepicker.mins,phút,mins,0
 jsmessages,oro.ui.timepicker.pm,CH,pm,0
 jsmessages,oro.ui.timepicker.PM,ch,PM,0
-jsmessages,oro.ui.unexpected_error,"Một lỗi không mong muốn đã xảy ra. Hãy liên hệ với quản trị hệ thống.","An unexpected error has occurred. Please contact the system administrator.",0
-jsmessages,oro.ui.unload_message.group_title,"Máy chủ đang được cập nhật và các thay đổi sau có thể bị mất","Server is being updated and the following changes might be lost",0
+jsmessages,oro.ui.unexpected_error,Một lỗi không mong muốn đã xảy ra. Hãy liên hệ với quản trị hệ thống.,An unexpected error has occurred. Please contact the system administrator.,0
+jsmessages,oro.ui.unload_message.group_title,Máy chủ đang được cập nhật và các thay đổi sau có thể bị mất,Server is being updated and the following changes might be lost,0
 jsmessages,oro.ui.unload_message.other,Khác,Other,0
-jsmessages,oro.ui.unload_message.single,"Các thay đổi đang được lưu và có thể bị mất","Changes are being saved and may be lost",0
-jsmessages,oro.ui.widget_form_component.save_flash_success,"đã lưu thành công","Saved successfully",0
-jsmessages,oro.ui.widget_loading_failed,"Tải nội dung phụ không thành công","Widget content loading failed",0
-jsmessages,oro.user.apikey_gen.new_key.success,"Tạo khóa đã thành công. Khóa mới: {{ new_api_key }}","Generate key was successful. New key:{{ new_api_key }}",0
-jsmessages,oro.user.change_password.flash.success,"Mật khẩu đã được thay đổi","The password has been changed",0
+jsmessages,oro.ui.unload_message.single,Các thay đổi đang được lưu và có thể bị mất,Changes are being saved and may be lost,0
+jsmessages,oro.ui.widget_form_component.save_flash_success,đã lưu thành công,Saved successfully,0
+jsmessages,oro.ui.widget_loading_failed,Tải nội dung phụ không thành công,Widget content loading failed,0
+jsmessages,oro.user.apikey_gen.new_key.success,Tạo khóa đã thành công. Khóa mới: {{ new_api_key }},Generate key was successful. New key:{{ new_api_key }},0
+jsmessages,oro.user.change_password.flash.success,Mật khẩu đã được thay đổi,The password has been changed,0
 jsmessages,oro.user.mass_actions.disable_users.confirm_content,Người dùng đã chọn sẽ bị vô hiệu hóa.,Selected users will be disabled.,0
 jsmessages,oro.user.mass_actions.disable_users.confirm_ok,Áp dụng,Apply,0
 jsmessages,oro.user.mass_actions.disable_users.confirm_title,Bật người dùng,Enable users,0
@@ -6417,7 +6417,7 @@ messages,oro.call.call_status.label,Trạng thái cuộc gọi,Call status,0
 messages,oro.call.calldirection.entity_description,Hướng gọi xác định cuộc gọi đến hay đi.,The call direction defines whether the call is incoming or outgoing.,0
 messages,oro.call.calldirection.entity_label,Phương hướng,Direction,0
 messages,oro.call.calldirection.entity_plural_label,Hướng,Directions,0
-messages,oro.call.calldirection.label.description,Nhãn của hướng gọi ('Incoming' hoặc 'Outgoing').,The label of the call direction ('Incoming' or 'Outgoing').,0
+messages,oro.call.calldirection.label.description,Nhãn của hướng gọi ('Gọi đến' hoặc 'Gọi đi').,The label of the call direction ('Incoming' or 'Outgoing').,0
 messages,oro.call.calldirection.label.label,Nhãn,Label,0
 messages,oro.call.calldirection.name.description,Số nhận dạng duy nhất của bản ghi hướng của cuộc gọi.,The unique identifier of the call's direction record.,0
 messages,oro.call.calldirection.name.label,Tên,Name,0
@@ -6428,21 +6428,21 @@ messages,oro.call.callstatus.label.description,Nhãn của trạng thái cuộc 
 messages,oro.call.callstatus.label.label,Nhãn,Label,0
 messages,oro.call.callstatus.name.description,Số nhận dạng duy nhất của hồ sơ trạng thái của cuộc gọi.,The unique identifier of the call's status record.,0
 messages,oro.call.callstatus.name.label,Tên,Name,0
-messages,oro.call.changed_by,"được thêm bởi {{user}}, được cập nhật bởi {{editor}}","added by {{ user }}, updated by {{ editor }}",0
+messages,oro.call.changed_by,"được thêm bởi {{ user }}, được cập nhật bởi {{ editor }}","added by {{ user }}, updated by {{ editor }}",0
 messages,oro.call.contexts.label,Ngữ cảnh,Contexts,0
 messages,oro.call.controller.call.deleted.message,Đã xóa cuộc gọi thành công,Call deleted successfully,0
 messages,oro.call.controller.call.saved.message,Đã lưu cuộc gọi,Call saved,0
-messages,oro.call.created_by,được ghi lại bởi {{user}},logged by {{ user }},0
+messages,oro.call.created_by,được ghi lại bởi {{ user }},logged by {{ user }},0
 messages,oro.call.datagrid.date_time,Ngày gọi,Call date,0
-messages,oro.call.delete_call,Xóa nhật ký {{entity}},Delete {{ entity }} log,0
+messages,oro.call.delete_call,Xóa nhật ký {{ entity }},Delete {{ entity }} log,0
 messages,oro.call.direction.description,Xác định xem cuộc gọi có được gửi đi hay không.,Defines whether the call is outgoing or incoming.,0
-messages,oro.call.direction.label,Phương hướng,Direction,0
-messages,oro.call.direction_label.label,Phương hướng,Direction,0
+messages,oro.call.direction.label,Hướng,Direction,0
+messages,oro.call.direction_label.label,Hướng,Direction,0
 messages,oro.call.duration.description,Thời lượng của cuộc gọi tính bằng giây.,The duration of the call in seconds.,0
 messages,oro.call.duration.label,Thời lượng,Duration,0
 messages,oro.call.entity_description,Thông tin về các cuộc gọi được thực hiện hoặc nhận bởi người dùng.,The information about calls made or received by users.,0
-messages,oro.call.entity_label,Gọi điện,Call,0
-messages,oro.call.entity_plural_label,Cuộc gọi,Calls,0
+messages,oro.call.entity_label,Cuộc gọi,Call,0
+messages,oro.call.entity_plural_label,Các cuộc gọi,Calls,0
 messages,oro.call.form.choose_or_enter_phone,Chọn hoặc nhập số điện thoại ...,Choose or enter a phone number ...,0
 messages,oro.call.id.description,Số nhận dạng duy nhất của bản ghi cuộc gọi.,The unique identifier of the call record.,0
 messages,oro.call.id.label,ID,Id,0
@@ -6451,7 +6451,7 @@ messages,oro.call.menu.call_list.description,Danh sách cuộc gọi,List of cal
 messages,oro.call.menu.shortcut_call_list.description,Danh sách cuộc gọi,List of calls,0
 messages,oro.call.menu.shortcut_call_list.label,Hiển thị danh sách cuộc gọi,Show Calls list,0
 messages,oro.call.notes.description,Văn bản của ghi chú được thực hiện trên cuộc gọi.,The text of the note made on the call.,0
-messages,oro.call.notes.label,Ý kiến ​​khác,Additional comments,0
+messages,oro.call.notes.label,Ý kiến khác,Additional comments,0
 messages,oro.call.organization.label,Cơ quan,Organization,0
 messages,oro.call.owner.label,Chủ nhân,Owner,0
 messages,oro.call.phone_number.description,Số điện thoại mà cuộc gọi được thực hiện / nhận từ.,The phone number that the call was made to / received from.,0
@@ -6459,10 +6459,10 @@ messages,oro.call.phone_number.label,Số điện thoại,Phone number,0
 messages,oro.call.sections.general,Chung,General,0
 messages,oro.call.subject.description,Xác định cuộc gọi là gì.,Defines what the call was about.,0
 messages,oro.call.subject.label,Môn học,Subject,0
-messages,oro.call.update_call,Cập nhật nhật ký {{entity}},Update {{ entity }} log,0
+messages,oro.call.update_call,Cập nhật nhật ký {{ entity }},Update {{ entity }} log,0
 messages,oro.call.update_log_call,Cập nhật cuộc gọi,Update call,0
 messages,oro.call.view,Xem nhật ký cuộc gọi,View call log,0
-messages,oro.call.view_call,Xem nhật ký {{entity}},View {{ entity }} log,0
+messages,oro.call.view_call,Xem nhật ký {{ entity }},View {{ entity }} log,0
 messages,oro.call.widget.call_information,Thông tin cuộc gọi,Call Information,0
 messages,oro.campaign.acl.send_emails.description,Gửi email theo cách thủ công trong chiến dịch email,Manually send emails within an email campaign,0
 messages,oro.campaign.acl.send_emails.label,Gửi email chiến dịch,Send campaign emails,0
@@ -6489,7 +6489,7 @@ messages,oro.campaign.dashboard.campaigns_opportunity.title,Chiến dịch tạo
 messages,oro.campaign.datagrid.actions.delete.label,Xóa bỏ,Delete,0
 messages,oro.campaign.datagrid.actions.update.label,Cập nhật,Update,0
 messages,oro.campaign.datagrid.actions.view.label,Lượt xem,View,0
-messages,oro.campaign.description.label,Sự miêu tả,Description,0
+messages,oro.campaign.description.label,Mô tả,Description,0
 messages,oro.campaign.emailcampaign.block.email_settings,Cài đặt email,Email Settings,0
 messages,oro.campaign.emailcampaign.block.general,Thông tin chung,General Information,0
 messages,oro.campaign.emailcampaign.block.recipients,Người nhận,Recipients,0
@@ -6499,12 +6499,12 @@ messages,oro.campaign.emailcampaign.controller.saved.message,Đã lưu chiến d
 messages,oro.campaign.emailcampaign.controller.send_disallowed,Không thể gửi chiến dịch email. Vui lòng kiểm tra xem tất cả các cài đặt có chính xác hay không.,"Email campaign could not be sent. Please, check that all settings are correct.",0
 messages,oro.campaign.emailcampaign.controller.sent,Chiến dịch email đã được gửi,Email campaign was sent,0
 messages,oro.campaign.emailcampaign.created_at.label,Được tạo lúc,Created At,0
-messages,oro.campaign.emailcampaign.datagrid.actions.delete.label,Xóa bỏ,Delete,0
+messages,oro.campaign.emailcampaign.datagrid.actions.delete.label,Xóa,Delete,0
 messages,oro.campaign.emailcampaign.datagrid.actions.update.label,Cập nhật,Update,0
 messages,oro.campaign.emailcampaign.datagrid.actions.view.label,Lượt xem,View,0
-messages,oro.campaign.emailcampaign.datagrid.campaignContactedTimes,Đã liên hệ với chiến dịch,Campaign contacted,0
-messages,oro.campaign.emailcampaign.datagrid.campaignLastContactedAt,Chiến dịch được liên hệ lần cuối lúc,Campaign last contacted at,0
-messages,oro.campaign.emailcampaign.description.label,Sự miêu tả,Description,0
+messages,oro.campaign.emailcampaign.datagrid.campaignContactedTimes,Số lần tương tác,Campaign contacted,0
+messages,oro.campaign.emailcampaign.datagrid.campaignLastContactedAt,Lần liên hệ lần cuối lúc,Campaign last contacted at,0
+messages,oro.campaign.emailcampaign.description.label,Mô tả,Description,0
 messages,oro.campaign.emailcampaign.entity_description,Chiến dịch email tiếp thị,Marketing email campaigns,0
 messages,oro.campaign.emailcampaign.entity_label,Chiến dịch email,Email Campaign,0
 messages,oro.campaign.emailcampaign.entity_plural_label,Chiến dịch email,Email Campaigns,0
@@ -6528,15 +6528,15 @@ messages,oro.campaign.emailcampaign.stats.click.label,Nhấp chuột,Click,0
 messages,oro.campaign.emailcampaign.stats.open.label,Mở,Open,0
 messages,oro.campaign.emailcampaign.stats.unsubscribe.label,Hủy đăng ký,Unsubscribe,0
 messages,oro.campaign.emailcampaign.status.not_sent,Chưa được gửi,Not sent,0
-messages,oro.campaign.emailcampaign.status.sent,Gởi,Sent,0
+messages,oro.campaign.emailcampaign.status.sent,Đã gửi,Sent,0
 messages,oro.campaign.emailcampaign.system_configuration.campaign_sender_email,Email người gửi,Sender Email,0
 messages,oro.campaign.emailcampaign.system_configuration.campaign_sender_name,Tên người gửi,Sender Name,0
 messages,oro.campaign.emailcampaign.system_configuration.title,Chiến dịch,Campaign,0
-messages,oro.campaign.emailcampaign.template.label,Bản mẫu,Template,0
+messages,oro.campaign.emailcampaign.template.label,Mẫu,Template,0
 messages,oro.campaign.emailcampaign.transport.internal,Oro,Oro,0
 messages,oro.campaign.emailcampaign.transport.label,Vận chuyển,Transport,0
-messages,oro.campaign.emailcampaign.transport_settings.label,Cài đặt Giao thông,Transport Settings,0
-messages,oro.campaign.emailcampaign.updated_at.label,Cập nhật tại,Updated At,0
+messages,oro.campaign.emailcampaign.transport_settings.label,Cài đặt Vận chuyển,Transport Settings,0
+messages,oro.campaign.emailcampaign.updated_at.label,Cập nhật lúc,Updated At,0
 messages,oro.campaign.emailcampaignstatistics.abuse_count.label,Tổng số lạm dụng,Abuse Count,0
 messages,oro.campaign.emailcampaignstatistics.block.label,Thống kê chiến dịch email,Email Campaign Statistics,0
 messages,oro.campaign.emailcampaignstatistics.bounce_count.label,Số lần trả lại,Bounce Count,0
@@ -6602,13 +6602,13 @@ messages,oro.case.casecomment.error.delete,"Rất tiếc, không thể xóa nh�
 messages,oro.case.casecomment.error.load,"Xin lỗi, bình luận không được tải đúng.","Sorry, comments were not loaded correctly.",0
 messages,oro.case.casecomment.id.description,Số nhận dạng duy nhất của hồ sơ nhận xét trường hợp.,The unique identifier of the case comment record.,0
 messages,oro.case.casecomment.id.label,ID,Id,0
-messages,oro.case.casecomment.message.delete_confirmation,bạn có chắc là bạn muốn xoá bình luận này không?,Are you sure you want to delete this comment?,0
+messages,oro.case.casecomment.message.delete_confirmation,Bạn có chắc là bạn muốn xoá bình luận này không?,Are you sure you want to delete this comment?,0
 messages,oro.case.casecomment.message.description,Văn bản nhận xét trường hợp.,The case comment text.,0
 messages,oro.case.casecomment.message.label,Thông điệp,Message,0
 messages,oro.case.casecomment.message.no_records,Không có lời bình luận nào.,There are no comments.,0
 messages,oro.case.casecomment.message.removed,Đã xóa nhận xét,Comment Removed,0
 messages,oro.case.casecomment.message.saved,Đã lưu nhận xét,Comment Saved,0
-messages,oro.case.casecomment.message.updated_by,Cập nhật trước {{user}} vào {{date}},Updated by {{ user }} at {{ date }},0
+messages,oro.case.casecomment.message.updated_by,Cập nhật trước {{ user }} vào {{ date }},Updated by {{ user }} at {{ date }},0
 messages,oro.case.casecomment.organization.label,Cơ quan,Organization,0
 messages,oro.case.casecomment.owner.label,Chủ nhân,Owner,0
 messages,oro.case.casecomment.public.description,Xác định xem nhận xét phải được công khai trên Zendesk hay không.,Defines whether the comment must be public on Zendesk.,0
@@ -6691,8 +6691,8 @@ messages,oro.case.datagrid.related_contact.label,Liên hệ liên quan,Related C
 messages,oro.case.datagrid.reported_on.label,Đã báo cáo vào,Reported On,0
 messages,oro.case.datagrid.source.label,Nguồn,Source,0
 messages,oro.case.datagrid.status.label,Trạng thái,Status,0
-messages,oro.case.datagrid.subject.label,Môn học,Subject,0
-messages,oro.case.mailbox.process.case.label,Chuyển đổi thành Case,Convert To Case,0
+messages,oro.case.datagrid.subject.label,Tiêu đề,Subject,0
+messages,oro.case.mailbox.process.case.label,Chuyển đổi thành Trường hợp,Convert To Case,0
 messages,oro.case.menu.index.label,Các trường hợp,Cases,0
 messages,oro.case.message.saved,Đã lưu trường hợp,Case saved,0
 messages,oro.case.widgets.account_cases,Các trường hợp,Cases,0
@@ -6722,9 +6722,9 @@ messages,oro.channel.dashboard.average_lifetime_sales_chart.month,tháng,Month,0
 messages,oro.channel.dashboard.average_lifetime_sales_chart.title,Doanh số trọn đời trung bình,Average lifetime sales,0
 messages,oro.channel.dashboard.e_commerce.label,Thương mại điện tử,Ecommerce,0
 messages,oro.channel.data.label,Dữ liệu bổ sung,Additional Data,0
-messages,oro.channel.data_source.description,Hội nhập,Integration,0
-messages,oro.channel.data_source.label,Hội nhập,Integration,0
-messages,oro.channel.datagrid.action.delete.label,Xóa bỏ,Delete,0
+messages,oro.channel.data_source.description,Tích hợp,Integration,0
+messages,oro.channel.data_source.label,Tích hợp,Integration,0
+messages,oro.channel.datagrid.action.delete.label,Xóa,Delete,0
 messages,oro.channel.datagrid.action.update.label,Cập nhật,Update,0
 messages,oro.channel.entities.description,Xác định trường nào sẽ được xác định trong trường thực thể sau khi loại kênh đã được chọn,Determines which fields will be defined in entities field after channel type has been selected,0
 messages,oro.channel.entities.label,Thực thể,Entities,0
@@ -6743,14 +6743,14 @@ messages,oro.channel.owner.label,Chủ nhân,Owner,0
 messages,oro.channel.status.description,Xác định trạng thái bản ghi. Giá trị có thể có: True (Activated) hoặc False (Ngừng hoạt động).,Determines the record status. Possible values: True(Activated) or False(Inactivated).,0
 messages,oro.channel.status.label,Trạng thái,Status,0
 messages,oro.channel.tracking_website_channel_select.tooltip,Vui lòng chọn kênh mà trang web theo dõi này thuộc về. Tùy thuộc vào loại kênh các quy tắc khác nhau có thể được áp dụng cho nhận dạng khách hàng.,Please select channel for which this tracking website belongs to. Depending on channel type different rules can be applied for customer identification.,0
-messages,oro.chart.bar_chart.label,Biểu đồ thanh,Bar Chart,0
+messages,oro.chart.bar_chart.label,Biểu đồ cột,Bar Chart,0
 messages,oro.chart.bar_chart.params.label,Danh mục (Trục X),Category (X axis),0
 messages,oro.chart.bar_chart.params.value,Giá trị (trục Y),Value (Y axis),0
-messages,oro.chart.flow_chart.label,Sơ đồ,Flow Chart,0
-messages,oro.chart.flow_chart.params.is_nozzle,Là bước vòi phun,Is step nozzle,0
-messages,oro.chart.flow_chart.params.label,Nhãn bước,Step label,0
-messages,oro.chart.flow_chart.params.value,Giá trị bước,Step value,0
-messages,oro.chart.form.chart_empty_value,không ai,None,0
+messages,oro.chart.flow_chart.label,Biểu đồ,Flow Chart,0
+messages,oro.chart.flow_chart.params.is_nozzle,Là bước vòi phun (nozzle),Is step nozzle,0
+messages,oro.chart.flow_chart.params.label,Tham số,Step label,0
+messages,oro.chart.flow_chart.params.value,Giá trị,Step value,0
+messages,oro.chart.form.chart_empty_value,Rỗng,None,0
 messages,oro.chart.form.name.label,Loại biểu đồ,Chart Type,0
 messages,oro.chart.line_chart.label,Biểu đồ đường kẻ,Line Chart,0
 messages,oro.chart.line_chart.params.label,Danh mục (Trục X),Category (X axis),0
