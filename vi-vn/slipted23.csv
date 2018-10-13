@@ -1,400 +1,400 @@
-messages,oro.locale.date_format.quarter,,"QQQ Y",0
-messages,oro.locale.date_format.year,,"'Year' Y",0
-messages,oro.locale.fallback.type.default,,"Default Value",0
-messages,oro.locale.fallback.type.parent_localization,,"Parent Localization",0
-messages,oro.locale.fallback.use_fallback.label,,Use,0
-messages,oro.locale.fallback.value.default,,"Default Value",0
-messages,oro.locale.form.tooltip.currency,,"Select the default currency",0
-messages,oro.locale.form.tooltip.format_address_by_address_country,,"When this option is selected, addresses will be formatted according to the rules of their countries. Otherwise, the primary location formatting will be applied.",0
-messages,oro.locale.form.tooltip.language,,"Select the system language from the list of the installed translations (see System &rarr; Localization &rarr; Languages).",0
-messages,oro.locale.form.tooltip.languages,,"Select the languages that can be used to translate email templates.",0
-messages,oro.locale.form.tooltip.locale,,"Locale selection affects the formatting of numbers, addresses, names, and dates.",0
-messages,oro.locale.form.tooltip.location,," If Format address per country option is disabled, or there is no country-specific formatting, the addresses will be formatted according to the rules of primary location.",0
-messages,oro.locale.form.tooltip.quarter_start,,"Set the date when the first quarter of the year starts.",0
-messages,oro.locale.form.tooltip.temperature_unit,,"Select the temperature unit. This settings will be applied for the weather on the map.",0
-messages,oro.locale.form.tooltip.timezone,,"Select the timezone of your location. All dates and times will be displayed in the specified timezone.",0
-messages,oro.locale.form.tooltip.wind_speed_unit,,"Select the wind speed unit. This settings will be applied for the weather on the map.",0
-messages,oro.locale.formatter.datetime.default,,N/A,0
-messages,oro.locale.localization.child_localizations.description,,"The relationships between the localization item and other localization items that treat the localization item as a parent localization.",0
-messages,oro.locale.localization.child_localizations.label,,"Child localizations",0
-messages,oro.locale.localization.entity_description,,"Localization item stores locale-specific configuration: the language code of the locale's main language, a formatting code that is used for the locale, and a parent localization that is used by default whenever the translation for the main language is missing.",0
-messages,oro.locale.localization.entity_label,,Localization,0
-messages,oro.locale.localization.entity_plural_label,,Localizations,0
-messages,oro.locale.localization.form.placeholder.choose,,"Choose a localization...",0
-messages,oro.locale.localization.form.placeholder.select_formatting,,"Please select formatting...",0
-messages,oro.locale.localization.form.placeholder.select_language,,"Please select language...",0
-messages,oro.locale.localization.form.placeholder.select_localization,,"Please select localization...",0
-messages,oro.locale.localization.form.placeholder.select_parent_localization,,"Please select parent localization...",0
-messages,oro.locale.localization.formatting_code.description,,"Code of the formatting style that should apply in the localized instance.",0
-messages,oro.locale.localization.formatting_code.label,,Formatting,0
-messages,oro.locale.localization.id.label,,Id,0
-messages,oro.locale.localization.language.label,,Language,0
-messages,oro.locale.localization.name.description,,"A human readable localization name that helps identify settings for a particular locale.",0
-messages,oro.locale.localization.name.label,,Name,0
-messages,oro.locale.localization.navigation.view,,"Localization ""%name%""",0
-messages,oro.locale.localization.parent_localization.description,,"The relationships between the localization item and its parent localization.",0
-messages,oro.locale.localization.parent_localization.label,,"Parent localization",0
-messages,oro.locale.localization.sections.general,,General,0
-messages,oro.locale.localization.title.label,,Title,0
-messages,oro.locale.localization.titles.description,,"The relationship between the localization item and its localizable label that is used to refer to the localization in the UI.",0
-messages,oro.locale.localization.titles.label,,Titles,0
-messages,oro.locale.localization.widgets.localization_information,,"Localization Information",0
-messages,oro.locale.localizedfallbackvalue.entity_description,,"Localizedfallbackvalue stores relationships between the text values (content like name, description, etc.) and their translation data.",0
-messages,oro.locale.localizedfallbackvalue.entity_label,,"Localized fallback value",0
-messages,oro.locale.localizedfallbackvalue.entity_plural_label,,"Localized fallback values",0
-messages,oro.locale.localizedfallbackvalue.fallback.description,,"The value for the fallback",0
-messages,oro.locale.localizedfallbackvalue.fallback.label,,Fallback,0
-messages,oro.locale.localizedfallbackvalue.id.label,,ID,0
-messages,oro.locale.localizedfallbackvalue.localization.description,,"The value for the localization, selected language",0
-messages,oro.locale.localizedfallbackvalue.localization.label,,Localization,0
-messages,oro.locale.localizedfallbackvalue.string.description,,"The string value for the curent localization",0
-messages,oro.locale.localizedfallbackvalue.string.label,,"String value",0
-messages,oro.locale.localizedfallbackvalue.text.description,,"The text value for the curent localization, can contain html tags",0
-messages,oro.locale.localizedfallbackvalue.text.label,,"Text value",0
-messages,oro.locale.menu.localization.label,,Localization,0
-messages,oro.locale.menu.localizations.label,,Localizations,0
-messages,oro.locale.system_configuration.fields.country.label,,"Primary Location",0
-messages,oro.locale.system_configuration.fields.currency.label,,Currency,0
-messages,oro.locale.system_configuration.fields.default_localization.label,,"Default Localization",0
-messages,oro.locale.system_configuration.fields.enabled_localizations.label,,"Enabled Localizations",0
-messages,oro.locale.system_configuration.fields.format_address_by_address_country.label,,"Format address per country",0
-messages,oro.locale.system_configuration.fields.language.label,,"Default Language",0
-messages,oro.locale.system_configuration.fields.languages.label,,"Supported languages",0
-messages,oro.locale.system_configuration.fields.locale.label,,Locale,0
-messages,oro.locale.system_configuration.fields.quarter_start.label,,"First Quarter Starts on",0
-messages,oro.locale.system_configuration.fields.temperature_unit.choices.celsius,,Celsius,0
-messages,oro.locale.system_configuration.fields.temperature_unit.choices.fahrenheit,,Fahrenheit,0
-messages,oro.locale.system_configuration.fields.temperature_unit.label,,"Temperature Unit",0
-messages,oro.locale.system_configuration.fields.timezone.label,,Timezone,0
-messages,oro.locale.system_configuration.fields.wind_speed_unit.choices.kilometers_per_hour,,"Kilometers per hour",0
-messages,oro.locale.system_configuration.fields.wind_speed_unit.choices.meters_per_second,,"Meters per second",0
-messages,oro.locale.system_configuration.fields.wind_speed_unit.choices.miles_per_hour,,"Miles per hour",0
-messages,oro.locale.system_configuration.fields.wind_speed_unit.label,,"Wind Speed Unit",0
-messages,oro.locale.system_configuration.groups.language_languages.title,,Languages,0
-messages,oro.locale.system_configuration.groups.language_settings.title,,"Language Settings",0
-messages,oro.locale.system_configuration.groups.locale_settings.title,,"Localization options",0
-messages,oro.locale.system_configuration.groups.localization.title,,Localization,0
-messages,oro.locale.system_configuration.groups.localization_settings.title,,"Localization settings",0
-messages,oro.locale.system_configuration.groups.map_settings.title,,"Map options",0
-messages,oro.logger.system_configuration.fields.email_notification_recipients.label,,"Recipients email addresses",0
-messages,oro.logger.system_configuration.fields.email_notification_recipients.tooltip,,"To send notifications to specific people, type their email addresses separated by semicolons (;). Leave this field empty to disable error logs notification. ",0
-messages,oro.logger.system_configuration.groups.logger_notification_settings.title,,"Error logs notification",0
-messages,oro.magento.account.no_customers_exist,,"No customers exist",0
-messages,oro.magento.address.channel.description,,"The integration via which information about a Magento customer address is received.",0
-messages,oro.magento.address.channel.label,,Integration,0
-messages,oro.magento.address.city.description,,"The city specified in the Magento customer address.",0
-messages,oro.magento.address.city.label,,City,0
-messages,oro.magento.address.contact_address.description,,"The contact address specified in the Magento customer address.",0
-messages,oro.magento.address.contact_address.label,,"Contact address",0
-messages,oro.magento.address.contact_phone.label,,"Contact phone",0
-messages,oro.magento.address.country.description,,"The country specified in the Magento customer address.",0
-messages,oro.magento.address.country.label,,Country,0
-messages,oro.magento.address.country_iso2_code.label,,"Country ISO2 code",0
-messages,oro.magento.address.country_iso3_code.label,,"Country ISO3 code",0
-messages,oro.magento.address.country_name.label,,"Country name",0
-messages,oro.magento.address.country_text.description,,"The country specified in the Magento customer address if this country was not found in the system.",0
-messages,oro.magento.address.country_text.label,,"Country (Text)",0
-messages,oro.magento.address.created.description,,"The date and time when the Magento customer address was created.",0
-messages,oro.magento.address.created.label,,"Created at",0
-messages,oro.magento.address.entity_description,,"The address configured for a Magento customer.",0
-messages,oro.magento.address.entity_label,,"Magento Customer Address",0
-messages,oro.magento.address.entity_plural_label,,"Magento Customer Addresses",0
-messages,oro.magento.address.first_name.description,,"The first name that is specified in the Magento customer address.",0
-messages,oro.magento.address.first_name.label,,"First name",0
-messages,oro.magento.address.id.label,,Id,0
-messages,oro.magento.address.label.description,,"The label specified for the Magento customer address. The label is used to refer to the Magento customer address on the interface.",0
-messages,oro.magento.address.label.label,,Label,0
-messages,oro.magento.address.last_name.description,,"The last name that is specified in the Magento customer address.",0
-messages,oro.magento.address.last_name.label,,"Last name",0
-messages,oro.magento.address.middle_name.description,,"The middle name that is specified in the Magento customer address.",0
-messages,oro.magento.address.middle_name.label,,"Middle name",0
-messages,oro.magento.address.name_prefix.description,,"The name prefix specified in the Magento customer address.",0
-messages,oro.magento.address.name_prefix.label,,"Name prefix",0
-messages,oro.magento.address.name_suffix.description,,"The name suffix specified in the Magento customer address.",0
-messages,oro.magento.address.name_suffix.label,,"Name suffix",0
-messages,oro.magento.address.organization.description,,"The organization that is specified in the Magento customer address.",0
-messages,oro.magento.address.organization.label,,Organization,0
-messages,oro.magento.address.origin_id.description,,"The address ID on the Magento side.",0
-messages,oro.magento.address.origin_id.label,,"Origin id",0
-messages,oro.magento.address.owner.description,,"The Magento customer who is the owner of the Magento customer address.",0
-messages,oro.magento.address.owner.label,,Owner,0
-messages,oro.magento.address.phone.description,,"The phone specified in the Magento customer address.",0
-messages,oro.magento.address.phone.label,,Phone,0
-messages,oro.magento.address.postal_code.description,,"The postal code specified in the Magento customer address.",0
-messages,oro.magento.address.postal_code.label,,"Zip/Postal code",0
-messages,oro.magento.address.primary.description,,"Defines whether the Magento customer address is primary.",0
-messages,oro.magento.address.primary.label,,Primary,0
-messages,oro.magento.address.region.description,,"The region specified in the Magento customer address.",0
-messages,oro.magento.address.region.label,,State,0
-messages,oro.magento.address.region_code.label,,"State ISO code",0
-messages,oro.magento.address.region_name.label,,"State name",0
-messages,oro.magento.address.region_text.label,,State,0
-messages,oro.magento.address.street.description,,"The first line of the street address. Usually contains the street name and the building number.",0
-messages,oro.magento.address.street.label,,Street,0
-messages,oro.magento.address.street2.description,,"The second line of the street address. May contain the apartment number, P.O. box, building name, etc.",0
-messages,oro.magento.address.street2.label,,"Street 2",0
-messages,oro.magento.address.sync_state.description,,"Synchronization status.",0
-messages,oro.magento.address.sync_state.label,,"Sync State",0
-messages,oro.magento.address.types.description,,"The address types (whether it is a billing address, shipping address, or both) configured for the Magento customer address.",0
-messages,oro.magento.address.types.label,,Types,0
-messages,oro.magento.address.updated.description,,"The date and time when the Magento customer address was last updated.",0
-messages,oro.magento.address.updated.label,,"Updated at",0
-messages,oro.magento.cart.active_cart_items.label,,"Active Items",0
-messages,oro.magento.cart.b2c_flow_abandoned_shopping_cart.step.label,,Step,0
-messages,oro.magento.cart.base_currency_code.description,,"The ISO code of the base currency in which the cart items are sold.",0
-messages,oro.magento.cart.base_currency_code.label,,"Base currency",0
-messages,oro.magento.cart.billing_address.description,,"The billing address specified for a Magento shopping cart.",0
-messages,oro.magento.cart.billing_address.label,,"Billing address",0
-messages,oro.magento.cart.cart_items.description,,"The details of the items in a Magento shopping cart.",0
-messages,oro.magento.cart.cart_items.label,,"Cart Items",0
-messages,oro.magento.cart.channel.description,,"The integration via which information about a Magento shopping cart is received.",0
-messages,oro.magento.cart.channel.label,,Integration,0
-messages,oro.magento.cart.contact_information.label,,"Contact Information",0
-messages,oro.magento.cart.customer.description,,"The details of the customer who create a Magento shopping cart.",0
-messages,oro.magento.cart.customer.label,,Customer,0
-messages,oro.magento.cart.data_channel.description,,"The channel via which information about a Magento shopping cart has been received.",0
-messages,oro.magento.cart.data_channel.label,,Channel,0
-messages,oro.magento.cart.deleted_cart_items.label,,"Deleted Items",0
-messages,oro.magento.cart.email.description,,"The email of a Magento customer who created a cart.",0
-messages,oro.magento.cart.email.label,,Email,0
-messages,oro.magento.cart.entity_description,,"A Magento shopping cart stores items that a Magento customer wishes to purchase.",0
-messages,oro.magento.cart.entity_label,,"Magento Shopping Cart",0
-messages,oro.magento.cart.entity_plural_label,,"Magento Shopping Carts",0
-messages,oro.magento.cart.first_name.description,,"The first name of a Magento customer who created a cart.",0
-messages,oro.magento.cart.first_name.label,,"First name",0
-messages,oro.magento.cart.gift_message.description,,"Defines whether a gift message is specified for a Magento shopping cart.",0
-messages,oro.magento.cart.gift_message.label,,"Gift message",0
-messages,oro.magento.cart.grand_total.description,,"The final total amount of all items in a Magento shopping cart.",0
-messages,oro.magento.cart.grand_total.label,,"Grand total",0
-messages,oro.magento.cart.id.label,,"Cart Id",0
-messages,oro.magento.cart.imported_at.description,,"The date and time when the record was imported.",0
-messages,oro.magento.cart.imported_at.label,,"Imported At",0
-messages,oro.magento.cart.is_guest.description,,"Defines whether a Magento customer who added items to a shopping cart is a guest or a registered user.",0
-messages,oro.magento.cart.is_guest.label,,"Is guest",0
-messages,oro.magento.cart.items_count.description,,"The quantity of each item in a Magento shopping cart.",0
-messages,oro.magento.cart.items_count.label,,"Items count",0
-messages,oro.magento.cart.items_qty.description,,"The number of various items in a Magento shopping cart.",0
-messages,oro.magento.cart.items_qty.label,,"Items qty",0
-messages,oro.magento.cart.last_name.description,,"The last name of a Magento customer who created a cart.",0
-messages,oro.magento.cart.last_name.label,,"Last name",0
-messages,oro.magento.cart.notes.description,,"Additional information that a customer can leave for a Magento shopping cart.",0
-messages,oro.magento.cart.notes.label,,"Additional comments",0
-messages,oro.magento.cart.opportunity.description,,"The opportunity to which a Magento shopping cart was converted.",0
-messages,oro.magento.cart.opportunity.label,,Opportunity,0
-messages,oro.magento.cart.organization.label,,Organization,0
-messages,oro.magento.cart.origin_id.description,,"The Magento shopping cart ID on the Magento side.",0
-messages,oro.magento.cart.origin_id.label,,"Origin Id",0
-messages,oro.magento.cart.owner.label,,Owner,0
-messages,oro.magento.cart.payment_details.description,,"Payment details specified for an order in a Magento shopping cart.",0
-messages,oro.magento.cart.payment_details.label,,Payment,0
-messages,oro.magento.cart.quote_currency_code.description,,"The ISO code of the quote currency.",0
-messages,oro.magento.cart.quote_currency_code.label,,"Quote currency",0
-messages,oro.magento.cart.refresh_label,,"Sync Data",0
-messages,oro.magento.cart.related_calls.label,,Calls,0
-messages,oro.magento.cart.related_emails.label,,Emails,0
-messages,oro.magento.cart.shipping_address.description,,"The shipping address specified for a Magento shopping cart.",0
-messages,oro.magento.cart.shipping_address.label,,"Shipping address",0
-messages,oro.magento.cart.status.active,,Active,0
-messages,oro.magento.cart.status.converted,,Converted,0
-messages,oro.magento.cart.status.description,,"The status of a Magento cart (Open, Purchased, Lost, Expired, Processing, Converted to Opportunity, etc).",0
-messages,oro.magento.cart.status.label,,Status,0
-messages,oro.magento.cart.status_message.description,,"The status message assigned to a specific Magento shopping cart.",0
-messages,oro.magento.cart.status_message.label,,"Status message",0
-messages,oro.magento.cart.store.description,,"The Magento store in which the cart has been created.",0
-messages,oro.magento.cart.store.label,,Store,0
-messages,oro.magento.cart.store_currency_code.description,,"The ISO code of the store currency.",0
-messages,oro.magento.cart.store_currency_code.label,,"Store currency",0
-messages,oro.magento.cart.store_to_base_rate.description,,"The configured rate of store currency to base currency.",0
-messages,oro.magento.cart.store_to_base_rate.label,,"Store to base rate",0
-messages,oro.magento.cart.store_to_quote_rate.description,,"The configured rate of store currency to quote currency.",0
-messages,oro.magento.cart.store_to_quote_rate.label,,"Store to quote rate",0
-messages,oro.magento.cart.sub_total.description,,"The subtotal amount configured for the items in a Magento shopping cart.",0
-messages,oro.magento.cart.sub_total.label,,"Sub total",0
-messages,oro.magento.cart.sub_total_amount.label,,"Subtotal Amount",0
-messages,oro.magento.cart.synced_at.description,,"The date and time of the last Magento shopping cart synchronization.",0
-messages,oro.magento.cart.synced_at.label,,"Last Synced At",0
-messages,oro.magento.cart.tax_amount.description,,"The amount of tax applied to items in a Magento shoppin cart.",0
-messages,oro.magento.cart.tax_amount.label,,Tax,0
-messages,oro.magento.cart.website.label,,Website,0
-messages,oro.magento.cart_information,,"Cart Information",0
-messages,oro.magento.cartaddress.channel.description,,"The integration via which information about a Magento cart address is received.",0
-messages,oro.magento.cartaddress.channel.label,,Integration,0
-messages,oro.magento.cartaddress.city.description,,"The city specified in the Magento cart address.",0
-messages,oro.magento.cartaddress.city.label,,City,0
-messages,oro.magento.cartaddress.country.description,,"The country specified in the Magento cart address.",0
-messages,oro.magento.cartaddress.country.label,,Country,0
-messages,oro.magento.cartaddress.country_iso2_code.label,,"Country ISO2 Code",0
-messages,oro.magento.cartaddress.country_iso3_code.label,,"Country ISO3 Code",0
-messages,oro.magento.cartaddress.country_name.label,,Country,0
-messages,oro.magento.cartaddress.country_text.description,,"The country specified in the Magento cart address if this country was not found in the system.",0
-messages,oro.magento.cartaddress.country_text.label,,"Country (Text)",0
-messages,oro.magento.cartaddress.created.description,,"The date and time when the Magento cart address was created.",0
-messages,oro.magento.cartaddress.created.label,,"Created at",0
-messages,oro.magento.cartaddress.entity_description,,"The customer address specified for a Magento cart.",0
-messages,oro.magento.cartaddress.entity_label,,"Magento Cart Address",0
-messages,oro.magento.cartaddress.entity_plural_label,,"Magento Cart Addresses",0
-messages,oro.magento.cartaddress.first_name.description,,"The first name that is specified in the Magento cart address.",0
-messages,oro.magento.cartaddress.first_name.label,,"First name",0
-messages,oro.magento.cartaddress.id.label,,Id,0
-messages,oro.magento.cartaddress.label.description,,"The label specified for the Magento cart address. The label is used to refer to the Magento cart address on the interface.",0
-messages,oro.magento.cartaddress.label.label,,Label,0
-messages,oro.magento.cartaddress.last_name.description,,"The last name that is specified in the Magento cart address.",0
-messages,oro.magento.cartaddress.last_name.label,,"Last name",0
-messages,oro.magento.cartaddress.middle_name.description,,"The middle name that is specified in the Magento cart address.",0
-messages,oro.magento.cartaddress.middle_name.label,,"Middle name",0
-messages,oro.magento.cartaddress.name_prefix.description,,"The name prefix specified in the Magento cart address.",0
-messages,oro.magento.cartaddress.name_prefix.label,,"Name prefix",0
-messages,oro.magento.cartaddress.name_suffix.description,,"The name suffix specified in the Magento cart address.",0
-messages,oro.magento.cartaddress.name_suffix.label,,"Name suffix",0
-messages,oro.magento.cartaddress.organization.description,,"The organization specified in the Magento cart address.",0
-messages,oro.magento.cartaddress.organization.label,,Organization,0
-messages,oro.magento.cartaddress.origin_id.description,,"The cart address ID on the Magento side.",0
-messages,oro.magento.cartaddress.origin_id.label,,"Origin Id",0
-messages,oro.magento.cartaddress.phone.description,,"The phone specified in the Magento cart address.",0
-messages,oro.magento.cartaddress.phone.label,,Phone,0
-messages,oro.magento.cartaddress.postal_code.description,,"The postal code specified in the Magento cart address.",0
-messages,oro.magento.cartaddress.postal_code.label,,"Zip/Postal code",0
-messages,oro.magento.cartaddress.region.description,,"The region specified in the Magento cart address.",0
-messages,oro.magento.cartaddress.region.label,,State,0
-messages,oro.magento.cartaddress.region_code.label,,"Region ISO code",0
-messages,oro.magento.cartaddress.region_name.label,,Region,0
-messages,oro.magento.cartaddress.region_text.label,,State,0
-messages,oro.magento.cartaddress.street.description,,"The first line of the street address. Usually contains the street name and the building number.",0
-messages,oro.magento.cartaddress.street.label,,Street,0
-messages,oro.magento.cartaddress.street2.description,,"The second line of the street address. May contain the apartment number, P.O. box, building name, etc.",0
-messages,oro.magento.cartaddress.street2.label,,"Street 2",0
-messages,oro.magento.cartaddress.updated.description,,"The date and time when the Magento cart address was last updated.",0
-messages,oro.magento.cartaddress.updated.label,,"Updated at",0
-messages,oro.magento.cartitem.cart.description,,"The Magento shopping cart to which a Magento cart item belongs.",0
-messages,oro.magento.cartitem.cart.label,,Cart,0
-messages,oro.magento.cartitem.channel.description,,"The integration via which information about a Magento shopping cart item is received.",0
-messages,oro.magento.cartitem.channel.label,,Integration,0
-messages,oro.magento.cartitem.custom_price.description,,"The custom price amount specified for a Magento shopping cart item.",0
-messages,oro.magento.cartitem.custom_price.label,,"Custom price",0
-messages,oro.magento.cartitem.description.description,,"Short description of a Magento shopping cart item.",0
-messages,oro.magento.cartitem.description.label,,Description,0
-messages,oro.magento.cartitem.discount_amount.description,,"The discount amount specified for a Magento shopping cart item.",0
-messages,oro.magento.cartitem.discount_amount.label,,"Discount amount",0
-messages,oro.magento.cartitem.entity_description,,"The items added to the Magento cart.",0
-messages,oro.magento.cartitem.entity_label,,"Magento Shopping Cart Item",0
-messages,oro.magento.cartitem.entity_plural_label,,"Magento Shopping Cart items",0
-messages,oro.magento.cartitem.free_shipping.description,,"Defines whether free shipping is applicable for a Magento shopping cart item.",0
-messages,oro.magento.cartitem.free_shipping.label,,"Free shipping",0
-messages,oro.magento.cartitem.gift_message.description,,"Defines whether a gift message is specified for a Magento shopping cart item.",0
-messages,oro.magento.cartitem.gift_message.label,,"Gift message",0
-messages,oro.magento.cartitem.id.label,,"Cart item id",0
-messages,oro.magento.cartitem.is_virtual.description,,"Defines whether the Magento cart item is virtual.",0
-messages,oro.magento.cartitem.is_virtual.label,,"Is virtual",0
-messages,oro.magento.cartitem.name.description,,"The name specified for a Magento shopping cart item.",0
-messages,oro.magento.cartitem.name.label,,Name,0
-messages,oro.magento.cartitem.origin_id.description,,"The Magento shopping cart item ID on the Magento side.",0
-messages,oro.magento.cartitem.origin_id.label,,"Origin cart id",0
-messages,oro.magento.cartitem.owner.label,,Owner,0
-messages,oro.magento.cartitem.parent_item_id.description,,"The parent item ID associated with a Magento shopping cart item.",0
-messages,oro.magento.cartitem.parent_item_id.label,,"Parent cart item id",0
-messages,oro.magento.cartitem.price.description,,"The price specified for a Magento shopping cart item.",0
-messages,oro.magento.cartitem.price.label,,Price,0
-messages,oro.magento.cartitem.price_incl_tax.description,,"The price specified for a Magento shopping cart item, including tax amount.",0
-messages,oro.magento.cartitem.price_incl_tax.label,,"Price incl. tax",0
-messages,oro.magento.cartitem.product_id.description,,"The ID of the product in a Magento shopping cart.",0
-messages,oro.magento.cartitem.product_id.label,,"Product id",0
-messages,oro.magento.cartitem.product_image_url.description,,"The URL of the image configured for a Magento product.",0
-messages,oro.magento.cartitem.product_image_url.label,,"Product Image URL",0
-messages,oro.magento.cartitem.product_type.description,,"The product type of a Magento shopping cart item.",0
-messages,oro.magento.cartitem.product_type.label,,"Product type",0
-messages,oro.magento.cartitem.product_url.description,,"The product URL  of a Magento shopping cart item",0
-messages,oro.magento.cartitem.product_url.label,,"Product URL",0
-messages,oro.magento.cartitem.qty.description,,"The quantity of the items in a Magento shopping cart.",0
-messages,oro.magento.cartitem.qty.label,,Qty,0
-messages,oro.magento.cartitem.removed.description,,"Defines whether the item was removed from the Magento shopping cart.",0
-messages,oro.magento.cartitem.removed.label,,Removed,0
-messages,oro.magento.cartitem.row_total.description,,"The row total price amount for a Magento shopping cart item.",0
-messages,oro.magento.cartitem.row_total.label,,"Row total",0
-messages,oro.magento.cartitem.sku.description,,"A stock keeping unit represented by a unique identification code that allows to track a Magento shopping cart item.",0
-messages,oro.magento.cartitem.sku.label,,Sku,0
-messages,oro.magento.cartitem.tax_amount.description,,"The amount of tax applied to a Magento shopping cart item.",0
-messages,oro.magento.cartitem.tax_amount.label,,"Tax amount",0
-messages,oro.magento.cartitem.tax_class_id.description,,"The tax class ID configured for a Magento shopping cart item.",0
-messages,oro.magento.cartitem.tax_class_id.label,,"Tax class id",0
-messages,oro.magento.cartitem.tax_percent.description,,"The percent of tax configured for a Magento shopping cart item.",0
-messages,oro.magento.cartitem.tax_percent.label,,"Tax percent",0
-messages,oro.magento.cartitem.weight.description,,"The value of weight specified for a Magento shopping cart item.",0
-messages,oro.magento.cartitem.weight.label,,Weight,0
-messages,oro.magento.cartstatus.entity_description,,"The statuses of a Magento cart (Open, Purchased, Lost, Expired, Processing, Converted to Opportunity, etc).",0
-messages,oro.magento.cartstatus.entity_label,,"Magento Shopping Cart Status",0
-messages,oro.magento.cartstatus.entity_plural_label,,"Magento Shopping Cart Statuses",0
-messages,oro.magento.cartstatus.label.description,,"The label specified for a Magento shopping cart status and is used to refer to the it on the interface.",0
-messages,oro.magento.cartstatus.label.label,,Label,0
-messages,oro.magento.cartstatus.name.label,,Name,0
-messages,oro.magento.channel_type.magento.label,,Magento,0
-messages,oro.magento.channel_type.magento2.label,,"Magento 2",0
-messages,oro.magento.communications,,Communications,0
-messages,oro.magento.connector.cart.initial.label,,"Initial Cart connector",0
-messages,oro.magento.connector.cart.label,,"Cart connector",0
-messages,oro.magento.connector.credit_memo.initial.label,,"Initial Credit Memo connector",0
-messages,oro.magento.connector.credit_memo.label,,"Credit Memo connector",0
-messages,oro.magento.connector.customer.initial.label,,"Initial Customer connector",0
-messages,oro.magento.connector.customer.label,,"Customer connector",0
-messages,oro.magento.connector.customer_group.label,,"Customer Group Connector",0
-messages,oro.magento.connector.newsletter_subscriber.initial.label,,"Initial  Newsletter Subscriber Connector",0
-messages,oro.magento.connector.newsletter_subscriber.label,,"Newsletter Subscriber Connector",0
-messages,oro.magento.connector.order.initial.label,,"Initial Order connector",0
-messages,oro.magento.connector.order.label,,"Order connector",0
-messages,oro.magento.connector.product.label,,"Product connector",0
-messages,oro.magento.connector.region.label,,"States connector",0
-messages,oro.magento.connector.store.label,,"Store Connector",0
-messages,oro.magento.connector.website.label,,"Website Connector",0
-messages,oro.magento.controller.extension_required,,"Unable to perform this operation, Oro Bridge extension not found.",0
-messages,oro.magento.controller.not_valid_parameters,,"Parameters are not valid!",0
-messages,oro.magento.controller.sync_error_with_magento,,"Synchronization with remote server failed and orders should be re-synced. If the problem persists, please contact your Administrator.",0
-messages,oro.magento.controller.synchronization_error,,"Unable to synchronize from remote.",0
-messages,oro.magento.controller.synchronization_failed_status,,"Cart data is not up to date",0
-messages,oro.magento.controller.synchronization_success,,"Data successfully synchronized.",0
-messages,oro.magento.controller.transport_error,,"Magento instance is unavailable right now, or the provided URL is incorrect.",0
-messages,oro.magento.controller.transport_not_configure,,"Unable to handle your request. Invalid Integration configuration detected.",0
-messages,oro.magento.credit_memo_information,,"Credit Memo Information",0
-messages,oro.magento.creditmemo.adjustment.description,,"Total adjustment fee applied for credit memo.",0
-messages,oro.magento.creditmemo.adjustment.label,,Adjustment,0
-messages,oro.magento.creditmemo.adjustment_negative.description,,"Adjustment fee amount.",0
-messages,oro.magento.creditmemo.adjustment_negative.label,,"Adjustment fee amount",0
-messages,oro.magento.creditmemo.adjustment_positive.description,,"Adjustment refund amount.",0
-messages,oro.magento.creditmemo.adjustment_positive.label,,"Adjustment refund amount",0
-messages,oro.magento.creditmemo.channel.description,,"The integration via which information about a Magento credit memo is received.",0
-messages,oro.magento.creditmemo.channel.label,,Integration,0
-messages,oro.magento.creditmemo.created_at.description,,"The date and time Magento credit memo was created.",0
-messages,oro.magento.creditmemo.created_at.label,,"Created At",0
-messages,oro.magento.creditmemo.customer_bal_total_refunded.description,,"The amount refunded from customer's balance",0
-messages,oro.magento.creditmemo.customer_bal_total_refunded.label,,"Customer balance total refunded",0
-messages,oro.magento.creditmemo.data_channel.description,,"The channel via which information about a Magento credit memo is received.",0
-messages,oro.magento.creditmemo.data_channel.label,,Channel,0
-messages,oro.magento.creditmemo.email_sent.description,,"Defines whether the credit memo email is sent to the customer.",0
-messages,oro.magento.creditmemo.email_sent.label,,"Email Sent",0
-messages,oro.magento.creditmemo.entity_description,,"Allows you to operate with credit memos for orders.",0
-messages,oro.magento.creditmemo.entity_label,,"Magento Credit Memo",0
-messages,oro.magento.creditmemo.entity_plural_label,,"Magento Credit Memos",0
-messages,oro.magento.creditmemo.grand_total.description,,"The total amount refundeded.",0
-messages,oro.magento.creditmemo.grand_total.label,,Refunded,0
-messages,oro.magento.creditmemo.id.label,,Id,0
-messages,oro.magento.creditmemo.imported_at.description,,"The date and time when the record was imported.",0
-messages,oro.magento.creditmemo.imported_at.label,,"Imported At",0
-messages,oro.magento.creditmemo.increment_id.description,,"The increment ID specified for a Magento credit memo.",0
-messages,oro.magento.creditmemo.increment_id.label,,"Credit Memo #",0
-messages,oro.magento.creditmemo.invoice_id.description,,"ID of the invoice for which the credit memo was created.",0
-messages,oro.magento.creditmemo.invoice_id.label,,"Invoice ID",0
-messages,oro.magento.creditmemo.items.description,,"The items specified for a Magento credit memo.",0
-messages,oro.magento.creditmemo.items.label,,"Credit Memo Items",0
-messages,oro.magento.creditmemo.order.description,,"Magento order for which the credit memo was created.",0
-messages,oro.magento.creditmemo.order.label,,Order,0
-messages,oro.magento.creditmemo.organization.label,,Organization,0
-messages,oro.magento.creditmemo.origin_id.description,,"Credit memo ID on the Magento side.",0
-messages,oro.magento.creditmemo.origin_id.label,,"Origin ID",0
-messages,oro.magento.creditmemo.owner.label,,Owner,0
-messages,oro.magento.creditmemo.reward_points_balance_refund.description,,"The balance of refunded reward points",0
-messages,oro.magento.creditmemo.reward_points_balance_refund.label,,"Reward points balance refund",0
-messages,oro.magento.creditmemo.shipping_amount.description,,"Refunded shipping amount.",0
-messages,oro.magento.creditmemo.shipping_amount.label,,"Refunded shipping amount",0
-messages,oro.magento.creditmemo.status.description,,"Credit memo status.",0
-messages,oro.magento.creditmemo.status.label,,Status,0
-messages,oro.magento.creditmemo.store.description,,"A Magento store where a Magento order has been created.",0
-messages,oro.magento.creditmemo.store.label,,Store,0
-messages,oro.magento.creditmemo.subtotal.description,,"The subtotal refunded amount.",0
+messages,oro.locale.date_format.quarter,QQQ Y,QQQ Y,0
+messages,oro.locale.date_format.year,'Năm' Y,'Year' Y,0
+messages,oro.locale.fallback.type.default,Giá trị mặc định,Default Value,0
+messages,oro.locale.fallback.type.parent_localization,Bản địa hóa gốc,Parent Localization,0
+messages,oro.locale.fallback.use_fallback.label,Sử dụng,Use,0
+messages,oro.locale.fallback.value.default,Giá trị mặc định,Default Value,0
+messages,oro.locale.form.tooltip.currency,Chọn loại tiền tệ mặc định,Select the default currency,0
+messages,oro.locale.form.tooltip.format_address_by_address_country,"Khi tùy chọn này được chọn, địa chỉ sẽ được định dạng theo các quy tắc của quốc gia của họ. Nếu không, định dạng vị trí chính sẽ được áp dụng.","When this option is selected, addresses will be formatted according to the rules of their countries. Otherwise, the primary location formatting will be applied.",0
+messages,oro.locale.form.tooltip.language,Chọn ngôn ngữ hệ thống từ danh sách các bản dịch đã cài đặt (xem System & rarr; Localization & rarr; Languages).,Select the system language from the list of the installed translations (see System &rarr; Localization &rarr; Languages).,0
+messages,oro.locale.form.tooltip.languages,Chọn ngôn ngữ có thể được sử dụng để dịch các mẫu email.,Select the languages that can be used to translate email templates.,0
+messages,oro.locale.form.tooltip.locale,"Lựa chọn miền địa phương ảnh hưởng đến định dạng số, địa chỉ, tên và ngày tháng.","Locale selection affects the formatting of numbers, addresses, names, and dates.",0
+messages,oro.locale.form.tooltip.location," Nếu tùy chọn Định dạng địa chỉ cho mỗi quốc gia bị tắt hoặc không có định dạng theo quốc gia cụ thể, địa chỉ sẽ được định dạng theo các quy tắc của vị trí chính."," If Format address per country option is disabled, or there is no country-specific formatting, the addresses will be formatted according to the rules of primary location.",0
+messages,oro.locale.form.tooltip.quarter_start,Đặt ngày khi quý đầu tiên của năm bắt đầu.,Set the date when the first quarter of the year starts.,0
+messages,oro.locale.form.tooltip.temperature_unit,Chọn đơn vị nhiệt độ. Cài đặt này sẽ được áp dụng cho thời tiết trên bản đồ.,Select the temperature unit. This settings will be applied for the weather on the map.,0
+messages,oro.locale.form.tooltip.timezone,Chọn múi giờ của vị trí của bạn. Tất cả các ngày và giờ sẽ được hiển thị trong múi giờ đã chỉ định.,Select the timezone of your location. All dates and times will be displayed in the specified timezone.,0
+messages,oro.locale.form.tooltip.wind_speed_unit,Chọn đơn vị tốc độ gió. Cài đặt này sẽ được áp dụng cho thời tiết trên bản đồ.,Select the wind speed unit. This settings will be applied for the weather on the map.,0
+messages,oro.locale.formatter.datetime.default,Không áp dụng,N/A,0
+messages,oro.locale.localization.child_localizations.description,Mối quan hệ giữa mục bản địa hóa và các mục bản địa hóa khác xử lý mục bản địa hóa làm bản địa hóa gốc.,The relationships between the localization item and other localization items that treat the localization item as a parent localization.,0
+messages,oro.locale.localization.child_localizations.label,Bản địa hóa cho trẻ em,Child localizations,0
+messages,oro.locale.localization.entity_description,"Mục địa phương hóa lưu trữ cấu hình địa phương cụ thể: mã ngôn ngữ của ngôn ngữ chính của ngôn ngữ, mã định dạng được sử dụng cho ngôn ngữ và bản địa hóa cha mẹ được sử dụng theo mặc định bất cứ khi nào bản dịch cho ngôn ngữ chính bị thiếu.","Localization item stores locale-specific configuration: the language code of the locale's main language, a formatting code that is used for the locale, and a parent localization that is used by default whenever the translation for the main language is missing.",0
+messages,oro.locale.localization.entity_label,Bản địa hóa,Localization,0
+messages,oro.locale.localization.entity_plural_label,Bản địa hóa,Localizations,0
+messages,oro.locale.localization.form.placeholder.choose,Chọn bản địa hóa ...,Choose a localization...,0
+messages,oro.locale.localization.form.placeholder.select_formatting,Vui lòng chọn định dạng ...,Please select formatting...,0
+messages,oro.locale.localization.form.placeholder.select_language,Vui lòng chọn ngôn ngữ ...,Please select language...,0
+messages,oro.locale.localization.form.placeholder.select_localization,Vui lòng chọn nội địa hóa ...,Please select localization...,0
+messages,oro.locale.localization.form.placeholder.select_parent_localization,Vui lòng chọn bản địa hóa phụ huynh ...,Please select parent localization...,0
+messages,oro.locale.localization.formatting_code.description,Mã của kiểu định dạng sẽ áp dụng trong phiên bản được bản địa hoá.,Code of the formatting style that should apply in the localized instance.,0
+messages,oro.locale.localization.formatting_code.label,Định dạng,Formatting,0
+messages,oro.locale.localization.id.label,ID,Id,0
+messages,oro.locale.localization.language.label,Ngôn ngữ,Language,0
+messages,oro.locale.localization.name.description,Tên địa phương hóa có thể đọc được giúp xác định cài đặt cho một miền địa phương cụ thể.,A human readable localization name that helps identify settings for a particular locale.,0
+messages,oro.locale.localization.name.label,Tên,Name,0
+messages,oro.locale.localization.navigation.view,"Bản địa hóa ""% name%""","Localization ""%name%""",0
+messages,oro.locale.localization.parent_localization.description,Các mối quan hệ giữa mục bản địa hóa và nội địa hóa của nó.,The relationships between the localization item and its parent localization.,0
+messages,oro.locale.localization.parent_localization.label,Bản địa hóa gốc,Parent localization,0
+messages,oro.locale.localization.sections.general,Chung,General,0
+messages,oro.locale.localization.title.label,Chức vụ,Title,0
+messages,oro.locale.localization.titles.description,Mối quan hệ giữa mục nội địa hóa và nhãn có thể bản địa hóa được sử dụng để tham chiếu đến bản địa hóa trong giao diện người dùng.,The relationship between the localization item and its localizable label that is used to refer to the localization in the UI.,0
+messages,oro.locale.localization.titles.label,Tiêu đề,Titles,0
+messages,oro.locale.localization.widgets.localization_information,Thông tin địa phương hóa,Localization Information,0
+messages,oro.locale.localizedfallbackvalue.entity_description,"Localizedfallbackvalue lưu trữ các mối quan hệ giữa các giá trị văn bản (nội dung như tên, mô tả, v.v.) và dữ liệu dịch của chúng.","Localizedfallbackvalue stores relationships between the text values (content like name, description, etc.) and their translation data.",0
+messages,oro.locale.localizedfallbackvalue.entity_label,Giá trị dự phòng được bản địa hóa,Localized fallback value,0
+messages,oro.locale.localizedfallbackvalue.entity_plural_label,Giá trị dự phòng được bản địa hóa,Localized fallback values,0
+messages,oro.locale.localizedfallbackvalue.fallback.description,Giá trị cho dự phòng,The value for the fallback,0
+messages,oro.locale.localizedfallbackvalue.fallback.label,Dự phòng,Fallback,0
+messages,oro.locale.localizedfallbackvalue.id.label,ID,ID,0
+messages,oro.locale.localizedfallbackvalue.localization.description,"Giá trị cho nội địa hóa, ngôn ngữ được chọn","The value for the localization, selected language",0
+messages,oro.locale.localizedfallbackvalue.localization.label,Bản địa hóa,Localization,0
+messages,oro.locale.localizedfallbackvalue.string.description,Giá trị chuỗi cho bản địa hóa curent,The string value for the curent localization,0
+messages,oro.locale.localizedfallbackvalue.string.label,Chuỗi giá trị,String value,0
+messages,oro.locale.localizedfallbackvalue.text.description,"Giá trị văn bản cho bản địa hóa curent, có thể chứa các thẻ html","The text value for the curent localization, can contain html tags",0
+messages,oro.locale.localizedfallbackvalue.text.label,Giá trị văn bản,Text value,0
+messages,oro.locale.menu.localization.label,Bản địa hóa,Localization,0
+messages,oro.locale.menu.localizations.label,Bản địa hóa,Localizations,0
+messages,oro.locale.system_configuration.fields.country.label,Vị trí chính,Primary Location,0
+messages,oro.locale.system_configuration.fields.currency.label,Tiền tệ,Currency,0
+messages,oro.locale.system_configuration.fields.default_localization.label,Nội địa hóa mặc định,Default Localization,0
+messages,oro.locale.system_configuration.fields.enabled_localizations.label,Bản địa hóa được bật,Enabled Localizations,0
+messages,oro.locale.system_configuration.fields.format_address_by_address_country.label,Định dạng địa chỉ cho mỗi quốc gia,Format address per country,0
+messages,oro.locale.system_configuration.fields.language.label,Ngôn ngữ mặc định,Default Language,0
+messages,oro.locale.system_configuration.fields.languages.label,Ngôn ngữ được hỗ trợ,Supported languages,0
+messages,oro.locale.system_configuration.fields.locale.label,Ngôn ngữ,Locale,0
+messages,oro.locale.system_configuration.fields.quarter_start.label,Quý I bắt đầu vào,First Quarter Starts on,0
+messages,oro.locale.system_configuration.fields.temperature_unit.choices.celsius,Độ C,Celsius,0
+messages,oro.locale.system_configuration.fields.temperature_unit.choices.fahrenheit,Độ F,Fahrenheit,0
+messages,oro.locale.system_configuration.fields.temperature_unit.label,Đơn vị nhiệt độ,Temperature Unit,0
+messages,oro.locale.system_configuration.fields.timezone.label,Múi giờ,Timezone,0
+messages,oro.locale.system_configuration.fields.wind_speed_unit.choices.kilometers_per_hour,Ki lô mét mỗi giờ,Kilometers per hour,0
+messages,oro.locale.system_configuration.fields.wind_speed_unit.choices.meters_per_second,Mét trên giây,Meters per second,0
+messages,oro.locale.system_configuration.fields.wind_speed_unit.choices.miles_per_hour,Dặm một giơ,Miles per hour,0
+messages,oro.locale.system_configuration.fields.wind_speed_unit.label,Đơn vị tốc độ gió,Wind Speed Unit,0
+messages,oro.locale.system_configuration.groups.language_languages.title,Ngôn ngữ,Languages,0
+messages,oro.locale.system_configuration.groups.language_settings.title,Cài đặt ngôn ngữ,Language Settings,0
+messages,oro.locale.system_configuration.groups.locale_settings.title,Tùy chọn bản địa hóa,Localization options,0
+messages,oro.locale.system_configuration.groups.localization.title,Bản địa hóa,Localization,0
+messages,oro.locale.system_configuration.groups.localization_settings.title,Cài đặt bản địa hóa,Localization settings,0
+messages,oro.locale.system_configuration.groups.map_settings.title,Tùy chọn bản đồ,Map options,0
+messages,oro.logger.system_configuration.fields.email_notification_recipients.label,Địa chỉ email của người nhận,Recipients email addresses,0
+messages,oro.logger.system_configuration.fields.email_notification_recipients.tooltip,"Để gửi thông báo cho những người cụ thể, hãy nhập địa chỉ email của họ được phân tách bằng dấu chấm phẩy (;). Để trống trường này để tắt thông báo nhật ký lỗi.","To send notifications to specific people, type their email addresses separated by semicolons (;). Leave this field empty to disable error logs notification. ",0
+messages,oro.logger.system_configuration.groups.logger_notification_settings.title,Thông báo nhật ký lỗi,Error logs notification,0
+messages,oro.magento.account.no_customers_exist,Không có khách hàng nào tồn tại,No customers exist,0
+messages,oro.magento.address.channel.description,Việc tích hợp thông qua đó thông tin về địa chỉ khách hàng Magento được nhận.,The integration via which information about a Magento customer address is received.,0
+messages,oro.magento.address.channel.label,Hội nhập,Integration,0
+messages,oro.magento.address.city.description,Thành phố được chỉ định trong địa chỉ khách hàng Magento.,The city specified in the Magento customer address.,0
+messages,oro.magento.address.city.label,Thành phố,City,0
+messages,oro.magento.address.contact_address.description,Địa chỉ liên hệ được chỉ định trong địa chỉ khách hàng Magento.,The contact address specified in the Magento customer address.,0
+messages,oro.magento.address.contact_address.label,Địa chỉ liên hệ,Contact address,0
+messages,oro.magento.address.contact_phone.label,Điện thoại liên hệ,Contact phone,0
+messages,oro.magento.address.country.description,Quốc gia được chỉ định trong địa chỉ khách hàng Magento.,The country specified in the Magento customer address.,0
+messages,oro.magento.address.country.label,Quốc gia,Country,0
+messages,oro.magento.address.country_iso2_code.label,Mã ISO2 quốc gia,Country ISO2 code,0
+messages,oro.magento.address.country_iso3_code.label,Mã ISO3 quốc gia,Country ISO3 code,0
+messages,oro.magento.address.country_name.label,Tên quốc gia,Country name,0
+messages,oro.magento.address.country_text.description,Quốc gia được chỉ định trong địa chỉ khách hàng Magento nếu quốc gia này không được tìm thấy trong hệ thống.,The country specified in the Magento customer address if this country was not found in the system.,0
+messages,oro.magento.address.country_text.label,Quốc gia (Văn bản),Country (Text),0
+messages,oro.magento.address.created.description,Ngày và giờ khi địa chỉ khách hàng Magento được tạo.,The date and time when the Magento customer address was created.,0
+messages,oro.magento.address.created.label,Được tạo tại,Created at,0
+messages,oro.magento.address.entity_description,Địa chỉ được cấu hình cho một khách hàng Magento.,The address configured for a Magento customer.,0
+messages,oro.magento.address.entity_label,Địa chỉ khách hàng Magento,Magento Customer Address,0
+messages,oro.magento.address.entity_plural_label,Địa chỉ khách hàng Magento,Magento Customer Addresses,0
+messages,oro.magento.address.first_name.description,Tên đầu tiên được chỉ định trong địa chỉ khách hàng Magento.,The first name that is specified in the Magento customer address.,0
+messages,oro.magento.address.first_name.label,Tên đầu tiên,First name,0
+messages,oro.magento.address.id.label,ID,Id,0
+messages,oro.magento.address.label.description,Nhãn được chỉ định cho địa chỉ khách hàng Magento. Nhãn được sử dụng để chỉ địa chỉ khách hàng Magento trên giao diện.,The label specified for the Magento customer address. The label is used to refer to the Magento customer address on the interface.,0
+messages,oro.magento.address.label.label,Nhãn,Label,0
+messages,oro.magento.address.last_name.description,Tên cuối cùng được chỉ định trong địa chỉ khách hàng Magento.,The last name that is specified in the Magento customer address.,0
+messages,oro.magento.address.last_name.label,Họ,Last name,0
+messages,oro.magento.address.middle_name.description,Tên đệm được chỉ định trong địa chỉ khách hàng Magento.,The middle name that is specified in the Magento customer address.,0
+messages,oro.magento.address.middle_name.label,Tên đệm,Middle name,0
+messages,oro.magento.address.name_prefix.description,Tiền tố tên được chỉ định trong địa chỉ khách hàng Magento.,The name prefix specified in the Magento customer address.,0
+messages,oro.magento.address.name_prefix.label,Tiền tố tên,Name prefix,0
+messages,oro.magento.address.name_suffix.description,Hậu tố tên được chỉ định trong địa chỉ khách hàng Magento.,The name suffix specified in the Magento customer address.,0
+messages,oro.magento.address.name_suffix.label,Hậu tố tên,Name suffix,0
+messages,oro.magento.address.organization.description,Tổ chức được chỉ định trong địa chỉ khách hàng Magento.,The organization that is specified in the Magento customer address.,0
+messages,oro.magento.address.organization.label,Cơ quan,Organization,0
+messages,oro.magento.address.origin_id.description,ID địa chỉ ở phía Magento.,The address ID on the Magento side.,0
+messages,oro.magento.address.origin_id.label,Id gốc,Origin id,0
+messages,oro.magento.address.owner.description,Khách hàng Magento là chủ sở hữu địa chỉ khách hàng Magento.,The Magento customer who is the owner of the Magento customer address.,0
+messages,oro.magento.address.owner.label,Chủ nhân,Owner,0
+messages,oro.magento.address.phone.description,Điện thoại được chỉ định trong địa chỉ khách hàng Magento.,The phone specified in the Magento customer address.,0
+messages,oro.magento.address.phone.label,Điện thoại,Phone,0
+messages,oro.magento.address.postal_code.description,Mã bưu điện được chỉ định trong địa chỉ khách hàng Magento.,The postal code specified in the Magento customer address.,0
+messages,oro.magento.address.postal_code.label,Mã zip / mã bưu chính,Zip/Postal code,0
+messages,oro.magento.address.primary.description,Xác định xem địa chỉ khách hàng Magento có phải là địa chỉ chính hay không.,Defines whether the Magento customer address is primary.,0
+messages,oro.magento.address.primary.label,Sơ cấp,Primary,0
+messages,oro.magento.address.region.description,Vùng được chỉ định trong địa chỉ khách hàng Magento.,The region specified in the Magento customer address.,0
+messages,oro.magento.address.region.label,Tiểu bang,State,0
+messages,oro.magento.address.region_code.label,Mã ISO nhà nước,State ISO code,0
+messages,oro.magento.address.region_name.label,Tên nhà nước,State name,0
+messages,oro.magento.address.region_text.label,Tiểu bang,State,0
+messages,oro.magento.address.street.description,Dòng đầu tiên của địa chỉ đường phố. Thường chứa tên phố và số tòa nhà.,The first line of the street address. Usually contains the street name and the building number.,0
+messages,oro.magento.address.street.label,đường phố,Street,0
+messages,oro.magento.address.street2.description,"Dòng thứ hai của địa chỉ đường phố. Có thể chứa số căn hộ, P.O. hộp, tên tòa nhà, v.v.","The second line of the street address. May contain the apartment number, P.O. box, building name, etc.",0
+messages,oro.magento.address.street2.label,Đường phố 2,Street 2,0
+messages,oro.magento.address.sync_state.description,Trạng thái đồng bộ hóa.,Synchronization status.,0
+messages,oro.magento.address.sync_state.label,Trạng thái đồng bộ hóa,Sync State,0
+messages,oro.magento.address.types.description,"Các loại địa chỉ (cho dù đó là địa chỉ thanh toán, địa chỉ giao hàng hoặc cả hai) được định cấu hình cho địa chỉ khách hàng Magento.","The address types (whether it is a billing address, shipping address, or both) configured for the Magento customer address.",0
+messages,oro.magento.address.types.label,Các loại,Types,0
+messages,oro.magento.address.updated.description,Ngày và giờ khi địa chỉ khách hàng Magento được cập nhật lần cuối.,The date and time when the Magento customer address was last updated.,0
+messages,oro.magento.address.updated.label,Cập nhật tại,Updated at,0
+messages,oro.magento.cart.active_cart_items.label,Các mục đang hoạt động,Active Items,0
+messages,oro.magento.cart.b2c_flow_abandoned_shopping_cart.step.label,Bậc thang,Step,0
+messages,oro.magento.cart.base_currency_code.description,Mã ISO của đơn vị tiền tệ cơ sở trong đó các mặt hàng giỏ hàng được bán.,The ISO code of the base currency in which the cart items are sold.,0
+messages,oro.magento.cart.base_currency_code.label,Tiền tệ cơ bản,Base currency,0
+messages,oro.magento.cart.billing_address.description,Địa chỉ thanh toán được chỉ định cho giỏ hàng Magento.,The billing address specified for a Magento shopping cart.,0
+messages,oro.magento.cart.billing_address.label,Địa chỉ thanh toán,Billing address,0
+messages,oro.magento.cart.cart_items.description,Các chi tiết của các mặt hàng trong giỏ hàng Magento.,The details of the items in a Magento shopping cart.,0
+messages,oro.magento.cart.cart_items.label,Giỏ hàng,Cart Items,0
+messages,oro.magento.cart.channel.description,Việc tích hợp thông qua đó thông tin về một giỏ mua hàng Magento được nhận.,The integration via which information about a Magento shopping cart is received.,0
+messages,oro.magento.cart.channel.label,Hội nhập,Integration,0
+messages,oro.magento.cart.contact_information.label,Thông tin liên lạc,Contact Information,0
+messages,oro.magento.cart.customer.description,Các chi tiết của khách hàng tạo ra một giỏ hàng Magento.,The details of the customer who create a Magento shopping cart.,0
+messages,oro.magento.cart.customer.label,khách hàng,Customer,0
+messages,oro.magento.cart.data_channel.description,Kênh thông qua đó thông tin về giỏ hàng Magento đã được nhận.,The channel via which information about a Magento shopping cart has been received.,0
+messages,oro.magento.cart.data_channel.label,Kênh,Channel,0
+messages,oro.magento.cart.deleted_cart_items.label,Các mục đã xóa,Deleted Items,0
+messages,oro.magento.cart.email.description,Email của một khách hàng Magento đã tạo một giỏ hàng.,The email of a Magento customer who created a cart.,0
+messages,oro.magento.cart.email.label,E-mail,Email,0
+messages,oro.magento.cart.entity_description,Giỏ hàng Magento lưu trữ các mặt hàng mà khách hàng Magento muốn mua.,A Magento shopping cart stores items that a Magento customer wishes to purchase.,0
+messages,oro.magento.cart.entity_label,Giỏ hàng Magento,Magento Shopping Cart,0
+messages,oro.magento.cart.entity_plural_label,Giỏ hàng Magento,Magento Shopping Carts,0
+messages,oro.magento.cart.first_name.description,Tên đầu tiên của một khách hàng Magento đã tạo ra một giỏ hàng.,The first name of a Magento customer who created a cart.,0
+messages,oro.magento.cart.first_name.label,Tên đầu tiên,First name,0
+messages,oro.magento.cart.gift_message.description,Xác định xem thông điệp quà tặng có được chỉ định cho giỏ hàng Magento hay không.,Defines whether a gift message is specified for a Magento shopping cart.,0
+messages,oro.magento.cart.gift_message.label,Tin nhắn quà tặng,Gift message,0
+messages,oro.magento.cart.grand_total.description,Tổng số tiền cuối cùng của tất cả các mặt hàng trong giỏ hàng Magento.,The final total amount of all items in a Magento shopping cart.,0
+messages,oro.magento.cart.grand_total.label,Tổng cộng,Grand total,0
+messages,oro.magento.cart.id.label,Id giỏ hàng,Cart Id,0
+messages,oro.magento.cart.imported_at.description,Ngày và giờ khi bản ghi được nhập.,The date and time when the record was imported.,0
+messages,oro.magento.cart.imported_at.label,Đã nhập,Imported At,0
+messages,oro.magento.cart.is_guest.description,Xác định liệu khách hàng Magento đã thêm sản phẩm vào giỏ hàng là khách hay người dùng đã đăng ký.,Defines whether a Magento customer who added items to a shopping cart is a guest or a registered user.,0
+messages,oro.magento.cart.is_guest.label,Là khách,Is guest,0
+messages,oro.magento.cart.items_count.description,Số lượng của từng mặt hàng trong giỏ hàng Magento.,The quantity of each item in a Magento shopping cart.,0
+messages,oro.magento.cart.items_count.label,Số mục,Items count,0
+messages,oro.magento.cart.items_qty.description,Số lượng mặt hàng khác nhau trong giỏ hàng Magento.,The number of various items in a Magento shopping cart.,0
+messages,oro.magento.cart.items_qty.label,Hạng mục qty,Items qty,0
+messages,oro.magento.cart.last_name.description,Họ của một khách hàng Magento đã tạo ra một giỏ hàng.,The last name of a Magento customer who created a cart.,0
+messages,oro.magento.cart.last_name.label,Họ,Last name,0
+messages,oro.magento.cart.notes.description,Thông tin bổ sung mà khách hàng có thể để lại cho giỏ hàng Magento.,Additional information that a customer can leave for a Magento shopping cart.,0
+messages,oro.magento.cart.notes.label,Ý kiến ​​khác,Additional comments,0
+messages,oro.magento.cart.opportunity.description,Cơ hội mà một giỏ hàng Magento đã được chuyển đổi.,The opportunity to which a Magento shopping cart was converted.,0
+messages,oro.magento.cart.opportunity.label,Cơ hội,Opportunity,0
+messages,oro.magento.cart.organization.label,Cơ quan,Organization,0
+messages,oro.magento.cart.origin_id.description,ID giỏ hàng Magento ở phía Magento.,The Magento shopping cart ID on the Magento side.,0
+messages,oro.magento.cart.origin_id.label,Id gốc,Origin Id,0
+messages,oro.magento.cart.owner.label,Chủ nhân,Owner,0
+messages,oro.magento.cart.payment_details.description,Chi tiết thanh toán được chỉ định cho một đơn đặt hàng trong giỏ hàng Magento.,Payment details specified for an order in a Magento shopping cart.,0
+messages,oro.magento.cart.payment_details.label,Thanh toán,Payment,0
+messages,oro.magento.cart.quote_currency_code.description,Mã ISO của loại tiền tệ báo giá.,The ISO code of the quote currency.,0
+messages,oro.magento.cart.quote_currency_code.label,Tiền tệ được báo giá,Quote currency,0
+messages,oro.magento.cart.refresh_label,Đồng bộ dữ liệu,Sync Data,0
+messages,oro.magento.cart.related_calls.label,Cuộc gọi,Calls,0
+messages,oro.magento.cart.related_emails.label,Email,Emails,0
+messages,oro.magento.cart.shipping_address.description,Địa chỉ giao hàng được chỉ định cho giỏ hàng Magento.,The shipping address specified for a Magento shopping cart.,0
+messages,oro.magento.cart.shipping_address.label,Địa chỉ giao hàng,Shipping address,0
+messages,oro.magento.cart.status.active,Hoạt động,Active,0
+messages,oro.magento.cart.status.converted,Chuyển đổi,Converted,0
+messages,oro.magento.cart.status.description,"Trạng thái của giỏ hàng Magento (Mở, Đã mua, Bị mất, Hết hạn, Xử lý, Chuyển đổi thành Cơ hội, v.v.).","The status of a Magento cart (Open, Purchased, Lost, Expired, Processing, Converted to Opportunity, etc).",0
+messages,oro.magento.cart.status.label,Trạng thái,Status,0
+messages,oro.magento.cart.status_message.description,Thông điệp trạng thái được gán cho một giỏ hàng Magento cụ thể.,The status message assigned to a specific Magento shopping cart.,0
+messages,oro.magento.cart.status_message.label,Thông điệp trạng thái,Status message,0
+messages,oro.magento.cart.store.description,Cửa hàng Magento nơi giỏ hàng đã được tạo.,The Magento store in which the cart has been created.,0
+messages,oro.magento.cart.store.label,Cửa hàng,Store,0
+messages,oro.magento.cart.store_currency_code.description,Mã ISO của đơn vị tiền tệ của cửa hàng.,The ISO code of the store currency.,0
+messages,oro.magento.cart.store_currency_code.label,Tiền tệ của cửa hàng,Store currency,0
+messages,oro.magento.cart.store_to_base_rate.description,Tỷ lệ được định cấu hình của đơn vị tiền tệ cửa hàng thành tiền tệ cơ sở.,The configured rate of store currency to base currency.,0
+messages,oro.magento.cart.store_to_base_rate.label,Lưu vào tỷ lệ cơ bản,Store to base rate,0
+messages,oro.magento.cart.store_to_quote_rate.description,Tỷ giá được định cấu hình của đơn vị tiền tệ cửa hàng thành loại tiền tệ báo giá.,The configured rate of store currency to quote currency.,0
+messages,oro.magento.cart.store_to_quote_rate.label,Lưu vào tỷ lệ trích dẫn,Store to quote rate,0
+messages,oro.magento.cart.sub_total.description,Số tiền phụ được cấu hình cho các mục trong giỏ hàng Magento.,The subtotal amount configured for the items in a Magento shopping cart.,0
+messages,oro.magento.cart.sub_total.label,Tổng số phụ,Sub total,0
+messages,oro.magento.cart.sub_total_amount.label,Tổng số tiền,Subtotal Amount,0
+messages,oro.magento.cart.synced_at.description,Ngày và giờ của đồng bộ hóa giỏ hàng Magento cuối cùng.,The date and time of the last Magento shopping cart synchronization.,0
+messages,oro.magento.cart.synced_at.label,Đồng bộ hóa lần cuối lúc,Last Synced At,0
+messages,oro.magento.cart.tax_amount.description,Số tiền thuế được áp dụng cho các mặt hàng trong giỏ hàng shoppin của Magento.,The amount of tax applied to items in a Magento shoppin cart.,0
+messages,oro.magento.cart.tax_amount.label,Thuế,Tax,0
+messages,oro.magento.cart.website.label,Trang mạng,Website,0
+messages,oro.magento.cart_information,Thông tin giỏ hàng,Cart Information,0
+messages,oro.magento.cartaddress.channel.description,Việc tích hợp thông qua đó thông tin về một địa chỉ giỏ hàng Magento được nhận.,The integration via which information about a Magento cart address is received.,0
+messages,oro.magento.cartaddress.channel.label,Hội nhập,Integration,0
+messages,oro.magento.cartaddress.city.description,Thành phố được chỉ định trong địa chỉ giỏ hàng Magento.,The city specified in the Magento cart address.,0
+messages,oro.magento.cartaddress.city.label,Thành phố,City,0
+messages,oro.magento.cartaddress.country.description,Quốc gia được chỉ định trong địa chỉ giỏ hàng Magento.,The country specified in the Magento cart address.,0
+messages,oro.magento.cartaddress.country.label,Quốc gia,Country,0
+messages,oro.magento.cartaddress.country_iso2_code.label,Mã ISO2 quốc gia,Country ISO2 Code,0
+messages,oro.magento.cartaddress.country_iso3_code.label,Mã ISO3 quốc gia,Country ISO3 Code,0
+messages,oro.magento.cartaddress.country_name.label,Quốc gia,Country,0
+messages,oro.magento.cartaddress.country_text.description,Quốc gia được chỉ định trong địa chỉ giỏ hàng Magento nếu quốc gia này không được tìm thấy trong hệ thống.,The country specified in the Magento cart address if this country was not found in the system.,0
+messages,oro.magento.cartaddress.country_text.label,Quốc gia (Văn bản),Country (Text),0
+messages,oro.magento.cartaddress.created.description,Ngày và giờ khi địa chỉ giỏ hàng Magento được tạo.,The date and time when the Magento cart address was created.,0
+messages,oro.magento.cartaddress.created.label,Được tạo tại,Created at,0
+messages,oro.magento.cartaddress.entity_description,Địa chỉ khách hàng được chỉ định cho giỏ hàng Magento.,The customer address specified for a Magento cart.,0
+messages,oro.magento.cartaddress.entity_label,Địa chỉ giỏ hàng Magento,Magento Cart Address,0
+messages,oro.magento.cartaddress.entity_plural_label,Địa chỉ giỏ hàng Magento,Magento Cart Addresses,0
+messages,oro.magento.cartaddress.first_name.description,Tên đầu tiên được chỉ định trong địa chỉ giỏ hàng Magento.,The first name that is specified in the Magento cart address.,0
+messages,oro.magento.cartaddress.first_name.label,Tên đầu tiên,First name,0
+messages,oro.magento.cartaddress.id.label,ID,Id,0
+messages,oro.magento.cartaddress.label.description,Nhãn được chỉ định cho địa chỉ giỏ hàng Magento. Nhãn được sử dụng để chỉ địa chỉ giỏ hàng Magento trên giao diện.,The label specified for the Magento cart address. The label is used to refer to the Magento cart address on the interface.,0
+messages,oro.magento.cartaddress.label.label,Nhãn,Label,0
+messages,oro.magento.cartaddress.last_name.description,Tên cuối cùng được chỉ định trong địa chỉ giỏ hàng Magento.,The last name that is specified in the Magento cart address.,0
+messages,oro.magento.cartaddress.last_name.label,Họ,Last name,0
+messages,oro.magento.cartaddress.middle_name.description,Tên đệm được chỉ định trong địa chỉ giỏ hàng Magento.,The middle name that is specified in the Magento cart address.,0
+messages,oro.magento.cartaddress.middle_name.label,Tên đệm,Middle name,0
+messages,oro.magento.cartaddress.name_prefix.description,Tiền tố tên được chỉ định trong địa chỉ giỏ hàng Magento.,The name prefix specified in the Magento cart address.,0
+messages,oro.magento.cartaddress.name_prefix.label,Tiền tố tên,Name prefix,0
+messages,oro.magento.cartaddress.name_suffix.description,Hậu tố tên được chỉ định trong địa chỉ giỏ hàng Magento.,The name suffix specified in the Magento cart address.,0
+messages,oro.magento.cartaddress.name_suffix.label,Hậu tố tên,Name suffix,0
+messages,oro.magento.cartaddress.organization.description,Tổ chức được chỉ định trong địa chỉ giỏ hàng Magento.,The organization specified in the Magento cart address.,0
+messages,oro.magento.cartaddress.organization.label,Cơ quan,Organization,0
+messages,oro.magento.cartaddress.origin_id.description,ID địa chỉ giỏ hàng ở phía Magento.,The cart address ID on the Magento side.,0
+messages,oro.magento.cartaddress.origin_id.label,Id gốc,Origin Id,0
+messages,oro.magento.cartaddress.phone.description,Điện thoại được chỉ định trong địa chỉ giỏ hàng Magento.,The phone specified in the Magento cart address.,0
+messages,oro.magento.cartaddress.phone.label,Điện thoại,Phone,0
+messages,oro.magento.cartaddress.postal_code.description,Mã bưu chính được chỉ định trong địa chỉ giỏ hàng Magento.,The postal code specified in the Magento cart address.,0
+messages,oro.magento.cartaddress.postal_code.label,Mã zip / mã bưu chính,Zip/Postal code,0
+messages,oro.magento.cartaddress.region.description,Vùng được chỉ định trong địa chỉ giỏ hàng Magento.,The region specified in the Magento cart address.,0
+messages,oro.magento.cartaddress.region.label,Tiểu bang,State,0
+messages,oro.magento.cartaddress.region_code.label,Mã ISO theo vùng,Region ISO code,0
+messages,oro.magento.cartaddress.region_name.label,Khu vực,Region,0
+messages,oro.magento.cartaddress.region_text.label,Tiểu bang,State,0
+messages,oro.magento.cartaddress.street.description,Dòng đầu tiên của địa chỉ đường phố. Thường chứa tên phố và số tòa nhà.,The first line of the street address. Usually contains the street name and the building number.,0
+messages,oro.magento.cartaddress.street.label,đường phố,Street,0
+messages,oro.magento.cartaddress.street2.description,"Dòng thứ hai của địa chỉ đường phố. Có thể chứa số căn hộ, P.O. hộp, tên tòa nhà, v.v.","The second line of the street address. May contain the apartment number, P.O. box, building name, etc.",0
+messages,oro.magento.cartaddress.street2.label,Đường phố 2,Street 2,0
+messages,oro.magento.cartaddress.updated.description,Ngày và giờ khi địa chỉ giỏ hàng Magento được cập nhật lần cuối.,The date and time when the Magento cart address was last updated.,0
+messages,oro.magento.cartaddress.updated.label,Cập nhật tại,Updated at,0
+messages,oro.magento.cartitem.cart.description,Giỏ hàng Magento mà một mặt hàng Magento thuộc về.,The Magento shopping cart to which a Magento cart item belongs.,0
+messages,oro.magento.cartitem.cart.label,xe đẩy,Cart,0
+messages,oro.magento.cartitem.channel.description,Việc tích hợp thông qua đó thông tin về một mặt hàng giỏ mua hàng Magento được nhận.,The integration via which information about a Magento shopping cart item is received.,0
+messages,oro.magento.cartitem.channel.label,Hội nhập,Integration,0
+messages,oro.magento.cartitem.custom_price.description,Số tiền giá tùy chỉnh được chỉ định cho một mặt hàng giỏ hàng Magento.,The custom price amount specified for a Magento shopping cart item.,0
+messages,oro.magento.cartitem.custom_price.label,Giá tùy chỉnh,Custom price,0
+messages,oro.magento.cartitem.description.description,Mô tả ngắn về một mặt hàng giỏ hàng Magento.,Short description of a Magento shopping cart item.,0
+messages,oro.magento.cartitem.description.label,Sự miêu tả,Description,0
+messages,oro.magento.cartitem.discount_amount.description,Số tiền chiết khấu được chỉ định cho một mặt hàng giỏ hàng Magento.,The discount amount specified for a Magento shopping cart item.,0
+messages,oro.magento.cartitem.discount_amount.label,Số tiền giảm giá,Discount amount,0
+messages,oro.magento.cartitem.entity_description,Các mục được thêm vào giỏ Magento.,The items added to the Magento cart.,0
+messages,oro.magento.cartitem.entity_label,Mục Giỏ hàng Magento,Magento Shopping Cart Item,0
+messages,oro.magento.cartitem.entity_plural_label,Các mặt hàng trong giỏ hàng của Magento,Magento Shopping Cart items,0
+messages,oro.magento.cartitem.free_shipping.description,Xác định xem giao hàng miễn phí có áp dụng cho mặt hàng giỏ hàng Magento hay không.,Defines whether free shipping is applicable for a Magento shopping cart item.,0
+messages,oro.magento.cartitem.free_shipping.label,Miễn phí vận chuyển,Free shipping,0
+messages,oro.magento.cartitem.gift_message.description,Xác định xem một thông điệp quà tặng có được chỉ định cho một mục giỏ hàng Magento hay không.,Defines whether a gift message is specified for a Magento shopping cart item.,0
+messages,oro.magento.cartitem.gift_message.label,Tin nhắn quà tặng,Gift message,0
+messages,oro.magento.cartitem.id.label,Id mục giỏ hàng,Cart item id,0
+messages,oro.magento.cartitem.is_virtual.description,Xác định xem mục giỏ Magento có là ảo không.,Defines whether the Magento cart item is virtual.,0
+messages,oro.magento.cartitem.is_virtual.label,Là ảo,Is virtual,0
+messages,oro.magento.cartitem.name.description,Tên được chỉ định cho một mục giỏ hàng Magento.,The name specified for a Magento shopping cart item.,0
+messages,oro.magento.cartitem.name.label,Tên,Name,0
+messages,oro.magento.cartitem.origin_id.description,ID mặt hàng giỏ mua hàng Magento ở phía Magento.,The Magento shopping cart item ID on the Magento side.,0
+messages,oro.magento.cartitem.origin_id.label,Id giỏ hàng gốc,Origin cart id,0
+messages,oro.magento.cartitem.owner.label,Chủ nhân,Owner,0
+messages,oro.magento.cartitem.parent_item_id.description,ID mục gốc được liên kết với mục giỏ hàng Magento.,The parent item ID associated with a Magento shopping cart item.,0
+messages,oro.magento.cartitem.parent_item_id.label,Id mục giỏ hàng chính,Parent cart item id,0
+messages,oro.magento.cartitem.price.description,Giá được chỉ định cho một mặt hàng giỏ hàng Magento.,The price specified for a Magento shopping cart item.,0
+messages,oro.magento.cartitem.price.label,Giá bán,Price,0
+messages,oro.magento.cartitem.price_incl_tax.description,"Giá được chỉ định cho một mặt hàng giỏ hàng Magento, bao gồm cả số tiền thuế.","The price specified for a Magento shopping cart item, including tax amount.",0
+messages,oro.magento.cartitem.price_incl_tax.label,Giá bao gồm. Thuế,Price incl. tax,0
+messages,oro.magento.cartitem.product_id.description,ID của sản phẩm trong giỏ hàng Magento.,The ID of the product in a Magento shopping cart.,0
+messages,oro.magento.cartitem.product_id.label,ID sản phẩm,Product id,0
+messages,oro.magento.cartitem.product_image_url.description,URL của hình ảnh được định cấu hình cho sản phẩm Magento.,The URL of the image configured for a Magento product.,0
+messages,oro.magento.cartitem.product_image_url.label,URL hình ảnh sản phẩm,Product Image URL,0
+messages,oro.magento.cartitem.product_type.description,Loại sản phẩm của mặt hàng giỏ hàng Magento.,The product type of a Magento shopping cart item.,0
+messages,oro.magento.cartitem.product_type.label,Loại sản phẩm,Product type,0
+messages,oro.magento.cartitem.product_url.description,URL sản phẩm của mặt hàng giỏ hàng Magento,The product URL  of a Magento shopping cart item,0
+messages,oro.magento.cartitem.product_url.label,URL sản phẩm,Product URL,0
+messages,oro.magento.cartitem.qty.description,Số lượng các mặt hàng trong giỏ hàng Magento.,The quantity of the items in a Magento shopping cart.,0
+messages,oro.magento.cartitem.qty.label,Số lượng,Qty,0
+messages,oro.magento.cartitem.removed.description,Xác định xem mục đã bị xóa khỏi giỏ hàng Magento hay chưa.,Defines whether the item was removed from the Magento shopping cart.,0
+messages,oro.magento.cartitem.removed.label,Đã xóa,Removed,0
+messages,oro.magento.cartitem.row_total.description,Tổng số tiền giá hàng cho một mặt hàng giỏ hàng Magento.,The row total price amount for a Magento shopping cart item.,0
+messages,oro.magento.cartitem.row_total.label,Tổng số hàng,Row total,0
+messages,oro.magento.cartitem.sku.description,Một đơn vị lưu giữ chứng khoán được thể hiện bằng mã nhận dạng duy nhất cho phép theo dõi một mặt hàng giỏ hàng Magento.,A stock keeping unit represented by a unique identification code that allows to track a Magento shopping cart item.,0
+messages,oro.magento.cartitem.sku.label,Sku,Sku,0
+messages,oro.magento.cartitem.tax_amount.description,Số tiền thuế được áp dụng cho mặt hàng giỏ hàng Magento.,The amount of tax applied to a Magento shopping cart item.,0
+messages,oro.magento.cartitem.tax_amount.label,Số tiền thuế,Tax amount,0
+messages,oro.magento.cartitem.tax_class_id.description,ID lớp thuế được định cấu hình cho mục giỏ hàng Magento.,The tax class ID configured for a Magento shopping cart item.,0
+messages,oro.magento.cartitem.tax_class_id.label,Id loại thuế,Tax class id,0
+messages,oro.magento.cartitem.tax_percent.description,Phần trăm thuế được định cấu hình cho mặt hàng giỏ hàng Magento.,The percent of tax configured for a Magento shopping cart item.,0
+messages,oro.magento.cartitem.tax_percent.label,Phần trăm thuế,Tax percent,0
+messages,oro.magento.cartitem.weight.description,Giá trị trọng lượng được chỉ định cho mục giỏ hàng Magento.,The value of weight specified for a Magento shopping cart item.,0
+messages,oro.magento.cartitem.weight.label,Cân nặng,Weight,0
+messages,oro.magento.cartstatus.entity_description,"Trạng thái của giỏ hàng Magento (Mở, Mua, Bị mất, Hết hạn, Xử lý, Chuyển đổi thành Cơ hội, v.v.).","The statuses of a Magento cart (Open, Purchased, Lost, Expired, Processing, Converted to Opportunity, etc).",0
+messages,oro.magento.cartstatus.entity_label,Trạng thái giỏ hàng Magento,Magento Shopping Cart Status,0
+messages,oro.magento.cartstatus.entity_plural_label,Trạng thái giỏ hàng Magento,Magento Shopping Cart Statuses,0
+messages,oro.magento.cartstatus.label.description,Nhãn được chỉ định cho trạng thái giỏ hàng Magento và được sử dụng để chỉ nó trên giao diện.,The label specified for a Magento shopping cart status and is used to refer to the it on the interface.,0
+messages,oro.magento.cartstatus.label.label,Nhãn,Label,0
+messages,oro.magento.cartstatus.name.label,Tên,Name,0
+messages,oro.magento.channel_type.magento.label,Magento,Magento,0
+messages,oro.magento.channel_type.magento2.label,Magento 2,Magento 2,0
+messages,oro.magento.communications,Truyền thông,Communications,0
+messages,oro.magento.connector.cart.initial.label,Đầu nối ban đầu,Initial Cart connector,0
+messages,oro.magento.connector.cart.label,Kết nối giỏ hàng,Cart connector,0
+messages,oro.magento.connector.credit_memo.initial.label,Đầu ghi nhớ tín dụng ban đầu,Initial Credit Memo connector,0
+messages,oro.magento.connector.credit_memo.label,Đầu ghi thẻ tín dụng,Credit Memo connector,0
+messages,oro.magento.connector.customer.initial.label,Đầu nối khách hàng ban đầu,Initial Customer connector,0
+messages,oro.magento.connector.customer.label,Kết nối khách hàng,Customer connector,0
+messages,oro.magento.connector.customer_group.label,Trình kết nối nhóm khách hàng,Customer Group Connector,0
+messages,oro.magento.connector.newsletter_subscriber.initial.label,Đầu nối thuê bao bản tin đầu tiên,Initial  Newsletter Subscriber Connector,0
+messages,oro.magento.connector.newsletter_subscriber.label,Kết nối thuê bao bản tin,Newsletter Subscriber Connector,0
+messages,oro.magento.connector.order.initial.label,Trình kết nối thứ tự ban đầu,Initial Order connector,0
+messages,oro.magento.connector.order.label,Trình kết nối đơn đặt hàng,Order connector,0
+messages,oro.magento.connector.product.label,Trình kết nối sản phẩm,Product connector,0
+messages,oro.magento.connector.region.label,Trình kết nối tiểu bang,States connector,0
+messages,oro.magento.connector.store.label,Trình kết nối cửa hàng,Store Connector,0
+messages,oro.magento.connector.website.label,Trình kết nối trang web,Website Connector,0
+messages,oro.magento.controller.extension_required,"Không thể thực hiện thao tác này, không tìm thấy tiện ích Oro Bridge.","Unable to perform this operation, Oro Bridge extension not found.",0
+messages,oro.magento.controller.not_valid_parameters,Các tham số không hợp lệ!,Parameters are not valid!,0
+messages,oro.magento.controller.sync_error_with_magento,"Đồng bộ hóa với máy chủ từ xa không thành công và các đơn đặt hàng sẽ được đồng bộ hóa lại. Nếu sự cố vẫn tiếp diễn, vui lòng liên hệ với Quản trị viên của bạn.","Synchronization with remote server failed and orders should be re-synced. If the problem persists, please contact your Administrator.",0
+messages,oro.magento.controller.synchronization_error,Không thể đồng bộ hóa từ xa.,Unable to synchronize from remote.,0
+messages,oro.magento.controller.synchronization_failed_status,Dữ liệu giỏ hàng không cập nhật,Cart data is not up to date,0
+messages,oro.magento.controller.synchronization_success,Đã đồng bộ hóa thành công dữ liệu.,Data successfully synchronized.,0
+messages,oro.magento.controller.transport_error,Ví dụ Magento hiện không khả dụng hoặc URL được cung cấp không chính xác.,"Magento instance is unavailable right now, or the provided URL is incorrect.",0
+messages,oro.magento.controller.transport_not_configure,Không thể xử lý yêu cầu của bạn. Đã phát hiện cấu hình Tích hợp không hợp lệ.,Unable to handle your request. Invalid Integration configuration detected.,0
+messages,oro.magento.credit_memo_information,Thông tin ghi nhớ tín dụng,Credit Memo Information,0
+messages,oro.magento.creditmemo.adjustment.description,Tổng phí điều chỉnh áp dụng cho thư báo ghi có.,Total adjustment fee applied for credit memo.,0
+messages,oro.magento.creditmemo.adjustment.label,Điều chỉnh,Adjustment,0
+messages,oro.magento.creditmemo.adjustment_negative.description,Phí điều chỉnh.,Adjustment fee amount.,0
+messages,oro.magento.creditmemo.adjustment_negative.label,Số tiền phí điều chỉnh,Adjustment fee amount,0
+messages,oro.magento.creditmemo.adjustment_positive.description,Số tiền hoàn trả điều chỉnh.,Adjustment refund amount.,0
+messages,oro.magento.creditmemo.adjustment_positive.label,Số tiền hoàn trả điều chỉnh,Adjustment refund amount,0
+messages,oro.magento.creditmemo.channel.description,Việc tích hợp thông qua đó thông tin về một bản ghi nhớ tín dụng Magento được nhận.,The integration via which information about a Magento credit memo is received.,0
+messages,oro.magento.creditmemo.channel.label,Hội nhập,Integration,0
+messages,oro.magento.creditmemo.created_at.description,Ngày và thời gian ghi nhớ tín dụng Magento đã được tạo.,The date and time Magento credit memo was created.,0
+messages,oro.magento.creditmemo.created_at.label,Được tạo lúc,Created At,0
+messages,oro.magento.creditmemo.customer_bal_total_refunded.description,Số tiền được hoàn lại từ số dư của khách hàng,The amount refunded from customer's balance,0
+messages,oro.magento.creditmemo.customer_bal_total_refunded.label,Tổng số dư khách hàng được hoàn lại,Customer balance total refunded,0
+messages,oro.magento.creditmemo.data_channel.description,Các kênh thông qua đó thông tin về một bản ghi nhớ tín dụng Magento được nhận.,The channel via which information about a Magento credit memo is received.,0
+messages,oro.magento.creditmemo.data_channel.label,Kênh,Channel,0
+messages,oro.magento.creditmemo.email_sent.description,Xác định email thư báo ghi có được gửi cho khách hàng hay không.,Defines whether the credit memo email is sent to the customer.,0
+messages,oro.magento.creditmemo.email_sent.label,Email đã gửi,Email Sent,0
+messages,oro.magento.creditmemo.entity_description,Cho phép bạn hoạt động với các bản ghi nhớ tín dụng cho các đơn đặt hàng.,Allows you to operate with credit memos for orders.,0
+messages,oro.magento.creditmemo.entity_label,Magento Credit Memo,Magento Credit Memo,0
+messages,oro.magento.creditmemo.entity_plural_label,Bản ghi nhớ tín dụng Magento,Magento Credit Memos,0
+messages,oro.magento.creditmemo.grand_total.description,Tổng số tiền đã được hoàn lại.,The total amount refundeded.,0
+messages,oro.magento.creditmemo.grand_total.label,Đã hoàn tiền,Refunded,0
+messages,oro.magento.creditmemo.id.label,ID,Id,0
+messages,oro.magento.creditmemo.imported_at.description,Ngày và giờ khi bản ghi được nhập.,The date and time when the record was imported.,0
+messages,oro.magento.creditmemo.imported_at.label,Đã nhập,Imported At,0
+messages,oro.magento.creditmemo.increment_id.description,ID gia tăng được chỉ định cho thư báo ghi có Magento.,The increment ID specified for a Magento credit memo.,0
+messages,oro.magento.creditmemo.increment_id.label,Bản ghi nhớ tín dụng #,Credit Memo #,0
+messages,oro.magento.creditmemo.invoice_id.description,ID của hóa đơn mà thư báo ghi có được tạo.,ID of the invoice for which the credit memo was created.,0
+messages,oro.magento.creditmemo.invoice_id.label,ID hóa đơn,Invoice ID,0
+messages,oro.magento.creditmemo.items.description,Các mục được chỉ định cho một bản ghi nhớ tín dụng Magento.,The items specified for a Magento credit memo.,0
+messages,oro.magento.creditmemo.items.label,Mục ghi nhớ tín dụng,Credit Memo Items,0
+messages,oro.magento.creditmemo.order.description,Thứ tự Magento mà thư báo ghi có được tạo ra.,Magento order for which the credit memo was created.,0
+messages,oro.magento.creditmemo.order.label,Gọi món,Order,0
+messages,oro.magento.creditmemo.organization.label,Cơ quan,Organization,0
+messages,oro.magento.creditmemo.origin_id.description,ID ghi nhớ tín dụng ở phía Magento.,Credit memo ID on the Magento side.,0
+messages,oro.magento.creditmemo.origin_id.label,ID gốc,Origin ID,0
+messages,oro.magento.creditmemo.owner.label,Chủ nhân,Owner,0
+messages,oro.magento.creditmemo.reward_points_balance_refund.description,Số dư điểm thưởng được hoàn lại,The balance of refunded reward points,0
+messages,oro.magento.creditmemo.reward_points_balance_refund.label,Hoàn trả số dư điểm thưởng,Reward points balance refund,0
+messages,oro.magento.creditmemo.shipping_amount.description,Số tiền giao hàng đã hoàn tiền.,Refunded shipping amount.,0
+messages,oro.magento.creditmemo.shipping_amount.label,Số tiền giao hàng đã hoàn tiền,Refunded shipping amount,0
+messages,oro.magento.creditmemo.status.description,Trạng thái ghi nhớ tín dụng.,Credit memo status.,0
+messages,oro.magento.creditmemo.status.label,Trạng thái,Status,0
+messages,oro.magento.creditmemo.store.description,Một cửa hàng Magento nơi một đơn hàng Magento đã được tạo ra.,A Magento store where a Magento order has been created.,0
+messages,oro.magento.creditmemo.store.label,Cửa hàng,Store,0
+messages,oro.magento.creditmemo.subtotal.description,Số tiền hoàn trả phụ.,The subtotal refunded amount.,0

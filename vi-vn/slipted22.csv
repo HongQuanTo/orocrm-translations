@@ -1,400 +1,400 @@
-messages,oro.form.icon_select.eraser,,eraser,0
-messages,oro.form.icon_select.exchange,,exchange,0
-messages,oro.form.icon_select.exclamation,,exclamation,0
-messages,oro.form.icon_select.exclamation-sign,,"exclamation sign",0
-messages,oro.form.icon_select.expand,,expand,0
-messages,oro.form.icon_select.expand-alt,,"expand alt",0
-messages,oro.form.icon_select.external-link,,"external link",0
-messages,oro.form.icon_select.external-link-sign,,"external link sign",0
-messages,oro.form.icon_select.eye-close,,"eye close",0
-messages,oro.form.icon_select.eye-open,,"eye open",0
-messages,oro.form.icon_select.facetime-video,,"facetime video",0
-messages,oro.form.icon_select.female,,female,0
-messages,oro.form.icon_select.fighter-jet,,"fighter jet",0
-messages,oro.form.icon_select.film,,film,0
-messages,oro.form.icon_select.filter,,filter,0
-messages,oro.form.icon_select.fire,,fire,0
-messages,oro.form.icon_select.fire-extinguisher,,"fire extinguisher",0
-messages,oro.form.icon_select.flag,,flag,0
-messages,oro.form.icon_select.flag-alt,,"flag alt",0
-messages,oro.form.icon_select.flag-checkered,,"flag checkered",0
-messages,oro.form.icon_select.folder-close,,"folder close",0
-messages,oro.form.icon_select.folder-close-alt,,"folder close alt",0
-messages,oro.form.icon_select.folder-open,,"folder open",0
-messages,oro.form.icon_select.folder-open-alt,,"folder open alt",0
-messages,oro.form.icon_select.food,,food,0
-messages,oro.form.icon_select.frown,,frown,0
-messages,oro.form.icon_select.gamepad,,gamepad,0
-messages,oro.form.icon_select.gear,,gear,0
-messages,oro.form.icon_select.gears,,gears,0
-messages,oro.form.icon_select.gift,,gift,0
-messages,oro.form.icon_select.glass,,glass,0
-messages,oro.form.icon_select.globe,,globe,0
-messages,oro.form.icon_select.group,,group,0
-messages,oro.form.icon_select.hdd,,hdd,0
-messages,oro.form.icon_select.headphones,,headphones,0
-messages,oro.form.icon_select.heart,,heart,0
-messages,oro.form.icon_select.heart-empty,,"heart empty",0
-messages,oro.form.icon_select.home,,home,0
-messages,oro.form.icon_select.inbox,,inbox,0
-messages,oro.form.icon_select.info,,info,0
-messages,oro.form.icon_select.info-sign,,"info sign",0
-messages,oro.form.icon_select.key,,key,0
-messages,oro.form.icon_select.keyboard,,keyboard,0
-messages,oro.form.icon_select.laptop,,laptop,0
-messages,oro.form.icon_select.leaf,,leaf,0
-messages,oro.form.icon_select.legal,,legal,0
-messages,oro.form.icon_select.lemon,,lemon,0
-messages,oro.form.icon_select.level-down,,"level down",0
-messages,oro.form.icon_select.level-up,,"level up",0
-messages,oro.form.icon_select.lightbulb,,lightbulb,0
-messages,oro.form.icon_select.list-alt,,"list alt",0
-messages,oro.form.icon_select.location-arrow,,"location arrow",0
-messages,oro.form.icon_select.lock,,lock,0
-messages,oro.form.icon_select.magic,,magic,0
-messages,oro.form.icon_select.magnet,,magnet,0
-messages,oro.form.icon_select.mail-forward,,"mail forward",0
-messages,oro.form.icon_select.mail-reply,,"mail reply",0
-messages,oro.form.icon_select.mail-reply-all,,"mail reply all",0
-messages,oro.form.icon_select.male,,male,0
-messages,oro.form.icon_select.map-marker,,"map marker",0
-messages,oro.form.icon_select.meh,,meh,0
-messages,oro.form.icon_select.microphone,,microphone,0
-messages,oro.form.icon_select.microphone-off,,"microphone off",0
-messages,oro.form.icon_select.minus,,minus,0
-messages,oro.form.icon_select.minus-sign,,"minus sign",0
-messages,oro.form.icon_select.minus-sign-alt,,"minus sign alt",0
-messages,oro.form.icon_select.mobile-phone,,"mobile phone",0
-messages,oro.form.icon_select.money,,money,0
-messages,oro.form.icon_select.moon,,moon,0
-messages,oro.form.icon_select.move,,move,0
-messages,oro.form.icon_select.music,,music,0
-messages,oro.form.icon_select.off,,off,0
-messages,oro.form.icon_select.ok,,ok,0
-messages,oro.form.icon_select.ok-circle,,"ok circle",0
-messages,oro.form.icon_select.ok-sign,,"ok sign",0
-messages,oro.form.icon_select.pencil,,pencil,0
-messages,oro.form.icon_select.phone,,phone,0
-messages,oro.form.icon_select.phone-sign,,"phone sign",0
-messages,oro.form.icon_select.picture,,picture,0
-messages,oro.form.icon_select.plane,,plane,0
-messages,oro.form.icon_select.plus,,plus,0
-messages,oro.form.icon_select.plus-sign,,"plus sign",0
-messages,oro.form.icon_select.plus-sign-alt,,"plus sign alt",0
-messages,oro.form.icon_select.power-off,,"power off",0
-messages,oro.form.icon_select.print,,print,0
-messages,oro.form.icon_select.pushpin,,pushpin,0
-messages,oro.form.icon_select.puzzle-piece,,"puzzle piece",0
-messages,oro.form.icon_select.qrcode,,qrcode,0
-messages,oro.form.icon_select.question,,question,0
-messages,oro.form.icon_select.question-sign,,"question sign",0
-messages,oro.form.icon_select.quote-left,,"quote left",0
-messages,oro.form.icon_select.quote-right,,"quote right",0
-messages,oro.form.icon_select.random,,random,0
-messages,oro.form.icon_select.refresh,,refresh,0
-messages,oro.form.icon_select.remove,,remove,0
-messages,oro.form.icon_select.remove-circle,,"remove circle",0
-messages,oro.form.icon_select.remove-sign,,"remove sign",0
-messages,oro.form.icon_select.reorder,,reorder,0
-messages,oro.form.icon_select.reply,,reply,0
-messages,oro.form.icon_select.reply-all,,"reply all",0
-messages,oro.form.icon_select.resize-horizontal,,"resize horizontal",0
-messages,oro.form.icon_select.resize-vertical,,"resize vertical",0
-messages,oro.form.icon_select.retweet,,retweet,0
-messages,oro.form.icon_select.road,,road,0
-messages,oro.form.icon_select.rocket,,rocket,0
-messages,oro.form.icon_select.rss,,rss,0
-messages,oro.form.icon_select.rss-sign,,"rss sign",0
-messages,oro.form.icon_select.screenshot,,screenshot,0
-messages,oro.form.icon_select.search,,search,0
-messages,oro.form.icon_select.share,,share,0
-messages,oro.form.icon_select.share-alt,,"share alt",0
-messages,oro.form.icon_select.share-sign,,"share sign",0
-messages,oro.form.icon_select.shield,,shield,0
-messages,oro.form.icon_select.shopping-cart,,"shopping cart",0
-messages,oro.form.icon_select.sign-blank,,"sign blank",0
-messages,oro.form.icon_select.signal,,signal,0
-messages,oro.form.icon_select.signin,,signin,0
-messages,oro.form.icon_select.signout,,signout,0
-messages,oro.form.icon_select.sitemap,,sitemap,0
-messages,oro.form.icon_select.smile,,smile,0
-messages,oro.form.icon_select.sort,,sort,0
-messages,oro.form.icon_select.sort-by-alphabet,,"sort by alphabet",0
-messages,oro.form.icon_select.sort-by-alphabet-alt,,"sort by alphabet alt",0
-messages,oro.form.icon_select.sort-by-attributes,,"sort by attributes",0
-messages,oro.form.icon_select.sort-by-attributes-alt,,"sort by attributes alt",0
-messages,oro.form.icon_select.sort-by-order,,"sort by order",0
-messages,oro.form.icon_select.sort-by-order-alt,,"sort by order alt",0
-messages,oro.form.icon_select.sort-down,,"sort down",0
-messages,oro.form.icon_select.sort-up,,"sort up",0
-messages,oro.form.icon_select.spinner,,spinner,0
-messages,oro.form.icon_select.star,,star,0
-messages,oro.form.icon_select.star-empty,,"star empty",0
-messages,oro.form.icon_select.star-half,,"star half",0
-messages,oro.form.icon_select.star-half-empty,,"star half empty",0
-messages,oro.form.icon_select.star-half-full,,"star half full",0
-messages,oro.form.icon_select.subscript,,subscript,0
-messages,oro.form.icon_select.suitcase,,suitcase,0
-messages,oro.form.icon_select.sun,,sun,0
-messages,oro.form.icon_select.superscript,,superscript,0
-messages,oro.form.icon_select.tablet,,tablet,0
-messages,oro.form.icon_select.tag,,tag,0
-messages,oro.form.icon_select.tags,,tags,0
-messages,oro.form.icon_select.tasks,,tasks,0
-messages,oro.form.icon_select.terminal,,terminal,0
-messages,oro.form.icon_select.thumbs-down,,"thumbs down",0
-messages,oro.form.icon_select.thumbs-down-alt,,"thumbs down alt",0
-messages,oro.form.icon_select.thumbs-up,,"thumbs up",0
-messages,oro.form.icon_select.thumbs-up-alt,,"thumbs up alt",0
-messages,oro.form.icon_select.ticket,,ticket,0
-messages,oro.form.icon_select.time,,time,0
-messages,oro.form.icon_select.tint,,tint,0
-messages,oro.form.icon_select.trash,,trash,0
-messages,oro.form.icon_select.trophy,,trophy,0
-messages,oro.form.icon_select.truck,,truck,0
-messages,oro.form.icon_select.umbrella,,umbrella,0
-messages,oro.form.icon_select.unchecked,,unchecked,0
-messages,oro.form.icon_select.unlock,,unlock,0
-messages,oro.form.icon_select.unlock-alt,,"unlock alt",0
-messages,oro.form.icon_select.upload,,upload,0
-messages,oro.form.icon_select.upload-alt,,"upload alt",0
-messages,oro.form.icon_select.user,,user,0
-messages,oro.form.icon_select.volume-down,,"volume down",0
-messages,oro.form.icon_select.volume-off,,"volume off",0
-messages,oro.form.icon_select.volume-up,,"volume up",0
-messages,oro.form.icon_select.warning-sign,,"warning sign",0
-messages,oro.form.icon_select.wrench,,wrench,0
-messages,oro.form.icon_select.zoom-in,,"zoom in",0
-messages,oro.form.icon_select.zoom-out,,"zoom out",0
-messages,oro.form.oro_duration.tooltip,,"Encodings supported:<ul> <li>#:#:# (e.g. '1:30:0' or '90:00') <li>#h #m #s (e.g. '1h 30m' or '1.5h' or '90m')",0
-messages,oro.form.system_configuration.fields.wysiwyg_enabled.label,,"Enable WYSIWYG editor",0
-messages,oro.form.system_configuration.fields.wysiwyg_enabled.tooltip,,"Enables WYSIWYG editor for all text fields",0
-messages,oro.form.system_configuration.groups.wysiwyg_settings.title,,"WYSIWYG settings",0
-messages,oro.form.tooltip.read_more,,"Read more",0
-messages,oro.google_integration.system_configuration.fields.client_id.label,,"Client Id",0
-messages,oro.google_integration.system_configuration.fields.client_secret.label,,"Client secret",0
-messages,oro.google_integration.system_configuration.fields.domains.label,,Domains,0
-messages,oro.google_integration.system_configuration.fields.domains.tooltip,,"Comma separated list of allowed domains",0
-messages,oro.google_integration.system_configuration.fields.google_api_key.label,,"Google API Key",0
-messages,oro.google_integration.system_configuration.groups.google_integration_settings.title,,"Google Integration Settings",0
-messages,oro.google_integration.system_configuration.groups.google_integration_settings.tooltip,,"Please read <a href=""https://support.google.com/cloud/answer/6158862?hl=en"" target=""_blank"">instructions</a> for obtaining credentials. Make sure that your OroCRM domain is included into `Authorized JavaScript origins` and `Authorized redirect URIs`.",0
-messages,oro.google_integration.system_configuration.groups.google_settings.title,,"Google Settings",0
-messages,oro.grid.action.clone,,Clone,0
-messages,oro.grid.action.delete,,Delete,0
-messages,oro.grid.action.gridview_create_public.description,,"Share custom data views with other users",0
-messages,oro.grid.action.gridview_create_public.label,,"Share data view",0
-messages,oro.grid.action.gridview_export.description,,"Export data from Grid view",0
-messages,oro.grid.action.gridview_export.label,,"Export grid view",0
-messages,oro.grid.action.update,,Edit,0
-messages,oro.grid.action.view,,View,0
-messages,oro.grid.datagrid.page_size.all,,All,0
-messages,oro.grid.export.csv,,CSV,0
-messages,oro.grid.export.xlsx,,XLSX,0
-messages,oro.grid.mass_action.button_label,,...,0
-messages,oro.grid.mass_action.confirm_content,,"Are you sure you want to do this?",0
-messages,oro.grid.mass_action.confirm_ok,,"Yes, do it",0
-messages,oro.grid.mass_action.confirm_title,,"Mass Action Confirmation",0
-messages,oro.grid.mass_action.delete.confirm_content,,"Are you sure you want to delete these items?",0
-messages,oro.grid.mass_action.delete.confirm_title,,"Mass Delete Confirmation",0
-messages,oro.grid.mass_action.delete.label,,Delete,0
-messages,oro.grid.mass_action.delete.success_message,,"{0} No entities were deleted|{1} One entity was deleted|]1,Inf[ %count% entities have been deleted successfully",0
-messages,oro.grid.mass_action.edit.success_message,,"{0} No entities were edited|{1} One entity was edited|]1,Inf[ %count% entities were edited",0
-messages,oro.grid.mass_action.error_content,,"Cannot perform mass action",0
-messages,oro.grid.mass_action.error_title,,"Mass Action Error",0
-messages,oro.grid.mass_action.label,,"Mass Actions",0
-messages,oro.grid.mass_action.selected_rows,,"Selected Rows",0
-messages,oro.grid.open_link,,Open,0
-messages,oro.grid.system_configuration.fields.default_per_page.label,,"Items per Page by Default",0
-messages,oro.grid.system_configuration.fields.full_screen_layout_enabled.label,,"Lock headers in grids",0
-messages,oro.grid.system_configuration.fields.full_screen_layout_enabled.tooltip,,"This parameter controls whether grid headers are locked on the page during scrolling",0
-messages,oro.grid.system_configuration.groups.grid_settings.title,,"Data Grid settings",0
-messages,oro.grid.system_configuration.groups.look_and_feel.title,,"Display Settings",0
-messages,oro.hangoutscall.call.hangouts_call,,"Hangouts call",0
-messages,oro.hangoutscall.label,,Hangout,0
-messages,oro.hangoutscall.system_configuration.fields.enable_google_hangouts_for_email.label,,"Enable for Emails",0
-messages,oro.hangoutscall.system_configuration.fields.enable_google_hangouts_for_phone.label,,"Enable for Phones",0
-messages,oro.hangoutscall.system_configuration.groups.google_hangouts_settings.title,,"Google Hangouts",0
-messages,oro.imap.configuration.account_type.gmail,,Gmail,0
-messages,oro.imap.configuration.account_type.label,,"Account Type",0
-messages,oro.imap.configuration.account_type.other,,Other,0
-messages,oro.imap.configuration.account_type.selectType,,"Not Selected",0
-messages,oro.imap.configuration.connect,,Connect,0
-messages,oro.imap.configuration.connect_and_retrieve_folders,,"Check connection/Retrieve folders",0
-messages,oro.imap.configuration.disconnect.label,,Disconnect,0
-messages,oro.imap.configuration.imap_encryption.label,,Encryption,0
-messages,oro.imap.configuration.imap_host.label,,"IMAP Host",0
-messages,oro.imap.configuration.imap_port.label,,"IMAP Port",0
-messages,oro.imap.configuration.password.label,,Password,0
-messages,oro.imap.configuration.reset_email.label,,"Connected Account",0
-messages,oro.imap.configuration.smtp_encryption.label,,Encryption,0
-messages,oro.imap.configuration.smtp_host.label,,"SMTP Host",0
-messages,oro.imap.configuration.smtp_port.label,,"SMTP Port",0
-messages,oro.imap.configuration.tooltip,,"If the value has changed, a new mailbox will be registered and all data from the currently configured mailbox will be lost.",0
-messages,oro.imap.configuration.use_imap.label,,"Enable IMAP",0
-messages,oro.imap.configuration.use_imap.tooltip,,"Enable IMAP sync with your mailbox to receive emails in OroCRM. If you do not know your IMAP credentials, please, contact your administrator.",0
-messages,oro.imap.configuration.use_smtp.label,,"Enable SMTP",0
-messages,oro.imap.configuration.use_smtp.tooltip,,"Enable SMTP sync to synchronize emails sent from OroCRM with your mailbox on the server, so you can see them in other email clients.",0
-messages,oro.imap.configuration.user.label,,User,0
-messages,oro.imap.sync.acl.credential_system_notifications.description,,"If the sync of the system mailbox was not successful due to the incorrect credentials, the user receives a message about this via the system mailbox.",0
-messages,oro.imap.sync.acl.credential_system_notifications.label,,"Receive notification messages for the system mailboxes that were configured incorrectly",0
-messages,oro.imap.sync.flash_message.system_box_failed,,"Synchronization of the system mailbox (username ""%username%"" hosted at ""%host%"") has failed. Please, check the connection credentials on the email configuraton page.",0
-messages,oro.imap.sync.flash_message.user_box_failed,,"Synchronization with your mailbox (username ""%username%"" hosted at ""%host%"") has failed. Please, check the connection credentials on the email configuraton page.",0
-messages,oro.imap.system_configuration.fields.enable_google_imap.error.label,,"Error during Authorization",0
-messages,oro.imap.system_configuration.fields.enable_google_imap.label,,Enable,0
-messages,oro.imap.system_configuration.fields.enable_google_imap.success.label,,"Authorization was successfull",0
-messages,oro.imap.system_configuration.fields.enable_google_imap.tooltip,,"Please make sure that Gmail API is enabled in the <a href=""https://console.developers.google.com/apis/api/gmail/overview/"" target=""_blank"">Google Developers Console</a>.",0
-messages,oro.imap.system_configuration.fields.enable_google_imap.warning.label,,"If you disable this option, all users' mailboxes configured with Gmail OAuth 2.0, will become unavailable for synchronization.",0
-messages,oro.imap.system_configuration.groups.google_imap_settings.title,,"OAuth 2.0 for email sync",0
-messages,oro.importexport.action.export,,"Export entity records",0
-messages,oro.importexport.action.import,,"Import entity records",0
-messages,oro.importexport.entity_config.block_title,,"Import & Export",0
-messages,oro.importexport.entity_config.excluded.label,,"Exclude Column",0
-messages,oro.importexport.entity_config.full.label,,"Export Fields",0
-messages,oro.importexport.entity_config.full.tooltip,,"All fields of the related entity will be exported",0
-messages,oro.importexport.entity_config.header.label,,"Column Name",0
-messages,oro.importexport.entity_config.header.tooltip,,"If blank Label will be used",0
-messages,oro.importexport.entity_config.identity.always,,Always,0
-messages,oro.importexport.entity_config.identity.label,,"Use as Identity Field",0
-messages,oro.importexport.entity_config.identity.only_when_not_empty,,"Only when not empty",0
-messages,oro.importexport.entity_config.identity.tooltip,,"If set to ""Only when not empty"", the field may be omitted in the identity when it has no value.",0
-messages,oro.importexport.entity_config.order.label,,"Column Position",0
-messages,oro.importexport.export.label,,Export,0
-messages,oro.importexport.export.popup.options.label,,"Exported data",0
-messages,oro.importexport.export.processor,,Processor,0
-messages,oro.importexport.export_template.label,,"Export template",0
-messages,oro.importexport.import.alert,,"%added% %entities% were added, %updated% %entities% were updated",0
-messages,oro.importexport.import.columns_notice,,"The file must be comma-separated only. Files containing other separators will be rejected.",0
-messages,oro.importexport.import.download_error_log,,"Error log",0
-messages,oro.importexport.import.entity,,"Import %entityName%",0
-messages,oro.importexport.import.entity_validation,,"Import %entityName% Validation",0
-messages,oro.importexport.import.error,,"Errors occurred during file import.",0
-messages,"oro.importexport.import.error %number%",,"Error in row #%number%.",0
-messages,oro.importexport.import.errors.access_denied_entity,,"Access denied to entity ""%entity_name%""",0
-messages,oro.importexport.import.errors.access_denied_property_entity,,"Access denied to property %property_name% of entity ""%entity_name%""",0
-messages,oro.importexport.import.errors.not_found_entity,,"Not found entity ""%entity_name%""",0
-messages,oro.importexport.import.errors.wrong_owner,,"You have no access to set given owner",0
-messages,oro.importexport.import.errors_found,,"Errors found: %errors%",0
-messages,oro.importexport.import.file,,File,0
-messages,oro.importexport.import.importance,,Important,0
-messages,oro.importexport.import.label,,"Import file",0
-messages,oro.importexport.import.oro_contact.add,,Add,0
-messages,oro.importexport.import.oro_contact.add_or_replace,,"Add and Replace",0
-messages,oro.importexport.import.oro_translation_translation.add_or_replace,,"Add and Replace",0
-messages,oro.importexport.import.oro_translation_translation.reset,,"Reset and Add",0
-messages,oro.importexport.import.postponed_rows,,"There were %postponedRows% rows that could not be proccessed.",0
-messages,oro.importexport.import.strategy,,Strategy,0
-messages,oro.importexport.import.strategy.tooltip,,"<b>Add and Replace</b> strategy overrides the existing data with the new one from the imported file.",0
-messages,oro.importexport.import.success,,"File was successfully imported.",0
-messages,oro.importexport.import.success.message,,"Import started successfully. You will receive an email notification upon completion.",0
-messages,oro.importexport.import.tempate,,"Download Data Template",0
-messages,oro.importexport.import.validate.success.message,,"Validation started successfully. You will receive an email notification upon completion.",0
-messages,oro.importexport.import.validation_label,,Validate,0
-messages,oro.importexport.message.entities.label,,entities,0
-messages,oro.integration.activate,,Activate,0
-messages,oro.integration.button.force_sync,,"Full Re-sync",0
-messages,oro.integration.button.sync,,"Schedule sync",0
-messages,oro.integration.channel.connectors.label,,Connectors,0
-messages,oro.integration.channel.default_business_unit_owner.label,,"Default Business Unit Owner",0
-messages,oro.integration.channel.default_user_owner.label,,"Default owner",0
-messages,oro.integration.channel.edit_mode.label,,"Edit mode",0
-messages,oro.integration.channel.enabled.description,,"Enable or disable integration",0
-messages,oro.integration.channel.enabled.label,,Enabled,0
-messages,oro.integration.channel.entity_description,,"Represent integration",0
-messages,oro.integration.channel.entity_label,,Integration,0
-messages,oro.integration.channel.entity_plural_label,,Integrations,0
-messages,oro.integration.channel.id.label,,Id,0
-messages,oro.integration.channel.mapping_settings.label,,"Mapping Setting",0
-messages,oro.integration.channel.name.description,,"Integration name",0
-messages,oro.integration.channel.name.label,,Name,0
-messages,oro.integration.channel.organization.label,,Organization,0
-messages,oro.integration.channel.previously_enabled.label,,"Previously Enabled",0
-messages,oro.integration.channel.statuses.label,,Statuses,0
-messages,oro.integration.channel.synchronization_settings.label,,"Synchronization Settings",0
-messages,oro.integration.channel.transport.label,,"Transport type",0
-messages,oro.integration.channel.type.description,,"Integration type",0
-messages,oro.integration.channel.type.label,,Type,0
-messages,oro.integration.controller.integration.message.activated,,"Integration activated",0
-messages,oro.integration.controller.integration.message.deactivated,,"Integration deactivated",0
-messages,oro.integration.controller.integration.message.saved,,"Integration saved",0
-messages,oro.integration.datagrid.action.activate,,Activate,0
-messages,oro.integration.datagrid.action.deactivate,,Deactivate,0
-messages,oro.integration.datagrid.action.delete,,Delete,0
-messages,oro.integration.datagrid.action.schedule_sync,,"Schedule Sync",0
-messages,oro.integration.datagrid.action.update,,Update,0
-messages,oro.integration.datagrid.column.name,,Name,0
-messages,oro.integration.datagrid.column.type,,Type,0
-messages,oro.integration.deactivate,,Deactivate,0
-messages,oro.integration.delete,,Delete,0
-messages,oro.integration.delete_sync_integration.content,,"Warning: Removing the integration will delete all related data",0
-messages,oro.integration.delete_sync_integration.success,,"Integration and all related data were deleted",0
-messages,oro.integration.form.no_available_integrations,,"No integrations available",0
-messages,oro.integration.integration.connectors.label,,Connectors,0
-messages,oro.integration.integration.default_business_unit_owner.description,,"Select owner of the integration. All entities imported from the integration will be owned by selected business unit. Parent units will be also assigned.",0
-messages,oro.integration.integration.default_business_unit_owner.label,,"Default Business Unit Owner",0
-messages,oro.integration.integration.default_user_owner.description,,"Select the owner of the integration. All entities imported from the integration will be assigned to the selected user.",0
-messages,oro.integration.integration.default_user_owner.label,,"Default owner",0
-messages,oro.integration.integration.enabled.active.label,,Active,0
-messages,oro.integration.integration.enabled.inactive.label,,Inactive,0
-messages,oro.integration.integration.enabled.label,,Status,0
-messages,oro.integration.integration.entity_description,,"Represent integration",0
-messages,oro.integration.integration.entity_label,,Integration,0
-messages,oro.integration.integration.entity_plural_label,,Integrations,0
-messages,oro.integration.integration.id.label,,Id,0
-messages,oro.integration.integration.is_two_way_sync_enabled.label,,"Enable two way sync",0
-messages,oro.integration.integration.local_wins.label,,"Local wins",0
-messages,oro.integration.integration.name.label,,Name,0
-messages,oro.integration.integration.organization.description,,"Select the organization for the integration.",0
-messages,oro.integration.integration.organization.label,,Organization,0
-messages,oro.integration.integration.remote_wins.label,,"Remote wins",0
-messages,oro.integration.integration.statuses.label,,Statuses,0
-messages,oro.integration.integration.sync_priority.label,,"Sync priority",0
-messages,oro.integration.integration.sync_priority.tooltip,,"Select if your local version of the data or the remote application data get priority in the case that both were updated since the last sync process.",0
-messages,oro.integration.integration.synchronization_settings.label,,"Synchronization Settings",0
-messages,oro.integration.integration.transport.label,,"Transport type",0
-messages,oro.integration.integration.type.label,,Type,0
-messages,oro.integration.integration_status.code.label,,Status,0
-messages,oro.integration.integration_status.competed.label,,Completed,0
-messages,oro.integration.integration_status.connector.label,,Connector,0
-messages,oro.integration.integration_status.failed.label,,Failed,0
-messages,oro.integration.integration_status.message.label,,Message,0
-messages,oro.integration.menu.integrations_list.label,,"Manage Integrations",0
-messages,oro.integration.menu.integrations_submenu.label,,Integrations,0
-messages,oro.integration.notification.channel.activated,,"Integration has been activated successfully",0
-messages,oro.integration.notification.channel.deactivated,,"Integration has been deactivated successfully",0
-messages,oro.integration.notification.channel.deleted,,"Integration has been deleted successfully",0
-messages,oro.integration.operation.attribute.actionAllowed.label,,"Action is allowed",0
-messages,oro.integration.operation.attribute.actionSuccess.label,,"Action is successful",0
-messages,oro.integration.scheduled,,"The synchronization has been scheduled. <a href=""%url%"">Check job progress</a>.",0
-messages,oro.integration.sync,,"A sync job has been added to the queue. {{ job_view_link }}",0
-messages,oro.integration.sync_error,,"Failed to add sync job to the queue.",0
-messages,oro.integration.sync_error_integration_deactivated,,"Cannot add sync job to the queue because the integration is not active.",0
-messages,oro.integration.system_configuration.groups.integrations.title,,Integrations,0
-messages,oro.layout.feature.development_settings.description,,"Development Settings is enabled only in dev environment",0
-messages,oro.layout.feature.development_settings.label,,"Development Settings",0
-messages,oro.layout.profiler.context.items,,"Context Items",0
-messages,oro.layout.profiler.messages.context.items,,"Context items is not found.",0
-messages,oro.layout.profiler.messages.tree,,"Views tree is not found.",0
-messages,oro.layout.profiler.title,,Layout,0
-messages,oro.layout.profiler.tree,,"Layout Tree",0
-messages,oro.layout.system_configuration.fields.debug_block_info.choices.no,,No,0
-messages,oro.layout.system_configuration.fields.debug_block_info.choices.yes,,Yes,0
-messages,oro.layout.system_configuration.fields.debug_block_info.label,,"Include block debug info into HTML",0
-messages,oro.layout.system_configuration.fields.debug_developer_toolbar.choices.no,,No,0
-messages,oro.layout.system_configuration.fields.debug_developer_toolbar.choices.yes,,Yes,0
-messages,oro.layout.system_configuration.fields.debug_developer_toolbar.label,,"Generate layout tree dump for the developer toolbar",0
-messages,oro.layout.system_configuration.fields.debug_developer_toolbar.tooltip,,"This option works with debug mode enabled only",0
-messages,oro.layout.system_configuration.groups.development_layout_settings.title,,Layouts,0
-messages,oro.layout.system_configuration.groups.development_settings.title,,"Development Settings",0
-messages,oro.locale.address_format.region_name_type.area,,area,0
-messages,oro.locale.address_format.region_name_type.county,,county,0
-messages,oro.locale.address_format.region_name_type.department,,department,0
-messages,oro.locale.address_format.region_name_type.district,,district,0
-messages,oro.locale.address_format.region_name_type.do_si,,do_si,0
-messages,oro.locale.address_format.region_name_type.island,,island,0
-messages,oro.locale.address_format.region_name_type.parish,,parish,0
-messages,oro.locale.address_format.region_name_type.prefecture,,prefecture,0
-messages,oro.locale.address_format.region_name_type.province,,province,0
-messages,oro.locale.address_format.region_name_type.state,,state,0
-messages,oro.locale.controller.localization.saved.message,,"Localization has been saved",0
-messages,oro.locale.date_format.day,,"MMM d",0
-messages,oro.locale.date_format.month,,"MMMM Y",0
+messages,oro.form.icon_select.eraser,cục gôm,eraser,0
+messages,oro.form.icon_select.exchange,"trao đổi, giao dịch",exchange,0
+messages,oro.form.icon_select.exclamation,cảm thán,exclamation,0
+messages,oro.form.icon_select.exclamation-sign,dấu chấm than,exclamation sign,0
+messages,oro.form.icon_select.expand,mở rộng,expand,0
+messages,oro.form.icon_select.expand-alt,mở rộng alt,expand alt,0
+messages,oro.form.icon_select.external-link,Liên kết bên ngoài,external link,0
+messages,oro.form.icon_select.external-link-sign,dấu hiệu liên kết bên ngoài,external link sign,0
+messages,oro.form.icon_select.eye-close,mắt nhắm,eye close,0
+messages,oro.form.icon_select.eye-open,mắt mở,eye open,0
+messages,oro.form.icon_select.facetime-video,video thời gian,facetime video,0
+messages,oro.form.icon_select.female,giống cái,female,0
+messages,oro.form.icon_select.fighter-jet,máy bay chiến đấu phản lực,fighter jet,0
+messages,oro.form.icon_select.film,phim ảnh,film,0
+messages,oro.form.icon_select.filter,bộ lọc,filter,0
+messages,oro.form.icon_select.fire,ngọn lửa,fire,0
+messages,oro.form.icon_select.fire-extinguisher,bình cứu hỏa,fire extinguisher,0
+messages,oro.form.icon_select.flag,cờ,flag,0
+messages,oro.form.icon_select.flag-alt,cờ alt,flag alt,0
+messages,oro.form.icon_select.flag-checkered,cờ rô,flag checkered,0
+messages,oro.form.icon_select.folder-close,thư mục đóng,folder close,0
+messages,oro.form.icon_select.folder-close-alt,thư mục đóng alt,folder close alt,0
+messages,oro.form.icon_select.folder-open,thư mục mở,folder open,0
+messages,oro.form.icon_select.folder-open-alt,thư mục mở alt,folder open alt,0
+messages,oro.form.icon_select.food,món ăn,food,0
+messages,oro.form.icon_select.frown,nhăn mặt,frown,0
+messages,oro.form.icon_select.gamepad,gamepad,gamepad,0
+messages,oro.form.icon_select.gear,Hộp số,gear,0
+messages,oro.form.icon_select.gears,bánh răng,gears,0
+messages,oro.form.icon_select.gift,quà tặng,gift,0
+messages,oro.form.icon_select.glass,ly,glass,0
+messages,oro.form.icon_select.globe,quả địa cầu,globe,0
+messages,oro.form.icon_select.group,nhóm,group,0
+messages,oro.form.icon_select.hdd,hdd,hdd,0
+messages,oro.form.icon_select.headphones,tai nghe,headphones,0
+messages,oro.form.icon_select.heart,tim,heart,0
+messages,oro.form.icon_select.heart-empty,tim trống rỗng,heart empty,0
+messages,oro.form.icon_select.home,nhà,home,0
+messages,oro.form.icon_select.inbox,hộp thư đến,inbox,0
+messages,oro.form.icon_select.info,thông tin,info,0
+messages,oro.form.icon_select.info-sign,dấu hiệu thông tin,info sign,0
+messages,oro.form.icon_select.key,Chìa khóa,key,0
+messages,oro.form.icon_select.keyboard,bàn phím,keyboard,0
+messages,oro.form.icon_select.laptop,máy tính xách tay,laptop,0
+messages,oro.form.icon_select.leaf,lá,leaf,0
+messages,oro.form.icon_select.legal,hợp pháp,legal,0
+messages,oro.form.icon_select.lemon,Chanh,lemon,0
+messages,oro.form.icon_select.level-down,hạ cấp,level down,0
+messages,oro.form.icon_select.level-up,lên cấp,level up,0
+messages,oro.form.icon_select.lightbulb,bóng đèn,lightbulb,0
+messages,oro.form.icon_select.list-alt,danh sách alt,list alt,0
+messages,oro.form.icon_select.location-arrow,mũi tên vị trí,location arrow,0
+messages,oro.form.icon_select.lock,Khóa,lock,0
+messages,oro.form.icon_select.magic,ma thuật,magic,0
+messages,oro.form.icon_select.magnet,nam châm,magnet,0
+messages,oro.form.icon_select.mail-forward,thư chuyển tiếp,mail forward,0
+messages,oro.form.icon_select.mail-reply,thư trả lời,mail reply,0
+messages,oro.form.icon_select.mail-reply-all,thư trả lời tất cả,mail reply all,0
+messages,oro.form.icon_select.male,Nam giới,male,0
+messages,oro.form.icon_select.map-marker,điểm đánh dấu bản đồ,map marker,0
+messages,oro.form.icon_select.meh,meh,meh,0
+messages,oro.form.icon_select.microphone,micrô,microphone,0
+messages,oro.form.icon_select.microphone-off,tắt micrô,microphone off,0
+messages,oro.form.icon_select.minus,dấu trừ,minus,0
+messages,oro.form.icon_select.minus-sign,dấu trừ,minus sign,0
+messages,oro.form.icon_select.minus-sign-alt,dấu trừ,minus sign alt,0
+messages,oro.form.icon_select.mobile-phone,điện thoại di động,mobile phone,0
+messages,oro.form.icon_select.money,tiền bạc,money,0
+messages,oro.form.icon_select.moon,mặt trăng,moon,0
+messages,oro.form.icon_select.move,di chuyển,move,0
+messages,oro.form.icon_select.music,Âm nhạc,music,0
+messages,oro.form.icon_select.off,tắt,off,0
+messages,oro.form.icon_select.ok,được,ok,0
+messages,oro.form.icon_select.ok-circle,vòng tròn ok,ok circle,0
+messages,oro.form.icon_select.ok-sign,dấu hiệu ok,ok sign,0
+messages,oro.form.icon_select.pencil,bút chì,pencil,0
+messages,oro.form.icon_select.phone,điện thoại,phone,0
+messages,oro.form.icon_select.phone-sign,dấu hiệu điện thoại,phone sign,0
+messages,oro.form.icon_select.picture,hình ảnh,picture,0
+messages,oro.form.icon_select.plane,máy bay,plane,0
+messages,oro.form.icon_select.plus,thêm,plus,0
+messages,oro.form.icon_select.plus-sign,dấu cộng,plus sign,0
+messages,oro.form.icon_select.plus-sign-alt,dấu cộng,plus sign alt,0
+messages,oro.form.icon_select.power-off,tắt nguồn,power off,0
+messages,oro.form.icon_select.print,in,print,0
+messages,oro.form.icon_select.pushpin,đinh ghim,pushpin,0
+messages,oro.form.icon_select.puzzle-piece,mảnh ghép,puzzle piece,0
+messages,oro.form.icon_select.qrcode,mã QR,qrcode,0
+messages,oro.form.icon_select.question,câu hỏi,question,0
+messages,oro.form.icon_select.question-sign,dấu hỏi,question sign,0
+messages,oro.form.icon_select.quote-left,trích dẫn trái,quote left,0
+messages,oro.form.icon_select.quote-right,báo giá đúng,quote right,0
+messages,oro.form.icon_select.random,ngẫu nhiên,random,0
+messages,oro.form.icon_select.refresh,Làm tươi,refresh,0
+messages,oro.form.icon_select.remove,tẩy,remove,0
+messages,oro.form.icon_select.remove-circle,xóa vòng kết nối,remove circle,0
+messages,oro.form.icon_select.remove-sign,xóa biển báo,remove sign,0
+messages,oro.form.icon_select.reorder,sắp xếp lại,reorder,0
+messages,oro.form.icon_select.reply,Đáp lại,reply,0
+messages,oro.form.icon_select.reply-all,trả lời tất cả,reply all,0
+messages,oro.form.icon_select.resize-horizontal,thay đổi kích thước ngang,resize horizontal,0
+messages,oro.form.icon_select.resize-vertical,thay đổi kích thước dọc,resize vertical,0
+messages,oro.form.icon_select.retweet,retweet,retweet,0
+messages,oro.form.icon_select.road,đường,road,0
+messages,oro.form.icon_select.rocket,tên lửa,rocket,0
+messages,oro.form.icon_select.rss,rss,rss,0
+messages,oro.form.icon_select.rss-sign,dấu hiệu rss,rss sign,0
+messages,oro.form.icon_select.screenshot,ảnh chụp màn hình,screenshot,0
+messages,oro.form.icon_select.search,Tìm kiếm,search,0
+messages,oro.form.icon_select.share,chia sẻ,share,0
+messages,oro.form.icon_select.share-alt,chia sẻ alt,share alt,0
+messages,oro.form.icon_select.share-sign,dấu hiệu chia sẻ,share sign,0
+messages,oro.form.icon_select.shield,cái khiên,shield,0
+messages,oro.form.icon_select.shopping-cart,giỏ mua hàng,shopping cart,0
+messages,oro.form.icon_select.sign-blank,ký trống,sign blank,0
+messages,oro.form.icon_select.signal,tín hiệu,signal,0
+messages,oro.form.icon_select.signin,đăng nhập,signin,0
+messages,oro.form.icon_select.signout,đăng xuất,signout,0
+messages,oro.form.icon_select.sitemap,sơ đồ trang web,sitemap,0
+messages,oro.form.icon_select.smile,nụ cười,smile,0
+messages,oro.form.icon_select.sort,sắp xếp,sort,0
+messages,oro.form.icon_select.sort-by-alphabet,sắp xếp theo bảng chữ cái,sort by alphabet,0
+messages,oro.form.icon_select.sort-by-alphabet-alt,sắp xếp theo bảng chữ cái alt,sort by alphabet alt,0
+messages,oro.form.icon_select.sort-by-attributes,sắp xếp theo thuộc tính,sort by attributes,0
+messages,oro.form.icon_select.sort-by-attributes-alt,sắp xếp theo thuộc tính alt,sort by attributes alt,0
+messages,oro.form.icon_select.sort-by-order,sắp xếp theo thứ tự,sort by order,0
+messages,oro.form.icon_select.sort-by-order-alt,sắp xếp theo thứ tự alt,sort by order alt,0
+messages,oro.form.icon_select.sort-down,sắp xếp,sort down,0
+messages,oro.form.icon_select.sort-up,sắp xếp,sort up,0
+messages,oro.form.icon_select.spinner,spinner,spinner,0
+messages,oro.form.icon_select.star,ngôi sao,star,0
+messages,oro.form.icon_select.star-empty,sao trống,star empty,0
+messages,oro.form.icon_select.star-half,sao một nửa,star half,0
+messages,oro.form.icon_select.star-half-empty,sao nửa trống,star half empty,0
+messages,oro.form.icon_select.star-half-full,sao một nửa đầy đủ,star half full,0
+messages,oro.form.icon_select.subscript,chỉ số,subscript,0
+messages,oro.form.icon_select.suitcase,va li,suitcase,0
+messages,oro.form.icon_select.sun,mặt trời,sun,0
+messages,oro.form.icon_select.superscript,siêu văn bản,superscript,0
+messages,oro.form.icon_select.tablet,máy tính bảng,tablet,0
+messages,oro.form.icon_select.tag,nhãn,tag,0
+messages,oro.form.icon_select.tags,thẻ,tags,0
+messages,oro.form.icon_select.tasks,nhiệm vụ,tasks,0
+messages,oro.form.icon_select.terminal,thiết bị đầu cuối,terminal,0
+messages,oro.form.icon_select.thumbs-down,ngón tay cái xuống,thumbs down,0
+messages,oro.form.icon_select.thumbs-down-alt,ngón tay cái xuống,thumbs down alt,0
+messages,oro.form.icon_select.thumbs-up,giơ ngón tay cái lên,thumbs up,0
+messages,oro.form.icon_select.thumbs-up-alt,ngón tay cái lên,thumbs up alt,0
+messages,oro.form.icon_select.ticket,vé,ticket,0
+messages,oro.form.icon_select.time,thời gian,time,0
+messages,oro.form.icon_select.tint,màu sắc,tint,0
+messages,oro.form.icon_select.trash,rác,trash,0
+messages,oro.form.icon_select.trophy,chiếc cúp,trophy,0
+messages,oro.form.icon_select.truck,xe tải,truck,0
+messages,oro.form.icon_select.umbrella,ô,umbrella,0
+messages,oro.form.icon_select.unchecked,không được đánh dấu,unchecked,0
+messages,oro.form.icon_select.unlock,mở khóa,unlock,0
+messages,oro.form.icon_select.unlock-alt,mở khóa alt,unlock alt,0
+messages,oro.form.icon_select.upload,tải lên,upload,0
+messages,oro.form.icon_select.upload-alt,tải lên alt,upload alt,0
+messages,oro.form.icon_select.user,người dùng,user,0
+messages,oro.form.icon_select.volume-down,giảm âm lượng,volume down,0
+messages,oro.form.icon_select.volume-off,giảm âm lượng,volume off,0
+messages,oro.form.icon_select.volume-up,tăng âm lượng,volume up,0
+messages,oro.form.icon_select.warning-sign,Dấu hiệu cảnh báo,warning sign,0
+messages,oro.form.icon_select.wrench,cờ lê,wrench,0
+messages,oro.form.icon_select.zoom-in,phóng to,zoom in,0
+messages,oro.form.icon_select.zoom-out,thu nhỏ,zoom out,0
+messages,oro.form.oro_duration.tooltip,Mã hóa được hỗ trợ: <ul> <li> #: #: # (ví dụ: '1: 30: 0' hoặc '90: 00 ') <li> #h #m #s (ví dụ:' 1h 30m 'hoặc' 1.5h ' hoặc '90m'),Encodings supported:<ul> <li>#:#:# (e.g. '1:30:0' or '90:00') <li>#h #m #s (e.g. '1h 30m' or '1.5h' or '90m'),0
+messages,oro.form.system_configuration.fields.wysiwyg_enabled.label,Bật trình chỉnh sửa WYSIWYG,Enable WYSIWYG editor,0
+messages,oro.form.system_configuration.fields.wysiwyg_enabled.tooltip,Bật trình chỉnh sửa WYSIWYG cho tất cả các trường văn bản,Enables WYSIWYG editor for all text fields,0
+messages,oro.form.system_configuration.groups.wysiwyg_settings.title,Cài đặt WYSIWYG,WYSIWYG settings,0
+messages,oro.form.tooltip.read_more,Đọc thêm,Read more,0
+messages,oro.google_integration.system_configuration.fields.client_id.label,Id khách hàng,Client Id,0
+messages,oro.google_integration.system_configuration.fields.client_secret.label,Bí mật của khách hàng,Client secret,0
+messages,oro.google_integration.system_configuration.fields.domains.label,Tên miền,Domains,0
+messages,oro.google_integration.system_configuration.fields.domains.tooltip,Danh sách các miền được phép được phân cách bằng dấu phẩy,Comma separated list of allowed domains,0
+messages,oro.google_integration.system_configuration.fields.google_api_key.label,Khóa API Google,Google API Key,0
+messages,oro.google_integration.system_configuration.groups.google_integration_settings.title,Cài đặt tích hợp của Google,Google Integration Settings,0
+messages,oro.google_integration.system_configuration.groups.google_integration_settings.tooltip,"Vui lòng đọc <a href=""https://support.google.com/cloud/answer/6158862?hl=vi"" target=""_blank""> hướng dẫn </a> để nhận thông tin xác thực. Đảm bảo rằng tên miền OroCRM của bạn được đưa vào `Nguồn gốc JavaScript được ủy quyền` và` URI chuyển hướng được ủy quyền`.","Please read <a href=""https://support.google.com/cloud/answer/6158862?hl=en"" target=""_blank"">instructions</a> for obtaining credentials. Make sure that your OroCRM domain is included into `Authorized JavaScript origins` and `Authorized redirect URIs`.",0
+messages,oro.google_integration.system_configuration.groups.google_settings.title,Cài đặt Google,Google Settings,0
+messages,oro.grid.action.clone,Sao chép,Clone,0
+messages,oro.grid.action.delete,Xóa bỏ,Delete,0
+messages,oro.grid.action.gridview_create_public.description,Chia sẻ chế độ xem dữ liệu tùy chỉnh với người dùng khác,Share custom data views with other users,0
+messages,oro.grid.action.gridview_create_public.label,Chia sẻ chế độ xem dữ liệu,Share data view,0
+messages,oro.grid.action.gridview_export.description,Xuất dữ liệu từ chế độ xem Lưới,Export data from Grid view,0
+messages,oro.grid.action.gridview_export.label,Chế độ xem lưới xuất,Export grid view,0
+messages,oro.grid.action.update,Chỉnh sửa,Edit,0
+messages,oro.grid.action.view,Lượt xem,View,0
+messages,oro.grid.datagrid.page_size.all,Tất cả các,All,0
+messages,oro.grid.export.csv,CSV,CSV,0
+messages,oro.grid.export.xlsx,XLSX,XLSX,0
+messages,oro.grid.mass_action.button_label,...,...,0
+messages,oro.grid.mass_action.confirm_content,Bạn có chắc chắn muốn làm điều này?,Are you sure you want to do this?,0
+messages,oro.grid.mass_action.confirm_ok,Ừ làm đi,"Yes, do it",0
+messages,oro.grid.mass_action.confirm_title,Xác nhận hành động hàng loạt,Mass Action Confirmation,0
+messages,oro.grid.mass_action.delete.confirm_content,Bạn có chắc chắn muốn xóa các mục này không?,Are you sure you want to delete these items?,0
+messages,oro.grid.mass_action.delete.confirm_title,Xác nhận xóa hàng loạt,Mass Delete Confirmation,0
+messages,oro.grid.mass_action.delete.label,Xóa bỏ,Delete,0
+messages,oro.grid.mass_action.delete.success_message,"{0} Không có thực thể nào bị xóa | {1} Một thực thể đã bị xóa |] 1, Inf [% count% thực thể đã được xóa thành công","{0} No entities were deleted|{1} One entity was deleted|]1,Inf[ %count% entities have been deleted successfully",0
+messages,oro.grid.mass_action.edit.success_message,"{0} Không có thực thể nào được chỉnh sửa | {1} Một thực thể đã được chỉnh sửa |] 1, Inf [% count% thực thể đã được chỉnh sửa","{0} No entities were edited|{1} One entity was edited|]1,Inf[ %count% entities were edited",0
+messages,oro.grid.mass_action.error_content,Không thể thực hiện hành động đại chúng,Cannot perform mass action,0
+messages,oro.grid.mass_action.error_title,Lỗi hành động hàng loạt,Mass Action Error,0
+messages,oro.grid.mass_action.label,Hành động hàng loạt,Mass Actions,0
+messages,oro.grid.mass_action.selected_rows,Hàng đã chọn,Selected Rows,0
+messages,oro.grid.open_link,Mở,Open,0
+messages,oro.grid.system_configuration.fields.default_per_page.label,Số mục mỗi trang theo mặc định,Items per Page by Default,0
+messages,oro.grid.system_configuration.fields.full_screen_layout_enabled.label,Khóa tiêu đề trong lưới,Lock headers in grids,0
+messages,oro.grid.system_configuration.fields.full_screen_layout_enabled.tooltip,Tham số này kiểm soát xem các tiêu đề lưới có bị khóa trên trang trong khi cuộn hay không,This parameter controls whether grid headers are locked on the page during scrolling,0
+messages,oro.grid.system_configuration.groups.grid_settings.title,Cài đặt lưới dữ liệu,Data Grid settings,0
+messages,oro.grid.system_configuration.groups.look_and_feel.title,Thiết lập hiển thị,Display Settings,0
+messages,oro.hangoutscall.call.hangouts_call,Cuộc gọi Hangouts,Hangouts call,0
+messages,oro.hangoutscall.label,Đi chơi,Hangout,0
+messages,oro.hangoutscall.system_configuration.fields.enable_google_hangouts_for_email.label,Bật cho email,Enable for Emails,0
+messages,oro.hangoutscall.system_configuration.fields.enable_google_hangouts_for_phone.label,Bật cho điện thoại,Enable for Phones,0
+messages,oro.hangoutscall.system_configuration.groups.google_hangouts_settings.title,Google Hangouts,Google Hangouts,0
+messages,oro.imap.configuration.account_type.gmail,Gmail,Gmail,0
+messages,oro.imap.configuration.account_type.label,Kiểu tài khoản,Account Type,0
+messages,oro.imap.configuration.account_type.other,Khác,Other,0
+messages,oro.imap.configuration.account_type.selectType,Không được chọn,Not Selected,0
+messages,oro.imap.configuration.connect,Kết nối,Connect,0
+messages,oro.imap.configuration.connect_and_retrieve_folders,Kiểm tra kết nối / Truy xuất thư mục,Check connection/Retrieve folders,0
+messages,oro.imap.configuration.disconnect.label,Ngắt kết nối,Disconnect,0
+messages,oro.imap.configuration.imap_encryption.label,Mã hóa,Encryption,0
+messages,oro.imap.configuration.imap_host.label,Máy chủ IMAP,IMAP Host,0
+messages,oro.imap.configuration.imap_port.label,Cổng IMAP,IMAP Port,0
+messages,oro.imap.configuration.password.label,Mật khẩu,Password,0
+messages,oro.imap.configuration.reset_email.label,Tài khoản được kết nối,Connected Account,0
+messages,oro.imap.configuration.smtp_encryption.label,Mã hóa,Encryption,0
+messages,oro.imap.configuration.smtp_host.label,Máy chủ SMTP,SMTP Host,0
+messages,oro.imap.configuration.smtp_port.label,Cổng SMTP,SMTP Port,0
+messages,oro.imap.configuration.tooltip,"Nếu giá trị đã thay đổi, một hộp thư mới sẽ được đăng ký và tất cả dữ liệu từ hộp thư hiện được cấu hình sẽ bị mất.","If the value has changed, a new mailbox will be registered and all data from the currently configured mailbox will be lost.",0
+messages,oro.imap.configuration.use_imap.label,Bật IMAP,Enable IMAP,0
+messages,oro.imap.configuration.use_imap.tooltip,"Bật đồng bộ hóa IMAP với hộp thư của bạn để nhận email trong OroCRM. Nếu bạn không biết thông tin đăng nhập IMAP của mình, vui lòng liên hệ với quản trị viên của bạn.","Enable IMAP sync with your mailbox to receive emails in OroCRM. If you do not know your IMAP credentials, please, contact your administrator.",0
+messages,oro.imap.configuration.use_smtp.label,Bật SMTP,Enable SMTP,0
+messages,oro.imap.configuration.use_smtp.tooltip,"Bật đồng bộ hóa SMTP để đồng bộ hóa email được gửi từ OroCRM với hộp thư của bạn trên máy chủ, để bạn có thể xem chúng trong các ứng dụng email khác.","Enable SMTP sync to synchronize emails sent from OroCRM with your mailbox on the server, so you can see them in other email clients.",0
+messages,oro.imap.configuration.user.label,Người dùng,User,0
+messages,oro.imap.sync.acl.credential_system_notifications.description,"Nếu đồng bộ hóa hộp thư hệ thống không thành công do thông tin đăng nhập không chính xác, người dùng sẽ nhận được thông báo về điều này qua hộp thư hệ thống.","If the sync of the system mailbox was not successful due to the incorrect credentials, the user receives a message about this via the system mailbox.",0
+messages,oro.imap.sync.acl.credential_system_notifications.label,Nhận tin nhắn thông báo cho các hộp thư hệ thống được cấu hình không chính xác,Receive notification messages for the system mailboxes that were configured incorrectly,0
+messages,oro.imap.sync.flash_message.system_box_failed,"Đồng bộ hóa hộp thư hệ thống (tên người dùng ""% username%"" được lưu trữ tại ""% host%"") đã không thành công. Vui lòng kiểm tra thông tin đăng nhập kết nối trên trang cấu hình email.","Synchronization of the system mailbox (username ""%username%"" hosted at ""%host%"") has failed. Please, check the connection credentials on the email configuraton page.",0
+messages,oro.imap.sync.flash_message.user_box_failed,"Đồng bộ hóa với hộp thư của bạn (tên người dùng ""% username%"" được lưu trữ tại ""% host%"") đã không thành công. Vui lòng kiểm tra thông tin đăng nhập kết nối trên trang cấu hình email.","Synchronization with your mailbox (username ""%username%"" hosted at ""%host%"") has failed. Please, check the connection credentials on the email configuraton page.",0
+messages,oro.imap.system_configuration.fields.enable_google_imap.error.label,Lỗi khi ủy quyền,Error during Authorization,0
+messages,oro.imap.system_configuration.fields.enable_google_imap.label,Bật,Enable,0
+messages,oro.imap.system_configuration.fields.enable_google_imap.success.label,Ủy quyền thành công,Authorization was successfull,0
+messages,oro.imap.system_configuration.fields.enable_google_imap.tooltip,"Vui lòng đảm bảo rằng API Gmail được bật trong <a href=""https://console.developers.google.com/apis/api/gmail/overview/"" target=""_blank""> Bảng điều khiển dành cho nhà phát triển của Google </a>.","Please make sure that Gmail API is enabled in the <a href=""https://console.developers.google.com/apis/api/gmail/overview/"" target=""_blank"">Google Developers Console</a>.",0
+messages,oro.imap.system_configuration.fields.enable_google_imap.warning.label,"Nếu bạn tắt tùy chọn này, tất cả hộp thư của người dùng được định cấu hình bằng Gmail OAuth 2.0 sẽ không khả dụng để đồng bộ hóa.","If you disable this option, all users' mailboxes configured with Gmail OAuth 2.0, will become unavailable for synchronization.",0
+messages,oro.imap.system_configuration.groups.google_imap_settings.title,OAuth 2.0 để đồng bộ hóa email,OAuth 2.0 for email sync,0
+messages,oro.importexport.action.export,Xuất bản ghi thực thể,Export entity records,0
+messages,oro.importexport.action.import,Nhập bản ghi thực thể,Import entity records,0
+messages,oro.importexport.entity_config.block_title,Nhập khẩu xuất khẩu,Import & Export,0
+messages,oro.importexport.entity_config.excluded.label,Loại trừ cột,Exclude Column,0
+messages,oro.importexport.entity_config.full.label,Xuất trường,Export Fields,0
+messages,oro.importexport.entity_config.full.tooltip,Tất cả các trường của thực thể liên quan sẽ được xuất,All fields of the related entity will be exported,0
+messages,oro.importexport.entity_config.header.label,Tên cột dọc,Column Name,0
+messages,oro.importexport.entity_config.header.tooltip,Nếu nhãn trống sẽ được sử dụng,If blank Label will be used,0
+messages,oro.importexport.entity_config.identity.always,Luôn luôn,Always,0
+messages,oro.importexport.entity_config.identity.label,Sử dụng làm trường nhận dạng,Use as Identity Field,0
+messages,oro.importexport.entity_config.identity.only_when_not_empty,Chỉ khi không trống,Only when not empty,0
+messages,oro.importexport.entity_config.identity.tooltip,"Nếu được đặt thành ""Chỉ khi không trống"", trường có thể bị bỏ qua trong danh tính khi nó không có giá trị.","If set to ""Only when not empty"", the field may be omitted in the identity when it has no value.",0
+messages,oro.importexport.entity_config.order.label,Vị trí cột,Column Position,0
+messages,oro.importexport.export.label,Xuất khẩu,Export,0
+messages,oro.importexport.export.popup.options.label,Dữ liệu đã xuất,Exported data,0
+messages,oro.importexport.export.processor,Bộ xử lý,Processor,0
+messages,oro.importexport.export_template.label,Xuất mẫu,Export template,0
+messages,oro.importexport.import.alert,"% đã thêm%% thực thể% đã được thêm,% cập nhật%% thực thể% đã được cập nhật","%added% %entities% were added, %updated% %entities% were updated",0
+messages,oro.importexport.import.columns_notice,Tệp chỉ được phân tách bằng dấu phẩy. Các tệp chứa các trình tách khác sẽ bị từ chối.,The file must be comma-separated only. Files containing other separators will be rejected.,0
+messages,oro.importexport.import.download_error_log,Nhật ký lỗi,Error log,0
+messages,oro.importexport.import.entity,Nhập% entityName%,Import %entityName%,0
+messages,oro.importexport.import.entity_validation,Nhập% xác thực% entityName,Import %entityName% Validation,0
+messages,oro.importexport.import.error,Đã xảy ra lỗi khi nhập tệp.,Errors occurred during file import.,0
+messages,oro.importexport.import.error %number%,Lỗi trong hàng #% number%.,Error in row #%number%.,0
+messages,oro.importexport.import.errors.access_denied_entity,"Quyền truy cập bị từ chối đối với thực thể ""% entity_name%""","Access denied to entity ""%entity_name%""",0
+messages,oro.importexport.import.errors.access_denied_property_entity,"Quyền truy cập bị từ chối vào thuộc tính% property_name% của pháp nhân ""% entity_name%""","Access denied to property %property_name% of entity ""%entity_name%""",0
+messages,oro.importexport.import.errors.not_found_entity,"Không tìm thấy pháp nhân ""% entity_name%""","Not found entity ""%entity_name%""",0
+messages,oro.importexport.import.errors.wrong_owner,Bạn không có quyền truy cập để đặt chủ sở hữu đã cho,You have no access to set given owner,0
+messages,oro.importexport.import.errors_found,Lỗi được tìm thấy:% errors%,Errors found: %errors%,0
+messages,oro.importexport.import.file,Tập tin,File,0
+messages,oro.importexport.import.importance,Quan trọng,Important,0
+messages,oro.importexport.import.label,Nhập tệp,Import file,0
+messages,oro.importexport.import.oro_contact.add,Thêm vào,Add,0
+messages,oro.importexport.import.oro_contact.add_or_replace,Thêm và thay thế,Add and Replace,0
+messages,oro.importexport.import.oro_translation_translation.add_or_replace,Thêm và thay thế,Add and Replace,0
+messages,oro.importexport.import.oro_translation_translation.reset,Đặt lại và thêm,Reset and Add,0
+messages,oro.importexport.import.postponed_rows,Đã có% hàng% hàng% không thể được xử lý.,There were %postponedRows% rows that could not be proccessed.,0
+messages,oro.importexport.import.strategy,Chiến lược,Strategy,0
+messages,oro.importexport.import.strategy.tooltip,<b> Thêm và thay thế chiến lược </ b> sẽ ghi đè dữ liệu hiện có bằng dữ liệu mới từ tệp được nhập.,<b>Add and Replace</b> strategy overrides the existing data with the new one from the imported file.,0
+messages,oro.importexport.import.success,Tệp đã được nhập thành công.,File was successfully imported.,0
+messages,oro.importexport.import.success.message,Đã bắt đầu nhập thành công. Bạn sẽ nhận được thông báo qua email sau khi hoàn tất.,Import started successfully. You will receive an email notification upon completion.,0
+messages,oro.importexport.import.tempate,Tải xuống mẫu dữ liệu,Download Data Template,0
+messages,oro.importexport.import.validate.success.message,Đã bắt đầu xác thực thành công. Bạn sẽ nhận được thông báo qua email sau khi hoàn tất.,Validation started successfully. You will receive an email notification upon completion.,0
+messages,oro.importexport.import.validation_label,Xác thực,Validate,0
+messages,oro.importexport.message.entities.label,thực thể,entities,0
+messages,oro.integration.activate,Kích hoạt,Activate,0
+messages,oro.integration.button.force_sync,Đồng bộ hóa lại đầy đủ,Full Re-sync,0
+messages,oro.integration.button.sync,Lên lịch đồng bộ hóa,Schedule sync,0
+messages,oro.integration.channel.connectors.label,Kết nối,Connectors,0
+messages,oro.integration.channel.default_business_unit_owner.label,Chủ sở hữu đơn vị kinh doanh mặc định,Default Business Unit Owner,0
+messages,oro.integration.channel.default_user_owner.label,Chủ sở hữu mặc định,Default owner,0
+messages,oro.integration.channel.edit_mode.label,Chế độ chỉnh sửa,Edit mode,0
+messages,oro.integration.channel.enabled.description,Bật hoặc tắt tích hợp,Enable or disable integration,0
+messages,oro.integration.channel.enabled.label,Đã bật,Enabled,0
+messages,oro.integration.channel.entity_description,Đại diện tích hợp,Represent integration,0
+messages,oro.integration.channel.entity_label,Hội nhập,Integration,0
+messages,oro.integration.channel.entity_plural_label,Tích hợp,Integrations,0
+messages,oro.integration.channel.id.label,ID,Id,0
+messages,oro.integration.channel.mapping_settings.label,Cài đặt ánh xạ,Mapping Setting,0
+messages,oro.integration.channel.name.description,Tên tích hợp,Integration name,0
+messages,oro.integration.channel.name.label,Tên,Name,0
+messages,oro.integration.channel.organization.label,Cơ quan,Organization,0
+messages,oro.integration.channel.previously_enabled.label,Đã bật trước đây,Previously Enabled,0
+messages,oro.integration.channel.statuses.label,Trạng thái,Statuses,0
+messages,oro.integration.channel.synchronization_settings.label,Cài đặt đồng bộ hóa,Synchronization Settings,0
+messages,oro.integration.channel.transport.label,Loại vận chuyển,Transport type,0
+messages,oro.integration.channel.type.description,Kiểu tích hợp,Integration type,0
+messages,oro.integration.channel.type.label,Kiểu,Type,0
+messages,oro.integration.controller.integration.message.activated,Đã kích hoạt tích hợp,Integration activated,0
+messages,oro.integration.controller.integration.message.deactivated,Đã hủy kích hoạt tích hợp,Integration deactivated,0
+messages,oro.integration.controller.integration.message.saved,Đã lưu tích hợp,Integration saved,0
+messages,oro.integration.datagrid.action.activate,Kích hoạt,Activate,0
+messages,oro.integration.datagrid.action.deactivate,Hủy kích hoạt,Deactivate,0
+messages,oro.integration.datagrid.action.delete,Xóa bỏ,Delete,0
+messages,oro.integration.datagrid.action.schedule_sync,Lên lịch đồng bộ hóa,Schedule Sync,0
+messages,oro.integration.datagrid.action.update,Cập nhật,Update,0
+messages,oro.integration.datagrid.column.name,Tên,Name,0
+messages,oro.integration.datagrid.column.type,Kiểu,Type,0
+messages,oro.integration.deactivate,Hủy kích hoạt,Deactivate,0
+messages,oro.integration.delete,Xóa bỏ,Delete,0
+messages,oro.integration.delete_sync_integration.content,Cảnh báo: Việc xóa tích hợp sẽ xóa tất cả dữ liệu có liên quan,Warning: Removing the integration will delete all related data,0
+messages,oro.integration.delete_sync_integration.success,Tích hợp và tất cả dữ liệu liên quan đã bị xóa,Integration and all related data were deleted,0
+messages,oro.integration.form.no_available_integrations,Không có tích hợp,No integrations available,0
+messages,oro.integration.integration.connectors.label,Kết nối,Connectors,0
+messages,oro.integration.integration.default_business_unit_owner.description,Chọn chủ sở hữu của tích hợp. Tất cả các thực thể được nhập từ tích hợp sẽ được sở hữu bởi đơn vị kinh doanh được chọn. Các đơn vị phụ huynh cũng sẽ được chỉ định.,Select owner of the integration. All entities imported from the integration will be owned by selected business unit. Parent units will be also assigned.,0
+messages,oro.integration.integration.default_business_unit_owner.label,Chủ sở hữu đơn vị kinh doanh mặc định,Default Business Unit Owner,0
+messages,oro.integration.integration.default_user_owner.description,Chọn chủ sở hữu của tích hợp. Tất cả các thực thể được nhập từ tích hợp sẽ được gán cho người dùng đã chọn.,Select the owner of the integration. All entities imported from the integration will be assigned to the selected user.,0
+messages,oro.integration.integration.default_user_owner.label,Chủ sở hữu mặc định,Default owner,0
+messages,oro.integration.integration.enabled.active.label,Hoạt động,Active,0
+messages,oro.integration.integration.enabled.inactive.label,Không hoạt động,Inactive,0
+messages,oro.integration.integration.enabled.label,Trạng thái,Status,0
+messages,oro.integration.integration.entity_description,Đại diện tích hợp,Represent integration,0
+messages,oro.integration.integration.entity_label,Hội nhập,Integration,0
+messages,oro.integration.integration.entity_plural_label,Tích hợp,Integrations,0
+messages,oro.integration.integration.id.label,ID,Id,0
+messages,oro.integration.integration.is_two_way_sync_enabled.label,Bật đồng bộ hóa hai chiều,Enable two way sync,0
+messages,oro.integration.integration.local_wins.label,Thắng địa phương,Local wins,0
+messages,oro.integration.integration.name.label,Tên,Name,0
+messages,oro.integration.integration.organization.description,Chọn tổ chức để tích hợp.,Select the organization for the integration.,0
+messages,oro.integration.integration.organization.label,Cơ quan,Organization,0
+messages,oro.integration.integration.remote_wins.label,Chiến thắng từ xa,Remote wins,0
+messages,oro.integration.integration.statuses.label,Trạng thái,Statuses,0
+messages,oro.integration.integration.sync_priority.label,Ưu tiên đồng bộ hóa,Sync priority,0
+messages,oro.integration.integration.sync_priority.tooltip,Chọn nếu phiên bản dữ liệu cục bộ của bạn hoặc dữ liệu ứng dụng từ xa được ưu tiên trong trường hợp cả hai được cập nhật kể từ lần đồng bộ hóa cuối cùng.,Select if your local version of the data or the remote application data get priority in the case that both were updated since the last sync process.,0
+messages,oro.integration.integration.synchronization_settings.label,Cài đặt đồng bộ hóa,Synchronization Settings,0
+messages,oro.integration.integration.transport.label,Loại vận chuyển,Transport type,0
+messages,oro.integration.integration.type.label,Kiểu,Type,0
+messages,oro.integration.integration_status.code.label,Trạng thái,Status,0
+messages,oro.integration.integration_status.competed.label,Đã hoàn thành,Completed,0
+messages,oro.integration.integration_status.connector.label,Kết nối,Connector,0
+messages,oro.integration.integration_status.failed.label,Thất bại,Failed,0
+messages,oro.integration.integration_status.message.label,Thông điệp,Message,0
+messages,oro.integration.menu.integrations_list.label,Quản lý tích hợp,Manage Integrations,0
+messages,oro.integration.menu.integrations_submenu.label,Tích hợp,Integrations,0
+messages,oro.integration.notification.channel.activated,Tích hợp đã được kích hoạt thành công,Integration has been activated successfully,0
+messages,oro.integration.notification.channel.deactivated,Tích hợp đã được vô hiệu hoá thành công,Integration has been deactivated successfully,0
+messages,oro.integration.notification.channel.deleted,Tích hợp đã được xóa thành công,Integration has been deleted successfully,0
+messages,oro.integration.operation.attribute.actionAllowed.label,Hành động được cho phép,Action is allowed,0
+messages,oro.integration.operation.attribute.actionSuccess.label,Hành động thành công,Action is successful,0
+messages,oro.integration.scheduled,"Quá trình đồng bộ hóa đã được lên lịch. <a href=""%url%""> Kiểm tra tiến độ công việc </a>.","The synchronization has been scheduled. <a href=""%url%"">Check job progress</a>.",0
+messages,oro.integration.sync,Công việc đồng bộ hóa đã được thêm vào hàng đợi. {{job_view_link}},A sync job has been added to the queue. {{ job_view_link }},0
+messages,oro.integration.sync_error,Không thể thêm công việc đồng bộ hóa vào hàng đợi.,Failed to add sync job to the queue.,0
+messages,oro.integration.sync_error_integration_deactivated,Không thể thêm công việc đồng bộ vào hàng đợi vì tích hợp không hoạt động.,Cannot add sync job to the queue because the integration is not active.,0
+messages,oro.integration.system_configuration.groups.integrations.title,Tích hợp,Integrations,0
+messages,oro.layout.feature.development_settings.description,Cài đặt phát triển chỉ được bật trong môi trường dev,Development Settings is enabled only in dev environment,0
+messages,oro.layout.feature.development_settings.label,Cài đặt phát triển,Development Settings,0
+messages,oro.layout.profiler.context.items,Mục ngữ cảnh,Context Items,0
+messages,oro.layout.profiler.messages.context.items,Không tìm thấy các mục ngữ cảnh.,Context items is not found.,0
+messages,oro.layout.profiler.messages.tree,Không tìm thấy cây xem.,Views tree is not found.,0
+messages,oro.layout.profiler.title,Bố trí,Layout,0
+messages,oro.layout.profiler.tree,Cây bố cục,Layout Tree,0
+messages,oro.layout.system_configuration.fields.debug_block_info.choices.no,Không,No,0
+messages,oro.layout.system_configuration.fields.debug_block_info.choices.yes,Vâng,Yes,0
+messages,oro.layout.system_configuration.fields.debug_block_info.label,Bao gồm thông tin gỡ lỗi chặn vào HTML,Include block debug info into HTML,0
+messages,oro.layout.system_configuration.fields.debug_developer_toolbar.choices.no,Không,No,0
+messages,oro.layout.system_configuration.fields.debug_developer_toolbar.choices.yes,Vâng,Yes,0
+messages,oro.layout.system_configuration.fields.debug_developer_toolbar.label,Tạo đổ cây bố cục cho thanh công cụ dành cho nhà phát triển,Generate layout tree dump for the developer toolbar,0
+messages,oro.layout.system_configuration.fields.debug_developer_toolbar.tooltip,Tùy chọn này chỉ hoạt động với chế độ gỡ lỗi được bật,This option works with debug mode enabled only,0
+messages,oro.layout.system_configuration.groups.development_layout_settings.title,Bố cục,Layouts,0
+messages,oro.layout.system_configuration.groups.development_settings.title,Cài đặt phát triển,Development Settings,0
+messages,oro.locale.address_format.region_name_type.area,khu vực,area,0
+messages,oro.locale.address_format.region_name_type.county,quận,county,0
+messages,oro.locale.address_format.region_name_type.department,bộ phận,department,0
+messages,oro.locale.address_format.region_name_type.district,huyện,district,0
+messages,oro.locale.address_format.region_name_type.do_si,do_si,do_si,0
+messages,oro.locale.address_format.region_name_type.island,Đảo,island,0
+messages,oro.locale.address_format.region_name_type.parish,giáo xứ,parish,0
+messages,oro.locale.address_format.region_name_type.prefecture,quận,prefecture,0
+messages,oro.locale.address_format.region_name_type.province,tỉnh,province,0
+messages,oro.locale.address_format.region_name_type.state,tiểu bang,state,0
+messages,oro.locale.controller.localization.saved.message,Bản địa hóa đã được lưu,Localization has been saved,0
+messages,oro.locale.date_format.day,MMM d,MMM d,0
+messages,oro.locale.date_format.month,MMMM Y,MMMM Y,0

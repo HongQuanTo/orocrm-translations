@@ -1,400 +1,400 @@
-messages,oro.magento.creditmemo.subtotal.label,,Subtotal,0
-messages,oro.magento.creditmemo.synced_at.description,,"The date and time of the last Magento credit memo synchronization.",0
-messages,oro.magento.creditmemo.synced_at.label,,"Last Synced At",0
-messages,oro.magento.creditmemo.transaction_id.description,,"Number of transaction associated with Magento credit memo.",0
-messages,oro.magento.creditmemo.transaction_id.label,,"Transaction #",0
-messages,oro.magento.creditmemo.updated_at.description,,"The date and time Magento credit memo was updated.",0
-messages,oro.magento.creditmemo.updated_at.label,,"Updated At",0
-messages,oro.magento.creditmemoitem.additional_data.description,,"Additional data supplied for credit memo item.",0
-messages,oro.magento.creditmemoitem.additional_data.label,,"Additional data",0
-messages,oro.magento.creditmemoitem.channel.description,,"The integration via which information about a Magento credit memo item is received.",0
-messages,oro.magento.creditmemoitem.channel.label,,Integration,0
-messages,oro.magento.creditmemoitem.data_channel.description,,"The channel via which information about a Magento credit memo is received.",0
-messages,oro.magento.creditmemoitem.data_channel.label,,Channel,0
-messages,oro.magento.creditmemoitem.description.description,,"Description of product.",0
-messages,oro.magento.creditmemoitem.description.label,,Description,0
-messages,oro.magento.creditmemoitem.discount_amount.description,,"The discount amount applied for specific credit memo item.",0
-messages,oro.magento.creditmemoitem.discount_amount.label,,"Discount amount",0
-messages,oro.magento.creditmemoitem.entity_description,,"Allows you to operate with credit memos items.",0
-messages,oro.magento.creditmemoitem.entity_label,,"Magento Credit Memo Item",0
-messages,oro.magento.creditmemoitem.entity_plural_label,,"Magento Credit Memo Items",0
-messages,oro.magento.creditmemoitem.id.label,,Id,0
-messages,oro.magento.creditmemoitem.name.description,,"The name specified for a Magento credit memo item.",0
-messages,oro.magento.creditmemoitem.name.label,,Name,0
-messages,oro.magento.creditmemoitem.order_item_id.description,,"ID of the corresponding order item.",0
-messages,oro.magento.creditmemoitem.order_item_id.label,,"Order Item Id",0
-messages,oro.magento.creditmemoitem.origin_id.description,,"Credit memo item ID on the Magento side.",0
-messages,oro.magento.creditmemoitem.origin_id.label,,"Origin ID",0
-messages,oro.magento.creditmemoitem.owner.label,,Owner,0
-messages,oro.magento.creditmemoitem.parent.description,,"The credit memo to which a specific Magento credit memo item belongs.",0
-messages,oro.magento.creditmemoitem.parent.label,,"Credit Memo",0
-messages,oro.magento.creditmemoitem.price.description,,"The credit item price including special prices but before calculating taxes.",0
-messages,oro.magento.creditmemoitem.price.label,,Price,0
-messages,oro.magento.creditmemoitem.qty.description,,"The quantity of items to refund.",0
-messages,oro.magento.creditmemoitem.qty.label,,Qty,0
-messages,oro.magento.creditmemoitem.row_total.description,,"The row total price amount for a Magento credit memo item.",0
-messages,oro.magento.creditmemoitem.row_total.label,,"Row total",0
-messages,oro.magento.creditmemoitem.sku.description,,"A stock keeping unit represented by a unique identification code that allows to track a Magento credit memo item.",0
-messages,oro.magento.creditmemoitem.sku.label,,"Item SKU",0
-messages,oro.magento.creditmemoitem.tax_amount.description,,"The tax amount applied for specific credit memo item.",0
-messages,oro.magento.creditmemoitem.tax_amount.label,,"Tax amount",0
-messages,oro.magento.customer.account.description,,"The account that a Magento customer is assigned to.",0
-messages,oro.magento.customer.account.label,,Account,0
-messages,oro.magento.customer.address_book.title,,"Address Book",0
-messages,oro.magento.customer.addresses.description,,"Collection of Magento customer addresses: mailing, business, home, billing, etc.",0
-messages,oro.magento.customer.addresses.label,,Addresses,0
-messages,oro.magento.customer.birthday.description,,"The birthdate of a Magento customer.",0
-messages,oro.magento.customer.birthday.label,,Birthday,0
-messages,oro.magento.customer.carts.label,,Carts,0
-messages,oro.magento.customer.channel.description,,"The integration via which information about a Magento customer is received.",0
-messages,oro.magento.customer.channel.label,,Integration,0
-messages,oro.magento.customer.confirmed.description,,"Specifies whether a Magento customer has been confirmed.",0
-messages,oro.magento.customer.confirmed.label,,Confirmed,0
-messages,oro.magento.customer.contact.description,,"The contact that is specified for a Magento customer.",0
-messages,oro.magento.customer.contact.label,,Contact,0
-messages,oro.magento.customer.contact_information.label,,"Contact Information",0
-messages,oro.magento.customer.create_order,,"Create Order",0
-messages,oro.magento.customer.created_in.description,,"Specifies in which Magento store a Magento customer has been created.",0
-messages,oro.magento.customer.created_in.label,,"Created In",0
-messages,oro.magento.customer.currency.description,,"The currency configured for a Magento customer.",0
-messages,oro.magento.customer.currency.label,,Currency,0
-messages,oro.magento.customer.data_channel.description,,"The channel via which information about a Magento customer is received.",0
-messages,oro.magento.customer.data_channel.label,,Channel,0
-messages,oro.magento.customer.email.description,,"The email address assigned to a Magento customer.",0
-messages,oro.magento.customer.email.label,,Email,0
-messages,oro.magento.customer.entity_description,,"Magento Customers represent clients of Magento-based stores.",0
-messages,oro.magento.customer.entity_label,,"Magento Customer",0
-messages,oro.magento.customer.entity_plural_label,,"Magento Customers",0
-messages,oro.magento.customer.first_name.description,,"The first name specified for a Magento customer.",0
-messages,oro.magento.customer.first_name.label,,"First name",0
-messages,oro.magento.customer.frequency.description,,"The frequency of orders placed by a magento customer.",0
-messages,oro.magento.customer.frequency.label,,Frequency,0
-messages,oro.magento.customer.gender.description,,"The gender specified for a Magento customer.",0
-messages,oro.magento.customer.gender.label,,Gender,0
-messages,oro.magento.customer.group.label,,"Customer Group",0
-messages,oro.magento.customer.guest.description,,"Defines whether a Magento customer is a guest or a registered user.",0
-messages,oro.magento.customer.guest.label,,"Is Guest",0
-messages,oro.magento.customer.guest.no,,No,0
-messages,oro.magento.customer.guest.yes,,Yes,0
-messages,oro.magento.customer.id.label,,Id,0
-messages,oro.magento.customer.imported_at.description,,"The date and time when the record was imported.",0
-messages,oro.magento.customer.imported_at.label,,"Imported At",0
-messages,oro.magento.customer.is_active.description,,"Defines whether a Magento customer is active or inactive.",0
-messages,oro.magento.customer.is_active.label,,"Is active",0
-messages,oro.magento.customer.last_name.description,,"The last name specified for a Magento customer.",0
-messages,oro.magento.customer.last_name.label,,"Last name",0
-messages,oro.magento.customer.lifetime.description,,"The total amount of money received from a Magento customer.",0
-messages,oro.magento.customer.lifetime.label,,"Lifetime sales value",0
-messages,oro.magento.customer.middle_name.description,,"The middle name specified for Magento customer.",0
-messages,oro.magento.customer.middle_name.label,,"Middle name",0
-messages,oro.magento.customer.monetary.description,,"The amount of money a Magento customer spent on orders.",0
-messages,oro.magento.customer.monetary.label,,Monetary,0
-messages,oro.magento.customer.name.label,,Name,0
-messages,oro.magento.customer.name_prefix.description,,"The name prefix speficied for a Magento customer.",0
-messages,oro.magento.customer.name_prefix.label,,"Name prefix",0
-messages,oro.magento.customer.name_suffix.description,,"The name suffix specified for a Magento customer.",0
-messages,oro.magento.customer.name_suffix.label,,"Name suffix",0
-messages,oro.magento.customer.newsletter_subscribers.label,,"Newsletter Subscribers",0
-messages,oro.magento.customer.orders.label,,"Customer orders",0
-messages,oro.magento.customer.organization.label,,Organization,0
-messages,oro.magento.customer.origin_id.description,,"The Magento customer ID specified on the Magento side.",0
-messages,oro.magento.customer.origin_id.label,,"Origin Id",0
-messages,oro.magento.customer.owner.label,,Owner,0
-messages,oro.magento.customer.password.description,,"The password configured for a Magento customer in Oro application.",0
-messages,oro.magento.customer.password.label,,Password,0
-messages,oro.magento.customer.password.section,,"Password Management",0
-messages,oro.magento.customer.password.tooltip,,"Password is set only when it is not empty",0
-messages,oro.magento.customer.primary_addr.label,,"Primary Address",0
-messages,oro.magento.customer.recency.description,,"How long ago a Magento customer made the last order.",0
-messages,oro.magento.customer.recency.label,,Recency,0
-messages,oro.magento.customer.register.label,,Register,0
-messages,oro.magento.customer.sales.label,,Sales,0
-messages,oro.magento.customer.saved.message,,"Customer saved",0
-messages,oro.magento.customer.store.description,,"The Magento store in which a Magento customer was created.",0
-messages,oro.magento.customer.store.label,,Store,0
-messages,oro.magento.customer.sync_state.description,,"Synchronization status.",0
-messages,oro.magento.customer.sync_state.info,,"Partially synced",0
-messages,oro.magento.customer.sync_state.label,,"Sync State",0
-messages,oro.magento.customer.synced_at.description,,"The date and time of the last Magento customer synchronization.",0
-messages,oro.magento.customer.synced_at.label,,"Last Synced At",0
-messages,oro.magento.customer.vat.description,,"A Magento customer TAX/VAT number.",0
-messages,oro.magento.customer.vat.label,,Tax/Vat,0
-messages,oro.magento.customer.website.description,,"The website via which information about a Magento customer is received.",0
-messages,oro.magento.customer.website.label,,Website,0
-messages,oro.magento.customer_information,,"Customer Information",0
-messages,oro.magento.customer_tabs_title,,Customers,0
-messages,oro.magento.customergroup.channel.description,,"The integration via which information about a Magento customer group is received.",0
-messages,oro.magento.customergroup.channel.label,,Integration,0
-messages,oro.magento.customergroup.entity_label,,"Magento Customer Group",0
-messages,oro.magento.customergroup.entity_plural_label,,"Magento Customer Groups",0
-messages,oro.magento.customergroup.id.label,,Id,0
-messages,oro.magento.customergroup.name.label,,Name,0
-messages,oro.magento.customergroup.origin_id.label,,"Origin Id",0
-messages,oro.magento.customergroup.placeholder,,"Please, select group",0
-messages,oro.magento.dashboard.average_order_amount_chart.description,,"This widget shows average order amount for each data channel in a form of a line chart",0
-messages,oro.magento.dashboard.average_order_amount_chart.month,,Month,0
-messages,oro.magento.dashboard.average_order_amount_chart.order_amount,,"Order amount",0
-messages,oro.magento.dashboard.average_order_amount_chart.title,,"Average order amount",0
-messages,oro.magento.dashboard.e_commerce,,Ecommerce,0
-messages,oro.magento.dashboard.e_commerce_statistic.abandon_rate.label,,"Abandon rate",0
-messages,oro.magento.dashboard.e_commerce_statistic.abandoned_count.label,,"Abandoned carts",0
-messages,oro.magento.dashboard.e_commerce_statistic.abandoned_revenue.label,,"Abandoned revenue",0
-messages,oro.magento.dashboard.e_commerce_statistic.average_order_value.label,,"Average order value",0
-messages,oro.magento.dashboard.e_commerce_statistic.compare_to.label,,"Compare to Date",0
-messages,oro.magento.dashboard.e_commerce_statistic.customer_conversion.label,,"Customer conversion rate",0
-messages,oro.magento.dashboard.e_commerce_statistic.description,,"This widget displays a set of metrics that indicate performance of your eCommerce channels.",0
-messages,oro.magento.dashboard.e_commerce_statistic.discounted_orders_percent.label,,"Discounted orders",0
-messages,oro.magento.dashboard.e_commerce_statistic.new_customers_count.label,,"New customers",0
-messages,oro.magento.dashboard.e_commerce_statistic.order_conversion.label,,"Order conversion rate",0
-messages,oro.magento.dashboard.e_commerce_statistic.orders_number.label,,"Orders placed",0
-messages,oro.magento.dashboard.e_commerce_statistic.returning_customers_count.label,,"Returning customers",0
-messages,oro.magento.dashboard.e_commerce_statistic.revenue.label,,Revenue,0
-messages,oro.magento.dashboard.e_commerce_statistic.site_visits.label,,"Site visits",0
-messages,oro.magento.dashboard.e_commerce_statistic.sub_widgets.label,,Metrics,0
-messages,oro.magento.dashboard.e_commerce_statistic.title,,"Ecommerce Statistics",0
-messages,oro.magento.dashboard.my_sales_flow_b2c_chart.description,,"This widget gives you a quick overview of a B2C workflow in a form of a funnel chart",0
-messages,oro.magento.dashboard.my_sales_flow_b2c_chart.title,,"My Sales Flow B2C",0
-messages,oro.magento.dashboard.new_magento_customers_chart.customer_count,,"Customers count",0
-messages,oro.magento.dashboard.new_magento_customers_chart.description,,"This widget gives you a quick overview of new Magento customers",0
-messages,oro.magento.dashboard.new_magento_customers_chart.month,,Month,0
-messages,oro.magento.dashboard.new_magento_customers_chart.title,,"New Magento Customers",0
-messages,oro.magento.dashboard.orders_over_time_chart.current_period,,"Current period",0
-messages,oro.magento.dashboard.orders_over_time_chart.date,,Date,0
-messages,oro.magento.dashboard.orders_over_time_chart.description,,"This widget gives you a quick overview of Magento orders",0
-messages,oro.magento.dashboard.orders_over_time_chart.order_count,,"Order count",0
-messages,oro.magento.dashboard.orders_over_time_chart.previous_period,,"Previous period",0
-messages,oro.magento.dashboard.orders_over_time_chart.title,,"Orders over time",0
-messages,oro.magento.dashboard.purchase_chart.added_to_cart,,"Added to cart",0
-messages,oro.magento.dashboard.purchase_chart.deeply_visited,,Browsed,0
-messages,oro.magento.dashboard.purchase_chart.description,,"This widget gives you a quick overview of purchases",0
-messages,oro.magento.dashboard.purchase_chart.purchased,,Purchased,0
-messages,oro.magento.dashboard.purchase_chart.title,,"Purchase Funnel",0
-messages,oro.magento.dashboard.purchase_chart.visited,,Visited,0
-messages,oro.magento.dashboard.revenue_over_time_chart.current_period,,"Current period",0
-messages,oro.magento.dashboard.revenue_over_time_chart.date,,Date,0
-messages,oro.magento.dashboard.revenue_over_time_chart.description,,"This widget gives you a quick overview of Magento revenues",0
-messages,oro.magento.dashboard.revenue_over_time_chart.previous_period,,"Previous period",0
-messages,oro.magento.dashboard.revenue_over_time_chart.revenue,,Revenue,0
-messages,oro.magento.dashboard.revenue_over_time_chart.title,,"Revenue over time",0
-messages,oro.magento.datagrid.actions.view.label,,View,0
-messages,oro.magento.datagrid.columns.actions,,Actions,0
-messages,oro.magento.datagrid.columns.added_on,,"Placed On",0
-messages,oro.magento.datagrid.columns.billing_country,,"Billing country",0
-messages,oro.magento.datagrid.columns.billing_region,,"Billing state",0
-messages,oro.magento.datagrid.columns.channel,,Integration,0
-messages,oro.magento.datagrid.columns.coupon_code,,"Coupon code",0
-messages,oro.magento.datagrid.columns.currency,,Currency,0
-messages,oro.magento.datagrid.columns.customer_is_guest.label,,"Is Guest",0
-messages,oro.magento.datagrid.columns.customerGroup,,"Customer Group",0
-messages,oro.magento.datagrid.columns.discount_amount,,"Discount amount",0
-messages,oro.magento.datagrid.columns.discount_percent,,"Discount percent",0
-messages,oro.magento.datagrid.columns.discountAmount,,"Discount amount",0
-messages,oro.magento.datagrid.columns.discountPercent,,"Discount percent",0
-messages,oro.magento.datagrid.columns.email,,Email,0
-messages,oro.magento.datagrid.columns.first_name,,"First Name",0
-messages,oro.magento.datagrid.columns.gift_message,,"Gift message",0
-messages,oro.magento.datagrid.columns.grand_total,,"Grand Total",0
-messages,oro.magento.datagrid.columns.group,,Group,0
-messages,oro.magento.datagrid.columns.increment_id,,"Order #",0
-messages,oro.magento.datagrid.columns.is_subscriber.label,,"Is Subscriber",0
-messages,oro.magento.datagrid.columns.is_subscriber.no,,No,0
-messages,oro.magento.datagrid.columns.is_subscriber.unknown,,"Not defined",0
-messages,oro.magento.datagrid.columns.is_subscriber.yes,,Yes,0
-messages,oro.magento.datagrid.columns.items_qty,,"Items qty",0
-messages,oro.magento.datagrid.columns.last_name,,"Last Name",0
-messages,oro.magento.datagrid.columns.message,,Message,0
-messages,oro.magento.datagrid.columns.name,,Name,0
-messages,oro.magento.datagrid.columns.order_is_guest.label,,"Is Guest",0
-messages,oro.magento.datagrid.columns.orderCreatedAt,,"Order Date",0
-messages,oro.magento.datagrid.columns.originalPrice,,"Original price",0
-messages,oro.magento.datagrid.columns.originId,,ID,0
-messages,oro.magento.datagrid.columns.page_total,,"Page Total",0
-messages,oro.magento.datagrid.columns.phone,,Phone,0
-messages,oro.magento.datagrid.columns.price,,Price,0
-messages,oro.magento.datagrid.columns.price_incl_tax,,"Price Incl Tax",0
-messages,oro.magento.datagrid.columns.productType,,"Product type",0
-messages,oro.magento.datagrid.columns.qty,,Qty,0
-messages,oro.magento.datagrid.columns.removed_at,,"Removed At",0
-messages,oro.magento.datagrid.columns.row_total,,"Row Total",0
-messages,oro.magento.datagrid.columns.rowTotal,,"Row total",0
-messages,oro.magento.datagrid.columns.shipping_amount,,"Shipping Amount",0
-messages,oro.magento.datagrid.columns.sku,,Sku,0
-messages,oro.magento.datagrid.columns.specialPrice,,"Special Price",0
-messages,oro.magento.datagrid.columns.status,,Status,0
-messages,oro.magento.datagrid.columns.sub_total,,"Sub Total",0
-messages,oro.magento.datagrid.columns.subtotal_amount,,"Subtotal Amount",0
-messages,oro.magento.datagrid.columns.tax_amount,,"Tax Amount",0
-messages,oro.magento.datagrid.columns.taxAmount,,"Tax amount",0
-messages,oro.magento.datagrid.columns.taxPercent,,"Tax percent",0
-messages,oro.magento.datagrid.columns.total_invoiced,,"Total Invoiced",0
-messages,oro.magento.datagrid.columns.total_paid,,"Total Paid",0
-messages,oro.magento.datagrid.columns.type,,Type,0
-messages,oro.magento.datagrid.columns.updated_on,,"Updated On",0
-messages,oro.magento.datagrid.columns.website,,Website,0
-messages,oro.magento.datagrid.columns.websites,,Websites,0
-messages,oro.magento.datagrid.columns.weight,,Weight,0
-messages,oro.magento.datagrid.views.non_empty_carts.label,,"Magento Shopping Carts",0
-messages,oro.magento.entity_number,,"%entityName% %entityNumber%",0
-messages,oro.magento.form.choose_cart,,"Choose a cart...",0
-messages,oro.magento.form.choose_customer,,"Choose a customer...",0
-messages,oro.magento.form.choose_order,,"Choose an order...",0
-messages,oro.magento.general_info,,"General Info",0
-messages,oro.magento.general_information,,"General Information",0
-messages,oro.magento.magento2.label,,"Magento 2",0
-messages,oro.magento.magentotransport.admin_url.label,,"Admin url",0
-messages,oro.magento.magentotransport.all_sites,,"All web sites",0
-messages,oro.magento.magentotransport.check_connection.label,,"Check connection",0
-messages,oro.magento.magentotransport.entity_description,,"Represent integration channel transport",0
-messages,oro.magento.magentotransport.entity_label,,"Magento Integration Channel Transport",0
-messages,oro.magento.magentotransport.entity_plural_label,,"Magento Integration Channel Transports",0
-messages,oro.magento.magentotransport.guest_customer_sync.label,,"Guest Customer Sync",0
-messages,oro.magento.magentotransport.guest_customer_sync.tooltip,,"Selecting this option will combine guest orders under a single customer based on email. If a registered customer exists with this email, all guest orders with such email will be attributed to their account.",0
-messages,oro.magento.magentotransport.id.label,,Id,0
-messages,oro.magento.magentotransport.initial_sync_start_date.label,,"Initial sync start date",0
-messages,oro.magento.magentotransport.is_display_order_notes.label,,"Import Order Comments as Order Notes",0
-messages,oro.magento.magentotransport.is_display_order_notes.tooltip,,"When this option is disabled the order notes can be viewed only on Magento Order view page. When enabled, the order notes will also be visible on the Magento Customer view and Account view page.",0
-messages,oro.magento.magentotransport.is_display_order_notes.value.false.label,,No,0
-messages,oro.magento.magentotransport.is_display_order_notes.value.true.label,,Yes,0
-messages,oro.magento.magentotransport.is_extension_installed.label,,"Is extension installed",0
-messages,oro.magento.magentotransport.message.native_soap,,"Native Magento API is used; only customers and orders will be synced",0
-messages,oro.magento.magentotransport.message.outdated_bridge,,"OroBridge v.%extension_version% is used—outdated version",0
-messages,oro.magento.magentotransport.rest.api_key.label,,"REST API Key",0
-messages,oro.magento.magentotransport.rest.api_url.label,,"REST API URL",0
-messages,oro.magento.magentotransport.rest.api_user.label,,"REST API User",0
-messages,oro.magento.magentotransport.rest.new_api_key.label,,"New REST API Key",0
-messages,oro.magento.magentotransport.shared_guest_email_list.label,,"Split By Full Name",0
-messages,oro.magento.magentotransport.shared_guest_email_list.tooltip,,"Separate customer accounts will be created for Magento customers with the specified email(s) during import. To enter multiple emails use semicolons or commas.",0
-messages,oro.magento.magentotransport.soap.api_key.label,,"SOAP API Key",0
-messages,oro.magento.magentotransport.soap.api_user.label,,"SOAP API User",0
-messages,oro.magento.magentotransport.soap.is_wsi_mode.label,,"WS-I Compliance",0
-messages,oro.magento.magentotransport.soap.new_api_key.label,,"New SOAP API Key",0
-messages,oro.magento.magentotransport.soap.wsdl_url.label,,"SOAP WSDL URL",0
-messages,oro.magento.magentotransport.sync_range.label,,"Sync range",0
-messages,oro.magento.magentotransport.sync_start_date.label,,"Sync start date",0
-messages,oro.magento.magentotransport.sync_start_date.tooltip,,"This is the starting date for data synchronization. Only records updated after this date will be synchronized",0
-messages,oro.magento.magentotransport.website_id.label,,Website,0
-messages,oro.magento.magentotransport.website_id.tooltip,,"This is a list of websites associated with the Magento instance specified above. Only one website can be selected per channel. To refresh the list, click on the Sync website list link next to the control.",0
-messages,oro.magento.magentotransport.website_refresh.label,,"Sync website list",0
-messages,oro.magento.magentotransport.websites.label,,Websites,0
-messages,oro.magento.newslettersubscriber.action.subscribe,,Subscribe,0
-messages,oro.magento.newslettersubscriber.action.unsubscribe,,Unsubscribe,0
-messages,oro.magento.newslettersubscriber.change_status_at.label,,"Status change date",0
-messages,oro.magento.newslettersubscriber.channel.label,,Integration,0
-messages,oro.magento.newslettersubscriber.confirm_code.label,,"Confirmation code",0
-messages,oro.magento.newslettersubscriber.contact_information.label,,"Contact Information",0
-messages,oro.magento.newslettersubscriber.customer.label,,Customer,0
-messages,oro.magento.newslettersubscriber.data_channel.label,,Channel,0
-messages,oro.magento.newslettersubscriber.email.customer,,"Customer Email",0
-messages,oro.magento.newslettersubscriber.email.label,,Email,0
-messages,oro.magento.newslettersubscriber.entity_label,,"Magento Newsletter Subscriber",0
-messages,oro.magento.newslettersubscriber.entity_plural_label,,"Magento Newsletter Subscribers",0
-messages,oro.magento.newslettersubscriber.id.label,,Id,0
-messages,oro.magento.newslettersubscriber.label,,"Newsletter Subscriber",0
-messages,oro.magento.newslettersubscriber.organization.label,,Organization,0
-messages,oro.magento.newslettersubscriber.origin_id.label,,"Origin Id",0
-messages,oro.magento.newslettersubscriber.owner.label,,Owner,0
-messages,oro.magento.newslettersubscriber.status.label,,Status,0
-messages,oro.magento.newslettersubscriber.status.not_active,,"Not active",0
-messages,oro.magento.newslettersubscriber.status.subscribed,,Subscribed,0
-messages,oro.magento.newslettersubscriber.status.unconfirmed,,Unconfirmed,0
-messages,oro.magento.newslettersubscriber.status.unsubscribed,,Unsubscribed,0
-messages,oro.magento.newslettersubscriber.store.label,,Store,0
-messages,oro.magento.newslettersubscriber.website.label,,Website,0
-messages,oro.magento.order.addresses.description,,"Collection of addresses specified for a Magento order.",0
-messages,oro.magento.order.addresses.label,,Addresses,0
-messages,oro.magento.order.b2c_flow_order_follow_up.step.label,,Step,0
-messages,oro.magento.order.cart.description,,"The cart from which a Magento order was created.",0
-messages,oro.magento.order.cart.label,,Cart,0
-messages,oro.magento.order.channel.description,,"The integration via which information about a Magento order is received.",0
-messages,oro.magento.order.channel.label,,Integration,0
-messages,oro.magento.order.coupon_code.description,,"The coupon code added to a specific Magento order.",0
-messages,oro.magento.order.coupon_code.label,,"Coupon code",0
-messages,oro.magento.order.credit_memos.description,,"Collection of Credit Memos for a Magento order.",0
-messages,oro.magento.order.credit_memos.label,,"Credit Memos",0
-messages,oro.magento.order.currency.description,,"The currency configured for a Magento order.",0
-messages,oro.magento.order.currency.label,,Currency,0
-messages,oro.magento.order.customer.description,,"The Magento customer who created a Magento order.",0
-messages,oro.magento.order.customer.label,,Customer,0
-messages,oro.magento.order.customer_email.description,,"The email address assigned to a Magento customer.",0
-messages,oro.magento.order.customer_email.label,,Email,0
-messages,oro.magento.order.data_channel.description,,"The channel via which information about a Magento order has been received.",0
-messages,oro.magento.order.data_channel.label,,Channel,0
-messages,oro.magento.order.discount_amount.description,,"The discount amount specified for a Magento order.",0
-messages,oro.magento.order.discount_amount.label,,"Discount amount",0
-messages,oro.magento.order.discount_percent.description,,"The discount percent specified for a Magento order.",0
-messages,oro.magento.order.discount_percent.label,,"Discount percent",0
-messages,oro.magento.order.entity_description,,"Magento orders represent purchases made by customers in a Magento store.",0
-messages,oro.magento.order.entity_label,,"Magento Order",0
-messages,oro.magento.order.entity_plural_label,,"Magento Orders",0
-messages,oro.magento.order.feedback.description,,"Feedback provided for a specific Magento order.",0
-messages,oro.magento.order.feedback.label,,Feedback,0
-messages,oro.magento.order.first_name.description,,"The first name of a Magento customer that is specified in the Magento order.",0
-messages,oro.magento.order.first_name.label,,"First name",0
-messages,oro.magento.order.gift_message.description,,"Defines whether a gift message is specified for a Magento order.",0
-messages,oro.magento.order.gift_message.label,,"Gift message",0
-messages,oro.magento.order.id.label,,Id,0
-messages,oro.magento.order.imported_at.description,,"The date and time when the record was imported.",0
-messages,oro.magento.order.imported_at.label,,"Imported At",0
-messages,oro.magento.order.increment_id.description,,"The increment ID specified for a Magento order.",0
-messages,oro.magento.order.increment_id.label,,"Order #",0
-messages,oro.magento.order.is_guest.description,,"Defines whether a Magento customer who create an order is a guest or a registered user.",0
-messages,oro.magento.order.is_guest.label,,"Is Guest",0
-messages,oro.magento.order.is_guest.no,,No,0
-messages,oro.magento.order.is_guest.yes,,Yes,0
-messages,oro.magento.order.is_virtual.description,,"Defines whether the Magento cart item is virtual.",0
-messages,oro.magento.order.is_virtual.label,,"Is virtual",0
-messages,oro.magento.order.items.description,,"The items specified for a Magento order.",0
-messages,oro.magento.order.items.label,,"Order items",0
-messages,oro.magento.order.items_qty.label,,"Items qty",0
-messages,oro.magento.order.last_name.description,,"The last name of a Magento customer that is specified in the Magento order.",0
-messages,oro.magento.order.last_name.label,,"Last name",0
-messages,oro.magento.order.notes.description,,"Additional information that a customer can leave for a Magento order.",0
-messages,oro.magento.order.notes.label,,"Additional comments",0
-messages,oro.magento.order.order_notes.description,,"Notes added by a store admin to an order on the Magento side.",0
-messages,oro.magento.order.order_notes.label,,"Magento Order Notes",0
-messages,oro.magento.order.order_notes.short_label,,"Order Notes",0
-messages,oro.magento.order.organization.label,,Organization,0
-messages,oro.magento.order.origin_id.description,,"Order ID on the Magento side.",0
-messages,oro.magento.order.origin_id.label,,"Order origin id",0
-messages,oro.magento.order.owner.label,,Owner,0
-messages,oro.magento.order.payment_details.description,,"Payment details specified for a Magento order.",0
-messages,oro.magento.order.payment_details.label,,"Payment details",0
-messages,oro.magento.order.payment_method.description,,"Payment method specified for a Magento order.",0
-messages,oro.magento.order.payment_method.label,,"Payment method",0
-messages,oro.magento.order.refresh_label,,"Sync Data",0
-messages,oro.magento.order.related_calls.label,,Calls,0
-messages,oro.magento.order.related_emails.label,,Emails,0
-messages,oro.magento.order.remote_ip.description,,"The remote IP address of a customer who created a Magento order.",0
-messages,oro.magento.order.remote_ip.label,,"Remote address",0
-messages,oro.magento.order.shipping_amount.description,,"The shipping price amount configured for a Magento order.",0
-messages,oro.magento.order.shipping_amount.label,,"Shipping amount",0
-messages,oro.magento.order.shipping_method.description,,"The shipping method specified for a Magento order.",0
-messages,oro.magento.order.shipping_method.label,,"Shipping method",0
-messages,oro.magento.order.status.description,,"The status of a Magento order (Processing, Canceled, Completed).",0
-messages,oro.magento.order.status.label,,Status,0
-messages,oro.magento.order.store.description,,"A Magento store where a Magento order was created.",0
-messages,oro.magento.order.store.label,,Store,0
-messages,oro.magento.order.store_name.description,,"The Magento store in which the order was created.",0
-messages,oro.magento.order.store_name.label,,Website,0
-messages,oro.magento.order.subtotal_amount.description,,"The subtotal amount configured for the items in a Magento order.",0
-messages,oro.magento.order.subtotal_amount.label,,"Subtotal amount",0
-messages,oro.magento.order.sync_state.info,,"Partially synced",0
-messages,oro.magento.order.sync_state.label,,"Sync State",0
-messages,oro.magento.order.synced_at.description,,"The date and time of the last Magento order synchronization.",0
-messages,oro.magento.order.synced_at.label,,"Last Synced At",0
-messages,oro.magento.order.tax_amount.description,,"The amount of tax applied to items in a Magento order.",0
-messages,oro.magento.order.tax_amount.label,,"Tax amount",0
-messages,oro.magento.order.total_amount.description,,"The total amount configured for the items in a Magento order.",0
-messages,oro.magento.order.total_amount.label,,"Total amount",0
-messages,oro.magento.order.total_canceled_amount.description,,"The total number of items that were canceled in a Magento order.",0
-messages,oro.magento.order.total_canceled_amount.label,,"Total canceled",0
-messages,oro.magento.order.total_invoiced_amount.description,,"The total amount invoiced to a customer for a Magento order.",0
-messages,oro.magento.order.total_invoiced_amount.label,,"Total invoiced",0
-messages,oro.magento.order.total_paid_amount.description,,"The total amount paid for a Magento order.",0
-messages,oro.magento.order.total_paid_amount.label,,"Total paid",0
-messages,oro.magento.order.total_refunded_amount.description,,"The total amount refunded for a Magento order.",0
-messages,oro.magento.order.total_refunded_amount.label,,"Total refunded",0
-messages,oro.magento.order.website.label,,Website,0
-messages,oro.magento.order_information,,"Order Information",0
-messages,oro.magento.orderaddress.channel.description,,"The integration via which information about a Magento order address is received.",0
-messages,oro.magento.orderaddress.channel.label,,Integration,0
+messages,oro.magento.creditmemo.subtotal.label,Subtotal,Subtotal,0
+messages,oro.magento.creditmemo.synced_at.description,Ngày và giờ của đồng bộ hóa ghi nhớ tín dụng Magento cuối cùng.,The date and time of the last Magento credit memo synchronization.,0
+messages,oro.magento.creditmemo.synced_at.label,Đồng bộ hóa lần cuối lúc,Last Synced At,0
+messages,oro.magento.creditmemo.transaction_id.description,Số lượng giao dịch được liên kết với thư báo ghi có của Magento.,Number of transaction associated with Magento credit memo.,0
+messages,oro.magento.creditmemo.transaction_id.label,Giao dịch #,Transaction #,0
+messages,oro.magento.creditmemo.updated_at.description,Ngày và thời gian ghi nhớ tín dụng Magento đã được cập nhật.,The date and time Magento credit memo was updated.,0
+messages,oro.magento.creditmemo.updated_at.label,Cập nhật tại,Updated At,0
+messages,oro.magento.creditmemoitem.additional_data.description,Dữ liệu bổ sung được cung cấp cho mục ghi nhớ tín dụng.,Additional data supplied for credit memo item.,0
+messages,oro.magento.creditmemoitem.additional_data.label,Dữ liệu bổ sung,Additional data,0
+messages,oro.magento.creditmemoitem.channel.description,Việc tích hợp thông qua đó thông tin về một mục ghi nhớ tín dụng Magento được nhận.,The integration via which information about a Magento credit memo item is received.,0
+messages,oro.magento.creditmemoitem.channel.label,Hội nhập,Integration,0
+messages,oro.magento.creditmemoitem.data_channel.description,Các kênh thông qua đó thông tin về một bản ghi nhớ tín dụng Magento được nhận.,The channel via which information about a Magento credit memo is received.,0
+messages,oro.magento.creditmemoitem.data_channel.label,Kênh,Channel,0
+messages,oro.magento.creditmemoitem.description.description,Mô tả sản phẩm.,Description of product.,0
+messages,oro.magento.creditmemoitem.description.label,Sự miêu tả,Description,0
+messages,oro.magento.creditmemoitem.discount_amount.description,Số tiền chiết khấu được áp dụng cho mục ghi nhớ tín dụng cụ thể.,The discount amount applied for specific credit memo item.,0
+messages,oro.magento.creditmemoitem.discount_amount.label,Số tiền giảm giá,Discount amount,0
+messages,oro.magento.creditmemoitem.entity_description,Cho phép bạn hoạt động với các mục ghi nhớ tín dụng.,Allows you to operate with credit memos items.,0
+messages,oro.magento.creditmemoitem.entity_label,Mục ghi nhớ tín dụng Magento,Magento Credit Memo Item,0
+messages,oro.magento.creditmemoitem.entity_plural_label,Mục ghi nhớ tín dụng Magento,Magento Credit Memo Items,0
+messages,oro.magento.creditmemoitem.id.label,ID,Id,0
+messages,oro.magento.creditmemoitem.name.description,Tên được chỉ định cho mục ghi nhớ tín dụng Magento.,The name specified for a Magento credit memo item.,0
+messages,oro.magento.creditmemoitem.name.label,Tên,Name,0
+messages,oro.magento.creditmemoitem.order_item_id.description,ID của mục đơn hàng tương ứng.,ID of the corresponding order item.,0
+messages,oro.magento.creditmemoitem.order_item_id.label,Id mục đặt hàng,Order Item Id,0
+messages,oro.magento.creditmemoitem.origin_id.description,ID mục ghi nhớ tín dụng ở phía Magento.,Credit memo item ID on the Magento side.,0
+messages,oro.magento.creditmemoitem.origin_id.label,ID gốc,Origin ID,0
+messages,oro.magento.creditmemoitem.owner.label,Chủ nhân,Owner,0
+messages,oro.magento.creditmemoitem.parent.description,Bản ghi nhớ tín dụng mà một mục ghi nhớ tín dụng Magento cụ thể thuộc về.,The credit memo to which a specific Magento credit memo item belongs.,0
+messages,oro.magento.creditmemoitem.parent.label,Bản ghi nhớ tín dụng,Credit Memo,0
+messages,oro.magento.creditmemoitem.price.description,Giá mục tín dụng bao gồm giá đặc biệt nhưng trước khi tính thuế.,The credit item price including special prices but before calculating taxes.,0
+messages,oro.magento.creditmemoitem.price.label,Giá bán,Price,0
+messages,oro.magento.creditmemoitem.qty.description,Số lượng các mặt hàng để hoàn trả.,The quantity of items to refund.,0
+messages,oro.magento.creditmemoitem.qty.label,Số lượng,Qty,0
+messages,oro.magento.creditmemoitem.row_total.description,Tổng số tiền giá hàng cho một mục ghi nhớ tín dụng Magento.,The row total price amount for a Magento credit memo item.,0
+messages,oro.magento.creditmemoitem.row_total.label,Tổng số hàng,Row total,0
+messages,oro.magento.creditmemoitem.sku.description,Đơn vị lưu giữ chứng khoán được thể hiện bằng mã nhận dạng duy nhất cho phép theo dõi mục ghi nhớ tín dụng Magento.,A stock keeping unit represented by a unique identification code that allows to track a Magento credit memo item.,0
+messages,oro.magento.creditmemoitem.sku.label,Mã sản phẩm,Item SKU,0
+messages,oro.magento.creditmemoitem.tax_amount.description,Số tiền thuế được áp dụng cho mục ghi nhớ tín dụng cụ thể.,The tax amount applied for specific credit memo item.,0
+messages,oro.magento.creditmemoitem.tax_amount.label,Số tiền thuế,Tax amount,0
+messages,oro.magento.customer.account.description,Tài khoản mà một khách hàng Magento được chỉ định.,The account that a Magento customer is assigned to.,0
+messages,oro.magento.customer.account.label,Tài khoản,Account,0
+messages,oro.magento.customer.address_book.title,Sổ địa chỉ,Address Book,0
+messages,oro.magento.customer.addresses.description,"Bộ sưu tập địa chỉ khách hàng Magento: gửi thư, kinh doanh, gia đình, thanh toán, v.v.","Collection of Magento customer addresses: mailing, business, home, billing, etc.",0
+messages,oro.magento.customer.addresses.label,Địa chỉ,Addresses,0
+messages,oro.magento.customer.birthday.description,Ngày sinh của một khách hàng Magento.,The birthdate of a Magento customer.,0
+messages,oro.magento.customer.birthday.label,Sinh nhật,Birthday,0
+messages,oro.magento.customer.carts.label,Giỏ hàng,Carts,0
+messages,oro.magento.customer.channel.description,Việc tích hợp thông qua đó thông tin về một khách hàng Magento được nhận.,The integration via which information about a Magento customer is received.,0
+messages,oro.magento.customer.channel.label,Hội nhập,Integration,0
+messages,oro.magento.customer.confirmed.description,Chỉ định liệu một khách hàng Magento đã được xác nhận hay chưa.,Specifies whether a Magento customer has been confirmed.,0
+messages,oro.magento.customer.confirmed.label,Đã xác nhận,Confirmed,0
+messages,oro.magento.customer.contact.description,Liên hệ được chỉ định cho một khách hàng Magento.,The contact that is specified for a Magento customer.,0
+messages,oro.magento.customer.contact.label,Tiếp xúc,Contact,0
+messages,oro.magento.customer.contact_information.label,Thông tin liên lạc,Contact Information,0
+messages,oro.magento.customer.create_order,Tạo đơn đặt hàng,Create Order,0
+messages,oro.magento.customer.created_in.description,Chỉ định trong đó Magento lưu trữ một khách hàng Magento đã được tạo ra.,Specifies in which Magento store a Magento customer has been created.,0
+messages,oro.magento.customer.created_in.label,Được tạo ra tại,Created In,0
+messages,oro.magento.customer.currency.description,Đơn vị tiền tệ được định cấu hình cho khách hàng Magento.,The currency configured for a Magento customer.,0
+messages,oro.magento.customer.currency.label,Tiền tệ,Currency,0
+messages,oro.magento.customer.data_channel.description,Kênh thông qua đó thông tin về khách hàng Magento được nhận.,The channel via which information about a Magento customer is received.,0
+messages,oro.magento.customer.data_channel.label,Kênh,Channel,0
+messages,oro.magento.customer.email.description,Địa chỉ email được gán cho khách hàng Magento.,The email address assigned to a Magento customer.,0
+messages,oro.magento.customer.email.label,E-mail,Email,0
+messages,oro.magento.customer.entity_description,Khách hàng Magento đại diện cho khách hàng của các cửa hàng dựa trên Magento.,Magento Customers represent clients of Magento-based stores.,0
+messages,oro.magento.customer.entity_label,Khách hàng Magento,Magento Customer,0
+messages,oro.magento.customer.entity_plural_label,Khách hàng Magento,Magento Customers,0
+messages,oro.magento.customer.first_name.description,Tên đầu tiên được chỉ định cho một khách hàng Magento.,The first name specified for a Magento customer.,0
+messages,oro.magento.customer.first_name.label,Tên đầu tiên,First name,0
+messages,oro.magento.customer.frequency.description,Tần suất các đơn hàng được đặt bởi một khách hàng Magento.,The frequency of orders placed by a magento customer.,0
+messages,oro.magento.customer.frequency.label,Tần số,Frequency,0
+messages,oro.magento.customer.gender.description,Giới tính được chỉ định cho khách hàng Magento.,The gender specified for a Magento customer.,0
+messages,oro.magento.customer.gender.label,Giới tính,Gender,0
+messages,oro.magento.customer.group.label,Nhóm khách hàng,Customer Group,0
+messages,oro.magento.customer.guest.description,Xác định liệu khách hàng Magento có phải là khách hoặc người dùng đã đăng ký hay không.,Defines whether a Magento customer is a guest or a registered user.,0
+messages,oro.magento.customer.guest.label,Là khách,Is Guest,0
+messages,oro.magento.customer.guest.no,Không,No,0
+messages,oro.magento.customer.guest.yes,Vâng,Yes,0
+messages,oro.magento.customer.id.label,ID,Id,0
+messages,oro.magento.customer.imported_at.description,Ngày và giờ khi bản ghi được nhập.,The date and time when the record was imported.,0
+messages,oro.magento.customer.imported_at.label,Đã nhập,Imported At,0
+messages,oro.magento.customer.is_active.description,Xác định liệu một khách hàng Magento đang hoạt động hay không hoạt động.,Defines whether a Magento customer is active or inactive.,0
+messages,oro.magento.customer.is_active.label,Đang hoạt động,Is active,0
+messages,oro.magento.customer.last_name.description,Tên cuối cùng được chỉ định cho một khách hàng Magento.,The last name specified for a Magento customer.,0
+messages,oro.magento.customer.last_name.label,Họ,Last name,0
+messages,oro.magento.customer.lifetime.description,Tổng số tiền nhận được từ một khách hàng Magento.,The total amount of money received from a Magento customer.,0
+messages,oro.magento.customer.lifetime.label,Giá trị bán hàng trọn đời,Lifetime sales value,0
+messages,oro.magento.customer.middle_name.description,Tên đệm được chỉ định cho khách hàng Magento.,The middle name specified for Magento customer.,0
+messages,oro.magento.customer.middle_name.label,Tên đệm,Middle name,0
+messages,oro.magento.customer.monetary.description,Số tiền mà một khách hàng Magento đã chi cho các đơn đặt hàng.,The amount of money a Magento customer spent on orders.,0
+messages,oro.magento.customer.monetary.label,Tiền tệ,Monetary,0
+messages,oro.magento.customer.name.label,Tên,Name,0
+messages,oro.magento.customer.name_prefix.description,Tiền tố tên được đặt cho một khách hàng Magento.,The name prefix speficied for a Magento customer.,0
+messages,oro.magento.customer.name_prefix.label,Tiền tố tên,Name prefix,0
+messages,oro.magento.customer.name_suffix.description,Hậu tố tên được chỉ định cho một khách hàng Magento.,The name suffix specified for a Magento customer.,0
+messages,oro.magento.customer.name_suffix.label,Hậu tố tên,Name suffix,0
+messages,oro.magento.customer.newsletter_subscribers.label,Người đăng ký bản tin,Newsletter Subscribers,0
+messages,oro.magento.customer.orders.label,Yêu cầu của khách hàng,Customer orders,0
+messages,oro.magento.customer.organization.label,Cơ quan,Organization,0
+messages,oro.magento.customer.origin_id.description,ID khách hàng Magento được chỉ định ở phía Magento.,The Magento customer ID specified on the Magento side.,0
+messages,oro.magento.customer.origin_id.label,Id gốc,Origin Id,0
+messages,oro.magento.customer.owner.label,Chủ nhân,Owner,0
+messages,oro.magento.customer.password.description,Mật khẩu được cấu hình cho một khách hàng Magento trong ứng dụng Oro.,The password configured for a Magento customer in Oro application.,0
+messages,oro.magento.customer.password.label,Mật khẩu,Password,0
+messages,oro.magento.customer.password.section,Quản lý mật khẩu,Password Management,0
+messages,oro.magento.customer.password.tooltip,Mật khẩu chỉ được đặt khi không được để trống,Password is set only when it is not empty,0
+messages,oro.magento.customer.primary_addr.label,Địa chỉ chính,Primary Address,0
+messages,oro.magento.customer.recency.description,Một khách hàng Magento đã thực hiện lệnh cuối cùng bao lâu rồi.,How long ago a Magento customer made the last order.,0
+messages,oro.magento.customer.recency.label,Lần truy cập gần đây,Recency,0
+messages,oro.magento.customer.register.label,Ghi danh,Register,0
+messages,oro.magento.customer.sales.label,Bán hàng,Sales,0
+messages,oro.magento.customer.saved.message,Khách hàng đã lưu,Customer saved,0
+messages,oro.magento.customer.store.description,Cửa hàng Magento trong đó một khách hàng Magento được tạo ra.,The Magento store in which a Magento customer was created.,0
+messages,oro.magento.customer.store.label,Cửa hàng,Store,0
+messages,oro.magento.customer.sync_state.description,Trạng thái đồng bộ hóa.,Synchronization status.,0
+messages,oro.magento.customer.sync_state.info,Đồng bộ hóa một phần,Partially synced,0
+messages,oro.magento.customer.sync_state.label,Trạng thái đồng bộ hóa,Sync State,0
+messages,oro.magento.customer.synced_at.description,Ngày và giờ của đồng bộ hóa khách hàng Magento cuối cùng.,The date and time of the last Magento customer synchronization.,0
+messages,oro.magento.customer.synced_at.label,Đồng bộ hóa lần cuối lúc,Last Synced At,0
+messages,oro.magento.customer.vat.description,Số thuế VAT / VAT của khách hàng Magento.,A Magento customer TAX/VAT number.,0
+messages,oro.magento.customer.vat.label,Thùng thuế,Tax/Vat,0
+messages,oro.magento.customer.website.description,Trang web thông qua đó thông tin về một khách hàng Magento được nhận.,The website via which information about a Magento customer is received.,0
+messages,oro.magento.customer.website.label,Trang mạng,Website,0
+messages,oro.magento.customer_information,thông tin khách hàng,Customer Information,0
+messages,oro.magento.customer_tabs_title,Khách hàng,Customers,0
+messages,oro.magento.customergroup.channel.description,Việc tích hợp thông qua đó thông tin về một nhóm khách hàng Magento được nhận.,The integration via which information about a Magento customer group is received.,0
+messages,oro.magento.customergroup.channel.label,Hội nhập,Integration,0
+messages,oro.magento.customergroup.entity_label,Nhóm khách hàng Magento,Magento Customer Group,0
+messages,oro.magento.customergroup.entity_plural_label,Nhóm khách hàng Magento,Magento Customer Groups,0
+messages,oro.magento.customergroup.id.label,ID,Id,0
+messages,oro.magento.customergroup.name.label,Tên,Name,0
+messages,oro.magento.customergroup.origin_id.label,Id gốc,Origin Id,0
+messages,oro.magento.customergroup.placeholder,Vui lòng chọn nhóm,"Please, select group",0
+messages,oro.magento.dashboard.average_order_amount_chart.description,Tiện ích này hiển thị số tiền đặt hàng trung bình cho mỗi kênh dữ liệu dưới dạng biểu đồ đường,This widget shows average order amount for each data channel in a form of a line chart,0
+messages,oro.magento.dashboard.average_order_amount_chart.month,tháng,Month,0
+messages,oro.magento.dashboard.average_order_amount_chart.order_amount,Số lượng đơn đặt hàng,Order amount,0
+messages,oro.magento.dashboard.average_order_amount_chart.title,Số lượng đặt hàng trung bình,Average order amount,0
+messages,oro.magento.dashboard.e_commerce,Thương mại điện tử,Ecommerce,0
+messages,oro.magento.dashboard.e_commerce_statistic.abandon_rate.label,Tỷ lệ bỏ qua,Abandon rate,0
+messages,oro.magento.dashboard.e_commerce_statistic.abandoned_count.label,Xe bị bỏ rơi,Abandoned carts,0
+messages,oro.magento.dashboard.e_commerce_statistic.abandoned_revenue.label,Doanh thu bị bỏ rơi,Abandoned revenue,0
+messages,oro.magento.dashboard.e_commerce_statistic.average_order_value.label,Giá trị đơn đặt hàng trung bình,Average order value,0
+messages,oro.magento.dashboard.e_commerce_statistic.compare_to.label,So sánh với ngày,Compare to Date,0
+messages,oro.magento.dashboard.e_commerce_statistic.customer_conversion.label,Tỷ lệ chuyển đổi khách hàng,Customer conversion rate,0
+messages,oro.magento.dashboard.e_commerce_statistic.description,Tiện ích này hiển thị một tập hợp các chỉ số cho biết hiệu suất của các kênh Thương mại điện tử của bạn.,This widget displays a set of metrics that indicate performance of your eCommerce channels.,0
+messages,oro.magento.dashboard.e_commerce_statistic.discounted_orders_percent.label,Đơn đặt hàng giảm giá,Discounted orders,0
+messages,oro.magento.dashboard.e_commerce_statistic.new_customers_count.label,Những khách hàng mới,New customers,0
+messages,oro.magento.dashboard.e_commerce_statistic.order_conversion.label,Tỷ lệ chuyển đổi đơn đặt hàng,Order conversion rate,0
+messages,oro.magento.dashboard.e_commerce_statistic.orders_number.label,Đặt hàng,Orders placed,0
+messages,oro.magento.dashboard.e_commerce_statistic.returning_customers_count.label,Khách hàng cũ,Returning customers,0
+messages,oro.magento.dashboard.e_commerce_statistic.revenue.label,Doanh thu,Revenue,0
+messages,oro.magento.dashboard.e_commerce_statistic.site_visits.label,Lượt ghé thăm website,Site visits,0
+messages,oro.magento.dashboard.e_commerce_statistic.sub_widgets.label,Số liệu,Metrics,0
+messages,oro.magento.dashboard.e_commerce_statistic.title,Thống kê thương mại điện tử,Ecommerce Statistics,0
+messages,oro.magento.dashboard.my_sales_flow_b2c_chart.description,Tiện ích này cung cấp cho bạn tổng quan nhanh về quy trình làm việc B2C dưới dạng biểu đồ kênh,This widget gives you a quick overview of a B2C workflow in a form of a funnel chart,0
+messages,oro.magento.dashboard.my_sales_flow_b2c_chart.title,Luồng bán hàng B2C của tôi,My Sales Flow B2C,0
+messages,oro.magento.dashboard.new_magento_customers_chart.customer_count,Số lượng khách hàng,Customers count,0
+messages,oro.magento.dashboard.new_magento_customers_chart.description,Tiện ích này cung cấp cho bạn tổng quan nhanh về các khách hàng Magento mới,This widget gives you a quick overview of new Magento customers,0
+messages,oro.magento.dashboard.new_magento_customers_chart.month,tháng,Month,0
+messages,oro.magento.dashboard.new_magento_customers_chart.title,Khách hàng mới của Magento,New Magento Customers,0
+messages,oro.magento.dashboard.orders_over_time_chart.current_period,Giai đoạn hiện tại,Current period,0
+messages,oro.magento.dashboard.orders_over_time_chart.date,Ngày,Date,0
+messages,oro.magento.dashboard.orders_over_time_chart.description,Tiện ích này cung cấp cho bạn tổng quan nhanh về các đơn hàng Magento,This widget gives you a quick overview of Magento orders,0
+messages,oro.magento.dashboard.orders_over_time_chart.order_count,Số lượng đơn đặt hàng,Order count,0
+messages,oro.magento.dashboard.orders_over_time_chart.previous_period,Kỳ trước,Previous period,0
+messages,oro.magento.dashboard.orders_over_time_chart.title,Đơn đặt hàng theo thời gian,Orders over time,0
+messages,oro.magento.dashboard.purchase_chart.added_to_cart,Đã thêm vào giỏ hàng,Added to cart,0
+messages,oro.magento.dashboard.purchase_chart.deeply_visited,Đã duyệt,Browsed,0
+messages,oro.magento.dashboard.purchase_chart.description,Tiện ích này cung cấp cho bạn tổng quan nhanh về giao dịch mua,This widget gives you a quick overview of purchases,0
+messages,oro.magento.dashboard.purchase_chart.purchased,Đã mua,Purchased,0
+messages,oro.magento.dashboard.purchase_chart.title,Kênh mua hàng,Purchase Funnel,0
+messages,oro.magento.dashboard.purchase_chart.visited,Đã truy cập,Visited,0
+messages,oro.magento.dashboard.revenue_over_time_chart.current_period,Giai đoạn hiện tại,Current period,0
+messages,oro.magento.dashboard.revenue_over_time_chart.date,Ngày,Date,0
+messages,oro.magento.dashboard.revenue_over_time_chart.description,Tiện ích này cung cấp cho bạn tổng quan nhanh về doanh thu của Magento,This widget gives you a quick overview of Magento revenues,0
+messages,oro.magento.dashboard.revenue_over_time_chart.previous_period,Kỳ trước,Previous period,0
+messages,oro.magento.dashboard.revenue_over_time_chart.revenue,Doanh thu,Revenue,0
+messages,oro.magento.dashboard.revenue_over_time_chart.title,Doanh thu theo thời gian,Revenue over time,0
+messages,oro.magento.datagrid.actions.view.label,Lượt xem,View,0
+messages,oro.magento.datagrid.columns.actions,Hành động,Actions,0
+messages,oro.magento.datagrid.columns.added_on,Đặt trên,Placed On,0
+messages,oro.magento.datagrid.columns.billing_country,Đất nước thanh toán,Billing country,0
+messages,oro.magento.datagrid.columns.billing_region,Trạng thái thanh toán,Billing state,0
+messages,oro.magento.datagrid.columns.channel,Hội nhập,Integration,0
+messages,oro.magento.datagrid.columns.coupon_code,Mã giảm giá,Coupon code,0
+messages,oro.magento.datagrid.columns.currency,Tiền tệ,Currency,0
+messages,oro.magento.datagrid.columns.customer_is_guest.label,Là khách,Is Guest,0
+messages,oro.magento.datagrid.columns.customerGroup,Nhóm khách hàng,Customer Group,0
+messages,oro.magento.datagrid.columns.discount_amount,Số tiền giảm giá,Discount amount,0
+messages,oro.magento.datagrid.columns.discount_percent,Phần trăm giảm giá,Discount percent,0
+messages,oro.magento.datagrid.columns.discountAmount,Số tiền giảm giá,Discount amount,0
+messages,oro.magento.datagrid.columns.discountPercent,Phần trăm giảm giá,Discount percent,0
+messages,oro.magento.datagrid.columns.email,E-mail,Email,0
+messages,oro.magento.datagrid.columns.first_name,Tên đầu tiên,First Name,0
+messages,oro.magento.datagrid.columns.gift_message,Tin nhắn quà tặng,Gift message,0
+messages,oro.magento.datagrid.columns.grand_total,Tổng cộng,Grand Total,0
+messages,oro.magento.datagrid.columns.group,Nhóm,Group,0
+messages,oro.magento.datagrid.columns.increment_id,Gọi món #,Order #,0
+messages,oro.magento.datagrid.columns.is_subscriber.label,Là người đăng ký,Is Subscriber,0
+messages,oro.magento.datagrid.columns.is_subscriber.no,Không,No,0
+messages,oro.magento.datagrid.columns.is_subscriber.unknown,Không xác định,Not defined,0
+messages,oro.magento.datagrid.columns.is_subscriber.yes,Vâng,Yes,0
+messages,oro.magento.datagrid.columns.items_qty,Hạng mục qty,Items qty,0
+messages,oro.magento.datagrid.columns.last_name,Họ,Last Name,0
+messages,oro.magento.datagrid.columns.message,Thông điệp,Message,0
+messages,oro.magento.datagrid.columns.name,Tên,Name,0
+messages,oro.magento.datagrid.columns.order_is_guest.label,Là khách,Is Guest,0
+messages,oro.magento.datagrid.columns.orderCreatedAt,Ngày đặt hàng,Order Date,0
+messages,oro.magento.datagrid.columns.originalPrice,Giá gốc,Original price,0
+messages,oro.magento.datagrid.columns.originId,ID,ID,0
+messages,oro.magento.datagrid.columns.page_total,Tổng số trang,Page Total,0
+messages,oro.magento.datagrid.columns.phone,Điện thoại,Phone,0
+messages,oro.magento.datagrid.columns.price,Giá bán,Price,0
+messages,oro.magento.datagrid.columns.price_incl_tax,Thuế giá chưa bao gồm,Price Incl Tax,0
+messages,oro.magento.datagrid.columns.productType,Loại sản phẩm,Product type,0
+messages,oro.magento.datagrid.columns.qty,Số lượng,Qty,0
+messages,oro.magento.datagrid.columns.removed_at,Đã xóa lúc,Removed At,0
+messages,oro.magento.datagrid.columns.row_total,Tổng số hàng,Row Total,0
+messages,oro.magento.datagrid.columns.rowTotal,Tổng số hàng,Row total,0
+messages,oro.magento.datagrid.columns.shipping_amount,Số tiền giao hàng,Shipping Amount,0
+messages,oro.magento.datagrid.columns.sku,Sku,Sku,0
+messages,oro.magento.datagrid.columns.specialPrice,Giá đặc biệt,Special Price,0
+messages,oro.magento.datagrid.columns.status,Trạng thái,Status,0
+messages,oro.magento.datagrid.columns.sub_total,Tổng số phụ,Sub Total,0
+messages,oro.magento.datagrid.columns.subtotal_amount,Tổng số tiền,Subtotal Amount,0
+messages,oro.magento.datagrid.columns.tax_amount,Số tiền thuế,Tax Amount,0
+messages,oro.magento.datagrid.columns.taxAmount,Số tiền thuế,Tax amount,0
+messages,oro.magento.datagrid.columns.taxPercent,Phần trăm thuế,Tax percent,0
+messages,oro.magento.datagrid.columns.total_invoiced,Tổng số hóa đơn,Total Invoiced,0
+messages,oro.magento.datagrid.columns.total_paid,Tổng số chi trả,Total Paid,0
+messages,oro.magento.datagrid.columns.type,Kiểu,Type,0
+messages,oro.magento.datagrid.columns.updated_on,Đã cập nhật vào,Updated On,0
+messages,oro.magento.datagrid.columns.website,Trang mạng,Website,0
+messages,oro.magento.datagrid.columns.websites,Trang web,Websites,0
+messages,oro.magento.datagrid.columns.weight,Cân nặng,Weight,0
+messages,oro.magento.datagrid.views.non_empty_carts.label,Giỏ hàng Magento,Magento Shopping Carts,0
+messages,oro.magento.entity_number,% entityName%% entityNumber%,%entityName% %entityNumber%,0
+messages,oro.magento.form.choose_cart,Chọn giỏ hàng ...,Choose a cart...,0
+messages,oro.magento.form.choose_customer,Chọn khách hàng ...,Choose a customer...,0
+messages,oro.magento.form.choose_order,Chọn đơn đặt hàng ...,Choose an order...,0
+messages,oro.magento.general_info,Thông tin chung,General Info,0
+messages,oro.magento.general_information,Thông tin chung,General Information,0
+messages,oro.magento.magento2.label,Magento 2,Magento 2,0
+messages,oro.magento.magentotransport.admin_url.label,Url quản trị,Admin url,0
+messages,oro.magento.magentotransport.all_sites,Tất cả các trang web,All web sites,0
+messages,oro.magento.magentotransport.check_connection.label,Kiểm tra kết nối,Check connection,0
+messages,oro.magento.magentotransport.entity_description,Đại diện cho vận tải kênh tích hợp,Represent integration channel transport,0
+messages,oro.magento.magentotransport.entity_label,Magento tích hợp kênh giao thông vận tải,Magento Integration Channel Transport,0
+messages,oro.magento.magentotransport.entity_plural_label,Vận chuyển kênh tích hợp Magento,Magento Integration Channel Transports,0
+messages,oro.magento.magentotransport.guest_customer_sync.label,Đồng bộ hóa khách hàng của khách,Guest Customer Sync,0
+messages,oro.magento.magentotransport.guest_customer_sync.tooltip,"Việc chọn tùy chọn này sẽ kết hợp các đơn đặt hàng của khách dưới một khách hàng duy nhất dựa trên email. Nếu khách hàng đã đăng ký tồn tại với email này, tất cả các đơn đặt hàng của khách với email như vậy sẽ được quy cho tài khoản của họ.","Selecting this option will combine guest orders under a single customer based on email. If a registered customer exists with this email, all guest orders with such email will be attributed to their account.",0
+messages,oro.magento.magentotransport.id.label,ID,Id,0
+messages,oro.magento.magentotransport.initial_sync_start_date.label,Ngày bắt đầu đồng bộ hóa ban đầu,Initial sync start date,0
+messages,oro.magento.magentotransport.is_display_order_notes.label,Nhập nhận xét đơn đặt hàng làm ghi chú đơn đặt hàng,Import Order Comments as Order Notes,0
+messages,oro.magento.magentotransport.is_display_order_notes.tooltip,"Khi tùy chọn này bị vô hiệu hóa, các ghi chú thứ tự chỉ có thể được xem trên trang xem lệnh của Magento. Khi được bật, ghi chú đơn đặt hàng cũng sẽ hiển thị trên chế độ xem Khách hàng Magento và trang Chế độ xem tài khoản.","When this option is disabled the order notes can be viewed only on Magento Order view page. When enabled, the order notes will also be visible on the Magento Customer view and Account view page.",0
+messages,oro.magento.magentotransport.is_display_order_notes.value.false.label,Không,No,0
+messages,oro.magento.magentotransport.is_display_order_notes.value.true.label,Vâng,Yes,0
+messages,oro.magento.magentotransport.is_extension_installed.label,Đã cài đặt tiện ích mở rộng,Is extension installed,0
+messages,oro.magento.magentotransport.message.native_soap,Native Magento API được sử dụng; chỉ khách hàng và đơn đặt hàng mới được đồng bộ hóa,Native Magento API is used; only customers and orders will be synced,0
+messages,oro.magento.magentotransport.message.outdated_bridge,OroBridge v.% Extension_version% được sử dụng — phiên bản lỗi thời,OroBridge v.%extension_version% is used—outdated version,0
+messages,oro.magento.magentotransport.rest.api_key.label,Khóa API REST,REST API Key,0
+messages,oro.magento.magentotransport.rest.api_url.label,URL REST API,REST API URL,0
+messages,oro.magento.magentotransport.rest.api_user.label,Người dùng API REST,REST API User,0
+messages,oro.magento.magentotransport.rest.new_api_key.label,Khóa API REST mới,New REST API Key,0
+messages,oro.magento.magentotransport.shared_guest_email_list.label,Tách theo tên đầy đủ,Split By Full Name,0
+messages,oro.magento.magentotransport.shared_guest_email_list.tooltip,"Các tài khoản khách hàng riêng biệt sẽ được tạo cho khách hàng Magento với (các) email được chỉ định trong quá trình nhập. Để nhập nhiều email, hãy sử dụng dấu chấm phẩy hoặc dấu phẩy.",Separate customer accounts will be created for Magento customers with the specified email(s) during import. To enter multiple emails use semicolons or commas.,0
+messages,oro.magento.magentotransport.soap.api_key.label,Khóa API SOAP,SOAP API Key,0
+messages,oro.magento.magentotransport.soap.api_user.label,Người dùng API SOAP,SOAP API User,0
+messages,oro.magento.magentotransport.soap.is_wsi_mode.label,Tuân thủ WS-I,WS-I Compliance,0
+messages,oro.magento.magentotransport.soap.new_api_key.label,Khóa API SOAP mới,New SOAP API Key,0
+messages,oro.magento.magentotransport.soap.wsdl_url.label,URL WSDL SOAP,SOAP WSDL URL,0
+messages,oro.magento.magentotransport.sync_range.label,Phạm vi đồng bộ hóa,Sync range,0
+messages,oro.magento.magentotransport.sync_start_date.label,Ngày bắt đầu đồng bộ hóa,Sync start date,0
+messages,oro.magento.magentotransport.sync_start_date.tooltip,Đây là ngày bắt đầu để đồng bộ hóa dữ liệu. Chỉ các bản ghi được cập nhật sau ngày này sẽ được đồng bộ hóa,This is the starting date for data synchronization. Only records updated after this date will be synchronized,0
+messages,oro.magento.magentotransport.website_id.label,Trang mạng,Website,0
+messages,oro.magento.magentotransport.website_id.tooltip,"Đây là danh sách các trang web được liên kết với cá thể Magento được chỉ định ở trên. Chỉ có thể chọn một trang web cho mỗi kênh. Để làm mới danh sách, hãy nhấp vào liên kết Danh sách trang web đồng bộ bên cạnh điều khiển.","This is a list of websites associated with the Magento instance specified above. Only one website can be selected per channel. To refresh the list, click on the Sync website list link next to the control.",0
+messages,oro.magento.magentotransport.website_refresh.label,Đồng bộ hóa danh sách trang web,Sync website list,0
+messages,oro.magento.magentotransport.websites.label,Trang web,Websites,0
+messages,oro.magento.newslettersubscriber.action.subscribe,Theo dõi,Subscribe,0
+messages,oro.magento.newslettersubscriber.action.unsubscribe,Hủy đăng ký,Unsubscribe,0
+messages,oro.magento.newslettersubscriber.change_status_at.label,Ngày thay đổi trạng thái,Status change date,0
+messages,oro.magento.newslettersubscriber.channel.label,Hội nhập,Integration,0
+messages,oro.magento.newslettersubscriber.confirm_code.label,Mã xác nhận,Confirmation code,0
+messages,oro.magento.newslettersubscriber.contact_information.label,Thông tin liên lạc,Contact Information,0
+messages,oro.magento.newslettersubscriber.customer.label,khách hàng,Customer,0
+messages,oro.magento.newslettersubscriber.data_channel.label,Kênh,Channel,0
+messages,oro.magento.newslettersubscriber.email.customer,Email của khách hàng,Customer Email,0
+messages,oro.magento.newslettersubscriber.email.label,E-mail,Email,0
+messages,oro.magento.newslettersubscriber.entity_label,Người đăng ký bản tin Magento,Magento Newsletter Subscriber,0
+messages,oro.magento.newslettersubscriber.entity_plural_label,Bản tin Magento,Magento Newsletter Subscribers,0
+messages,oro.magento.newslettersubscriber.id.label,ID,Id,0
+messages,oro.magento.newslettersubscriber.label,Người đăng ký bản tin,Newsletter Subscriber,0
+messages,oro.magento.newslettersubscriber.organization.label,Cơ quan,Organization,0
+messages,oro.magento.newslettersubscriber.origin_id.label,Id gốc,Origin Id,0
+messages,oro.magento.newslettersubscriber.owner.label,Chủ nhân,Owner,0
+messages,oro.magento.newslettersubscriber.status.label,Trạng thái,Status,0
+messages,oro.magento.newslettersubscriber.status.not_active,Không hoạt động,Not active,0
+messages,oro.magento.newslettersubscriber.status.subscribed,Đã đăng ký,Subscribed,0
+messages,oro.magento.newslettersubscriber.status.unconfirmed,Chưa được xác nhận,Unconfirmed,0
+messages,oro.magento.newslettersubscriber.status.unsubscribed,Đã hủy đăng ký,Unsubscribed,0
+messages,oro.magento.newslettersubscriber.store.label,Cửa hàng,Store,0
+messages,oro.magento.newslettersubscriber.website.label,Trang mạng,Website,0
+messages,oro.magento.order.addresses.description,Thu thập các địa chỉ được chỉ định cho một đơn đặt hàng Magento.,Collection of addresses specified for a Magento order.,0
+messages,oro.magento.order.addresses.label,Địa chỉ,Addresses,0
+messages,oro.magento.order.b2c_flow_order_follow_up.step.label,Bậc thang,Step,0
+messages,oro.magento.order.cart.description,Giỏ hàng từ đó một đơn hàng Magento được tạo ra.,The cart from which a Magento order was created.,0
+messages,oro.magento.order.cart.label,xe đẩy,Cart,0
+messages,oro.magento.order.channel.description,Việc tích hợp thông qua đó thông tin về một trật tự Magento được nhận.,The integration via which information about a Magento order is received.,0
+messages,oro.magento.order.channel.label,Hội nhập,Integration,0
+messages,oro.magento.order.coupon_code.description,Mã phiếu giảm giá được thêm vào một đơn hàng Magento cụ thể.,The coupon code added to a specific Magento order.,0
+messages,oro.magento.order.coupon_code.label,Mã giảm giá,Coupon code,0
+messages,oro.magento.order.credit_memos.description,Thu thập bản ghi nhớ tín dụng cho một đơn đặt hàng Magento.,Collection of Credit Memos for a Magento order.,0
+messages,oro.magento.order.credit_memos.label,Bản ghi nhớ tín dụng,Credit Memos,0
+messages,oro.magento.order.currency.description,Đơn vị tiền tệ được định cấu hình cho đơn đặt hàng Magento.,The currency configured for a Magento order.,0
+messages,oro.magento.order.currency.label,Tiền tệ,Currency,0
+messages,oro.magento.order.customer.description,Khách hàng Magento đã tạo ra một thứ tự Magento.,The Magento customer who created a Magento order.,0
+messages,oro.magento.order.customer.label,khách hàng,Customer,0
+messages,oro.magento.order.customer_email.description,Địa chỉ email được gán cho khách hàng Magento.,The email address assigned to a Magento customer.,0
+messages,oro.magento.order.customer_email.label,E-mail,Email,0
+messages,oro.magento.order.data_channel.description,Các kênh thông qua đó thông tin về một trật tự Magento đã được nhận.,The channel via which information about a Magento order has been received.,0
+messages,oro.magento.order.data_channel.label,Kênh,Channel,0
+messages,oro.magento.order.discount_amount.description,Số tiền chiết khấu được chỉ định cho một đơn đặt hàng Magento.,The discount amount specified for a Magento order.,0
+messages,oro.magento.order.discount_amount.label,Số tiền giảm giá,Discount amount,0
+messages,oro.magento.order.discount_percent.description,Phần trăm chiết khấu được chỉ định cho một đơn đặt hàng Magento.,The discount percent specified for a Magento order.,0
+messages,oro.magento.order.discount_percent.label,Phần trăm giảm giá,Discount percent,0
+messages,oro.magento.order.entity_description,Lệnh Magento đại diện cho các giao dịch mua của khách hàng trong cửa hàng Magento.,Magento orders represent purchases made by customers in a Magento store.,0
+messages,oro.magento.order.entity_label,Thứ tự Magento,Magento Order,0
+messages,oro.magento.order.entity_plural_label,Lệnh Magento,Magento Orders,0
+messages,oro.magento.order.feedback.description,Phản hồi được cung cấp cho một đơn đặt hàng Magento cụ thể.,Feedback provided for a specific Magento order.,0
+messages,oro.magento.order.feedback.label,Phản hồi,Feedback,0
+messages,oro.magento.order.first_name.description,Tên đầu tiên của một khách hàng Magento được chỉ định theo thứ tự Magento.,The first name of a Magento customer that is specified in the Magento order.,0
+messages,oro.magento.order.first_name.label,Tên đầu tiên,First name,0
+messages,oro.magento.order.gift_message.description,Xác định xem một thông điệp quà tặng có được chỉ định cho một đơn đặt hàng Magento hay không.,Defines whether a gift message is specified for a Magento order.,0
+messages,oro.magento.order.gift_message.label,Tin nhắn quà tặng,Gift message,0
+messages,oro.magento.order.id.label,ID,Id,0
+messages,oro.magento.order.imported_at.description,Ngày và giờ khi bản ghi được nhập.,The date and time when the record was imported.,0
+messages,oro.magento.order.imported_at.label,Đã nhập,Imported At,0
+messages,oro.magento.order.increment_id.description,ID gia tăng được chỉ định cho một đơn đặt hàng Magento.,The increment ID specified for a Magento order.,0
+messages,oro.magento.order.increment_id.label,Gọi món #,Order #,0
+messages,oro.magento.order.is_guest.description,Xác định liệu khách hàng Magento có tạo đơn đặt hàng là khách hay người dùng đã đăng ký hay không.,Defines whether a Magento customer who create an order is a guest or a registered user.,0
+messages,oro.magento.order.is_guest.label,Là khách,Is Guest,0
+messages,oro.magento.order.is_guest.no,Không,No,0
+messages,oro.magento.order.is_guest.yes,Vâng,Yes,0
+messages,oro.magento.order.is_virtual.description,Xác định xem mục giỏ Magento có là ảo không.,Defines whether the Magento cart item is virtual.,0
+messages,oro.magento.order.is_virtual.label,Là ảo,Is virtual,0
+messages,oro.magento.order.items.description,Các mục được chỉ định cho một đơn đặt hàng Magento.,The items specified for a Magento order.,0
+messages,oro.magento.order.items.label,Đặt hàng,Order items,0
+messages,oro.magento.order.items_qty.label,Hạng mục qty,Items qty,0
+messages,oro.magento.order.last_name.description,Họ của một khách hàng Magento được chỉ định theo thứ tự Magento.,The last name of a Magento customer that is specified in the Magento order.,0
+messages,oro.magento.order.last_name.label,Họ,Last name,0
+messages,oro.magento.order.notes.description,Thông tin bổ sung mà khách hàng có thể để lại cho một đơn đặt hàng Magento.,Additional information that a customer can leave for a Magento order.,0
+messages,oro.magento.order.notes.label,Ý kiến ​​khác,Additional comments,0
+messages,oro.magento.order.order_notes.description,Ghi chú được thêm bởi quản trị viên cửa hàng cho đơn hàng ở phía Magento.,Notes added by a store admin to an order on the Magento side.,0
+messages,oro.magento.order.order_notes.label,Ghi chú đặt hàng Magento,Magento Order Notes,0
+messages,oro.magento.order.order_notes.short_label,Ghi chú đơn đặt hàng,Order Notes,0
+messages,oro.magento.order.organization.label,Cơ quan,Organization,0
+messages,oro.magento.order.origin_id.description,ID đặt hàng ở phía Magento.,Order ID on the Magento side.,0
+messages,oro.magento.order.origin_id.label,Id gốc đơn đặt hàng,Order origin id,0
+messages,oro.magento.order.owner.label,Chủ nhân,Owner,0
+messages,oro.magento.order.payment_details.description,Chi tiết thanh toán được chỉ định cho đơn hàng Magento.,Payment details specified for a Magento order.,0
+messages,oro.magento.order.payment_details.label,Chi tiết thanh toán,Payment details,0
+messages,oro.magento.order.payment_method.description,Phương thức thanh toán được chỉ định cho đơn hàng Magento.,Payment method specified for a Magento order.,0
+messages,oro.magento.order.payment_method.label,Phương thức thanh toán,Payment method,0
+messages,oro.magento.order.refresh_label,Đồng bộ dữ liệu,Sync Data,0
+messages,oro.magento.order.related_calls.label,Cuộc gọi,Calls,0
+messages,oro.magento.order.related_emails.label,Email,Emails,0
+messages,oro.magento.order.remote_ip.description,Địa chỉ IP từ xa của khách hàng đã tạo đơn hàng Magento.,The remote IP address of a customer who created a Magento order.,0
+messages,oro.magento.order.remote_ip.label,Địa chỉ từ xa,Remote address,0
+messages,oro.magento.order.shipping_amount.description,Số tiền giá vận chuyển được định cấu hình cho đơn hàng Magento.,The shipping price amount configured for a Magento order.,0
+messages,oro.magento.order.shipping_amount.label,Số tiền vận chuyển,Shipping amount,0
+messages,oro.magento.order.shipping_method.description,Phương thức giao hàng được chỉ định cho đơn hàng Magento.,The shipping method specified for a Magento order.,0
+messages,oro.magento.order.shipping_method.label,Phương pháp vận chuyển,Shipping method,0
+messages,oro.magento.order.status.description,"Trạng thái của lệnh Magento (Đang xử lý, Hủy, Đã hoàn thành).","The status of a Magento order (Processing, Canceled, Completed).",0
+messages,oro.magento.order.status.label,Trạng thái,Status,0
+messages,oro.magento.order.store.description,Một cửa hàng Magento nơi một lệnh Magento được tạo ra.,A Magento store where a Magento order was created.,0
+messages,oro.magento.order.store.label,Cửa hàng,Store,0
+messages,oro.magento.order.store_name.description,Cửa hàng Magento nơi thứ tự được tạo ra.,The Magento store in which the order was created.,0
+messages,oro.magento.order.store_name.label,Trang mạng,Website,0
+messages,oro.magento.order.subtotal_amount.description,Số tiền phụ được cấu hình cho các mục trong một đơn đặt hàng Magento.,The subtotal amount configured for the items in a Magento order.,0
+messages,oro.magento.order.subtotal_amount.label,Tổng số tiền,Subtotal amount,0
+messages,oro.magento.order.sync_state.info,Đồng bộ hóa một phần,Partially synced,0
+messages,oro.magento.order.sync_state.label,Trạng thái đồng bộ hóa,Sync State,0
+messages,oro.magento.order.synced_at.description,Ngày và giờ của lần đồng bộ hóa thứ tự Magento cuối cùng.,The date and time of the last Magento order synchronization.,0
+messages,oro.magento.order.synced_at.label,Đồng bộ hóa lần cuối lúc,Last Synced At,0
+messages,oro.magento.order.tax_amount.description,Số tiền thuế được áp dụng cho các mặt hàng trong đơn hàng Magento.,The amount of tax applied to items in a Magento order.,0
+messages,oro.magento.order.tax_amount.label,Số tiền thuế,Tax amount,0
+messages,oro.magento.order.total_amount.description,Tổng số tiền được định cấu hình cho các mục trong đơn hàng Magento.,The total amount configured for the items in a Magento order.,0
+messages,oro.magento.order.total_amount.label,Tổng cộng,Total amount,0
+messages,oro.magento.order.total_canceled_amount.description,Tổng số mục đã bị hủy theo thứ tự Magento.,The total number of items that were canceled in a Magento order.,0
+messages,oro.magento.order.total_canceled_amount.label,Tổng số đã hủy,Total canceled,0
+messages,oro.magento.order.total_invoiced_amount.description,Tổng số tiền được lập hoá đơn cho một khách hàng cho một đơn đặt hàng Magento.,The total amount invoiced to a customer for a Magento order.,0
+messages,oro.magento.order.total_invoiced_amount.label,Tổng số hóa đơn,Total invoiced,0
+messages,oro.magento.order.total_paid_amount.description,Tổng số tiền thanh toán cho một đơn đặt hàng Magento.,The total amount paid for a Magento order.,0
+messages,oro.magento.order.total_paid_amount.label,Tổng số chi trả,Total paid,0
+messages,oro.magento.order.total_refunded_amount.description,Tổng số tiền được hoàn lại cho một đơn đặt hàng Magento.,The total amount refunded for a Magento order.,0
+messages,oro.magento.order.total_refunded_amount.label,Tổng số tiền được hoàn lại,Total refunded,0
+messages,oro.magento.order.website.label,Trang mạng,Website,0
+messages,oro.magento.order_information,Thông tin đặt hàng,Order Information,0
+messages,oro.magento.orderaddress.channel.description,Việc tích hợp thông qua đó thông tin về một địa chỉ đơn đặt hàng Magento được nhận.,The integration via which information about a Magento order address is received.,0
+messages,oro.magento.orderaddress.channel.label,Hội nhập,Integration,0
