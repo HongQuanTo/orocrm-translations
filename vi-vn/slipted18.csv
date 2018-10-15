@@ -95,7 +95,7 @@ messages,oro.contact.group.owner.label,Chủ nhân,Owner,0
 messages,oro.contact.groups.description,Các nhóm liên hệ mà người liên hệ thuộc về.,Contact groups the contact belongs to.,0
 messages,oro.contact.groups.label,Các nhóm,Groups,0
 messages,oro.contact.id.label,ID,Id,0
-messages,oro.contact.import.strategy.tooltip,<b> Thêm và thay thế chiến lược </ b> thêm thông tin liên hệ mới từ tệp đã nhập và cập nhật tệp hiện có. <br> <b> Thêm chiến lược </ b> không thay đổi các bản ghi hiện có. Tất cả các địa chỉ liên lạc được thêm vào dưới dạng bản ghi mới cho phép các bản sao.,<b>Add and Replace</b> strategy adds new contact information from the imported file and updates the existing one. <br> <b>Add strategy</b> does not change existing records. All contacts are added as new records allowing duplicates.,0
+messages,oro.contact.import.strategy.tooltip,<b> Thêm và thay thế chiến lược </b> thêm thông tin liên hệ mới từ tệp đã nhập và cập nhật tệp hiện có. <br> <b> Thêm chiến lược </b> không thay đổi các bản ghi hiện có. Tất cả các địa chỉ liên lạc được thêm vào dưới dạng bản ghi mới cho phép các bản sao.,<b>Add and Replace</b> strategy adds new contact information from the imported file and updates the existing one. <br> <b>Add strategy</b> does not change existing records. All contacts are added as new records allowing duplicates.,0
 messages,oro.contact.job_title.description,Chức vụ của người liên lạc trong tổ chức của họ.,Job title of the contact person within their organization.,0
 messages,oro.contact.job_title.label,Chức vụ,Job Title,0
 messages,oro.contact.last_name.description,Họ của người liên lạc.,Last name of the contact person.,0
@@ -122,7 +122,7 @@ messages,oro.contact.method.method.label,Nguồn,Source,0
 messages,oro.contact.method.name.label,Tên,Name,0
 messages,oro.contact.middle_name.description,Tên đệm của người liên lạc.,Middle name of the contact person.,0
 messages,oro.contact.middle_name.label,Tên đệm,Middle name,0
-messages,oro.contact.name_prefix.description,"Tên tiền tố hoặc danh dự của người liên lạc (Mr./Ms., Dr., Prof., v.v.)","Name prefix or honorific of the contact person (Mr./Ms., Dr., Prof., etc.)",0
+messages,oro.contact.name_prefix.description,"Tên tiền tố hoặc danh dự của người liên lạc (Ông./Bà., TS., GS., v.v.)","Name prefix or honorific of the contact person (Mr./Ms., Dr., Prof., etc.)",0
 messages,oro.contact.name_prefix.label,Tiền tố tên,Name prefix,0
 messages,oro.contact.name_suffix.description,"Tên hậu tố của người liên hệ (Sr./Jr., M.D., OBE, v.v.)","Name suffix of the contact person (Sr./Jr., M.D., OBE, etc.)",0
 messages,oro.contact.name_suffix.label,Hậu tố tên,Name suffix,0
@@ -180,7 +180,7 @@ messages,oro.contactus.contactrequest.feedback.label,Phản hồi,Feedback,0
 messages,oro.contactus.contactrequest.first_name.label,Tên đầu tiên,First name,0
 messages,oro.contactus.contactrequest.id.label,ID,ID,0
 messages,oro.contactus.contactrequest.last_name.label,Họ,Last name,0
-messages,oro.contactus.contactrequest.lead.label,Chì,Lead,0
+messages,oro.contactus.contactrequest.lead.label,Khách hàng tiềm năng (Lead),Lead,0
 messages,oro.contactus.contactrequest.method.both,Cả điện thoại và email,Both phone & email,0
 messages,oro.contactus.contactrequest.method.email,E-mail,Email,0
 messages,oro.contactus.contactrequest.method.phone,Điện thoại,Phone,0
@@ -188,23 +188,23 @@ messages,oro.contactus.contactrequest.opportunity.label,Cơ hội,Opportunity,0
 messages,oro.contactus.contactrequest.organization_name.label,Tên tổ chức,Organization name,0
 messages,oro.contactus.contactrequest.owner.label,Cơ quan,Organization,0
 messages,oro.contactus.contactrequest.phone.label,Điện thoại,Phone,0
-messages,oro.contactus.contactrequest.preferred_contact_method.label,Liên hệ ưa thích,Preferred contact method,0
+messages,oro.contactus.contactrequest.preferred_contact_method.label,Liên hệ ưu tiên,Preferred contact method,0
 messages,oro.contactus.contactrequest.status.label,Trạng thái,Status,0
 messages,oro.contactus.contactrequest.widget.info.title,Chi tiết yêu cầu liên hệ,Contact Request Details,0
 messages,oro.cron.header.closed_at,Đóng cửa lúc,Closed At,0
 messages,oro.cron.header.command,Chỉ huy,Command,0
 messages,oro.cron.header.error,Lỗi đầu ra,Error output,0
 messages,oro.cron.header.id,ID,ID,0
-messages,oro.cron.header.job,"Tên công việc%""","Job ""%name%""",0
-messages,oro.cron.header.jobs,Việc làm,Jobs,0
+messages,oro.cron.header.job,"Công việc ""%name%""","Job ""%name%""",0
+messages,oro.cron.header.jobs,Các công việc,Jobs,0
 messages,oro.cron.header.memory,"Sử dụng bộ nhớ, MB","Memory usage, MB",0
 messages,oro.cron.header.output,Đầu ra,Output,0
 messages,oro.cron.header.priority,Sự ưu tiên,Priority,0
-messages,oro.cron.header.queue,Xếp hàng,Queue,0
+messages,oro.cron.header.queue,Hàng đợi công việc,Queue,0
 messages,oro.cron.header.retry,Thử lại công việc,Retry jobs,0
-messages,oro.cron.header.runtime,"Thời gian chạy, s","Runtime, s",0
+messages,oro.cron.header.runtime,"Thời gian chạy, giây","Runtime, s",0
 messages,oro.cron.header.started_at,Bắt đầu vào lúc,Started At,0
-messages,oro.cron.header.state,Tiểu bang,State,0
+messages,oro.cron.header.state,Trạng thái,State,0
 messages,oro.cron.header.statistics,Số liệu thống kê,Statistics,0
 messages,oro.cron.header.trace,Theo dõi ngăn xếp,Stack trace,0
 messages,oro.cron.header.view,Lượt xem,View,0
@@ -229,7 +229,7 @@ messages,oro.cron.message.stop.fail,Không thể dừng daemon,Failed to stop da
 messages,oro.cron.message.stop.success,Daemon dừng lại,Daemon stopped,0
 messages,oro.cron.schedule.arguments.label,Lập luận,Arguments,0
 messages,oro.cron.schedule.arguments_hash.label,Hash đối số,Arguments Hash,0
-messages,oro.cron.schedule.command.label,Chỉ huy,Command,0
+messages,oro.cron.schedule.command.label,Lệnh,Command,0
 messages,oro.cron.schedule.definition.label,Định nghĩa,Definition,0
 messages,oro.cron.schedule.entity_label,Lịch biểu,Schedule,0
 messages,oro.cron.schedule.entity_plural_label,Lịch biểu,Schedules,0
@@ -239,10 +239,10 @@ messages,oro.cron.schedule_interval.active_now,Hiện đang hoạt động.,Is a
 messages,oro.cron.schedule_interval.add,Thêm vào,Add,0
 messages,oro.cron.schedule_interval.deactivate_at.label,Tắt tại,Deactivate At,0
 messages,oro.cron.schedule_interval.not_active_now,Hiện không hoạt động.,Is not active now.,0
-messages,oro.cron.schedule_interval.was_activated,Đã được kích hoạt vào% date%.,Was activated on %date%.,0
-messages,oro.cron.schedule_interval.was_deactivated,Đã bị vô hiệu hóa vào% date%.,Was deactivated on %date%.,0
-messages,oro.cron.schedule_interval.will_be_acitivated,Sẽ hoạt động vào% date%.,Will become active on %date%.,0
-messages,oro.cron.schedule_interval.will_be_deacitivated,Sẽ ngừng hoạt động vào% date%.,Will be deactivated on %date%.,0
+messages,oro.cron.schedule_interval.was_activated,Đã được kích hoạt vào %date%.,Was activated on %date%.,0
+messages,oro.cron.schedule_interval.was_deactivated,Đã bị vô hiệu hóa vào %date%.,Was deactivated on %date%.,0
+messages,oro.cron.schedule_interval.will_be_acitivated,Sẽ hoạt động vào %date%.,Will become active on %date%.,0
+messages,oro.cron.schedule_interval.will_be_deacitivated,Sẽ ngừng hoạt động vào %date%.,Will be deactivated on %date%.,0
 messages,oro.cron.sidebar.check,Kiểm tra trạng thái,Check status,0
 messages,oro.cron.sidebar.not_running,Không chạy,Not running,0
 messages,oro.cron.sidebar.pid,Daemon PID,Daemon PID,0
@@ -250,7 +250,7 @@ messages,oro.cron.sidebar.run,Chạy daemon,Run daemon,0
 messages,oro.cron.sidebar.running,Đang chạy,Running,0
 messages,oro.cron.sidebar.status,Trạng thái Daemon,Daemon status,0
 messages,oro.cron.sidebar.stop,Dừng daemon,Stop daemon,0
-messages,oro.cron.view.dependencies,Dendencies,Dendencies,0
+messages,oro.cron.view.dependencies,Thành phần phụ thuộc,Dendencies,0
 messages,oro.cron.view.in_deps,Phụ thuộc đến,Incoming Dependencies,0
 messages,oro.cron.view.original,Công việc ban đầu,Original Job,0
 messages,oro.cron.view.related,Các thực thể liên quan,Related Entities,0
@@ -319,28 +319,28 @@ messages,oro.dashboard.my_sales_flow.b2c,B2C,B2C,0
 messages,oro.dashboard.name.label,Tên,Name,0
 messages,oro.dashboard.no_data_found,Không tìm thấy dữ liệu nào,No data found,0
 messages,oro.dashboard.no_one_available,Bạn không có sẵn trang tổng quan,You have no dashboards available,0
-messages,oro.dashboard.opportunity_statistics.description,Tiện ích này hiển thị một tập hợp các chỉ số cho biết hiệu suất của đường ống cơ hội.,This widget displays a set of metrics that indicate performance of opportunity pipeline.,0
-messages,oro.dashboard.opportunity_statistics.new_opportunities_amount.label,Số lượng cơ hội mới,New Opportunities amount,0
+messages,oro.dashboard.opportunity_statistics.description,Tiện ích này hiển thị một tập hợp các chỉ số cho biết hiệu suất của luồng cơ hội.,This widget displays a set of metrics that indicate performance of opportunity pipeline.,0
+messages,oro.dashboard.opportunity_statistics.new_opportunities_amount.label,Lượng cơ hội mới,New Opportunities amount,0
 messages,oro.dashboard.opportunity_statistics.new_opportunities_count.label,Số cơ hội mới,New Opportunities count,0
 messages,oro.dashboard.opportunity_statistics.title,Thống kê cơ hội,Opportunity statistics,0
-messages,oro.dashboard.opportunity_statistics.won_opportunities_to_date_amount.label,Đã giành cơ hội cho đến ngày,Won Opportunities to date amount,0
-messages,oro.dashboard.opportunity_statistics.won_opportunities_to_date_count.label,Đã giành cơ hội để đếm ngày,Won Opportunities to date count,0
-messages,oro.dashboard.options.label,Tùy chọn,Options,0
+messages,oro.dashboard.opportunity_statistics.won_opportunities_to_date_amount.label,Lượng cơ hội đã thắng cho đến ngày,Won Opportunities to date amount,0
+messages,oro.dashboard.opportunity_statistics.won_opportunities_to_date_count.label,Số cơ hội đã thắng để đếm ngày,Won Opportunities to date count,0
+messages,oro.dashboard.options.label,Các tùy chọn,Options,0
 messages,oro.dashboard.organization.label,Cơ quan,Organization,0
 messages,oro.dashboard.owner,Chủ nhân,Owner,0
 messages,oro.dashboard.owner.label,Chủ nhân,Owner,0
 messages,oro.dashboard.previous_date_range.label,So sánh với kỳ trước,Compare with previous period,0
-messages,oro.dashboard.query_filter.collapse,Sự sụp đổ,Collapse,0
-messages,oro.dashboard.query_filter.expand,Mở rộng,Expand,0
+messages,oro.dashboard.query_filter.collapse,Thu lại,Collapse,0
+messages,oro.dashboard.query_filter.expand,Mở ra,Expand,0
 messages,oro.dashboard.query_filter.label,Bộ lọc nâng cao,Advanced Filter,0
 messages,oro.dashboard.quick_launchpad_widget_description,Tiện ích này cung cấp cho bạn quyền truy cập vào các trang và hành động thường được sử dụng nhất,This widget gives you access to most commonly used actions and pages,0
-messages,oro.dashboard.recent_calls.description,Widget này hiển thị danh sách các cuộc gọi đã đăng nhập gần đây,This widget displays the list of recently logged calls,0
+messages,oro.dashboard.recent_calls.description,Công cụ này hiển thị danh sách các cuộc gọi đã đăng nhập gần đây,This widget displays the list of recently logged calls,0
 messages,oro.dashboard.recent_calls.title,Những cuộc gọi gần đây,Recent calls,0
 messages,oro.dashboard.recent_calls.view_all,Xem tất cả,View All,0
 messages,oro.dashboard.recent_emails.description,Tiện ích này cho phép bạn xem những bổ sung mới nhất cho hộp thư đến và hộp thư đi của bạn,This widget enables you to see the most recent additions to your inbox and outbox,0
 messages,oro.dashboard.recent_emails.inbox,Hộp thư đến,Inbox,0
 messages,oro.dashboard.recent_emails.reply,Đáp lại,Reply,0
-messages,oro.dashboard.recent_emails.sent,Gởi,Sent,0
+messages,oro.dashboard.recent_emails.sent,Gửi,Sent,0
 messages,oro.dashboard.recent_emails.title,Email gần đây,Recent Emails,0
 messages,oro.dashboard.recent_emails.unread,Email chưa đọc,Unread Emails,0
 messages,oro.dashboard.recent_emails.view_all,Xem tất cả,View All,0
@@ -349,52 +349,52 @@ messages,oro.dashboard.saved_message,Đã lưu trang tổng quan,Dashboard saved
 messages,oro.dashboard.start_dashboard,Sao chép từ,Clone from,0
 messages,oro.dashboard.start_dashboard.empty_value,Trang tổng quan trống,Blank Dashboard,0
 messages,oro.dashboard.title.chose_dashboard,Chọn trang tổng quan,Choose dashboard,0
-messages,oro.dashboard.title.label,Tên tiện ích,Widget title,0
-messages,oro.dashboard.title.main,bảng điều khiển,Dashboard,0
-messages,oro.dashboard.title.quick_launchpad,Quick Launchpad,Quick Launchpad,0
+messages,oro.dashboard.title.label,Tên công cụ,Widget title,0
+messages,oro.dashboard.title.main,Trang tổng quan,Dashboard,0
+messages,oro.dashboard.title.quick_launchpad,Bảng tắt,Quick Launchpad,0
 messages,oro.dashboard.title.use_default.label,Sử dụng mặc định,Use default,0
 messages,oro.dashboard.tools_dropdown.label,Công cụ,Tools,0
-messages,oro.dashboard.widget.big_number.choose_metrics,Chọn số liệu,Choose Metrics,0
-messages,oro.dashboard.widget.big_number.choose_metrics_placeholder,Chọn số liệu ...,Choose Metrics...,0
+messages,oro.dashboard.widget.big_number.choose_metrics,Chọn chỉ số,Choose Metrics,0
+messages,oro.dashboard.widget.big_number.choose_metrics_placeholder,Chọn chỉ số ...,Choose Metrics...,0
 messages,oro.dashboard.widget.big_number.compare_to.label,So với,Compare to,0
 messages,oro.dashboard.widget.big_number.metricName,Tên chỉ số,Metric name,0
-messages,oro.dashboard.widget.big_number.metrics,Số liệu,Metrics,0
-messages,oro.dashboard.widget.big_number.no_available_metrics,Không có số liệu có sẵn,No available metrics,0
+messages,oro.dashboard.widget.big_number.metrics,Các chỉ số,Metrics,0
+messages,oro.dashboard.widget.big_number.no_available_metrics,Không có chỉ số có sẵn,No available metrics,0
 messages,oro.dashboard.widget.big_number.no_changes,Không thay đổi,No changes,0
 messages,oro.dashboard.widget.configuration.success,Tiện ích con đã được định cấu hình thành công,Widget has been successfully configured,0
 messages,oro.dashboard.widget.filter.date_range.all_time,Tất cả thời gian,All time,0
 messages,oro.dashboard.widget.filter.date_range.this_month,Tháng này,This month,0
-messages,oro.dashboard.widget.filter.date_range.this_quarter,Hình vuông này,This quarter,0
+messages,oro.dashboard.widget.filter.date_range.this_quarter,Quý này,This quarter,0
 messages,oro.dashboard.widget.filter.date_range.this_week,Tuần này,This week,0
 messages,oro.dashboard.widget.filter.date_range.this_year,Năm nay,This year,0
 messages,oro.dashboard.widget.filter.date_range.today,Hôm nay,Today,0
 messages,oro.dashboard.widget.sort_by.label,Sắp xếp theo,Sort By,0
 messages,oro.dashboard.widget.sort_by.order.asc.label,Tăng dần,Ascending,0
 messages,oro.dashboard.widget.sort_by.order.desc.label,Giảm dần,Descending,0
-messages,oro.dashboard.widget.sort_by.property.placeholder,Chọn một tài sản ...,Choose a property...,0
+messages,oro.dashboard.widget.sort_by.property.placeholder,Chọn một thuộc tính ...,Choose a property...,0
 messages,oro.dashboard.widgets.label,Tiện ích,Widgets,0
 messages,oro.dashboard.widgets.quick_launchpad.title,Cài đặt,Settings,0
 messages,oro.dataaudit.abstractaudit.action.label,Hành động kiểm toán,Audit action,0
 messages,oro.dataaudit.abstractaudit.additional_fields.label,Các trường bổ sung,Additional fields,0
-messages,oro.dataaudit.abstractaudit.entity_label,Kiểm toán,Audit,0
+messages,oro.dataaudit.abstractaudit.entity_label,Kiểm tra,Audit,0
 messages,oro.dataaudit.abstractaudit.entity_plural_label,Kiểm tra,Audits,0
-messages,oro.dataaudit.abstractaudit.fields.label,Trường kiểm toán,Audit fields,0
+messages,oro.dataaudit.abstractaudit.fields.label,Trường kiểm tra,Audit fields,0
 messages,oro.dataaudit.abstractaudit.id.label,ID,Id,0
 messages,oro.dataaudit.abstractaudit.impersonation.label,Kiểm tra mạo danh,Audit impersonation,0
-messages,oro.dataaudit.abstractaudit.logged_at.label,Đã đăng nhập tại,Logged at,0
-messages,oro.dataaudit.abstractaudit.object_class.label,Lớp kiểm toán,Audit class,0
+messages,oro.dataaudit.abstractaudit.logged_at.label,Đăng nhập vào lúc,Logged at,0
+messages,oro.dataaudit.abstractaudit.object_class.label,Loại kiểm tra,Audit class,0
 messages,oro.dataaudit.abstractaudit.object_id.label,ID,Id,0
-messages,oro.dataaudit.abstractaudit.object_name.label,Kiểm toán,Audit,0
-messages,oro.dataaudit.abstractaudit.organization.label,Tổ chức kiểm toán,Audit organization,0
-messages,oro.dataaudit.abstractaudit.owner_description.label,Mô tả chủ sở hữu kiểm tra,Audit owner description,0
-messages,oro.dataaudit.abstractaudit.transaction_id.label,Id giao dịch kiểm tra,Audit transaction id,0
-messages,oro.dataaudit.abstractaudit.user.label,Người dùng kiểm tra,Audit user,0
+messages,oro.dataaudit.abstractaudit.object_name.label,Kiểm tra,Audit,0
+messages,oro.dataaudit.abstractaudit.organization.label,Ban kiểm tra,Audit organization,0
+messages,oro.dataaudit.abstractaudit.owner_description.label,Mô tả Thanh tra chính,Audit owner description,0
+messages,oro.dataaudit.abstractaudit.transaction_id.label,ID tiến trình kiểm tra,Audit transaction id,0
+messages,oro.dataaudit.abstractaudit.user.label,Người kiểm tra,Audit user,0
 messages,oro.dataaudit.abstractaudit.version.label,Phiên bản kiểm tra,Audit version,0
-messages,oro.dataaudit.action.create,Tạo nên,Create,0
-messages,oro.dataaudit.action.remove,Tẩy,Remove,0
+messages,oro.dataaudit.action.create,Tạo,Create,0
+messages,oro.dataaudit.action.remove,Loại bỏ,Remove,0
 messages,oro.dataaudit.action.update,Cập nhật,Update,0
-messages,oro.dataaudit.audit.action.label,Hành động kiểm toán,Audit action,0
+messages,oro.dataaudit.audit.action.label,Hành động kiểm tra,Audit action,0
 messages,oro.dataaudit.audit.additional_fields.label,Các trường bổ sung,Additional fields,0
-messages,oro.dataaudit.audit.entity_label,Kiểm toán,Audit,0
+messages,oro.dataaudit.audit.entity_label,Kiểm tra,Audit,0
 messages,oro.dataaudit.audit.entity_plural_label,Kiểm tra,Audits,0
-messages,oro.dataaudit.audit.fields.label,Trường kiểm toán,Audit fields,0
+messages,oro.dataaudit.audit.fields.label,Trường kiểm tra,Audit fields,0

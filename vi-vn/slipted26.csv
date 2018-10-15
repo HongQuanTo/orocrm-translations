@@ -54,7 +54,7 @@ messages,oro.mailchimp.subscriberslist.use_awesome_bar.label,Sử dụng Awesome
 messages,oro.mailchimp.subscriberslist.visibility.label,Hiển thị,Visibility,0
 messages,oro.mailchimp.subscriberslist.web_id.label,Id web,Web Id,0
 messages,oro.mailchimp.syncstatus.in_progress,Trong tiến trình,In Progress,0
-messages,oro.mailchimp.syncstatus.list_is_connected.lebel,"Danh sách này được liên kết với phân đoạn ""% segment%"" của danh sách Mailchimp ""% list%"". Ngày đồng bộ hóa lần cuối:% synced%. Trạng thái đồng bộ hóa:% status%.","This list is linked to ""%segment%"" segment of ""%list%"" Mailchimp List. Last synchronization date: %synced%. Synchronization status: %status%.",0
+messages,oro.mailchimp.syncstatus.list_is_connected.lebel,"Danh sách này được liên kết với phân đoạn ""%segment%"" của danh sách Mailchimp ""%list%"". Ngày đồng bộ hóa lần cuối: %synced%. Trạng thái đồng bộ hóa: %status%.","This list is linked to ""%segment%"" segment of ""%list%"" Mailchimp List. Last synchronization date: %synced%. Synchronization status: %status%.",0
 messages,oro.mailchimp.syncstatus.not_synced,Chưa được đồng bộ hóa,Not Synced,0
 messages,oro.mailchimp.syncstatus.scheduled,Đã lên lịch để đồng bộ hóa,Scheduled for Sync,0
 messages,oro.mailchimp.syncstatus.scheduled_by_change,Đã lên lịch để đồng bộ hóa,Scheduled for Sync,0
@@ -118,10 +118,10 @@ messages,oro.marketinglist.action.unsubscribe,Hủy đăng ký,Unsubscribe,0
 messages,oro.marketinglist.block.general,Thông tin chung,General Information,0
 messages,oro.marketinglist.block.items,Mặt hàng,Items,0
 messages,oro.marketinglist.block.removed,Các mục đã xóa,Removed Items,0
-messages,oro.marketinglist.controller.removed,Đã xóa% entityName% khỏi danh sách,%entityName% removed from list,0
-messages,oro.marketinglist.controller.subscribed,% entityName% đã đăng ký,%entityName% subscribed,0
+messages,oro.marketinglist.controller.removed,Đã xóa %entityName% khỏi danh sách,%entityName% removed from list,0
+messages,oro.marketinglist.controller.subscribed,%entityName% đã đăng ký,%entityName% subscribed,0
 messages,oro.marketinglist.controller.unremoved,Hoàn tác đã thành công,Undo was successful,0
-messages,oro.marketinglist.controller.unsubscribed,% entityName% chưa được đăng ký,%entityName% unsubscribed,0
+messages,oro.marketinglist.controller.unsubscribed,%entityName% chưa được đăng ký,%entityName% unsubscribed,0
 messages,oro.marketinglist.created_at.label,Được tạo lúc,Created At,0
 messages,oro.marketinglist.datagrid.actions.delete.label,Xóa bỏ,Delete,0
 messages,oro.marketinglist.datagrid.actions.update.label,Cập nhật,Update,0
@@ -181,7 +181,7 @@ messages,oro.marketinglist.name.label,Tên,Name,0
 messages,oro.marketinglist.organization.label,Cơ quan,Organization,0
 messages,oro.marketinglist.owner.label,Chủ nhân,Owner,0
 messages,oro.marketinglist.refresh_list,Làm mới danh sách,Refresh List,0
-messages,oro.marketinglist.segment,Danh sách tiếp thị% name% segment,Marketing List %name% segment,0
+messages,oro.marketinglist.segment,Danh sách tiếp thị %name% phân khúc,Marketing List %name% segment,0
 messages,oro.marketinglist.segment.label,Phân đoạn,Segment,0
 messages,oro.marketinglist.type.dynamic,Năng động,Dynamic,0
 messages,oro.marketinglist.type.label,Kiểu,Type,0
@@ -239,12 +239,12 @@ messages,oro.navigation.menuupdate.description.label,Sự miêu tả,Description
 messages,oro.navigation.menuupdate.descriptions.label,Sự miêu tả,Description,0
 messages,oro.navigation.menuupdate.divider,Dải phân cách,Divider,0
 messages,oro.navigation.menuupdate.divider.label,Divider,Is Divider,0
-messages,oro.navigation.menuupdate.divider_created,Đã tạo bộ chia. Vui lòng% reload_link% trang để xem các thay đổi được áp dụng.,Divider created. Please %reload_link% the page to see the changes applied.,0
+messages,oro.navigation.menuupdate.divider_created,Đã tạo bộ chia. Vui lòng %reload_link% trang để xem các thay đổi được áp dụng.,Divider created. Please %reload_link% the page to see the changes applied.,0
 messages,oro.navigation.menuupdate.edit_menus,Chỉnh sửa menu,Edit Menus,0
 messages,oro.navigation.menuupdate.entity_label,Mục menu,Menu Item,0
 messages,oro.navigation.menuupdate.entity_plural_label,Mục menu,Menu Item,0
 messages,oro.navigation.menuupdate.hide,Ẩn giấu,Hide,0
-messages,oro.navigation.menuupdate.hide_success_message,Mục menu bị ẩn ngay bây giờ. Vui lòng% reload_link% trang để xem các thay đổi được áp dụng.,Menu item is hidden now. Please %reload_link% the page to see the changes applied.,0
+messages,oro.navigation.menuupdate.hide_success_message,Mục menu bị ẩn ngay bây giờ. Vui lòng %reload_link% trang để xem các thay đổi được áp dụng.,Menu item is hidden now. Please %reload_link% the page to see the changes applied.,0
 messages,oro.navigation.menuupdate.icon.label,Biểu tượng,Icon,0
 messages,oro.navigation.menuupdate.id.label,ID,Id,0
 messages,oro.navigation.menuupdate.key.label,Chìa khóa,Key,0
@@ -254,16 +254,16 @@ messages,oro.navigation.menuupdate.parent_key.label,Khóa chính,Parent Key,0
 messages,oro.navigation.menuupdate.priority.label,Sự ưu tiên,Priority,0
 messages,oro.navigation.menuupdate.reload_link.label,tải lại,reload,0
 messages,oro.navigation.menuupdate.reset,Cài lại,Reset,0
-messages,oro.navigation.menuupdate.reset_confirm,"Bạn có chắc chắn muốn đặt lại menu ""% menuKey%"" không?","Are you sure you want to reset menu ""%menuKey%""?",0
-messages,oro.navigation.menuupdate.reset_message,"Menu ""% menuKey%"" đã được đặt lại thành công. Vui lòng% reload_link% trang để xem các thay đổi được áp dụng.","Menu ""%menuKey%"" was successfully reset. Please %reload_link% the page to see the changes applied.",0
+messages,oro.navigation.menuupdate.reset_confirm,"Bạn có chắc chắn muốn đặt lại menu ""%menuKey%"" không?","Are you sure you want to reset menu ""%menuKey%""?",0
+messages,oro.navigation.menuupdate.reset_message,"Menu ""%menuKey%"" đã được đặt lại thành công. Vui lòng %reload_link% trang để xem các thay đổi được áp dụng.","Menu ""%menuKey%"" was successfully reset. Please %reload_link% the page to see the changes applied.",0
 messages,oro.navigation.menuupdate.reset_ok_text,"Có, Đặt lại","Yes, Reset",0
 messages,oro.navigation.menuupdate.reset_title,Xác nhận đặt lại,Reset Confirmation,0
 messages,oro.navigation.menuupdate.roots_plural_label,Thực đơn,Menus,0
-messages,oro.navigation.menuupdate.saved_message,Đã lưu thành công mục menu. Vui lòng% reload_link% trang để xem các thay đổi được áp dụng.,Menu item saved successfully. Please %reload_link% the page to see the changes applied.,0
+messages,oro.navigation.menuupdate.saved_message,Đã lưu thành công mục menu. Vui lòng %reload_link% trang để xem các thay đổi được áp dụng.,Menu item saved successfully. Please %reload_link% the page to see the changes applied.,0
 messages,oro.navigation.menuupdate.scope.label,Phạm vi,Scope,0
 messages,oro.navigation.menuupdate.select_existing_or_create_new,Chọn mục menu hiện có hoặc tạo mới.,Select existing menu item or create new.,0
 messages,oro.navigation.menuupdate.show,Chỉ,Show,0
-messages,oro.navigation.menuupdate.show_success_message,"Hiện tại, mục trình đơn có thể hiển thị. Vui lòng% reload_link% trang để xem các thay đổi được áp dụng.",Menu item is visible now. Please %reload_link% the page to see the changes applied.,0
+messages,oro.navigation.menuupdate.show_success_message,"Hiện tại, mục trình đơn có thể hiển thị. Vui lòng %reload_link% trang để xem các thay đổi được áp dụng.",Menu item is visible now. Please %reload_link% the page to see the changes applied.,0
 messages,oro.navigation.menuupdate.submenu,Mục menu phụ,Submenu Item,0
 messages,oro.navigation.menuupdate.title.label,Chức vụ,Title,0
 messages,oro.navigation.menuupdate.titles.label,Chức vụ,Title,0
@@ -291,11 +291,11 @@ messages,oro.note.id.label,ID,Id,0
 messages,oro.note.message.description,Văn bản ghi chú.,The note text.,0
 messages,oro.note.message.label,Thông điệp,Message,0
 messages,oro.note.no_notes_exist,Không tìm thấy ghi chú nào,No notes found,0
-messages,oro.note.note_added_by,được thêm bởi {{user}},added by {{ user }},0
-messages,oro.note.note_delete,Xóa {{entity}},Delete {{ entity }},0
+messages,oro.note.note_added_by,được thêm bởi {{ user }},added by {{ user }},0
+messages,oro.note.note_delete,Xóa {{ entity }},Delete {{ entity }},0
 messages,oro.note.note_saved,Đã lưu ghi chú,Note saved,0
-messages,oro.note.note_update,Cập nhật {{entity}},Update {{ entity }},0
-messages,oro.note.note_updated_by,"được thêm bởi {{user}}, được cập nhật bởi {{editor}}","added by {{ user }}, updated by {{ editor }}",0
+messages,oro.note.note_update,Cập nhật {{ entity }},Update {{ entity }},0
+messages,oro.note.note_updated_by,"được thêm bởi {{ user }}, được cập nhật bởi {{ editor }}","added by {{ user }}, updated by {{ editor }}",0
 messages,oro.note.organization.label,Cơ quan,Organization,0
 messages,oro.note.owner.label,Được tạo bởi,Created By,0
 messages,oro.note.save.label,Tiết kiệm,Save,0
@@ -303,18 +303,18 @@ messages,oro.note.target.description,Bản ghi thực thể mà ghi chú đã đ
 messages,oro.note.target.label,Mục tiêu,Target,0
 messages,oro.note.updated_by.description,Người dùng cập nhật hồ sơ ghi chú lần cuối.,The user who last updated the note record.,0
 messages,oro.note.updated_by.label,Cập nhật,Updated By,0
-messages,oro.note.widget_updated_by,Cập nhật bởi {{user}},Updated by {{ user }},0
+messages,oro.note.widget_updated_by,Cập nhật bởi {{ user }},Updated by {{ user }},0
 messages,oro.notification.controller.emailnotification.saved.message,Đã lưu quy tắc thông báo email,Email notification rule saved,0
 messages,oro.notification.datagrid.action.delete,Xóa bỏ,Delete,0
 messages,oro.notification.datagrid.action.update,Cập nhật,Update,0
 messages,oro.notification.datagrid.recipient.custom_email,Người nhận E-mail,Recipient email,0
 messages,oro.notification.datagrid.recipient.group,Nhóm người nhận,Recipient groups,0
 messages,oro.notification.datagrid.recipient.user,Người nhận sử dụng,Recipient users,0
-messages,oro.notification.emailnotification.additional_associations.tooltip,"<b> Các hiệp hội bổ sung </ b>: Thông báo bổ sung có thể được gửi đến các email có sẵn trong các bản ghi thực thể liên quan, nếu được chọn.","<b>Additional Associations</b>: Additional notification may be sent to the emails available in the associated entities records, if selected.",0
+messages,oro.notification.emailnotification.additional_associations.tooltip,"<b>Các hiệp hội bổ sung </b>: Thông báo bổ sung có thể được gửi đến các email có sẵn trong các bản ghi thực thể liên quan, nếu được chọn.","<b>Additional Associations</b>: Additional notification may be sent to the emails available in the associated entities records, if selected.",0
 messages,oro.notification.emailnotification.additional_email_associations.label,Hiệp hội bổ sung,Additional associations,0
-messages,oro.notification.emailnotification.additional_emails.tooltip,<b> Liên hệ với Email </ b>: Danh sách các trường tổ chức được chọn được đánh dấu là thông tin liên hệ email.,<b>Contact Emails</b>: A list of the selected entity fields marked as email contact information.,0
+messages,oro.notification.emailnotification.additional_emails.tooltip,<b> Liên hệ với Email </b>: Danh sách các trường tổ chức được chọn được đánh dấu là thông tin liên hệ email.,<b>Contact Emails</b>: A list of the selected entity fields marked as email contact information.,0
 messages,oro.notification.emailnotification.contact_emails.label,Liên hệ email,Contact Emails,0
-messages,oro.notification.emailnotification.edit_entity,Chỉnh sửa quy tắc thông báo% name%,Edit notification rule %name%,0
+messages,oro.notification.emailnotification.edit_entity,Chỉnh sửa quy tắc thông báo %name%,Edit notification rule %name%,0
 messages,oro.notification.emailnotification.email.label,E-mail,Email,0
 messages,oro.notification.emailnotification.entity_description,Trình bày thông báo qua email,Represent email notification,0
 messages,oro.notification.emailnotification.entity_label,Quy tắc thông báo,Notification Rule,0

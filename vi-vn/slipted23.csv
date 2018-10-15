@@ -6,7 +6,7 @@ messages,oro.locale.fallback.use_fallback.label,Sử dụng,Use,0
 messages,oro.locale.fallback.value.default,Giá trị mặc định,Default Value,0
 messages,oro.locale.form.tooltip.currency,Chọn loại tiền tệ mặc định,Select the default currency,0
 messages,oro.locale.form.tooltip.format_address_by_address_country,"Khi tùy chọn này được chọn, địa chỉ sẽ được định dạng theo các quy tắc của quốc gia của họ. Nếu không, định dạng vị trí chính sẽ được áp dụng.","When this option is selected, addresses will be formatted according to the rules of their countries. Otherwise, the primary location formatting will be applied.",0
-messages,oro.locale.form.tooltip.language,Chọn ngôn ngữ hệ thống từ danh sách các bản dịch đã cài đặt (xem System & rarr; Localization & rarr; Languages).,Select the system language from the list of the installed translations (see System &rarr; Localization &rarr; Languages).,0
+messages,oro.locale.form.tooltip.language,Chọn ngôn ngữ hệ thống từ danh sách các bản dịch đã cài đặt (xem System &rarr; Localization &rarr; Languages).,Select the system language from the list of the installed translations (see System &rarr; Localization &rarr; Languages).,0
 messages,oro.locale.form.tooltip.languages,Chọn ngôn ngữ có thể được sử dụng để dịch các mẫu email.,Select the languages that can be used to translate email templates.,0
 messages,oro.locale.form.tooltip.locale,"Lựa chọn miền địa phương ảnh hưởng đến định dạng số, địa chỉ, tên và ngày tháng.","Locale selection affects the formatting of numbers, addresses, names, and dates.",0
 messages,oro.locale.form.tooltip.location," Nếu tùy chọn Định dạng địa chỉ cho mỗi quốc gia bị tắt hoặc không có định dạng theo quốc gia cụ thể, địa chỉ sẽ được định dạng theo các quy tắc của vị trí chính."," If Format address per country option is disabled, or there is no country-specific formatting, the addresses will be formatted according to the rules of primary location.",0
@@ -31,7 +31,7 @@ messages,oro.locale.localization.id.label,ID,Id,0
 messages,oro.locale.localization.language.label,Ngôn ngữ,Language,0
 messages,oro.locale.localization.name.description,Tên địa phương hóa có thể đọc được giúp xác định cài đặt cho một miền địa phương cụ thể.,A human readable localization name that helps identify settings for a particular locale.,0
 messages,oro.locale.localization.name.label,Tên,Name,0
-messages,oro.locale.localization.navigation.view,"Bản địa hóa ""% name%""","Localization ""%name%""",0
+messages,oro.locale.localization.navigation.view,"Bản địa hóa ""%name%""","Localization ""%name%""",0
 messages,oro.locale.localization.parent_localization.description,Các mối quan hệ giữa mục bản địa hóa và nội địa hóa của nó.,The relationships between the localization item and its parent localization.,0
 messages,oro.locale.localization.parent_localization.label,Bản địa hóa gốc,Parent localization,0
 messages,oro.locale.localization.sections.general,Chung,General,0

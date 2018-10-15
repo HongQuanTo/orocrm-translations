@@ -166,7 +166,7 @@ messages,oro.form.icon_select.warning-sign,Dấu hiệu cảnh báo,warning sign
 messages,oro.form.icon_select.wrench,cờ lê,wrench,0
 messages,oro.form.icon_select.zoom-in,phóng to,zoom in,0
 messages,oro.form.icon_select.zoom-out,thu nhỏ,zoom out,0
-messages,oro.form.oro_duration.tooltip,Mã hóa được hỗ trợ: <ul> <li> #: #: # (ví dụ: '1: 30: 0' hoặc '90: 00 ') <li> #h #m #s (ví dụ:' 1h 30m 'hoặc' 1.5h ' hoặc '90m'),Encodings supported:<ul> <li>#:#:# (e.g. '1:30:0' or '90:00') <li>#h #m #s (e.g. '1h 30m' or '1.5h' or '90m'),0
+messages,oro.form.oro_duration.tooltip,Mã hóa được hỗ trợ: <ul> <li>#:#:# (VD: '1:30:0' or '90:00') <li>#h #m #s (VD: '1h 30m' or '1.5h' or '90m'),Encodings supported:<ul> <li>#:#:# (e.g. '1:30:0' or '90:00') <li>#h #m #s (e.g. '1h 30m' or '1.5h' or '90m'),0
 messages,oro.form.system_configuration.fields.wysiwyg_enabled.label,Bật trình chỉnh sửa WYSIWYG,Enable WYSIWYG editor,0
 messages,oro.form.system_configuration.fields.wysiwyg_enabled.tooltip,Bật trình chỉnh sửa WYSIWYG cho tất cả các trường văn bản,Enables WYSIWYG editor for all text fields,0
 messages,oro.form.system_configuration.groups.wysiwyg_settings.title,Cài đặt WYSIWYG,WYSIWYG settings,0
@@ -177,7 +177,7 @@ messages,oro.google_integration.system_configuration.fields.domains.label,Tên m
 messages,oro.google_integration.system_configuration.fields.domains.tooltip,Danh sách các miền được phép được phân cách bằng dấu phẩy,Comma separated list of allowed domains,0
 messages,oro.google_integration.system_configuration.fields.google_api_key.label,Khóa API Google,Google API Key,0
 messages,oro.google_integration.system_configuration.groups.google_integration_settings.title,Cài đặt tích hợp của Google,Google Integration Settings,0
-messages,oro.google_integration.system_configuration.groups.google_integration_settings.tooltip,"Vui lòng đọc <a href=""https://support.google.com/cloud/answer/6158862?hl=vi"" target=""_blank""> hướng dẫn </a> để nhận thông tin xác thực. Đảm bảo rằng tên miền OroCRM của bạn được đưa vào `Nguồn gốc JavaScript được ủy quyền` và` URI chuyển hướng được ủy quyền`.","Please read <a href=""https://support.google.com/cloud/answer/6158862?hl=en"" target=""_blank"">instructions</a> for obtaining credentials. Make sure that your OroCRM domain is included into `Authorized JavaScript origins` and `Authorized redirect URIs`.",0
+messages,oro.google_integration.system_configuration.groups.google_integration_settings.tooltip,"Vui lòng đọc <a href=""https://support.google.com/cloud/answer/6158862?hl=en"" target=""_blank"">hướng dẫn</a>  để nhận thông tin xác thực. Đảm bảo rằng tên miền OroCRM của bạn được đưa vào `Authorized JavaScript origins` và `Authorized redirect URIs`.","Please read <a href=""https://support.google.com/cloud/answer/6158862?hl=en"" target=""_blank"">instructions</a> for obtaining credentials. Make sure that your OroCRM domain is included into `Authorized JavaScript origins` and `Authorized redirect URIs`.",0
 messages,oro.google_integration.system_configuration.groups.google_settings.title,Cài đặt Google,Google Settings,0
 messages,oro.grid.action.clone,Sao chép,Clone,0
 messages,oro.grid.action.delete,Xóa bỏ,Delete,0
@@ -197,8 +197,8 @@ messages,oro.grid.mass_action.confirm_title,Xác nhận hành động hàng lo�
 messages,oro.grid.mass_action.delete.confirm_content,Bạn có chắc chắn muốn xóa các mục này không?,Are you sure you want to delete these items?,0
 messages,oro.grid.mass_action.delete.confirm_title,Xác nhận xóa hàng loạt,Mass Delete Confirmation,0
 messages,oro.grid.mass_action.delete.label,Xóa bỏ,Delete,0
-messages,oro.grid.mass_action.delete.success_message,"{0} Không có thực thể nào bị xóa | {1} Một thực thể đã bị xóa |] 1, Inf [% count% thực thể đã được xóa thành công","{0} No entities were deleted|{1} One entity was deleted|]1,Inf[ %count% entities have been deleted successfully",0
-messages,oro.grid.mass_action.edit.success_message,"{0} Không có thực thể nào được chỉnh sửa | {1} Một thực thể đã được chỉnh sửa |] 1, Inf [% count% thực thể đã được chỉnh sửa","{0} No entities were edited|{1} One entity was edited|]1,Inf[ %count% entities were edited",0
+messages,oro.grid.mass_action.delete.success_message,"{0} Không có thực thể nào bị xóa|{1} Một thực thể đã bị xóa|]1,Inf[ %count% thực thể đã được xóa thành công","{0} No entities were deleted|{1} One entity was deleted|]1,Inf[ %count% entities have been deleted successfully",0
+messages,oro.grid.mass_action.edit.success_message,"{0} Không có thực thể nào được chỉnh sửa|{1} Một thực thể đã được chỉnh sửa|]1,Inf[ %count% thực thể đã được chỉnh sửa","{0} No entities were edited|{1} One entity was edited|]1,Inf[ %count% entities were edited",0
 messages,oro.grid.mass_action.error_content,Không thể thực hiện hành động đại chúng,Cannot perform mass action,0
 messages,oro.grid.mass_action.error_title,Lỗi hành động hàng loạt,Mass Action Error,0
 messages,oro.grid.mass_action.label,Hành động hàng loạt,Mass Actions,0
@@ -237,8 +237,8 @@ messages,oro.imap.configuration.use_smtp.tooltip,"Bật đồng bộ hóa SMTP �
 messages,oro.imap.configuration.user.label,Người dùng,User,0
 messages,oro.imap.sync.acl.credential_system_notifications.description,"Nếu đồng bộ hóa hộp thư hệ thống không thành công do thông tin đăng nhập không chính xác, người dùng sẽ nhận được thông báo về điều này qua hộp thư hệ thống.","If the sync of the system mailbox was not successful due to the incorrect credentials, the user receives a message about this via the system mailbox.",0
 messages,oro.imap.sync.acl.credential_system_notifications.label,Nhận tin nhắn thông báo cho các hộp thư hệ thống được cấu hình không chính xác,Receive notification messages for the system mailboxes that were configured incorrectly,0
-messages,oro.imap.sync.flash_message.system_box_failed,"Đồng bộ hóa hộp thư hệ thống (tên người dùng ""% username%"" được lưu trữ tại ""% host%"") đã không thành công. Vui lòng kiểm tra thông tin đăng nhập kết nối trên trang cấu hình email.","Synchronization of the system mailbox (username ""%username%"" hosted at ""%host%"") has failed. Please, check the connection credentials on the email configuraton page.",0
-messages,oro.imap.sync.flash_message.user_box_failed,"Đồng bộ hóa với hộp thư của bạn (tên người dùng ""% username%"" được lưu trữ tại ""% host%"") đã không thành công. Vui lòng kiểm tra thông tin đăng nhập kết nối trên trang cấu hình email.","Synchronization with your mailbox (username ""%username%"" hosted at ""%host%"") has failed. Please, check the connection credentials on the email configuraton page.",0
+messages,oro.imap.sync.flash_message.system_box_failed,"Đồng bộ hóa hộp thư hệ thống (tên người dùng ""%username%"" được lưu trữ tại ""%host%"") đã không thành công. Vui lòng kiểm tra thông tin đăng nhập kết nối trên trang cấu hình email.","Synchronization of the system mailbox (username ""%username%"" hosted at ""%host%"") has failed. Please, check the connection credentials on the email configuraton page.",0
+messages,oro.imap.sync.flash_message.user_box_failed,"Đồng bộ hóa với hộp thư của bạn (tên người dùng ""%username%"" được lưu trữ tại ""%host%"") đã không thành công. Vui lòng kiểm tra thông tin đăng nhập kết nối trên trang cấu hình email.","Synchronization with your mailbox (username ""%username%"" hosted at ""%host%"") has failed. Please, check the connection credentials on the email configuraton page.",0
 messages,oro.imap.system_configuration.fields.enable_google_imap.error.label,Lỗi khi ủy quyền,Error during Authorization,0
 messages,oro.imap.system_configuration.fields.enable_google_imap.label,Bật,Enable,0
 messages,oro.imap.system_configuration.fields.enable_google_imap.success.label,Ủy quyền thành công,Authorization was successfull,0
@@ -262,18 +262,18 @@ messages,oro.importexport.export.label,Xuất khẩu,Export,0
 messages,oro.importexport.export.popup.options.label,Dữ liệu đã xuất,Exported data,0
 messages,oro.importexport.export.processor,Bộ xử lý,Processor,0
 messages,oro.importexport.export_template.label,Xuất mẫu,Export template,0
-messages,oro.importexport.import.alert,"% đã thêm%% thực thể% đã được thêm,% cập nhật%% thực thể% đã được cập nhật","%added% %entities% were added, %updated% %entities% were updated",0
+messages,oro.importexport.import.alert,"%added% %entities% đã được thêm, %updated% %entities% đã được cập nhật","%added% %entities% were added, %updated% %entities% were updated",0
 messages,oro.importexport.import.columns_notice,Tệp chỉ được phân tách bằng dấu phẩy. Các tệp chứa các trình tách khác sẽ bị từ chối.,The file must be comma-separated only. Files containing other separators will be rejected.,0
 messages,oro.importexport.import.download_error_log,Nhật ký lỗi,Error log,0
-messages,oro.importexport.import.entity,Nhập% entityName%,Import %entityName%,0
-messages,oro.importexport.import.entity_validation,Nhập% xác thực% entityName,Import %entityName% Validation,0
+messages,oro.importexport.import.entity,Nhập %entityName%,Import %entityName%,0
+messages,oro.importexport.import.entity_validation,Nhập xác thực %entityName%,Import %entityName% Validation,0
 messages,oro.importexport.import.error,Đã xảy ra lỗi khi nhập tệp.,Errors occurred during file import.,0
-messages,oro.importexport.import.error %number%,Lỗi trong hàng #% number%.,Error in row #%number%.,0
-messages,oro.importexport.import.errors.access_denied_entity,"Quyền truy cập bị từ chối đối với thực thể ""% entity_name%""","Access denied to entity ""%entity_name%""",0
-messages,oro.importexport.import.errors.access_denied_property_entity,"Quyền truy cập bị từ chối vào thuộc tính% property_name% của pháp nhân ""% entity_name%""","Access denied to property %property_name% of entity ""%entity_name%""",0
-messages,oro.importexport.import.errors.not_found_entity,"Không tìm thấy pháp nhân ""% entity_name%""","Not found entity ""%entity_name%""",0
+messages,oro.importexport.import.error %number%,Lỗi trong hàng #%number%.,Error in row #%number%.,0
+messages,oro.importexport.import.errors.access_denied_entity,"Quyền truy cập bị từ chối đối với thực thể ""%entity_name%""","Access denied to entity ""%entity_name%""",0
+messages,oro.importexport.import.errors.access_denied_property_entity,"Quyền truy cập bị từ chối vào thuộc tính %property_name% của pháp nhân ""%entity_name%""","Access denied to property %property_name% of entity ""%entity_name%""",0
+messages,oro.importexport.import.errors.not_found_entity,"Không tìm thấy pháp nhân ""%entity_name%""","Not found entity ""%entity_name%""",0
 messages,oro.importexport.import.errors.wrong_owner,Bạn không có quyền truy cập để đặt chủ sở hữu đã cho,You have no access to set given owner,0
-messages,oro.importexport.import.errors_found,Lỗi được tìm thấy:% errors%,Errors found: %errors%,0
+messages,oro.importexport.import.errors_found,Lỗi được tìm thấy: %errors%,Errors found: %errors%,0
 messages,oro.importexport.import.file,Tập tin,File,0
 messages,oro.importexport.import.importance,Quan trọng,Important,0
 messages,oro.importexport.import.label,Nhập tệp,Import file,0
@@ -281,9 +281,9 @@ messages,oro.importexport.import.oro_contact.add,Thêm vào,Add,0
 messages,oro.importexport.import.oro_contact.add_or_replace,Thêm và thay thế,Add and Replace,0
 messages,oro.importexport.import.oro_translation_translation.add_or_replace,Thêm và thay thế,Add and Replace,0
 messages,oro.importexport.import.oro_translation_translation.reset,Đặt lại và thêm,Reset and Add,0
-messages,oro.importexport.import.postponed_rows,Đã có% hàng% hàng% không thể được xử lý.,There were %postponedRows% rows that could not be proccessed.,0
+messages,oro.importexport.import.postponed_rows,Đã có %postponedRows% không thể được xử lý.,There were %postponedRows% rows that could not be proccessed.,0
 messages,oro.importexport.import.strategy,Chiến lược,Strategy,0
-messages,oro.importexport.import.strategy.tooltip,<b> Thêm và thay thế chiến lược </ b> sẽ ghi đè dữ liệu hiện có bằng dữ liệu mới từ tệp được nhập.,<b>Add and Replace</b> strategy overrides the existing data with the new one from the imported file.,0
+messages,oro.importexport.import.strategy.tooltip,<b>Chiến lược Thêm và thay thế</b> sẽ ghi đè dữ liệu hiện có bằng dữ liệu mới từ tệp được nhập.,<b>Add and Replace</b> strategy overrides the existing data with the new one from the imported file.,0
 messages,oro.importexport.import.success,Tệp đã được nhập thành công.,File was successfully imported.,0
 messages,oro.importexport.import.success.message,Đã bắt đầu nhập thành công. Bạn sẽ nhận được thông báo qua email sau khi hoàn tất.,Import started successfully. You will receive an email notification upon completion.,0
 messages,oro.importexport.import.tempate,Tải xuống mẫu dữ liệu,Download Data Template,0
@@ -365,7 +365,7 @@ messages,oro.integration.notification.channel.deleted,Tích hợp đã được 
 messages,oro.integration.operation.attribute.actionAllowed.label,Hành động được cho phép,Action is allowed,0
 messages,oro.integration.operation.attribute.actionSuccess.label,Hành động thành công,Action is successful,0
 messages,oro.integration.scheduled,"Quá trình đồng bộ hóa đã được lên lịch. <a href=""%url%""> Kiểm tra tiến độ công việc </a>.","The synchronization has been scheduled. <a href=""%url%"">Check job progress</a>.",0
-messages,oro.integration.sync,Công việc đồng bộ hóa đã được thêm vào hàng đợi. {{job_view_link}},A sync job has been added to the queue. {{ job_view_link }},0
+messages,oro.integration.sync,Công việc đồng bộ hóa đã được thêm vào hàng đợi. {{ job_view_link }},A sync job has been added to the queue. {{ job_view_link }},0
 messages,oro.integration.sync_error,Không thể thêm công việc đồng bộ hóa vào hàng đợi.,Failed to add sync job to the queue.,0
 messages,oro.integration.sync_error_integration_deactivated,Không thể thêm công việc đồng bộ vào hàng đợi vì tích hợp không hoạt động.,Cannot add sync job to the queue because the integration is not active.,0
 messages,oro.integration.system_configuration.groups.integrations.title,Tích hợp,Integrations,0

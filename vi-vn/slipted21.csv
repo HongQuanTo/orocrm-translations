@@ -1,5 +1,5 @@
 messages,oro.entity.entity_config.entity.field.items.label,Nhãn,Label,0
-messages,oro.entity.entity_config.entity.field.items.label.tooltip,"Để giữ nội dung thuộc tính không được gắn nhãn trên Cửa hàng Mặt trận, hãy thêm tiền tố vào văn bản nhãn có dấu gạch dưới (ví dụ: Đánh giá _Video, _Img Mặt trước, _Img Chế độ xem hiếm).","To keep the attribute content unlabeled on the Front Store, prefix the label text with an underscore (e.g. _Video Review, _Img Front View, _Img Rare View).",0
+messages,oro.entity.entity_config.entity.field.items.label.tooltip,"Để giữ nội dung thuộc tính không được gắn nhãn trên Cửa hàng Mặt tiền, hãy thêm tiền tố vào văn bản nhãn có dấu gạch dưới (ví dụ: Đánh giá _Video, _Img Mặt trước, _Img Chế độ xem hiếm).","To keep the attribute content unlabeled on the Front Store, prefix the label text with an underscore (e.g. _Video Review, _Img Front View, _Img Rare View).",0
 messages,oro.entity.entity_config.form.field.items.is_enabled,Hiển thị trên biểu mẫu,Show on form,0
 messages,oro.entity.entity_config.view.field.items.is_displayable,Hiển thị trên chế độ xem,Show on view,0
 messages,oro.entity.entity_config.view.field.items.priority,Sự ưu tiên,Priority,0
@@ -19,10 +19,10 @@ messages,oro.entity.form.choose_entity_field,Chọn một trường ...,Choose a
 messages,oro.entity.form.choose_entity_fields,Chọn các trường ...,Choose fields...,0
 messages,oro.entity.form.entity_fields,Lĩnh vực,Fields,0
 messages,oro.entity.form.entity_related,Liên quan,Related,0
-messages,oro.entity.item,Mục #% id%,Item #%id%,0
+messages,oro.entity.item,Mục #%id%,Item #%id%,0
 messages,oro.entity.plural_label,Thực thể,Entities,0
-messages,oro.entity.validation.unique_field,"Giá trị cho trường ""% field%"" phải là duy nhất | Kết hợp các giá trị cho trường ""% field%"" phải là duy nhất","Value for field ""%field%"" must be unique|Combination of values for ""%field%"" fields must be unique",0
-messages,oro.entity_config.action.field_search,Trả về trường kiểu varchar (s) trong thực thể đã cho,Return varchar type field(s) in given entity,0
+messages,oro.entity.validation.unique_field,"Giá trị cho trường ""%field%"" phải là duy nhất|Kết hợp các giá trị cho trường ""%field%"" phải là duy nhất","Value for field ""%field%"" must be unique|Combination of values for ""%field%"" fields must be unique",0
+messages,oro.entity_config.action.field_search,Trả về trường kiểu varchar trong thực thể đã cho,Return varchar type field(s) in given entity,0
 messages,oro.entity_config.action.manage,Truy cập quản lý tổ chức,Access entity management,0
 messages,oro.entity_config.action.update_entity,Cập nhật thực thể có thể định cấu hình,Update configurable entity,0
 messages,oro.entity_config.action.update_entity_field,Cập nhật trường tổ chức có thể định cấu hình,Update configurable entity field,0
@@ -92,7 +92,7 @@ messages,oro.entity_config.import.message.invalid_field_type,Loại trường kh
 messages,oro.entity_config.import.message.require_update_schema,Vui lòng nhấp vào 'Cập nhật lược đồ' để áp dụng các thay đổi,"Please, click 'Update Schema' to apply changes",0
 messages,oro.entity_config.import.title,Nhập trường thực thể,Import Entity Fields,0
 messages,oro.entity_config.info.new_field.label,Trường mới,New Field,0
-messages,oro.entity_config.info.records_count.label,Số lượng hồ sơ:% count%,Number of records: %count%,0
+messages,oro.entity_config.info.records_count.label,Số lượng hồ sơ: %count%,Number of records: %count%,0
 messages,oro.entity_config.menu.attributes_list.label,Thuộc tính,Attributes,0
 messages,oro.entity_config.menu.entities_list.description,Danh sách các thực thể,List of entities,0
 messages,oro.entity_config.menu.entities_list.label,Thực thể,Entities,0
@@ -168,7 +168,7 @@ messages,oro.entity_extend.form.data_type.float,Phao,Float,0
 messages,oro.entity_extend.form.data_type.html_escaped,HTML,HTML,0
 messages,oro.entity_extend.form.data_type.image,Hình ảnh,Image,0
 messages,oro.entity_extend.form.data_type.integer,Số nguyên,Integer,0
-messages,oro.entity_extend.form.data_type.inverse_relation,"Sử dụng lại ""% field_name%"" của% entity_name%","Reuse ""%field_name%"" of %entity_name%",0
+messages,oro.entity_extend.form.data_type.inverse_relation,"Sử dụng lại ""%field_name%"" của %entity_name%","Reuse ""%field_name%"" of %entity_name%",0
 messages,oro.entity_extend.form.data_type.json_array,Binary (mảng JSON),Binary (JSON array),0
 messages,oro.entity_extend.form.data_type.manyToMany,Nhiều nhiều,Many to many,0
 messages,oro.entity_extend.form.data_type.manyToOne,Nhiều đến một,Many to one,0
@@ -198,7 +198,7 @@ messages,oro.entity_extend.form.target_entity,Mục tiêu đích,Target entity,0
 messages,oro.entity_extend.form.target_field,Trường mục tiêu,Target field,0
 messages,oro.entity_extend.unique_keys,Khóa duy nhất,Unique Keys,0
 messages,oro.entity_merge.acl.merge,Hợp nhất các thực thể,Merge entities,0
-messages,oro.entity_merge.action.merge,Hợp nhất {{label}},Merge {{ label }},0
+messages,oro.entity_merge.action.merge,Hợp nhất {{ label }},Merge {{ label }},0
 messages,oro.entity_merge.controller.merged_successful,Các đối tượng đã được hợp nhất thành công.,Entities were successfully merged.,0
 messages,oro.entity_merge.controller.select_error,Chọn thực thể để hợp nhất.,Select entities to merge.,0
 messages,oro.entity_merge.form.empty,Trống,Empty,0
@@ -221,9 +221,9 @@ messages,oro.entity_pagination.last,Cuối cùng,Last,0
 messages,oro.entity_pagination.message.not_accessible,Bạn không có đủ quyền truy cập hồ sơ.,You do not have sufficient permissions to access records.,0
 messages,oro.entity_pagination.message.not_available,Một số hồ sơ không còn nữa.,Some of the records are no longer available.,0
 messages,oro.entity_pagination.message.stats_changed_view_to_edit,Bạn không có đủ quyền để chỉnh sửa tất cả các bản ghi đã chọn.,You do not have sufficient permissions to edit all selected records.,0
-messages,oro.entity_pagination.message.stats_number_edit_%count%_record|stats_number_edit_%count%_records,Bạn hiện đang chỉnh sửa% count% record. Bây giờ bạn đang chỉnh sửa %count% records.,You are now editing %count% record.|You are now editing %count% records.,0
-messages,oro.entity_pagination.message.stats_number_view_%count%_record|stats_number_view_%count%_records,"Bạn hiện đang xem% count% record. Hiện tại, bạn đang xem %count% records.",You are now viewing %count% record.|You are now viewing %count% records.,0
-messages,oro.entity_pagination.pager_of_%total%_record|pager_of_%total%_records,trong tổng số% tổng% Record% trong tổng số% bản ghi%,of %total% Record|of %total% Records,0
+messages,oro.entity_pagination.message.stats_number_edit_%count%_record|stats_number_edit_%count%_records,Bạn hiện đang chỉnh sửa %count% dòng.|Bạn hiện đang chỉnh sửa %count% dòng.,You are now editing %count% record.|You are now editing %count% records.,0
+messages,oro.entity_pagination.message.stats_number_view_%count%_record|stats_number_view_%count%_records,Bạn hiện đang xem %count% dòng.|Bạn hiện đang xem %count% dòng.,You are now viewing %count% record.|You are now viewing %count% records.,0
+messages,oro.entity_pagination.pager_of_%total%_record|pager_of_%total%_records,trong tổng số %total% dòng|trong tổng số %total% dòng,of %total% Record|of %total% Records,0
 messages,oro.entity_pagination.system_configuration.fields.enabled.label,Ghi lại số trang,Record Pagination,0
 messages,oro.entity_pagination.system_configuration.fields.enabled.tooltip,Điều hướng đến bản ghi trước đó hoặc bản ghi tiếp theo từ trang xem,Navigate to the previous or the next record from a view page,0
 messages,oro.entity_pagination.system_configuration.fields.limit.label,Ghi lại giới hạn phân trang,Record Pagination limit,0
@@ -238,7 +238,7 @@ messages,oro.entityconfig.attribute.entity.attributefamily.code.description,Mã 
 messages,oro.entityconfig.attribute.entity.attributefamily.code.label,Mã số,Code,0
 messages,oro.entityconfig.attribute.entity.attributefamily.entity_class.description,Lớp thực thể của họ thuộc tính.,The entity class of the attribute family.,0
 messages,oro.entityconfig.attribute.entity.attributefamily.entity_class.label,AttributeFamily,AttributeFamily,0
-messages,oro.entityconfig.attribute.entity.attributefamily.entity_description,"Họ sản phẩm là tập hợp các <a href=""https://www.oroinc.com/doc/orocommerce/current/user-guide/products/product-families#products-product-families""> thuộc tính sản phẩm </ a> đủ để lưu trữ thông tin đầy đủ về các sản phẩm có loại tương tự (ví dụ: thuộc tính TV và thuộc tính áo phông). Trong họ sản phẩm, các thuộc tính được tổ chức thành các nhóm thuộc tính được hiển thị dưới dạng các phần có tiêu đề trên cửa hàng phía trước OroCommerce.","A product family is a set of the <a href=""https://www.oroinc.com/doc/orocommerce/current/user-guide/products/product-families#products-product-families"">product attributes</a> that are enough to store complete information about the products of a similar type (e.g., TV attributes vs T-shirts attributes). In the product family, attributes are organized into attribute groups that are displayed as titled sections on the OroCommerce front store.",0
+messages,oro.entityconfig.attribute.entity.attributefamily.entity_description,"Họ sản phẩm là tập hợp các <a href=""https://www.oroinc.com/doc/orocommerce/current/user-guide/products/product-families#products-product-families"">thuộc tính sản phẩm</a> đủ để lưu trữ thông tin đầy đủ về các sản phẩm có loại tương tự (ví dụ: thuộc tính TV và thuộc tính áo phông). Trong họ sản phẩm, các thuộc tính được tổ chức thành các nhóm thuộc tính được hiển thị dưới dạng các phần có tiêu đề trên cửa hàng phía trước OroCommerce.","A product family is a set of the <a href=""https://www.oroinc.com/doc/orocommerce/current/user-guide/products/product-families#products-product-families"">product attributes</a> that are enough to store complete information about the products of a similar type (e.g., TV attributes vs T-shirts attributes). In the product family, attributes are organized into attribute groups that are displayed as titled sections on the OroCommerce front store.",0
 messages,oro.entityconfig.attribute.entity.attributefamily.entity_label,Họ sản phẩm,Product Family,0
 messages,oro.entityconfig.attribute.entity.attributefamily.entity_plural_label,Họ sản phẩm,Product Families,0
 messages,oro.entityconfig.attribute.entity.attributefamily.id.label,ID,ID,0

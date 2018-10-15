@@ -28,11 +28,11 @@ messages,oro.tracking.form.tooltip.log_rotate_interval,Xác định tần suất
 ",0
 messages,oro.tracking.form.tooltip.piwik_host,"URL phân tích Piwik.Khi tùy chọn này được đặt, tất cả thông tin theo dõi được chuyển đến một cá thể Piwik.","Piwik analytics URL.When this option is set, all tracking information is passed to a Piwik instance.
 ",0
-messages,oro.tracking.form.tooltip.piwik_token_auth,Mã xác thực API Piwik. Nó được sử dụng để thực hiện cuộc gọi API và chuyển IP khách hàng thực đến Piwik.Thẻ này phải được bảo mật. Vui lòng <strong> không chia sẻ! </ Strong>,"Piwik API Token auth. It is used to make API calls and pass real client IP to Piwik.This token_auth must remain secure. Please <strong>do not share it!</strong>
+messages,oro.tracking.form.tooltip.piwik_token_auth,Mã xác thực API Piwik. Nó được sử dụng để thực hiện cuộc gọi API và chuyển IP khách hàng thực đến Piwik.Thẻ này phải được bảo mật. Vui lòng <strong>không chia sẻ! </strong>,"Piwik API Token auth. It is used to make API calls and pass real client IP to Piwik.This token_auth must remain secure. Please <strong>do not share it!</strong>
 ",0
 messages,oro.tracking.form.tooltip.precalculated_statistic_enabled,"Bật tổng hợp cho thống kê lượt truy cập. Điều này sẽ cải thiện thời gian tính toán thống kê, nhưng có thể ảnh hưởng đến tiết kiệm thời gian.","Enable aggregation for visit statistics. This will improve statistics calculation time, but may have impact on save time.
 ",0
-messages,oro.tracking.help.event_tooltip,"Đảm bảo mã này nằm trên mọi trang trong trang web của bạn trước thẻ </ body>. Để theo dõi các sự kiện tùy chỉnh, vui lòng bỏ ghi chú chuỗi trackEvent và thay thế các thông số [name], [value] và [user_identifier] bằng các giá trị của bạn. Tập lệnh sẽ ghi lại một sự kiện với tên [name] và [value] tùy chọn.","Make sure this code is on every page of your website before the </body> tag.To track custom events, please uncomment the trackEvent string and replace
+messages,oro.tracking.help.event_tooltip,"Đảm bảo mã này nằm trên mọi trang trong trang web của bạn trước thẻ </body>. Để theo dõi các sự kiện tùy chỉnh, vui lòng bỏ ghi chú chuỗi trackEvent và thay thế các thông số [name], [value] và [user_identifier] bằng các giá trị của bạn. Tập lệnh sẽ ghi lại một sự kiện với tên [name] và [value] tùy chọn.","Make sure this code is on every page of your website before the </body> tag.To track custom events, please uncomment the trackEvent string and replace
 [name], [value], and [user_identifier] parameters with your values.
 The script will log an event with the [name] name and optional [value].
 ",0
@@ -142,7 +142,7 @@ messages,oro.translation.action.enable,Bật,Enable,0
 messages,oro.translation.action.export,Tải xuống tệp dịch,Download Translation File,0
 messages,oro.translation.action.import,Tải lên tệp dịch,Upload Translation File,0
 messages,oro.translation.action.install,"cài đặt, dựng lên",Install,0
-messages,oro.translation.action.install.title,"Cài đặt ngôn ngữ ""% language%""","Install ""%language%"" language",0
+messages,oro.translation.action.install.title,"Cài đặt ngôn ngữ ""%language%""","Install ""%language%"" language",0
 messages,oro.translation.action.rebuild_cache.label,Cập nhật bộ nhớ cache,Update Cache,0
 messages,oro.translation.action.reset.failure,Không thể đặt lại bản dịch thành giá trị ban đầu của chúng.,Failed to reset translations to their original values.,0
 messages,oro.translation.action.reset.hint,Đặt lại bản dịch,Reset Translation,0
@@ -151,7 +151,7 @@ messages,oro.translation.action.reset.nothing_to_reset,Bạn nên chọn ít nh�
 messages,oro.translation.action.reset.success,Các bản dịch được chọn đã được đặt lại về giá trị ban đầu của chúng.,Selected translations were reset to their original values.,0
 messages,oro.translation.action.translation_completeness.label,Hoàn thành bản dịch:,Translation Completeness:,0
 messages,oro.translation.action.update,Cập nhật,Update,0
-messages,oro.translation.action.update.title,"Cập nhật ngôn ngữ ""% language%""","Update ""%language%"" language",0
+messages,oro.translation.action.update.title,"Cập nhật ngôn ngữ ""%language%""","Update ""%language%"" language",0
 messages,oro.translation.context.ui_label,Nhãn giao diện người dùng,UI Label,0
 messages,oro.translation.download.error,Lỗi khi tải xuống gói,Error while downloading package,0
 messages,oro.translation.form.tooltip.translation_completeness,Chỉ báo độ bao phủ bản dịch liên quan đến khối lượng gói dịch. Một số gói có thể vẫn chưa được dịch.,Translation coverage indicator relates to translation package volume. Some bundles may still not be translated.,0
@@ -199,19 +199,19 @@ messages,oro.translation.translation_key.entity_label,Khóa dịch,Translation K
 messages,oro.translation.translation_key.entity_plural_label,Khóa dịch,Translation Keys,0
 messages,oro.translation.translation_key.id.label,ID,Id,0
 messages,oro.translation.translation_key.key.label,Chìa khóa,Key,0
-messages,oro.ui.actions,% entityName% Hành động,%entityName% Actions,0
+messages,oro.ui.actions,%entityName% Hành động,%entityName% Actions,0
 messages,oro.ui.actions.activity,Nhiêu hanh động hơn,More actions,0
-messages,oro.ui.convert_entity,Chuyển đổi% name% thành% entityName%,Convert %name% to %entityName%,0
+messages,oro.ui.convert_entity,Chuyển đổi %name% thành %entityName%,Convert %name% to %entityName%,0
 messages,oro.ui.create,Tạo nên,Create,0
-messages,oro.ui.create_entity,Tạo% entityName%,Create %entityName%,0
+messages,oro.ui.create_entity,Tạo %entityName%,Create %entityName%,0
 messages,oro.ui.created_at,Được tạo lúc,Created At,0
 messages,oro.ui.delete,Xóa bỏ,Delete,0
-messages,oro.ui.delete_confirm,Bạn có chắc chắn muốn xóa% entity_label% này không?,Are you sure you want to delete this %entity_label%?,0
-messages,oro.ui.delete_confirm_cascade,Bạn có chắc chắn muốn xóa% entity_label% này với các thực thể khác có liên quan đến nó không?,Are you sure you want to delete this %entity_label% with other entities related to it?,0
-messages,oro.ui.delete_entity,Xóa% entityName%,Delete %entityName%,0
-messages,oro.ui.delete_message,Đã xóa% entity_label%,%entity_label% deleted,0
+messages,oro.ui.delete_confirm,Bạn có chắc chắn muốn xóa %entity_label% này không?,Are you sure you want to delete this %entity_label%?,0
+messages,oro.ui.delete_confirm_cascade,Bạn có chắc chắn muốn xóa %entity_label% này với các thực thể khác có liên quan đến nó không?,Are you sure you want to delete this %entity_label% with other entities related to it?,0
+messages,oro.ui.delete_entity,Xóa %entityName%,Delete %entityName%,0
+messages,oro.ui.delete_message,Đã xóa %entity_label%,%entity_label% deleted,0
 messages,oro.ui.edit,Chỉnh sửa,Edit,0
-messages,oro.ui.edit_entity,Chỉnh sửa% entityName%,Edit %entityName%,0
+messages,oro.ui.edit_entity,Chỉnh sửa %entityName%,Edit %entityName%,0
 messages,oro.ui.empty,Không áp dụng,N/A,0
 messages,oro.ui.filter.by,Lọc bởi,Filter By,0
 messages,oro.ui.http_codes.226,Đã sử dụng IM,IM Used,0
@@ -278,14 +278,14 @@ messages,oro.ui.system_configuration.fields.navbar_position.label,Chức vụ,Po
 messages,oro.ui.system_configuration.groups.application_name_settings.title,URL,URL,0
 messages,oro.ui.system_configuration.groups.application_settings.title,Cài đặt ứng dụng,Application Settings,0
 messages,oro.ui.system_configuration.groups.navbar_settings.title,Thanh điều hướng,Navigation bar,0
-messages,oro.ui.update_entity,Cập nhật% entityName%,Update %entityName%,0
+messages,oro.ui.update_entity,Cập nhật %entityName%,Update %entityName%,0
 messages,oro.ui.updated_at,Cập nhật tại,Updated At,0
 messages,oro.ui.view,Lượt xem,View,0
-messages,oro.ui.view_entity,Xem% entityName%,View %entityName%,0
+messages,oro.ui.view_entity,Xem %entityName%,View %entityName%,0
 messages,oro.user.action.disable.label,Tắt người dùng,Disable user,0
-messages,oro.user.action.disable.success,Đã tắt User% user%.,User %username% disabled.,0
+messages,oro.user.action.disable.success,Đã tắt người dùng %username%.,User %username% disabled.,0
 messages,oro.user.action.enable.label,Bật người dùng,Enable user,0
-messages,oro.user.action.enable.success,Đã bật User%% user.,User %username% enabled.,0
+messages,oro.user.action.enable.success,Đã bật người dùng %username%.,User %username% enabled.,0
 messages,oro.user.action.password_management.description,Đặt lại hoặc thay đổi mật khẩu của người dùng khác,Reset or change passwords of other users,0
 messages,oro.user.action.password_management.label,Quản lý mật khẩu,Manage passwords,0
 messages,oro.user.action.update_configuration.description,"Cho phép truy cập vào cấu hình ứng dụng cá nhân, chẳng hạn như ngôn ngữ, ngôn ngữ, cài đặt email, v.v. bất kể quyền Cấu hình cho thực thể Người dùng.","Enables access to personal application configurations, such as language, locale, email settings, etc. regardless of Configure permissions for User entity.",0
@@ -392,12 +392,12 @@ messages,oro.user.ldap_distinguished_names.description,Giá trị của trườn
 messages,oro.user.ldap_distinguished_names.label,Tên phân biệt LDAP,LDAP Distinguished Names,0
 messages,oro.user.login_count.description,Bao nhiêu thời gian người dùng đăng nhập vào hệ thống.,How many time the user logged into the system.,0
 messages,oro.user.login_count.label,Số lượng đăng nhập,Login count,0
-messages,oro.user.mass_actions.disable_users.error_message,% count% người dùng đã bị vô hiệu hóa,%count% user(s) were disabled,0
+messages,oro.user.mass_actions.disable_users.error_message,%count% người dùng đã bị vô hiệu hóa,%count% user(s) were disabled,0
 messages,oro.user.mass_actions.disable_users.label,Vô hiệu hóa,Disable,0
-messages,oro.user.mass_actions.disable_users.success_message,% count% người dùng đã bị vô hiệu hóa,%count% user(s) were disabled,0
-messages,oro.user.mass_actions.enable_users.error_message,% count% người dùng đã được bật,%count% user(s) were enabled,0
+messages,oro.user.mass_actions.disable_users.success_message,%count% người dùng đã bị vô hiệu hóa,%count% user(s) were disabled,0
+messages,oro.user.mass_actions.enable_users.error_message,%count% người dùng đã được bật,%count% user(s) were enabled,0
 messages,oro.user.mass_actions.enable_users.label,Bật,Enable,0
-messages,oro.user.mass_actions.enable_users.success_message,% count% người dùng đã được bật,%count% user(s) were enabled,0
+messages,oro.user.mass_actions.enable_users.success_message,%count% người dùng đã được bật,%count% user(s) were enabled,0
 messages,oro.user.menu.oro_user_profile_configuration.label,Cấu hình của tôi,My Configuration,0
 messages,oro.user.menu.oro_user_profile_view.label,Người dùng của tôi,My User,0
 messages,oro.user.menu.shortcut_list_users.description,Danh sách tất cả người dùng hệ thống,List of all system users,0

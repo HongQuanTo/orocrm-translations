@@ -23,14 +23,14 @@ messages,oro.query_designer.aggregates.identifier.Count.hint,Số hạng mục,N
 messages,oro.query_designer.aggregates.identifier.Count.name,Đếm,Count,0
 messages,oro.query_designer.aggregates.marketing_activity_type.ClickCount.hint,Số lượng mục 'click',Number of 'click' items,0
 messages,oro.query_designer.aggregates.marketing_activity_type.ClickCount.name,Số lần nhấp,Click Count,0
-messages,oro.query_designer.aggregates.marketing_activity_type.HardBounceCount.hint,Số lượng mục 'thoát khó',Number of 'hard bounce' items,0
-messages,oro.query_designer.aggregates.marketing_activity_type.HardBounceCount.name,Số lượng trả lại khó,Hard Bounce Count,0
+messages,oro.query_designer.aggregates.marketing_activity_type.HardBounceCount.hint,Số lượng mục 'nảy cứng',Number of 'hard bounce' items,0
+messages,oro.query_designer.aggregates.marketing_activity_type.HardBounceCount.name,Số lượng nảy cứng,Hard Bounce Count,0
 messages,oro.query_designer.aggregates.marketing_activity_type.OpenCount.hint,Số lượng mục 'mở',Number of 'open' items,0
 messages,oro.query_designer.aggregates.marketing_activity_type.OpenCount.name,Số lượng mở,Open Count,0
 messages,oro.query_designer.aggregates.marketing_activity_type.SendCount.hint,Số lượng các mục 'gửi',Number of 'send' items,0
 messages,oro.query_designer.aggregates.marketing_activity_type.SendCount.name,Gửi số lượng,Send Count,0
-messages,oro.query_designer.aggregates.marketing_activity_type.SoftBounceCount.hint,Số mục 'thoát mềm',Number of 'soft bounce' items,0
-messages,oro.query_designer.aggregates.marketing_activity_type.SoftBounceCount.name,Số lượng trả lại mềm,Soft Bounce Count,0
+messages,oro.query_designer.aggregates.marketing_activity_type.SoftBounceCount.hint,Số mục 'nảy mềm',Number of 'soft bounce' items,0
+messages,oro.query_designer.aggregates.marketing_activity_type.SoftBounceCount.name,Số lượng nảy mềm,Soft Bounce Count,0
 messages,oro.query_designer.aggregates.marketing_activity_type.UnsubscribeCount.hint,Số lượng mục 'hủy đăng ký',Number of 'unsubscribe' items,0
 messages,oro.query_designer.aggregates.marketing_activity_type.UnsubscribeCount.name,Số đăng ký hủy đăng ký,Unsubscribe Count,0
 messages,oro.query_designer.aggregates.number.Avg.hint,Giá trị trung bình,Average of values,0
@@ -86,7 +86,7 @@ messages,oro.query_designer.form.label,Nhãn,Label,0
 messages,oro.query_designer.form.sorting,Sắp xếp,Sorting,0
 messages,oro.query_designer.form.sorting_asc,Asc,Asc,0
 messages,oro.query_designer.form.sorting_desc,Mô tả,Desc,0
-messages,oro.query_designer.validation.grouping,% columns% phải xuất hiện trong nhóm.,%columns% must appear in grouping.,0
+messages,oro.query_designer.validation.grouping,%columns% phải xuất hiện trong nhóm.,%columns% must appear in grouping.,0
 messages,oro.query_designer.validation.query,Truy vấn không hợp lệ,Invalid query,0
 messages,oro.reminder.entity_description,Đại diện cho lời nhắc,Represent reminder,0
 messages,oro.reminder.entity_label,Nhắc nhở,Reminder,0
@@ -371,7 +371,7 @@ messages,oro.sales.lead.data_channel.description,Kênh bán hàng trong OroCRM m
 messages,oro.sales.lead.data_channel.label,Kênh,Channel,0
 messages,oro.sales.lead.datagrid.city,Thành phố,City,0
 messages,oro.sales.lead.datagrid.country,Quốc gia,Country,0
-messages,oro.sales.lead.datagrid.delete,Xóa bỏ,Delete,0
+messages,oro.sales.lead.datagrid.delete,Xóa,Delete,0
 messages,oro.sales.lead.datagrid.number_of_employees,Số nhân viên,# of employees,0
 messages,oro.sales.lead.datagrid.postal_code,Mã bưu điện,Postal Code,0
 messages,oro.sales.lead.datagrid.region,Tiểu bang,State,0
@@ -385,16 +385,16 @@ messages,oro.sales.lead.email.label,E-mail,Email,0
 messages,oro.sales.lead.emails.description,Thu thập địa chỉ email khách hàng tiềm năng.,Collection of lead email addresses.,0
 messages,oro.sales.lead.emails.label,Email,Emails,0
 messages,oro.sales.lead.entity_description,"Khách hàng tiềm năng là khách hàng tiềm năng hoặc tiềm năng bán hàng dưới dạng dữ liệu liên hệ. Bản ghi chì đại diện cho hoạt động thương mại với người hoặc doanh nghiệp có thẩm quyền, ngân sách và lợi ích để mua hàng hóa và / hoặc dịch vụ.","Leads are prospects or potential sales in a form of contact data. Lead records represent commercial activity with people or businesses that have authority, budget and interest to purchase goods and/or services.",0
-messages,oro.sales.lead.entity_label,Chì,Lead,0
+messages,oro.sales.lead.entity_label,Khách hàng tiềm năng,Lead,0
 messages,oro.sales.lead.entity_plural_label,Khách hàng tiềm năng,Leads,0
 messages,oro.sales.lead.feature.description,Bật thực thể khách hàng tiềm năng,Enables Lead entity,0
-messages,oro.sales.lead.feature.label,Chì,Lead,0
+messages,oro.sales.lead.feature.label,Khách hàng tiềm năng,Lead,0
 messages,oro.sales.lead.first_name.description,Tên của người dẫn đầu.,First name of the lead person.,0
 messages,oro.sales.lead.first_name.label,Tên đầu tiên,First name,0
 messages,oro.sales.lead.id.label,ID,Id,0
-messages,oro.sales.lead.industry.description,Ngành công nghiệp nơi công ty dẫn đầu hoạt động.,Industry where the lead's company is operating.,0
-messages,oro.sales.lead.industry.label,Công nghiệp,Industry,0
+messages,oro.sales.lead.industry.description,Ngành công nghiệp nơi khách hàng tiềm năng hoạt động.,Industry where the lead's company is operating.,0
+messages,oro.sales.lead.industry.label,Ngành công nghiệp,Industry,0
 messages,oro.sales.lead.information,Thông tin khách hàng tiềm năng,Lead Information,0
-messages,oro.sales.lead.job_title.description,Chức vụ của người lãnh đạo trong công ty.,Job title of the lead person within the company.,0
+messages,oro.sales.lead.job_title.description,Chức vụ của khách hàng tiềm năng trong công ty.,Job title of the lead person within the company.,0
 messages,oro.sales.lead.job_title.label,Chức danh,Job title,0
-messages,oro.sales.lead.last_name.description,Họ của người lãnh đạo.,Last name of the lead person.,0
+messages,oro.sales.lead.last_name.description,Họ của khách hàng tiềm năng.,Last name of the lead person.,0

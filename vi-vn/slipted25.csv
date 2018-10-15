@@ -137,7 +137,7 @@ messages,oro.magento.store.website.label,Trang mạng,Website,0
 messages,oro.magento.transport.rest.label,REST API,REST API,0
 messages,oro.magento.transport.soap.label,API SOAP v2,SOAP v2 API,0
 messages,oro.magento.website.channel.description,Việc tích hợp thông qua đó thông tin về một trang web Magento được nhận.,The integration via which information about a Magento website is received.,0
-messages,oro.magento.website.channel.label,Hội nhập,Integration,0
+messages,oro.magento.website.channel.label,Tích hợp,Integration,0
 messages,oro.magento.website.code.description,Mã được gán cho trang web Magento.,A code assigned to a Magento website.,0
 messages,oro.magento.website.code.label,Mã số,Code,0
 messages,oro.magento.website.default.description,Chỉ định liệu một trang web cụ thể có được đặt làm mặc định hay không.,Specifies whether a specific website is set as default.,0
@@ -160,7 +160,7 @@ messages,oro.magento.website_activity.chart.label,Hành vi người dùng,User B
 messages,oro.magento.website_activity.chart.legend.event_cart_item_added,Đã thêm mục,Items added,0
 messages,oro.magento.website_activity.chart.legend.event_checkout_started,Kiểm tra,Checkouts,0
 messages,oro.magento.website_activity.chart.legend.event_visit,Lượt xem trang,Page views,0
-messages,oro.magento.website_activity.days_ago,1 ngày trước |% count% days ago,1 day ago|%count% days ago,0
+messages,oro.magento.website_activity.days_ago,1 ngày trước |%count% ngày trước,1 day ago|%count% days ago,0
 messages,oro.magento.website_activity.events.label,Sự kiện,Events,0
 messages,oro.magento.website_activity.label,Hoạt động trang web,Website Activity,0
 messages,oro.magento.website_activity.metrics.data.average_monthly_visits.label,Số lượt truy cập trung bình mỗi tháng,Average visits per month,0
@@ -226,7 +226,7 @@ messages,oro.mailchimp.campaign.users_who_clicked.label,Người dùng đã nh�
 messages,oro.mailchimp.campaign.web_id.label,Id web,Web Id,0
 messages,oro.mailchimp.channel_type.label,MailChimp,MailChimp,0
 messages,oro.mailchimp.configuration.fields.static_segment_sync_mode.choices.on_update,Trên cập nhật dữ liệu,On data update,0
-messages,oro.mailchimp.configuration.fields.static_segment_sync_mode.choices.scheduled,Đã lên lịch ({{schedule_definition}}),Scheduled ({{ schedule_definition }}),0
+messages,oro.mailchimp.configuration.fields.static_segment_sync_mode.choices.scheduled,Đã lên lịch ({{ schedule_definition }}),Scheduled ({{ schedule_definition }}),0
 messages,oro.mailchimp.configuration.fields.static_segment_sync_mode.label,Chế độ đồng bộ hóa phân đoạn tĩnh,Static segment synchronization mode,0
 messages,oro.mailchimp.configuration.fields.static_segment_sync_mode.tooltip,Đồng bộ hóa theo lịch trình được lên lịch chỉ bằng đồng bộ hóa cron.On cập nhật được lên lịch bởi cả cron và ngay khi dữ liệu trong các thay đổi phân đoạn tĩnh. Bạn phải bật tính năng Đồng bộ hóa phân đoạn tĩnh cho lịch biểu MailChimp để làm cho cấu hình này được tôn trọng.,"Scheduled synchronizations are scheduled only by cron.On update synchronizations are scheduled both by cron and as soon as data in static segment changes.
 You have to have the Schedule MailChimp Static Segment Synchronization enabled to make this configuration respected.
@@ -250,7 +250,7 @@ messages,oro.mailchimp.connection.message.syncronize_scheduled,Danh sách tiếp
 messages,oro.mailchimp.connection.message.update,Đã cập nhật kết nối MailChimp,MailChimp connection updated,0
 messages,oro.mailchimp.connection.name,Kết nối MailChimp,MailChimp Connection,0
 messages,oro.mailchimp.connection.segment_name,Tên phân đoạn MailChimp,MailChimp Segment Name,0
-messages,oro.mailchimp.connection.sync_message,"Danh sách tiếp thị được lập lịch để đồng bộ hóa với Phân đoạn MailChimp ""% segment_name%""","Marketing List scheduled for sync with MailChimp Segment ""%segment_name%""",0
+messages,oro.mailchimp.connection.sync_message,"Danh sách tiếp thị được lập lịch để đồng bộ hóa với Phân đoạn MailChimp ""%segment_name%""","Marketing List scheduled for sync with MailChimp Segment ""%segment_name%""",0
 messages,oro.mailchimp.connector.campaign.job,Nhập chiến dịch từ MailChimp,Import campaigns from MailChimp,0
 messages,oro.mailchimp.connector.campaign.label,Trình kết nối chiến dịch,Campaign Connector,0
 messages,oro.mailchimp.connector.list.job,Nhập danh sách,List Import,0
@@ -317,7 +317,7 @@ messages,oro.mailchimp.extendedmergevar.state.label,Tiểu bang,State,0
 messages,oro.mailchimp.extendedmergevar.static_segment.label,Phân đoạn tĩnh,Static Segment,0
 messages,oro.mailchimp.extendedmergevar.tag.label,Nhãn,Tag,0
 messages,oro.mailchimp.form.activity_update_interval.tooltip,Phải nhận được các hoạt động của chiến dịch email dài bao lâu.,How long email capaign activities should be received.,0
-messages,oro.mailchimp.form.api_key.tooltip,"Khóa API MailChimp. <br/> <a href=""http://kb.mailchimp.com/accounts/management/about-api-keys"" target=""_blank"" class=""no-hash""> Giới thiệu về Khóa API </a>","MailChimp API Key. <br/><a href=""http://kb.mailchimp.com/accounts/management/about-api-keys"" target=""_blank"" class=""no-hash"">About API Keys</a>",0
+messages,oro.mailchimp.form.api_key.tooltip,"Khóa API MailChimp. <br/><a href=""http://kb.mailchimp.com/accounts/management/about-api-keys"" target=""_blank"" class=""no-hash"">About API Keys</a>","MailChimp API Key. <br/><a href=""http://kb.mailchimp.com/accounts/management/about-api-keys"" target=""_blank"" class=""no-hash"">About API Keys</a>",0
 messages,oro.mailchimp.integration_transport.activity_update_interval.choice.1month,1 tháng,1 month,0
 messages,oro.mailchimp.integration_transport.activity_update_interval.choice.1week,1 tuần,1 week,0
 messages,oro.mailchimp.integration_transport.activity_update_interval.choice.2month,2 tháng,2 months,0

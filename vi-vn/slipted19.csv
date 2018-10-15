@@ -3,94 +3,94 @@ messages,oro.dataaudit.audit.impersonation.label,Kiểm tra mạo danh,Audit imp
 messages,oro.dataaudit.audit.logged_at.label,Đã đăng nhập tại,Logged at,0
 messages,oro.dataaudit.audit.object_class.label,Lớp kiểm toán,Audit class,0
 messages,oro.dataaudit.audit.object_id.label,ID,Id,0
-messages,oro.dataaudit.audit.object_name.label,Kiểm toán,Audit,0
-messages,oro.dataaudit.audit.organization.label,Tổ chức kiểm toán,Audit organization,0
-messages,oro.dataaudit.audit.owner_description.label,Mô tả chủ sở hữu kiểm tra,Audit owner description,0
-messages,oro.dataaudit.audit.transaction_id.label,Id giao dịch kiểm tra,Audit transaction id,0
-messages,oro.dataaudit.audit.user.label,Người dùng kiểm tra,Audit user,0
+messages,oro.dataaudit.audit.object_name.label,Kiểm tra,Audit,0
+messages,oro.dataaudit.audit.organization.label,Ban kiểm tra,Audit organization,0
+messages,oro.dataaudit.audit.owner_description.label,Mô tả Thanh tra chính,Audit owner description,0
+messages,oro.dataaudit.audit.transaction_id.label,ID tiến trình kiểm tra,Audit transaction id,0
+messages,oro.dataaudit.audit.user.label,Người kiểm tra,Audit user,0
 messages,oro.dataaudit.audit.version.label,Phiên bản kiểm tra,Audit version,0
 messages,oro.dataaudit.auditfield.data_type.label,Loại dữ liệu,Data Type,0
-messages,oro.dataaudit.auditfield.entity_label,Trường kiểm toán,Audit Field,0
+messages,oro.dataaudit.auditfield.entity_label,Trường kiểm tra,Audit Field,0
 messages,oro.dataaudit.auditfield.entity_plural_label,Trường kiểm tra,Audit Fields,0
-messages,oro.dataaudit.auditfield.field.label,Cánh đồng,Field,0
+messages,oro.dataaudit.auditfield.field.label,Trường,Field,0
 messages,oro.dataaudit.auditfield.id.label,ID,Id,0
 messages,oro.dataaudit.auditfield.new_array.label,Mảng mới,New Array,0
-messages,oro.dataaudit.auditfield.new_boolean.label,Boolean mới,New Boolean,0
+messages,oro.dataaudit.auditfield.new_boolean.label,Có/Không mới,New Boolean,0
 messages,oro.dataaudit.auditfield.new_date.label,Ngày mới,New Date,0
 messages,oro.dataaudit.auditfield.new_datetime.label,Ngày giờ mới,New DateTime,0
 messages,oro.dataaudit.auditfield.new_datetimetz.label,Ngày giờ mới với múi giờ,New DateTime with timezone,0
-messages,oro.dataaudit.auditfield.new_float.label,Phao mới,New Float,0
+messages,oro.dataaudit.auditfield.new_float.label,Số thập phân mới,New Float,0
 messages,oro.dataaudit.auditfield.new_integer.label,Số nguyên mới,New Integer,0
 messages,oro.dataaudit.auditfield.new_object.label,Đối tượng mới,New Object,0
 messages,oro.dataaudit.auditfield.new_text.label,Văn bản mới,New Text,0
 messages,oro.dataaudit.auditfield.new_time.label,Thời gian mới,New Time,0
-messages,oro.dataaudit.auditfield.old_array.label,Old Array,Old Array,0
-messages,oro.dataaudit.auditfield.old_boolean.label,Boolean cũ,Old Boolean,0
+messages,oro.dataaudit.auditfield.old_array.label,Mảng cũ,Old Array,0
+messages,oro.dataaudit.auditfield.old_boolean.label,Có/Không cũ,Old Boolean,0
 messages,oro.dataaudit.auditfield.old_date.label,Ngày cũ,Old Date,0
-messages,oro.dataaudit.auditfield.old_datetime.label,Old DateTime,Old DateTime,0
+messages,oro.dataaudit.auditfield.old_datetime.label,Ngày giờ cũ,Old DateTime,0
 messages,oro.dataaudit.auditfield.old_datetimetz.label,Ngày giờ cũ với múi giờ,Old DateTime with timezone,0
-messages,oro.dataaudit.auditfield.old_float.label,Phao cũ,Old Float,0
-messages,oro.dataaudit.auditfield.old_integer.label,Old Integer,Old Integer,0
-messages,oro.dataaudit.auditfield.old_object.label,Old Object,Old Object,0
+messages,oro.dataaudit.auditfield.old_float.label,Số thập phân cũ,Old Float,0
+messages,oro.dataaudit.auditfield.old_integer.label,Số nguyên cũ,Old Integer,0
+messages,oro.dataaudit.auditfield.old_object.label,Đối tượng cũ,Old Object,0
 messages,oro.dataaudit.auditfield.old_text.label,Văn bản cũ,Old Text,0
 messages,oro.dataaudit.auditfield.old_time.label,Thời xưa,Old Time,0
-messages,oro.dataaudit.auditfield.visible.label,Có thể nhìn thấy,Visible,0
-messages,oro.dataaudit.change_history,thay đổi lịch sử,Change History,0
-messages,oro.dataaudit.change_history.title,% item% lịch sử thay đổi,%item% change history,0
+messages,oro.dataaudit.auditfield.visible.label,Thấy được,Visible,0
+messages,oro.dataaudit.change_history,Lịch sử thay đổi,Change History,0
+messages,oro.dataaudit.change_history.title,%item% lịch sử thay đổi,%item% change history,0
 messages,oro.dataaudit.condition_builder.criteria.data_audit,Kiểm tra dữ liệu,Data audit,0
 messages,oro.dataaudit.datagrid.action,Hoạt động,Action,0
 messages,oro.dataaudit.datagrid.author,Tác giả,Author,0
-messages,oro.dataaudit.datagrid.author_impersonation, (bị mạo danh từ% ipAddress%), (impersonated from %ipAddress%),0
+messages,oro.dataaudit.datagrid.author_impersonation,(bị mạo danh từ địa chỉ %ipAddress%), (impersonated from %ipAddress%),0
 messages,oro.dataaudit.datagrid.data,Dữ liệu,Data,0
-messages,oro.dataaudit.datagrid.entity_id,ID phap nhân,Entity id,0
-messages,oro.dataaudit.datagrid.entity_name,Tên pháp nhân,Entity name,0
+messages,oro.dataaudit.datagrid.entity_id,ID thực thể,Entity id,0
+messages,oro.dataaudit.datagrid.entity_name,Tên thực thể,Entity name,0
 messages,oro.dataaudit.datagrid.entity_type,Loại thực thể,Entity type,0
-messages,oro.dataaudit.datagrid.logged_at,Đã đăng nhập tại,Logged at,0
+messages,oro.dataaudit.datagrid.logged_at,Đăng nhập vào lúc,Logged at,0
 messages,oro.dataaudit.datagrid.new_values,Giá trị mới,New values,0
 messages,oro.dataaudit.datagrid.old_values,Giá trị cũ,Old values,0
 messages,oro.dataaudit.datagrid.organization,Cơ quan,Organization,0
 messages,oro.dataaudit.datagrid.version,Phiên bản,Version,0
-messages,oro.dataaudit.entity_config.entity.items.auditable,Auditable,Auditable,0
-messages,oro.dataaudit.entity_config.field.items.auditable,Auditable,Auditable,0
-messages,oro.dataaudit.menu.audit_list.description,Kiểm tra dữ liệu,Data Audit,0
+messages,oro.dataaudit.entity_config.entity.items.auditable,Kiểm tra được,Auditable,0
+messages,oro.dataaudit.entity_config.field.items.auditable,Kiểm tra được,Auditable,0
+messages,oro.dataaudit.menu.audit_list.description,Mô tả kiểm tra dữ liệu,Data Audit,0
 messages,oro.dataaudit.menu.audit_list.label,Kiểm tra dữ liệu,Data Audit,0
 messages,oro.dataaudit.module_label,Kiểm tra dữ liệu,Data audit,0
-messages,oro.datagrid.appearance.board,Kanban Board,Kanban Board,0
-messages,oro.datagrid.appearance.grid,Lưới,Grid,0
-messages,oro.datagrid.gridview.appearance_data.label,Dữ liệu xuất hiện,Appearance data,0
-messages,oro.datagrid.gridview.appearance_type.label,Loại xuất hiện,Appearance type,0
+messages,oro.datagrid.appearance.board,Bảng tiến độ (Kanban),Kanban Board,0
+messages,oro.datagrid.appearance.grid,Bảng lưới,Grid,0
+messages,oro.datagrid.gridview.appearance_data.label,Dữ liệu hiển thị,Appearance data,0
+messages,oro.datagrid.gridview.appearance_type.label,Loại hiển thị,Appearance type,0
 messages,oro.datagrid.gridview.columns_data.label,Dữ liệu cột,Columns data,0
 messages,oro.datagrid.gridview.discr_type.label,Loại phân biệt đối xử,Discriminator Type,0
-messages,oro.datagrid.gridview.duplicate.label,% Thực thể trùng lặp%,Duplicated %entity%,0
-messages,oro.datagrid.gridview.entity_description,Đại diện cho chế độ xem lưới,Represent grid views,0
-messages,oro.datagrid.gridview.entity_label,Chế độ hiển thị theo ô,Grid view,0
-messages,oro.datagrid.gridview.entity_plural_label,Chế độ xem lưới,Grid views,0
-messages,oro.datagrid.gridview.filters_data.label,Bộ lọc,Filters,0
+messages,oro.datagrid.gridview.duplicate.label,%entity% bị trùng lặp,Duplicated %entity%,0
+messages,oro.datagrid.gridview.entity_description,Đây là mô tả cho kiểu xem dạng lưới,Represent grid views,0
+messages,oro.datagrid.gridview.entity_label,Kiểu xem dạng lưới,Grid view,0
+messages,oro.datagrid.gridview.entity_plural_label,Những kiểu xem dạng xem lưới,Grid views,0
+messages,oro.datagrid.gridview.filters_data.label,Các bộ lọc,Filters,0
 messages,oro.datagrid.gridview.grid_name.label,Tên lưới,Grid name,0
 messages,oro.datagrid.gridview.id.label,ID,Id,0
 messages,oro.datagrid.gridview.name.label,Tên,Name,0
 messages,oro.datagrid.gridview.organization.label,Cơ quan,Organization,0
 messages,oro.datagrid.gridview.owner.label,Chủ nhân,Owner,0
-messages,oro.datagrid.gridview.shared_by,% name% (Được chia sẻ bởi% owner%),%name% (Shared by %owner%),0
+messages,oro.datagrid.gridview.shared_by,%name% (Được chia sẻ bởi %owner%),%name% (Shared by %owner%),0
 messages,oro.datagrid.gridview.sorters_data.label,Sorters,Sorters,0
 messages,oro.datagrid.gridview.type.label,Kiểu,Type,0
 messages,oro.datagrid.gridview.users.label,Người dùng,Users,0
-messages,oro.datagrid.pagesize.label,Xem trên mỗi trang,View per page,0
+messages,oro.datagrid.pagesize.label,Hiển thị trên mỗi trang,View per page,0
 messages,oro.datagrid.pagesize.labelShort,Trên một trang,Per page,0
 messages,oro.datagrid.pagination.label,Trang,Page,0
 messages,oro.datagrid.pagination.next,Kế tiếp,Next,0
 messages,oro.datagrid.pagination.prev,Trước đó,Prev,0
-messages,oro.datagrid.pagination.totalPages,trong tổng số% totalPages%,of %totalPages%,0
-messages,oro.datagrid.pagination.totalRecords,Tổng số bản ghi% totalRecords%,Total of %totalRecords% records,0
-messages,oro.distribution.action.delete,Xóa bỏ,Delete,0
-messages,oro.distribution.action.install,"cài đặt, dựng lên",Install,0
-messages,oro.distribution.action.save,Tiết kiệm,Save,0
+messages,oro.datagrid.pagination.totalPages,trong tổng số %totalPages%,of %totalPages%,0
+messages,oro.datagrid.pagination.totalRecords,Tổng số bản ghi %totalRecords%,Total of %totalRecords% records,0
+messages,oro.distribution.action.delete,Xóa,Delete,0
+messages,oro.distribution.action.install,Cài đặt Composer,Install,0
+messages,oro.distribution.action.save,Lưu,Save,0
 messages,oro.distribution.action.update,Cập nhật,Update,0
 messages,oro.distribution.installer,Trình cài đặt Oro,Oro Installer,0
 messages,oro.distribution.menu.composer_settings,Cài đặt Composer,Composer Settings,0
-messages,oro.distribution.menu.get_help,Được giúp đỡ,Get help,0
+messages,oro.distribution.menu.get_help,Tìm trợ giúp,Get help,0
 messages,oro.distribution.menu.sign_out,Đăng xuất,Sign Out,0
-messages,oro.distribution.messages.ajax_500error,Không thể {{action}} gói. Vui lòng kiểm tra giới hạn bộ nhớ hoặc tùy chọn thời gian chờ cho máy chủ web.,Cannot {{ action }} the package. Please check the memory limits or timeout option for web-server.,0
+messages,oro.distribution.messages.ajax_500error,Không thể {{ action }} gói. Vui lòng kiểm tra giới hạn bộ nhớ hoặc tùy chọn thời gian chờ cho máy chủ web.,Cannot {{ action }} the package. Please check the memory limits or timeout option for web-server.,0
 messages,oro.distribution.messages.ajax_error,Lỗi Ajax,Ajax error,0
 messages,oro.distribution.messages.enter_package_name,Vui lòng nhập tên gói,Please enter the package name,0
 messages,oro.distribution.messages.not_writable,Các thư mục / tệp sau phải được người dùng web ghi,Following directories/files have to be writable by web user,0
@@ -107,13 +107,13 @@ messages,oro.distribution.package.installed_version,Phiên bản đã cài đặ
 messages,oro.distribution.package.latest_version,Phiên bản mới nhất,Latest Version,0
 messages,oro.distribution.package.license,Giấy phép,License,0
 messages,oro.distribution.package.list_of_updates,Danh sách các bản cập nhật có sẵn,List of available updates,0
-messages,oro.distribution.package.name,Tên gói hàng,Package Name,0
-messages,oro.distribution.package.no_updates,"Không có bản cập nhật cho gói ""% package%""","No updates available for package ""%package%""",0
-messages,oro.distribution.package.not_installed,"Gói ""% package%"" chưa được cài đặt","Package ""%package%"" is not yet installed",0
+messages,oro.distribution.package.name,Tên gói,Package Name,0
+messages,oro.distribution.package.no_updates,"Không có bản cập nhật cho gói ""%package%""","No updates available for package ""%package%""",0
+messages,oro.distribution.package.not_installed,"Gói ""%package%"" chưa được cài đặt","Package ""%package%"" is not yet installed",0
 messages,oro.distribution.package.nothing_installed,Chưa cài đặt gì,Nothing installed,0
 messages,oro.distribution.package.nothing_to_update,Không có gì để cập nhật,Nothing to update,0
 messages,oro.distribution.package.package,Gói,Package,0
-messages,oro.distribution.package.type,Kiểu,Type,0
+messages,oro.distribution.package.type,Loại,Type,0
 messages,oro.distribution.package.unknown,không xác định,unknown,0
 messages,oro.distribution.package.up_to_date_version,Phiên bản cập nhật,Up to date version,0
 messages,oro.distribution.package.version,Phiên bản,Version,0
@@ -125,7 +125,7 @@ messages,oro.distribution.security.remember_me,Hãy nhớ tôi trên máy tính 
 messages,oro.distribution.security.username,Tên người dùng,Username,0
 messages,oro.distribution.security.username_or_email,Tên người dùng hoặc email,Username or Email,0
 messages,oro.distribution.settings.add_repository,Thêm một kho lưu trữ,Add a repository,0
-messages,oro.distribution.settings.recommendation,"Để tăng cơ hội cài đặt thành công các gói bổ sung, chúng tôi khuyên bạn nên tăng thời gian chờ của máy chủ web lên 5 phút trở lên và đặt <a class = ""alert-link"" target = ""_ blank"" href = ""http://php.net/manual/ vi / info.configuration.php # ini.max-execution-time ""class ="" alert-link ""> max_execution_time </a> đến 5 phút trở lên và <a class ="" alert-link ""target ="" _ blank ""href = ""http://php.net/manual/en/ini.core.php#ini.memory-limit"" class = ""alert-link""> memory_limit </a> đến 1024M hoặc cao hơn trong cài đặt PHP.","To increase chance of successful installation of additional packages we recommend to increase web server timeout to 5 minutes or more and set <a class=""alert-link"" target=""_blank"" href=""http://php.net/manual/en/info.configuration.php#ini.max-execution-time"" class=""alert-link"">max_execution_time</a> to 5 minutes or more
+messages,oro.distribution.settings.recommendation,"Để tăng cơ hội cài đặt thành công các gói bổ sung, chúng tôi khuyên bạn nên tăng thời gian chờ của máy chủ web lên 5 phút trở lên và đặt <a class = ""alert-link"" target = ""_blank"" href = ""http://php.net/manual/vi/info.configuration.php#ini.max-execution-time"" class = ""alert-link""> max_execution_time </a> đến 5 phút trở lên và <a class = ""alert-link"" target =""_blank"" href = ""http://php.net/manual/en/ini.core.php#ini.memory-limit"" class = ""alert-link""> giới hạn bộ nhớ </a> đến 1024M hoặc cao hơn trong cài đặt PHP.","To increase chance of successful installation of additional packages we recommend to increase web server timeout to 5 minutes or more and set <a class=""alert-link"" target=""_blank"" href=""http://php.net/manual/en/info.configuration.php#ini.max-execution-time"" class=""alert-link"">max_execution_time</a> to 5 minutes or more
  and <a class=""alert-link"" target=""_blank"" href=""http://php.net/manual/en/ini.core.php#ini.memory-limit"" class=""alert-link"">memory_limit</a> to 1024M or more in PHP settings.",0
 messages,oro.distribution.settings.repositories,Kho lưu trữ,Repositories,0
 messages,oro.dotmailer.acl.action.general.description,Xem thống kê được thu thập từ dotmailer cho chiến dịch,See statistics collected from dotmailer for a campaign,0
@@ -137,30 +137,30 @@ messages,oro.dotmailer.activity.date_first_opened.label,Ngày mở đầu tiên,
 messages,oro.dotmailer.activity.date_last_opened.label,Ngày mở lần cuối,Last Opened Date,0
 messages,oro.dotmailer.activity.date_sent.label,Ngày được gửi,Sent Date,0
 messages,oro.dotmailer.activity.email.label,E-mail,Email,0
-messages,oro.dotmailer.activity.entity_label,dotmailer Activity,dotmailer Activity,0
+messages,oro.dotmailer.activity.entity_label,dotmailer Hoạt động,dotmailer Activity,0
 messages,oro.dotmailer.activity.entity_plural_label,dotmailer Các hoạt động,dotmailer Activities,0
 messages,oro.dotmailer.activity.first_open_ip.label,IP mở đầu tiên,First Open Ip,0
-messages,oro.dotmailer.activity.hard_bounced.label,Khó bật lên,Hard bounced,0
+messages,oro.dotmailer.activity.hard_bounced.label,Khó nảy lên,Hard bounced,0
 messages,oro.dotmailer.activity.id.label,ID,Id,0
 messages,oro.dotmailer.activity.num_clicks.label,Số nhấp chuột,Clicks Number,0
-messages,oro.dotmailer.activity.num_estimated_forwards.label,Số tiền chuyển tiếp ước tính,Estimated Forwards Number,0
-messages,oro.dotmailer.activity.num_forwards.label,Số chuyển tiếp,Forwards Number,0
-messages,oro.dotmailer.activity.num_opens.label,Mở số,Opens Number,0
+messages,oro.dotmailer.activity.num_estimated_forwards.label,Con số chuyển tiếp ước tính,Estimated Forwards Number,0
+messages,oro.dotmailer.activity.num_forwards.label,Con số chuyển tiếp,Forwards Number,0
+messages,oro.dotmailer.activity.num_opens.label,Sổ đã mở,Opens Number,0
 messages,oro.dotmailer.activity.num_page_views.label,Số lượt xem trang,Page Views Number,0
 messages,oro.dotmailer.activity.num_replies.label,Số trả lời,Replies Number,0
 messages,oro.dotmailer.activity.owner.label,Chủ nhân,Owner,0
-messages,oro.dotmailer.activity.soft_bounced.label,Mềm bị trả lại,Soft Bounced,0
+messages,oro.dotmailer.activity.soft_bounced.label,Nảy nhẹ,Soft Bounced,0
 messages,oro.dotmailer.activity.unsubscribed.label,Đã hủy đăng ký,Unsubscribed,0
-messages,oro.dotmailer.addressbook.address_book_contacts.label,Danh bạ sách địa chỉ,Address Book Contacts,0
+messages,oro.dotmailer.addressbook.address_book_contacts.label,Danh bạ địa chỉ,Address Book Contacts,0
 messages,oro.dotmailer.addressbook.address_book_contacts_exports.label,Xuất danh sách liên hệ trong danh bạ,Address Book Contacts Export,0
 messages,oro.dotmailer.addressbook.campaigns.label,Chiến dịch,Campaign,0
 messages,oro.dotmailer.addressbook.channel.label,Kênh,Channel,0
-messages,oro.dotmailer.addressbook.contact_count.label,Số liên lạc,Contacts count,0
-messages,oro.dotmailer.addressbook.contacts.label,Danh bạ,Contacts,0
+messages,oro.dotmailer.addressbook.contact_count.label,Số lượng liên hệ,Contacts count,0
+messages,oro.dotmailer.addressbook.contacts.label,Các liên hệ,Contacts,0
 messages,oro.dotmailer.addressbook.create_entities.label,Tạo đối tượng mới,Create New Entities,0
 messages,oro.dotmailer.addressbook.create_entities.tooltip,Tạo bản ghi mới nếu không tìm thấy kết quả phù hợp bằng email,Create new records if no match by email is found,0
-messages,oro.dotmailer.addressbook.entity_label,dotmailer sổ địa chỉ,dotmailer Address Book,0
-messages,oro.dotmailer.addressbook.entity_plural_label,dotmailer Address Books,dotmailer Address Books,0
+messages,oro.dotmailer.addressbook.entity_label,Sổ địa chỉ dotmailer,dotmailer Address Book,0
+messages,oro.dotmailer.addressbook.entity_plural_label,Các sổ địa chỉ dotmailer,dotmailer Address Books,0
 messages,oro.dotmailer.addressbook.id.label,ID,Id,0
 messages,oro.dotmailer.addressbook.last_exported_at.label,Xuất lần cuối lúc,Last Exported At,0
 messages,oro.dotmailer.addressbook.last_imported_at.label,Nhập lần cuối lúc,Last Imported At,0
@@ -168,11 +168,11 @@ messages,oro.dotmailer.addressbook.marketing_list.label,Danh sách tiếp thị,
 messages,oro.dotmailer.addressbook.message.failed,Không thể tạo Sổ địa chỉ,Could not create Address Book,0
 messages,oro.dotmailer.addressbook.message.saved,Sổ địa chỉ đã được lưu,Address Book saved,0
 messages,oro.dotmailer.addressbook.name.label,Tên,Name,0
-messages,oro.dotmailer.addressbook.origin_id.label,Id gốc,Origin Id,0
+messages,oro.dotmailer.addressbook.origin_id.label,ID gốc,Origin Id,0
 messages,oro.dotmailer.addressbook.owner.label,Chủ nhân,Owner,0
 messages,oro.dotmailer.addressbook.select.placeholder,Chọn sổ địa chỉ,Select Address Book,0
 messages,oro.dotmailer.addressbook.status.label,Trạng thái,Status,0
-messages,oro.dotmailer.addressbook.sync,Đồng bộ hóa danh sách tiếp thị đã được lên lịch. {{job_view_link}},Marketing list synchronization has been scheduled. {{ job_view_link }},0
+messages,oro.dotmailer.addressbook.sync,Đồng bộ hóa danh sách tiếp thị đã được lên lịch. {{ job_view_link }},Marketing list synchronization has been scheduled. {{ job_view_link }},0
 messages,oro.dotmailer.addressbook.sync_datafields,Làm mới trường dữ liệu,Refresh Data Fields,0
 messages,oro.dotmailer.addressbook.sync_datafields_failed,Không thể lên lịch cập nhật trường dữ liệu,Could not schedule data fields update,0
 messages,oro.dotmailer.addressbook.sync_datafields_success,Trường dữ liệu sẽ được cập nhật với lần đồng bộ hóa tiếp theo,Data Fields will be updated with the next synchronization,0
@@ -180,31 +180,31 @@ messages,oro.dotmailer.addressbook.sync_status.label,Trạng thái đồng bộ 
 messages,oro.dotmailer.addressbook.visibility.label,Hiển thị,Visibility,0
 messages,oro.dotmailer.addressbook.visibility.tooltip,"Nếu bạn đặt một sổ địa chỉ ở chế độ công khai, bạn có thể tránh ""hủy đăng ký hàng loạt"", bằng cách cho phép các liên hệ của bạn chọn chiến dịch và thông tin liên lạc nào mà bạn muốn hủy đăng ký. Trên trang trung tâm ưu tiên của bạn, họ sẽ thấy tất cả các sổ địa chỉ công cộng, lưu ý rằng chúng thuộc về, vì vậy hãy cẩn thận khi đặt tên sổ địa chỉ công cộng.","If you make an address book public, you can avoid ""mass unsubscribing"", by enabling your contacts to choose which of your campaigns and communications they wish to unsubscribe from. On your preference centre page they will see all public address books, noting which they belong to, so take care when naming public address books.",0
 messages,oro.dotmailer.addressbookcontact.address_book.label,Sổ địa chỉ,Address Book,0
-messages,oro.dotmailer.addressbookcontact.channel.label,Hội nhập,Integration,0
-messages,oro.dotmailer.addressbookcontact.contact.label,Tiếp xúc,Contact,0
-messages,oro.dotmailer.addressbookcontact.entity_label,Liên hệ sổ địa chỉ,Address Book Contact,0
-messages,oro.dotmailer.addressbookcontact.entity_plural_label,Danh bạ sách địa chỉ,Address Book Contacts,0
+messages,oro.dotmailer.addressbookcontact.channel.label,Tích hợp,Integration,0
+messages,oro.dotmailer.addressbookcontact.contact.label,Liên hệ,Contact,0
+messages,oro.dotmailer.addressbookcontact.entity_label,Sổ địa chỉ liên hệ,Address Book Contact,0
+messages,oro.dotmailer.addressbookcontact.entity_plural_label,Danh bạ địa chỉ,Address Book Contacts,0
 messages,oro.dotmailer.addressbookcontact.entity_updated.label,Cờ được cập nhật của thực thể có liên quan,Related Entity Updated Flag,0
-messages,oro.dotmailer.addressbookcontact.export_id.label,Id xuất dotmailer,dotmailer Export Id,0
-messages,oro.dotmailer.addressbookcontact.export_operation_type.label,Loại hoạt động xuất khẩu,Export Operation Type,0
+messages,oro.dotmailer.addressbookcontact.export_id.label,ID xuất dotmailer,dotmailer Export Id,0
+messages,oro.dotmailer.addressbookcontact.export_operation_type.label,Loại hoạt động xuất,Export Operation Type,0
 messages,oro.dotmailer.addressbookcontact.id.label,ID,Id,0
 messages,oro.dotmailer.addressbookcontact.marketing_list_item_class.label,Tên danh mục tiếp thị danh sách tiếp thị,Marketing List Item Class Name,0
-messages,oro.dotmailer.addressbookcontact.marketing_list_item_id.label,Id mục danh sách tiếp thị,Marketing List Item Id,0
+messages,oro.dotmailer.addressbookcontact.marketing_list_item_id.label,ID mục tiếp thị,Marketing List Item Id,0
 messages,oro.dotmailer.addressbookcontact.new_entity.label,Thực thể mới,Is New Entity,0
 messages,oro.dotmailer.addressbookcontact.scheduled_for_export.label,Đã lên lịch xuất,Scheduled for Export,0
-messages,oro.dotmailer.addressbookcontact.scheduled_for_fields_update.label,Đã cập nhật cho các bản cập nhật Field Entities,Scheduled for Entities Field Updates,0
+messages,oro.dotmailer.addressbookcontact.scheduled_for_fields_update.label,Đã lên lịch cập nhật cho các trường thực thể,Scheduled for Entities Field Updates,0
 messages,oro.dotmailer.addressbookcontact.status.label,Trạng thái,Status,0
-messages,oro.dotmailer.addressbookcontact.unsubscribed_date.label,Ngày chưa đăng ký,Unsubscribed Date,0
+messages,oro.dotmailer.addressbookcontact.unsubscribed_date.label,Ngày bỏ đăng ký,Unsubscribed Date,0
 messages,oro.dotmailer.addressbookcontactsexport.address_book.label,Sổ địa chỉ,Address Book,0
-messages,oro.dotmailer.addressbookcontactsexport.channel.label,Hội nhập,Integration,0
+messages,oro.dotmailer.addressbookcontactsexport.channel.label,Tích hợp,Integration,0
 messages,oro.dotmailer.addressbookcontactsexport.created_at.label,Được tạo lúc,Created At,0
 messages,oro.dotmailer.addressbookcontactsexport.entity_label,Xuất danh bạ,Address Book Contact Export,0
-messages,oro.dotmailer.addressbookcontactsexport.entity_plural_label,Xuất danh sách liên hệ trong danh bạ,Address Book Contact Exports,0
+messages,oro.dotmailer.addressbookcontactsexport.entity_plural_label,Xuất danh bạ,Address Book Contact Exports,0
 messages,oro.dotmailer.addressbookcontactsexport.faults_processed.label,Đã xử lý lỗi,Faults Processed,0
 messages,oro.dotmailer.addressbookcontactsexport.id.label,ID,Id,0
-messages,oro.dotmailer.addressbookcontactsexport.import_id.label,Id nhập,Import Id,0
+messages,oro.dotmailer.addressbookcontactsexport.import_id.label,ID nhập,Import Id,0
 messages,oro.dotmailer.addressbookcontactsexport.status.label,Trạng thái,Status,0
-messages,oro.dotmailer.addressbookcontactsexport.updated_at.label,Cập nhật tại,Updated At,0
+messages,oro.dotmailer.addressbookcontactsexport.updated_at.label,Cập nhật lúc,Updated At,0
 messages,oro.dotmailer.block.additional,Bổ sung,Additional,0
 messages,oro.dotmailer.block.general,Chung,General,0
 messages,oro.dotmailer.block.mapping,Cấu hình ánh xạ,Mapping Configuration,0
@@ -214,24 +214,24 @@ messages,oro.dotmailer.campaign.campaign_summary.label,Tóm tắt Chiến dịch
 messages,oro.dotmailer.campaign.channel.label,Kênh,Channel,0
 messages,oro.dotmailer.campaign.deleted.label,Bị xóa,Is Deleted,0
 messages,oro.dotmailer.campaign.email_campaign.label,Chiến dịch email,Email Campaign,0
-messages,oro.dotmailer.campaign.entity_label,chiến dịch dotmailer,dotmailer Campaign,0
-messages,oro.dotmailer.campaign.entity_plural_label,dotmailer Chiến dịch,dotmailer Campaigns,0
+messages,oro.dotmailer.campaign.entity_label,Chiến dịch dotmailer,dotmailer Campaign,0
+messages,oro.dotmailer.campaign.entity_plural_label,Chiến dịch dotmailer,dotmailer Campaigns,0
 messages,oro.dotmailer.campaign.from_address.label,Từ địa chỉ,From Address,0
 messages,oro.dotmailer.campaign.from_name.label,Từ tên,From Name,0
 messages,oro.dotmailer.campaign.html_content.label,Nội dung Html,Html Content,0
 messages,oro.dotmailer.campaign.id.label,ID,Id,0
-messages,oro.dotmailer.campaign.is_split_test.label,Là thử nghiệm chia,Is Split Test,0
+messages,oro.dotmailer.campaign.is_split_test.label,Là thử nghiệm tách xuất,Is Split Test,0
 messages,oro.dotmailer.campaign.name.label,Tên,Name,0
 messages,oro.dotmailer.campaign.new_marketing_campaign,"Chiến dịch đã được thêm tự động cho chiến dịch dotmailer ""campaign_name""","Campaign was added automatically for ""campaign_name"" dotmailer campaign",0
-messages,oro.dotmailer.campaign.origin_id.label,Id gốc,Origin Id,0
+messages,oro.dotmailer.campaign.origin_id.label,ID gốc,Origin Id,0
 messages,oro.dotmailer.campaign.owner.label,Chủ nhân,Owner,0
 messages,oro.dotmailer.campaign.plain_text_content.label,Nội dung văn bản thuần túy,Plain Text Content,0
-messages,oro.dotmailer.campaign.reply_action.label,Trả lời hành động,Reply Action,0
-messages,oro.dotmailer.campaign.reply_to_address.label,Trả lời địa chỉ,Reply To Address,0
+messages,oro.dotmailer.campaign.reply_action.label,Hành động hồi đáp,Reply Action,0
+messages,oro.dotmailer.campaign.reply_to_address.label,Địa chỉ hồi đáp,Reply To Address,0
 messages,oro.dotmailer.campaign.status.label,Trạng thái,Status,0
-messages,oro.dotmailer.campaign.subject.label,Môn học,Subject,0
+messages,oro.dotmailer.campaign.subject.label,Chủ đề,Subject,0
 messages,oro.dotmailer.campaignsummary.campaign.label,Chiến dịch,Campaign,0
-messages,oro.dotmailer.campaignsummary.channel.label,Hội nhập,Integration,0
+messages,oro.dotmailer.campaignsummary.channel.label,Tích hợp,Integration,0
 messages,oro.dotmailer.campaignsummary.date_sent.label,Ngày gửi,Date sent,0
 messages,oro.dotmailer.campaignsummary.entity_label,Tóm tắt chiến dịch,Campaign summary,0
 messages,oro.dotmailer.campaignsummary.entity_plural_label,Tóm tắt chiến dịch,Campaigns summary,0
@@ -240,76 +240,76 @@ messages,oro.dotmailer.campaignsummary.num_clicks.label,Số nhấp chuột,Clic
 messages,oro.dotmailer.campaignsummary.num_delivered.label,Số đã gửi,Delivered number,0
 messages,oro.dotmailer.campaignsummary.num_estimated_forwards.label,Số chuyển tiếp ước tính,Estimated forwards number,0
 messages,oro.dotmailer.campaignsummary.num_forwards.label,Số chuyển tiếp,Forwards number,0
-messages,oro.dotmailer.campaignsummary.num_hard_bounces.label,Số Bounce cứng,Hard Bounces number,0
+messages,oro.dotmailer.campaignsummary.num_hard_bounces.label,Số nảycứng,Hard Bounces number,0
 messages,oro.dotmailer.campaignsummary.num_isp_complaints.label,Số khiếu nại Isp,Isp Complaints number,0
-messages,oro.dotmailer.campaignsummary.num_mail_blocks.label,Số khối Mail,Mail Blocks number,0
-messages,oro.dotmailer.campaignsummary.num_opens.label,Mở số,Opens number,0
+messages,oro.dotmailer.campaignsummary.num_mail_blocks.label,Số khối thư (Mail Block),Mail Blocks number,0
+messages,oro.dotmailer.campaignsummary.num_opens.label,Số lượt đã mở,Opens number,0
 messages,oro.dotmailer.campaignsummary.num_page_views.label,Số lượt xem trang,Page Views number,0
-messages,oro.dotmailer.campaignsummary.num_recipients_clicked.label,Số người được nhấp,Recipients Clicked number,0
+messages,oro.dotmailer.campaignsummary.num_recipients_clicked.label,Số người nhấp vào,Recipients Clicked number,0
 messages,oro.dotmailer.campaignsummary.num_replies.label,Số trả lời,Replies number,0
 messages,oro.dotmailer.campaignsummary.num_sent.label,Số đã gửi,Sent number,0
-messages,oro.dotmailer.campaignsummary.num_soft_bounces.label,Số lượng trả lại mềm,Soft bounces number,0
-messages,oro.dotmailer.campaignsummary.num_text_clicks.label,Số nhấp chuột văn bản,Text Clicks number,0
-messages,oro.dotmailer.campaignsummary.num_text_delivered.label,Văn bản Đã gửi số,Text Delivered number,0
-messages,oro.dotmailer.campaignsummary.num_text_estimated_forwards.label,Văn bản Số tiền chuyển tiếp ước tính,Text Estimated forwards number,0
-messages,oro.dotmailer.campaignsummary.num_text_forwards.label,Chuyển tiếp số văn bản,Text Forwards number,0
-messages,oro.dotmailer.campaignsummary.num_text_hard_bounces.label,Số văn bản bị trả về Hard,Text Hard Bounces number,0
-messages,oro.dotmailer.campaignsummary.num_text_isp_complaints.label,Số khiếu nại Isp văn bản,Text Isp Complaints number,0
+messages,oro.dotmailer.campaignsummary.num_soft_bounces.label,Số nảy mềm,Soft bounces number,0
+messages,oro.dotmailer.campaignsummary.num_text_clicks.label,Số nhấp vào văn bản,Text Clicks number,0
+messages,oro.dotmailer.campaignsummary.num_text_delivered.label,Số văn bản đã gửi,Text Delivered number,0
+messages,oro.dotmailer.campaignsummary.num_text_estimated_forwards.label,Số chuyển tiếp văn bản ước tính,Text Estimated forwards number,0
+messages,oro.dotmailer.campaignsummary.num_text_forwards.label,Số chuyển tiếp văn bản,Text Forwards number,0
+messages,oro.dotmailer.campaignsummary.num_text_hard_bounces.label,Số văn bản nảy cứng,Text Hard Bounces number,0
+messages,oro.dotmailer.campaignsummary.num_text_isp_complaints.label,Số văn bản khiếu nại Isp ,Text Isp Complaints number,0
 messages,oro.dotmailer.campaignsummary.num_text_mail_blocks.label,Số khối thư văn bản,Text Mail Blocks number,0
 messages,oro.dotmailer.campaignsummary.num_text_opens.label,Số mở văn bản,Text Opens number,0
 messages,oro.dotmailer.campaignsummary.num_text_page_views.label,Số lượt xem trang văn bản,Text Page Views number,0
 messages,oro.dotmailer.campaignsummary.num_text_replies.label,Số trả lời văn bản,Text Replies number,0
 messages,oro.dotmailer.campaignsummary.num_text_sent.label,Số văn bản đã gửi,Text Sent number,0
-messages,oro.dotmailer.campaignsummary.num_text_soft_bounces.label,Văn bản Số trang bị trả lại Soft,Text Soft bounces number,0
-messages,oro.dotmailer.campaignsummary.num_text_unsubscribes.label,Văn bản Số chưa đăng ký,Text Unsubscribed number,0
+messages,oro.dotmailer.campaignsummary.num_text_soft_bounces.label,Số nảy mềm văn bản,Text Soft bounces number,0
+messages,oro.dotmailer.campaignsummary.num_text_unsubscribes.label,Số văn bản bỏ đăng ký,Text Unsubscribed number,0
 messages,oro.dotmailer.campaignsummary.num_total_clicks.label,Tổng số lần nhấp,Total Clicks number,0
 messages,oro.dotmailer.campaignsummary.num_total_delivered.label,Tổng số đã giao,Total Delivered number,0
-messages,oro.dotmailer.campaignsummary.num_total_estimated_forwards.label,Tổng số tiền chuyển tiếp ước tính,Total Estimated Forwards number,0
-messages,oro.dotmailer.campaignsummary.num_total_hard_bounces.label,Tổng số Số trang không truy cập cứng,Total Hard Bounces number,0
-messages,oro.dotmailer.campaignsummary.num_total_isp_complaints.label,Tổng số khiếu nại của ISP,Total ISP Complaints number,0
+messages,oro.dotmailer.campaignsummary.num_total_estimated_forwards.label,Tổng số chuyển tiếp ước tính,Total Estimated Forwards number,0
+messages,oro.dotmailer.campaignsummary.num_total_hard_bounces.label,Tổng số nảy cứng,Total Hard Bounces number,0
+messages,oro.dotmailer.campaignsummary.num_total_isp_complaints.label,Tổng số khiếu nại ISP,Total ISP Complaints number,0
 messages,oro.dotmailer.campaignsummary.num_total_mail_blocks.label,Tổng số khối Mail,Total Mail Blocks number,0
-messages,oro.dotmailer.campaignsummary.num_total_opens.label,Tổng số mở,Total Opens number,0
+messages,oro.dotmailer.campaignsummary.num_total_opens.label,Tổng số lượt mở,Total Opens number,0
 messages,oro.dotmailer.campaignsummary.num_total_page_views.label,Tổng số lượt xem trang,Total Page Views number,0
-messages,oro.dotmailer.campaignsummary.num_total_replies.label,Tổng số câu trả lời,Total Replies number,0
+messages,oro.dotmailer.campaignsummary.num_total_replies.label,Tổng số lượt trả lời,Total Replies number,0
 messages,oro.dotmailer.campaignsummary.num_total_sent.label,Tổng số đã gửi,Total Sent number,0
-messages,oro.dotmailer.campaignsummary.num_total_soft_bounces.label,Tổng số Bounce mềm,Total Soft Bounces number,0
+messages,oro.dotmailer.campaignsummary.num_total_soft_bounces.label,Tổng số nảy mềm,Total Soft Bounces number,0
 messages,oro.dotmailer.campaignsummary.num_total_unique_opens.label,Tổng số lần mở duy nhất,Total Unique Opens number,0
-messages,oro.dotmailer.campaignsummary.num_total_unsubscribes.label,Tổng số Unsubscribes,Total Unsubscribes number,0
+messages,oro.dotmailer.campaignsummary.num_total_unsubscribes.label,Tổng số hủy đăng ký,Total Unsubscribes number,0
 messages,oro.dotmailer.campaignsummary.num_unique_opens.label,Số lần mở duy nhất,Unique Opens number,0
-messages,oro.dotmailer.campaignsummary.num_unique_text_opens.label,Số văn bản duy nhất Mở số,Unique Text Opens number,0
-messages,oro.dotmailer.campaignsummary.num_unsubscribes.label,Hủy đăng ký số,Unsubscribes number,0
+messages,oro.dotmailer.campaignsummary.num_unique_text_opens.label,Số mở văn bản duy nhất ,Unique Text Opens number,0
+messages,oro.dotmailer.campaignsummary.num_unsubscribes.label,Số hủy đăng ký,Unsubscribes number,0
 messages,oro.dotmailer.campaignsummary.owner.label,Chủ nhân,Owner,0
 messages,oro.dotmailer.campaignsummary.percentage_clicks_to_opens.label,Số nhấp chuột để mở tỷ lệ phần trăm,Clicks to Opens percentage,0
-messages,oro.dotmailer.campaignsummary.percentage_delivered.label,Tỷ lệ được phân phối,Delivered percentage,0
-messages,oro.dotmailer.campaignsummary.percentage_hard_bounces.label,Tỷ lệ phần trăm bị trả lại cứng,Percentage Hard Bounces,0
+messages,oro.dotmailer.campaignsummary.percentage_delivered.label,Tỷ lệ đã phân phối,Delivered percentage,0
+messages,oro.dotmailer.campaignsummary.percentage_hard_bounces.label,Tỷ lệ phần trăm nảy cứng,Percentage Hard Bounces,0
 messages,oro.dotmailer.campaignsummary.percentage_opens.label,Tỷ lệ phần trăm mở,Percentage Opens,0
-messages,oro.dotmailer.campaignsummary.percentage_replies.label,Trả lời tỷ lệ phần trăm,Percentage Replies,0
-messages,oro.dotmailer.campaignsummary.percentage_soft_bounces.label,Tỷ lệ phần trăm Soft Bounces,Percentage Soft Bounces,0
+messages,oro.dotmailer.campaignsummary.percentage_replies.label,Tỷ lệ phần trăm hồi đáp,Percentage Replies,0
+messages,oro.dotmailer.campaignsummary.percentage_soft_bounces.label,Tỷ lệ phần trăm nảy mềm,Percentage Soft Bounces,0
 messages,oro.dotmailer.campaignsummary.percentage_unique_opens.label,Tỷ lệ phần trăm mở duy nhất,Percentage Unique Opens,0
 messages,oro.dotmailer.campaignsummary.percentage_unsubscribes.label,Tỷ lệ phần trăm hủy đăng ký,Percentage Unsubscribes,0
 messages,oro.dotmailer.campaignsummary.percentage_users_clicked.label,Phần trăm người dùng đã nhấp,Percentage User Clicked,0
-messages,oro.dotmailer.changedfieldlog.channel_id.label,Kênh ID,Channel id,0
+messages,oro.dotmailer.changedfieldlog.channel_id.label,ID Kênh,Channel id,0
 messages,oro.dotmailer.changedfieldlog.entity_label,Nhật ký trường thay đổi đối tượng được ánh xạ,Entity Change Mapped Fields Log,0
 messages,oro.dotmailer.changedfieldlog.entity_plural_label,Bản ghi các trường đã thay đổi đối tượng được ánh xạ,Entity Change Mapped Fields Logs,0
 messages,oro.dotmailer.changedfieldlog.id.label,ID,Id,0
-messages,oro.dotmailer.changedfieldlog.parent_entity.label,Thực thể cha mẹ,Parent Entity,0
+messages,oro.dotmailer.changedfieldlog.parent_entity.label,Thực thể cha,Parent Entity,0
 messages,oro.dotmailer.changedfieldlog.related_field_path.label,Đường dẫn trường liên quan,Related Field Path,0
-messages,oro.dotmailer.changedfieldlog.related_id.label,Id pháp nhân có liên quan,Related Entity Id,0
+messages,oro.dotmailer.changedfieldlog.related_id.label,ID thực thể có liên quan,Related Entity Id,0
 messages,oro.dotmailer.channel_type.label,dotmailer,dotmailer,0
 messages,oro.dotmailer.configuration.datafields_sync_interval,Khoảng thời gian đồng bộ hóa trường dữ liệu,Data Fields Sync Interval,0
 messages,oro.dotmailer.configuration.datafields_sync_interval.tooltip,Khoảng thời gian này sẽ được sử dụng để cập nhật các trường dữ liệu từ dotmailer,This interval will be used to update data fields from dotmailer,0
 messages,oro.dotmailer.configuration.dotmailer_settings,Cài đặt Dotmailer,Dotmailer Settings,0
 messages,oro.dotmailer.configuration.dotmailer_synchronization,Cài đặt đồng bộ hóa,Synchronization settings,0
-messages,oro.dotmailer.configuration.force_sync_for_virtual_fields.choices.always,Đối với tất cả ánh xạ,For all mappings,0
-messages,oro.dotmailer.configuration.force_sync_for_virtual_fields.choices.none,không ai,None,0
-messages,oro.dotmailer.configuration.force_sync_for_virtual_fields.choices.virtual_only,Đối với ánh xạ chỉ với các trường ảo,For mappings with virtual fields only,0
-messages,oro.dotmailer.configuration.force_sync_for_virtual_fields.label,Cho phép đồng bộ hóa lực lượng hàng ngày của các trường dữ liệu được ánh xạ,Enable daily force synchronization of mapped data fields,0
+messages,oro.dotmailer.configuration.force_sync_for_virtual_fields.choices.always,Đối ánh xạ tất cả,For all mappings,0
+messages,oro.dotmailer.configuration.force_sync_for_virtual_fields.choices.none,Không gì cả,None,0
+messages,oro.dotmailer.configuration.force_sync_for_virtual_fields.choices.virtual_only,Chỉ dành cho ánh xạ tới các trường ảo,For mappings with virtual fields only,0
+messages,oro.dotmailer.configuration.force_sync_for_virtual_fields.label,Kích hoạt bắt buộc đồng bộ hằng ngày trên các trường dữ liệu đã ánh xạ,Enable daily force synchronization of mapped data fields,0
 messages,oro.dotmailer.configuration.force_sync_for_virtual_fields.tooltip,"Mỗi ngày một lần, hãy kích hoạt các trường dữ liệu kích hoạt. Tất cả các liên hệ từ danh sách tiếp thị của thực thể sẽ được tự động kiểm tra cho các trường được cập nhật và được lên lịch để đồng bộ hóa với dotmailer nếu cần.","Once a day, trigger data fields check. All contacts from entity's marketing lists will be automatically checked for updated fields and scheduled for sync with dotmailer if needed.",0
 messages,oro.dotmailer.connection.button.connect,Kết nối với dotmailer,Connect to dotmailer,0
 messages,oro.dotmailer.connection.button.disconnect,Ngắt kết nối,Disconnect,0
 messages,oro.dotmailer.connection.button.group_name,dotmailer,dotmailer,0
 messages,oro.dotmailer.connection.button.manage_connection,Cài đặt kết nối,Connection Settings,0
-messages,oro.dotmailer.connection.button.synchronize,Đồng bộ hóa,Synchronize,0
+messages,oro.dotmailer.connection.button.synchronize,Đồng bộ,Synchronize,0
 messages,oro.dotmailer.connection.confirmation.disconnect,Bạn có chắc chắn muốn hủy liên kết Danh sách tiếp thị này khỏi dotmailer,Are you sure you want to unlink this Marketing List from dotmailer,0
 messages,oro.dotmailer.connection.dialog.button.cancel,Hủy bỏ,Cancel,0
 messages,oro.dotmailer.connection.dialog.button.connect,Kết nối,Connect,0
@@ -362,7 +362,7 @@ messages,oro.dotmailer.contact.last_name.label,Họ,Last Name,0
 messages,oro.dotmailer.contact.last_subscribed_date.label,Ngày đăng ký cuối cùng,Last Subscribed Date,0
 messages,oro.dotmailer.contact.merge_var_values.label,Hợp nhất các giá trị biến,Merge Variable Values,0
 messages,oro.dotmailer.contact.opt_in_type.label,Chọn tham gia loại,Opt In Type,0
-messages,oro.dotmailer.contact.origin_id.label,Id gốc,Origin Id,0
+messages,oro.dotmailer.contact.origin_id.label,ID gốc,Origin Id,0
 messages,oro.dotmailer.contact.owner.label,Chủ nhân,Owner,0
 messages,oro.dotmailer.contact.postcode.label,Mã bưu điện,Postal Code,0
 messages,oro.dotmailer.contact.status.label,Trạng thái,Status,0
@@ -398,4 +398,4 @@ messages,oro.dotmailer.datafieldmapping.sync_priority.label,Ưu tiên đồng b�
 messages,oro.dotmailer.datafieldmapping.sync_priority.tooltip,"Nếu hai hoặc nhiều thực thể được liên kết với 1 liên hệ dotmailer, ưu tiên đồng bộ hóa sẽ được sử dụng để xác định bản ghi chính","If two or more entities are linked to 1 dotmailer contact, sync priority will be used to identify master record",0
 messages,oro.dotmailer.datafieldmappingconfig.data_field.label,Trường dữ liệu,Data Field,0
 messages,oro.dotmailer.datafieldmappingconfig.delete_mapping,Xóa ánh xạ,Delete mapping,0
-messages,oro.dotmailer.datafieldmappingconfig.delete_mapping_confirmation,Bạn có chắc chắn muốn xóa bản đồ này không?,Are you sure you want to delete this mapping?,0
+messages,oro.dotmailer.datafieldmappingconfig.delete_mapping_confirmation,Bạn có chắc chắn muốn xóa ánh xạ này không?,Are you sure you want to delete this mapping?,0

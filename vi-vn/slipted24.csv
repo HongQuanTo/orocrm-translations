@@ -1,4 +1,4 @@
-messages,oro.magento.creditmemo.subtotal.label,Subtotal,Subtotal,0
+messages,oro.magento.creditmemo.subtotal.label,Tổng con,Subtotal,0
 messages,oro.magento.creditmemo.synced_at.description,Ngày và giờ của đồng bộ hóa ghi nhớ tín dụng Magento cuối cùng.,The date and time of the last Magento credit memo synchronization.,0
 messages,oro.magento.creditmemo.synced_at.label,Đồng bộ hóa lần cuối lúc,Last Synced At,0
 messages,oro.magento.creditmemo.transaction_id.description,Số lượng giao dịch được liên kết với thư báo ghi có của Magento.,Number of transaction associated with Magento credit memo.,0
@@ -234,7 +234,7 @@ messages,oro.magento.datagrid.columns.website,Trang mạng,Website,0
 messages,oro.magento.datagrid.columns.websites,Trang web,Websites,0
 messages,oro.magento.datagrid.columns.weight,Cân nặng,Weight,0
 messages,oro.magento.datagrid.views.non_empty_carts.label,Giỏ hàng Magento,Magento Shopping Carts,0
-messages,oro.magento.entity_number,% entityName%% entityNumber%,%entityName% %entityNumber%,0
+messages,oro.magento.entity_number,%entityName% %entityNumber%,%entityName% %entityNumber%,0
 messages,oro.magento.form.choose_cart,Chọn giỏ hàng ...,Choose a cart...,0
 messages,oro.magento.form.choose_customer,Chọn khách hàng ...,Choose a customer...,0
 messages,oro.magento.form.choose_order,Chọn đơn đặt hàng ...,Choose an order...,0
@@ -257,7 +257,7 @@ messages,oro.magento.magentotransport.is_display_order_notes.value.false.label,K
 messages,oro.magento.magentotransport.is_display_order_notes.value.true.label,Vâng,Yes,0
 messages,oro.magento.magentotransport.is_extension_installed.label,Đã cài đặt tiện ích mở rộng,Is extension installed,0
 messages,oro.magento.magentotransport.message.native_soap,Native Magento API được sử dụng; chỉ khách hàng và đơn đặt hàng mới được đồng bộ hóa,Native Magento API is used; only customers and orders will be synced,0
-messages,oro.magento.magentotransport.message.outdated_bridge,OroBridge v.% Extension_version% được sử dụng — phiên bản lỗi thời,OroBridge v.%extension_version% is used—outdated version,0
+messages,oro.magento.magentotransport.message.outdated_bridge,OroBridge v.%extension_version% được sử dụng — phiên bản lỗi thời,OroBridge v.%extension_version% is used—outdated version,0
 messages,oro.magento.magentotransport.rest.api_key.label,Khóa API REST,REST API Key,0
 messages,oro.magento.magentotransport.rest.api_url.label,URL REST API,REST API URL,0
 messages,oro.magento.magentotransport.rest.api_user.label,Người dùng API REST,REST API User,0
@@ -349,7 +349,7 @@ messages,oro.magento.order.items_qty.label,Hạng mục qty,Items qty,0
 messages,oro.magento.order.last_name.description,Họ của một khách hàng Magento được chỉ định theo thứ tự Magento.,The last name of a Magento customer that is specified in the Magento order.,0
 messages,oro.magento.order.last_name.label,Họ,Last name,0
 messages,oro.magento.order.notes.description,Thông tin bổ sung mà khách hàng có thể để lại cho một đơn đặt hàng Magento.,Additional information that a customer can leave for a Magento order.,0
-messages,oro.magento.order.notes.label,Ý kiến ​​khác,Additional comments,0
+messages,oro.magento.order.notes.label,Ý kiến khác,Additional comments,0
 messages,oro.magento.order.order_notes.description,Ghi chú được thêm bởi quản trị viên cửa hàng cho đơn hàng ở phía Magento.,Notes added by a store admin to an order on the Magento side.,0
 messages,oro.magento.order.order_notes.label,Ghi chú đặt hàng Magento,Magento Order Notes,0
 messages,oro.magento.order.order_notes.short_label,Ghi chú đơn đặt hàng,Order Notes,0
@@ -397,4 +397,4 @@ messages,oro.magento.order.total_refunded_amount.label,Tổng số tiền đư�
 messages,oro.magento.order.website.label,Trang mạng,Website,0
 messages,oro.magento.order_information,Thông tin đặt hàng,Order Information,0
 messages,oro.magento.orderaddress.channel.description,Việc tích hợp thông qua đó thông tin về một địa chỉ đơn đặt hàng Magento được nhận.,The integration via which information about a Magento order address is received.,0
-messages,oro.magento.orderaddress.channel.label,Hội nhập,Integration,0
+messages,oro.magento.orderaddress.channel.label,Tích hợp,Integration,0

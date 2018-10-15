@@ -1,16 +1,16 @@
 messages,oro.sales.lead.last_name.label,Họ,Last name,0
-messages,oro.sales.lead.linked_in.description,Hồ sơ LinkedIn của người lãnh đạo hoặc công ty.,LinkedIn profile of the lead person or company.,0
+messages,oro.sales.lead.linked_in.description,Hồ sơ LinkedIn của khách hàng tiềm năng hoặc công ty.,LinkedIn profile of the lead person or company.,0
 messages,oro.sales.lead.linked_in.label,LinkedIn,LinkedIn,0
-messages,oro.sales.lead.middle_name.description,Tên đệm của người đứng đầu.,Middle name of the lead person.,0
+messages,oro.sales.lead.middle_name.description,Tên đệm của khách hàng tiềm năng.,Middle name of the lead person.,0
 messages,oro.sales.lead.middle_name.label,Tên đệm,Middle name,0
 messages,oro.sales.lead.name.description,Tên duy nhất xác định bản ghi chì.,Unique name that identifies the lead record.,0
 messages,oro.sales.lead.name.label,Tên khách hàng tiềm năng,Lead name,0
-messages,oro.sales.lead.name_prefix.description,"Tên tiền tố hoặc danh dự của người đứng đầu (Mr./Ms., Dr., Prof., v.v.)","Name prefix or honorific of the lead person (Mr./Ms., Dr., Prof., etc.)",0
+messages,oro.sales.lead.name_prefix.description,"Tên tiền tố hoặc danh dự của người đứng đầu (Ông./Bà., TS., GS., v.v.)","Name prefix or honorific of the lead person (Mr./Ms., Dr., Prof., etc.)",0
 messages,oro.sales.lead.name_prefix.label,Tiền tố tên,Name prefix,0
-messages,oro.sales.lead.name_suffix.description,"Hậu tố tên của người đứng đầu (Sr./Jr., M.D., OBE, v.v.)","Name suffix of the lead person (Sr./Jr., M.D., OBE, etc.)",0
+messages,oro.sales.lead.name_suffix.description,"Hậu tố tên của khách hàng tiềm năng (Sr./Jr., M.D., OBE, v.v.)","Name suffix of the lead person (Sr./Jr., M.D., OBE, etc.)",0
 messages,oro.sales.lead.name_suffix.label,Hậu tố tên,Name suffix,0
 messages,oro.sales.lead.notes.description,Ghi chú bổ sung được lập cho hồ sơ khách hàng tiềm năng.,Additional notes made to the lead record.,0
-messages,oro.sales.lead.notes.label,Ý kiến ​​khác,Additional comments,0
+messages,oro.sales.lead.notes.label,Ý kiến khác,Additional comments,0
 messages,oro.sales.lead.number_of_employees.description,Số lượng nhân viên trong công ty của khách hàng tiềm năng.,Number of employees within the lead's company.,0
 messages,oro.sales.lead.number_of_employees.label,Số lượng nhân viên,Number of employees,0
 messages,oro.sales.lead.opportunities.description,Một tập hợp các cơ hội mà khách hàng tiềm năng đã được chuyển đổi.,A collection of opportunities to which the lead was converted.,0
@@ -26,7 +26,7 @@ messages,oro.sales.lead.primary_email.description,Mô tả địa chỉ chính,P
 messages,oro.sales.lead.primary_email.label,Email chính,Primary Email,0
 messages,oro.sales.lead.primary_phone.description,Mô tả điện thoại chính,Primary Phone Description,0
 messages,oro.sales.lead.primary_phone.label,Điện thoại chính,Primary Phone,0
-messages,oro.sales.lead.source.description,Nguồn dẫn đầu.,Source of the lead.,0
+messages,oro.sales.lead.source.description,Nguồn khách hàng tiềm năng.,Source of the lead.,0
 messages,oro.sales.lead.source.label,Nguồn,Source,0
 messages,oro.sales.lead.source.none,không ai,None,0
 messages,oro.sales.lead.source.others,Khác,Others,0
@@ -34,7 +34,7 @@ messages,oro.sales.lead.source.unclassified,Không có nguồn,No source,0
 messages,oro.sales.lead.status.change_error_message,Không thể thay đổi trạng thái khách hàng tiềm năng.,Unable to change lead status.,0
 messages,oro.sales.lead.status.description,Trạng thái hiện tại của khách hàng tiềm năng.,Current status of the lead.,0
 messages,oro.sales.lead.status.label,Trạng thái,Status,0
-messages,oro.sales.lead.twitter.description,Hồ sơ trên Twitter của người lãnh đạo hoặc công ty.,Twitter profile of the lead person or company.,0
+messages,oro.sales.lead.twitter.description,Hồ sơ trên Twitter của khách hàng tiềm năng hoặc công ty.,Twitter profile of the lead person or company.,0
 messages,oro.sales.lead.twitter.label,Twitter,Twitter,0
 messages,oro.sales.lead.website.description,Trang web cá nhân hoặc công ty của khách hàng tiềm năng.,Personal or corporate website of the lead.,0
 messages,oro.sales.lead.website.label,Trang mạng,Website,0
@@ -90,14 +90,14 @@ messages,oro.sales.leademail.id.label,ID,Id,0
 messages,oro.sales.leademail.owner.label,Chủ nhân,Owner,0
 messages,oro.sales.leademail.primary.label,Sơ cấp,Primary,0
 messages,oro.sales.leadmailboxprocesssettings.channel.label,Kênh,Channel,0
-messages,oro.sales.leadmailboxprocesssettings.entity_label,Cài đặt quy trình hộp thư chì,Lead Mailbox Process Settings,0
-messages,oro.sales.leadmailboxprocesssettings.entity_plural_label,Cài đặt quy trình hộp thư chì,Lead Mailbox Process Settings,0
+messages,oro.sales.leadmailboxprocesssettings.entity_label,Cài đặt quy trình hộp thư khách hàng tiềm năng,Lead Mailbox Process Settings,0
+messages,oro.sales.leadmailboxprocesssettings.entity_plural_label,Cài đặt quy trình hộp thư khách hàng tiềm năng,Lead Mailbox Process Settings,0
 messages,oro.sales.leadmailboxprocesssettings.id.label,ID,Id,0
 messages,oro.sales.leadmailboxprocesssettings.owner.label,Chủ nhân,Owner,0
 messages,oro.sales.leadmailboxprocesssettings.source.label,Nguồn,Source,0
 messages,oro.sales.leadphone.entity_description,Đại diện cho điện thoại của khách hàng tiềm năng,Represent lead's phone,0
-messages,oro.sales.leadphone.entity_label,Điện thoại dẫn đầu,Lead Phone,0
-messages,oro.sales.leadphone.entity_plural_label,Điện thoại chì,Lead Phones,0
+messages,oro.sales.leadphone.entity_label,Điện thoại khách hàng tiềm năng,Lead Phone,0
+messages,oro.sales.leadphone.entity_plural_label,Điện thoại khách hàng tiềm năng,Lead Phones,0
 messages,oro.sales.leadphone.id.label,ID,Id,0
 messages,oro.sales.leadphone.owner.label,Chủ nhân,Owner,0
 messages,oro.sales.leadphone.phone.label,Điện thoại,Phone,0
@@ -122,15 +122,15 @@ messages,oro.sales.opportunity.add_entity,Thêm cơ hội,Add opportunity,0
 messages,oro.sales.opportunity.assigned.label,Giao,Assigned,0
 messages,oro.sales.opportunity.base_budget_amount_value.label,Số tiền ngân sách bằng tiền gốc,Budget Amount In Base Currency,0
 messages,oro.sales.opportunity.base_close_revenue_value.label,Đóng doanh thu bằng tiền tệ cơ bản,Close Revenue In Base Currency,0
-messages,oro.sales.opportunity.budget_amount.description,Doanh thu dự kiến ​​của cơ hội.,The expected revenue of the opportunity.,0
+messages,oro.sales.opportunity.budget_amount.description,Doanh thu dự kiến của cơ hội.,The expected revenue of the opportunity.,0
 messages,oro.sales.opportunity.budget_amount.label,Số tiền ngân sách,Budget amount,0
-messages,oro.sales.opportunity.budget_amount_base_currency.label,Số tiền ngân sách (% dấu%),Budget Amount (%sign%),0
+messages,oro.sales.opportunity.budget_amount_base_currency.label,Số tiền ngân sách (%sign%),Budget Amount (%sign%),0
 messages,oro.sales.opportunity.budget_amount_currency.description,Đơn vị tiền tệ được chỉ định cho giá trị số tiền ngân sách.,The currency specified for the budget amount value.,0
 messages,oro.sales.opportunity.budget_amount_currency.label,Ngân sách Số tiền Tiền tệ,Budget Amount Currency,0
 messages,oro.sales.opportunity.budget_amount_value.description,Xác định số tiền giá trị ngân sách cho một cơ hội.,Defines the budget value amount for an opportunity.,0
 messages,oro.sales.opportunity.budget_amount_value.label,Số tiền ngân sách,Budget Amount,0
 messages,oro.sales.opportunity.budget_base_currency.label,Tiền tệ cơ bản,Base Currency,0
-messages,oro.sales.opportunity.close_date.description,Ngày kết thúc dự kiến ​​cho cơ hội mở và ngày đóng thực tế cho ngày đóng cửa.,"The expected close date for open opportunity, and actual close date for the closed one.",0
+messages,oro.sales.opportunity.close_date.description,Ngày kết thúc dự kiến cho cơ hội mở và ngày đóng thực tế cho ngày đóng cửa.,"The expected close date for open opportunity, and actual close date for the closed one.",0
 messages,oro.sales.opportunity.close_date.label,Ngày Đóng dự kiến,Expected close date,0
 messages,oro.sales.opportunity.close_reason.description,Lý do đóng cửa cơ hội (cả thắng và thua).,The reason for opportunity closure (both won and lost).,0
 messages,oro.sales.opportunity.close_reason.label,Đóng lý do,Close reason,0
@@ -165,14 +165,14 @@ messages,oro.sales.opportunity.entity_plural_label,Cơ hội,Opportunities,0
 messages,oro.sales.opportunity.feature.description,Bật thực thể Cơ hội,Enables Opportunity entity,0
 messages,oro.sales.opportunity.feature.label,Cơ hội,Opportunity,0
 messages,oro.sales.opportunity.id.label,ID,Id,0
-messages,oro.sales.opportunity.importexport.invalid_currencies,Đơn vị tiền tệ tiếp theo% currency% không có sẵn trong tổ chức hiện tại.,The next currencies %currencies% not available in current organization.,0
-messages,oro.sales.opportunity.importexport.invalid_currency,Đơn vị tiền tệ tiếp theo% currency% không có sẵn trong tổ chức hiện tại.,The next currency %currency% not available in current organization.,0
+messages,oro.sales.opportunity.importexport.invalid_currencies,Đơn vị tiền tệ tiếp theo %currency% không có sẵn trong tổ chức hiện tại.,The next currencies %currencies% not available in current organization.,0
+messages,oro.sales.opportunity.importexport.invalid_currency,Đơn vị tiền tệ tiếp theo %currency% không có sẵn trong tổ chức hiện tại.,The next currency %currency% not available in current organization.,0
 messages,oro.sales.opportunity.lead.description,Triển vọng bán hàng đã đủ điều kiện thành công vào cơ hội này.,The sale prospect that has been successfully qualified into this opportunity.,0
 messages,oro.sales.opportunity.lead.label,Chì,Lead,0
 messages,oro.sales.opportunity.name.description,Tên được sử dụng để chỉ cơ hội trong hệ thống.,The name used to refer to the opportunity in the system.,0
 messages,oro.sales.opportunity.name.label,Tên cơ hội,Opportunity name,0
 messages,oro.sales.opportunity.notes.description,Mọi ghi chú bổ sung do đại diện bán hàng thực hiện.,Any additional notes made by the sales representative.,0
-messages,oro.sales.opportunity.notes.label,Ý kiến ​​khác,Additional comments,0
+messages,oro.sales.opportunity.notes.label,Ý kiến khác,Additional comments,0
 messages,oro.sales.opportunity.organization.label,Cơ quan,Organization,0
 messages,oro.sales.opportunity.owner.label,Chủ nhân,Owner,0
 messages,oro.sales.opportunity.probability.description,Xác suất của cơ hội được đóng thành công.,The perceived probability of opportunity being successfully closed.,0
@@ -200,7 +200,7 @@ messages,oro.sales.salesfunnel.entity_label,Quá trình bán hàng,Sales Process
 messages,oro.sales.salesfunnel.entity_plural_label,Quy trình bán hàng,Sales Processes,0
 messages,oro.sales.salesfunnel.feature.description,Bật quy trình bán hàng. Hãy coi chừng rằng tính năng này không còn được dùng nữa và sẽ bị xóa trong tương lai.,Enables Sales Processes. Beware that this feature is deprecated and will be removed in a future.,0
 messages,oro.sales.salesfunnel.feature.label,Quy trình bán hàng (Không được chấp nhận),Sales Process (Deprecated),0
-messages,oro.sales.salesfunnel.hint,Quy trình bán hàng #% id%,Sales Process #%id%,0
+messages,oro.sales.salesfunnel.hint,Quy trình bán hàng #%id%,Sales Process #%id%,0
 messages,oro.sales.salesfunnel.id.label,Bán hàng #,Sales #,0
 messages,oro.sales.salesfunnel.lead.description,Khách hàng tiềm năng tạo thành một phần của quy trình bán hàng.,The lead that forms a part of a sales process.,0
 messages,oro.sales.salesfunnel.lead.label,Chì,Lead,0
@@ -251,38 +251,38 @@ messages,oro.security.field_acl.is_enabled.label,ACL cấp trường,Field Level
 messages,oro.security.field_acl.is_enabled.tooltip,Bật kiểm tra quyền truy cập cấp Field cho thực thể,Enables Field level access check for entity,0
 messages,oro.security.field_acl.show_restricted_fields.label,Hiển thị bị hạn chế,Show restricted,0
 messages,oro.security.field_acl.show_restricted_fields.tooltip,"Nếu ACL cấp trường được bật và người dùng không có quyền truy cập vào trường, khi tạo và chỉnh sửa các trang, trường này sẽ được hiển thị dưới dạng trường bị vô hiệu hóa.","If Field Level ACL enabled and user have no access to field, on create and edit pages this field will be shown as disabled field.",0
-messages,oro.security.organization.access_denied,"Bạn không có quyền truy cập vào tổ chức ""% organization_name%""","You don't have access to organization ""%organization_name%""",0
+messages,oro.security.organization.access_denied,"Bạn không có quyền truy cập vào tổ chức ""%organization_name%""","You don't have access to organization ""%organization_name%""",0
 messages,oro.security.permissions,Quyền hành động,Action Permissions,0
-messages,oro.segment.action.refresh,Làm mới phân đoạn,Refresh segment,0
-messages,oro.segment.condition_builder.apply_segment,Áp dụng phân đoạn% s,Apply %s segment,0
+messages,oro.segment.action.refresh,Làm mới phân khúc,Refresh segment,0
+messages,oro.segment.condition_builder.apply_segment,Áp dụng phân khúc %s,Apply %s segment,0
 messages,oro.segment.condition_builder.choose_entity_segment,Chọn phân khúc,Choose segment,0
 messages,oro.segment.condition_builder.confirm_message,Bạn có chắc chắn muốn làm điều này?,Are you sure you want to do this?,0
-messages,oro.segment.condition_builder.criteria.segment_condition,Áp dụng phân đoạn,Apply segment,0
+messages,oro.segment.condition_builder.criteria.segment_condition,Áp dụng phân khúc,Apply segment,0
 messages,oro.segment.definition.label,Định nghĩa,Definition,0
 messages,oro.segment.description.label,Sự miêu tả,Description,0
 messages,oro.segment.entity.label,Thực thể,Entity,0
-messages,oro.segment.entity.saved,Đã lưu phân đoạn,Segment saved,0
+messages,oro.segment.entity.saved,Đã lưu phân khúc,Segment saved,0
 messages,oro.segment.entity_label,Phân đoạn,Segment,0
 messages,oro.segment.entity_plural_label,Phân đoạn,Segments,0
-messages,oro.segment.form.choose_segment_type,Chọn loại phân đoạn,Choose segment type,0
+messages,oro.segment.form.choose_segment_type,Chọn loại phân khúc,Choose segment type,0
 messages,oro.segment.form.columns,Cột,Columns,0
 messages,oro.segment.form.designer,Nhà thiết kế,Designer,0
 messages,oro.segment.form.filters,Bộ lọc,Filters,0
 messages,oro.segment.form.segment_choice.placeholder,Chọn phân khúc,Choose segment,0
 messages,oro.segment.id.label,ID,Id,0
 messages,oro.segment.last_run.label,Lần chạy cuối cùng,Last run,0
-messages,oro.segment.menu.manage_segments.label,Quản lý phân đoạn,Manage Segments,0
-messages,oro.segment.menu.reports_tab.label,Báo cáo & phân đoạn,Reports & Segments,0
+messages,oro.segment.menu.manage_segments.label,Quản lý phân khúc,Manage Segments,0
+messages,oro.segment.menu.reports_tab.label,Báo cáo & phân khúc,Reports & Segments,0
 messages,oro.segment.name.label,Tên,Name,0
 messages,oro.segment.organization.label,Cơ quan,Organization,0
 messages,oro.segment.owner.label,Chủ nhân,Owner,0
 messages,oro.segment.records_limit.label,Giới hạn hồ sơ,Records limit,0
-messages,oro.segment.refresh_dialog.success,Đã xử lý thành công phân đoạn.,Segment successfully processed.,0
-messages,oro.segment.segment_filter_builder.segment_name,Tên phân đoạn,Segment name,0
+messages,oro.segment.refresh_dialog.success,Đã xử lý thành công phân khúc.,Segment successfully processed.,0
+messages,oro.segment.segment_filter_builder.segment_name,Tên phân khúc,Segment name,0
 messages,oro.segment.type.dynamic,Năng động,Dynamic,0
 messages,oro.segment.type.label,Kiểu,Type,0
 messages,oro.segment.type.static,Hướng dẫn,Manual,0
-messages,oro.segment.type.tooltip_text,"Phân đoạn ""động"" được cập nhật ngay sau khi bất kỳ thay đổi nào đã diễn ra trong hệ thống. Phân đoạn ""thủ công"" sẽ chỉ được cập nhật theo yêu cầu của người dùng trong trang Chế độ xem của bản ghi Phân đoạn.","""Dynamic"" segments are updated as soon as any changes have taken place in the system. ""Manual"" segments will be updated only following the user request in the View page of the Segment record.",0
+messages,oro.segment.type.tooltip_text,"Phân khúc ""động"" được cập nhật ngay sau khi bất kỳ thay đổi nào đã diễn ra trong hệ thống. Phân đoạn ""thủ công"" sẽ chỉ được cập nhật theo yêu cầu của người dùng trong trang Chế độ xem của bản ghi Phân đoạn.","""Dynamic"" segments are updated as soon as any changes have taken place in the system. ""Manual"" segments will be updated only following the user request in the View page of the Segment record.",0
 messages,oro.sidebar.system_configuration.fields.sidebar_left_active.label,Bật thanh bên trái,Enable left sidebar,0
 messages,oro.sidebar.system_configuration.fields.sidebar_right_active.label,Bật thanh bên phải,Enable right sidebar,0
 messages,oro.sidebar.system_configuration.groups.sidebar_settings.title,Cài đặt thanh bên,Sidebar settings,0
@@ -297,7 +297,7 @@ messages,oro.tag.config.enabled,Bật thẻ,Enable tags,0
 messages,oro.tag.controller.tag.saved.message,Đã lưu thẻ,Tag saved,0
 messages,oro.tag.created_by.label,Được tạo bởi,Created By,0
 messages,oro.tag.datagrid.search,Tìm kiếm theo thẻ,Search by tag,0
-messages,oro.tag.datagrid.search_result,"Bản ghi được gắn thẻ là ""% name%""","Records tagged as ""%name%""",0
+messages,oro.tag.datagrid.search_result,"Bản ghi được gắn thẻ là ""%name%""","Records tagged as ""%name%""",0
 messages,oro.tag.datagrid.usage_count,Số lượng sử dụng,Usage Count,0
 messages,oro.tag.entity_description,Hiển thị bản ghi được gắn thẻ này,Show records tagged by this tag,0
 messages,oro.tag.entity_label,Nhãn,Tag,0
@@ -345,19 +345,19 @@ messages,oro.tag.taxonomy.tags.label,Thẻ,Tags,0
 messages,oro.tag.taxonomy.updated.description,Ngày và giờ khi đơn vị phân loại được cập nhật lần cuối.,The date and time when a taxonomic unit was last updated.,0
 messages,oro.tag.taxonomy.updated.label,Cập nhật tại,Updated at,0
 messages,oro.tag.updated_by.label,Cập nhật,Updated By,0
-messages,oro.task.activity_item.changed_by,"được chỉ định bởi {{user}}, được cập nhật bởi {{editor}}","assigned by {{ user }}, updated by {{ editor }}",0
-messages,oro.task.activity_item.created_by,được chỉ định bởi {{user}},assigned by {{ user }},0
+messages,oro.task.activity_item.changed_by,"được chỉ định bởi {{ user }}, được cập nhật bởi {{ editor }}","assigned by {{ user }}, updated by {{ editor }}",0
+messages,oro.task.activity_item.created_by,được chỉ định bởi {{ user }},assigned by {{ user }},0
 messages,oro.task.add_entity,Thêm nhiệm vụ,Add task,0
 messages,oro.task.add_entity.title,Thêm tác vụ vào bản ghi này,Add a task to this record,0
 messages,oro.task.assign_entity,Gán nhiệm vụ,Assign task,0
 messages,oro.task.assign_entity.title,Chỉ định tác vụ cho người dùng này,Assign a task to this user,0
-messages,oro.task.assign_entity.widget_title,Gán nhiệm vụ cho% username%,Assign task to %username%,0
+messages,oro.task.assign_entity.widget_title,Gán nhiệm vụ cho %username%,Assign task to %username%,0
 messages,oro.task.assigned_tasks_widget.no_task_exist,Bạn không có nhiệm vụ nào đang chờ xử lý,You have no tasks pending,0
 messages,oro.task.assigned_tasks_widget.update_widget,Tải lại tác vụ,Reload tasks,0
 messages,oro.task.controller.task.saved.message,Tác vụ được tạo thành công,Task created successfully,0
 messages,oro.task.created_by.description,Người dùng đã tạo nhiệm vụ.,User that created the task.,0
 messages,oro.task.created_by.label,Được tạo bởi,Created By,0
-messages,oro.task.delete_task,Xóa {{entity}},Delete {{ entity }},0
+messages,oro.task.delete_task,Xóa {{ entity }},Delete {{ entity }},0
 messages,oro.task.description.description,Mô tả ngắn gọn có ý nghĩa về hồ sơ công việc.,Short meaningful description of the task record.,0
 messages,oro.task.description.label,Sự miêu tả,Description,0
 messages,oro.task.due_date.description,Ngày mà nhiệm vụ đó đến hạn.,The date on which the task falls due.,0
@@ -387,7 +387,7 @@ messages,oro.task.taskpriority.name.description,Định danh của một thực 
 messages,oro.task.taskpriority.name.label,Tên,Name,0
 messages,oro.task.taskpriority.order.description,Thứ tự ưu tiên nhiệm vụ được xếp hạng. Con số càng cao thì ưu tiên càng cao.,"The order in which task priorities are ranked. The higher the number, the higher the priority is.",0
 messages,oro.task.taskpriority.order.label,Gọi món,Order,0
-messages,oro.task.update_task,Cập nhật {{entity}},Update {{ entity }},0
+messages,oro.task.update_task,Cập nhật {{ entity }},Update {{ entity }},0
 messages,oro.task.user_tasks,Nhiệm vụ của người dùng,User Tasks,0
 messages,oro.task.user_tasks_section,Công việc,Tasks,0
 messages,oro.task.view,Xem tác vụ,View task,0
