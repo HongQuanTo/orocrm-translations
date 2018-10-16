@@ -10501,8 +10501,8 @@ messages,oro.query_designer.form.function,Chức năng,Function,0
 messages,oro.query_designer.form.grouping_columns,Cột nhóm,Grouping Columns,0
 messages,oro.query_designer.form.label,Nhãn,Label,0
 messages,oro.query_designer.form.sorting,Sắp xếp,Sorting,0
-messages,oro.query_designer.form.sorting_asc,Asc,Asc,0
-messages,oro.query_designer.form.sorting_desc,Mô tả,Desc,0
+messages,oro.query_designer.form.sorting_asc,Tăng dần,Asc,0
+messages,oro.query_designer.form.sorting_desc,Giảm dần,Desc,0
 messages,oro.query_designer.validation.grouping,%columns% phải xuất hiện trong nhóm.,%columns% must appear in grouping.,0
 messages,oro.query_designer.validation.query,Truy vấn không hợp lệ,Invalid query,0
 messages,oro.reminder.entity_description,Đại diện cho lời nhắc,Represent reminder,0
@@ -11096,7 +11096,7 @@ messages,oro.segment.owner.label,Chủ nhân,Owner,0
 messages,oro.segment.records_limit.label,Giới hạn hồ sơ,Records limit,0
 messages,oro.segment.refresh_dialog.success,Đã xử lý thành công nhóm đối tượng.,Segment successfully processed.,0
 messages,oro.segment.segment_filter_builder.segment_name,Tên nhóm đối tượng,Segment name,0
-messages,oro.segment.type.dynamic,động,Dynamic,0
+messages,oro.segment.type.dynamic,Linh động,Dynamic,0
 messages,oro.segment.type.label,Kiểu,Type,0
 messages,oro.segment.type.static,Cố định,Manual,0
 messages,oro.segment.type.tooltip_text,"Phân khúc ""động"" được cập nhật ngay sau khi bất kỳ thay đổi nào đã diễn ra trong hệ thống. nhóm đối tượng ""thủ công"" sẽ chỉ được cập nhật theo yêu cầu của người dùng trong trang Chế độ xem của bản ghi nhóm đối tượng.","""Dynamic"" segments are updated as soon as any changes have taken place in the system. ""Manual"" segments will be updated only following the user request in the View page of the Segment record.",0
