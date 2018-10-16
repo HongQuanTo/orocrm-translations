@@ -5828,7 +5828,7 @@ messages,Delete workflow item,Xóa mục dòng công việc,Delete workflow item
 messages,Deleted,Đã xóa,Deleted,0
 messages,Deleting...,Đang xóa ...,Deleting...,0
 messages,Descending Order,Thứ tự giảm dần - Nhấp để sắp xếp theo thứ tự tăng dần,Descending order - Click to sort in ascending order,0
-messages,Designer,Nhà thiết kế,Designer,0
+messages,Designer,Thiết kế,Designer,0
 messages,Disabled,Vô hiệu hóa,Disabled,0
 messages,E-commerce,Thương mại điện tử,E-commerce,0
 messages,EDIT,Chỉnh sửa,Edit,0
@@ -10544,13 +10544,13 @@ messages,oro.report.entity_label,Bài báo cáo,Report,0
 messages,oro.report.entity_plural_label,Báo cáo,Reports,0
 messages,oro.report.filter.grouping.label,Nhóm,Grouping,0
 messages,oro.report.filter.skip_empty_periods.label,Bỏ qua các khoảng trống,Skip Empty Periods,0
-messages,oro.report.form.chart_designer,Nhà thiết kế biểu đồ,Chart Designer,0
+messages,oro.report.form.chart_designer,Thiết kế biểu đồ,Chart Designer,0
 messages,oro.report.form.choose_report_type,Chọn loại báo cáo ...,Choose a report type...,0
 messages,oro.report.form.columns,Cột,Columns,0
 messages,oro.report.form.date_group_section.label,Nhóm theo ngày,Grouping by date,0
 messages,oro.report.form.date_grouping,Nhóm ngày,Date grouping,0
 messages,oro.report.form.date_grouping_field.label,Trường ngày,Date field,0
-messages,oro.report.form.designer,Nhà thiết kế,Designer,0
+messages,oro.report.form.designer,Thiết kế,Designer,0
 messages,oro.report.form.filters,Bộ lọc,Filters,0
 messages,oro.report.form.grouping,Nhóm,Grouping,0
 messages,oro.report.form.use_date_grouping_filter.label,Bật nhóm theo ngày,Enable grouping by date,0
@@ -11083,7 +11083,7 @@ messages,oro.segment.entity_label,nhóm đối tượng,Segment,0
 messages,oro.segment.entity_plural_label,nhóm đối tượng,Segments,0
 messages,oro.segment.form.choose_segment_type,Chọn loại nhóm đối tượng,Choose segment type,0
 messages,oro.segment.form.columns,Cột,Columns,0
-messages,oro.segment.form.designer,Nhà thiết kế,Designer,0
+messages,oro.segment.form.designer,Thiết kế,Designer,0
 messages,oro.segment.form.filters,Bộ lọc,Filters,0
 messages,oro.segment.form.segment_choice.placeholder,Chọn nhóm đối tượng,Choose segment,0
 messages,oro.segment.id.label,ID,Id,0
