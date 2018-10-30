@@ -5169,7 +5169,7 @@ jsmessages,oro.comment.loadMoreWithTotals,Tải thêm {{ count }} trong tổng s
 jsmessages,oro.comment.noData,Không tìm thấy bình luận nào.,No comments was found.,0
 jsmessages,oro.comment.plural_label,Bình luận,Comment,0
 jsmessages,oro.dashboard.add_dashboard_widgets.adding,Đang thêm ...,Adding...,0
-jsmessages,oro.dashboard.add_dashboard_widgets.title,Công cụ bảng điều khiển,Dashboard Widgets,0
+jsmessages,oro.dashboard.add_dashboard_widgets.title,Công cụ trang tổng quan,Dashboard Widgets,0
 jsmessages,oro.dashboard.drop_placeholder_label,Kéo công cụ của bạn ở đây.,Drag your widget here.,0
 jsmessages,oro.dashboard.widget.collapse,Thu vào,Collapse,0
 jsmessages,oro.dashboard.widget.configure,Chỉnh,Configure,0
@@ -5284,7 +5284,7 @@ jsmessages,oro.email.attachment.added,Đã thêm tệp đính kèm,Attachment ad
 jsmessages,oro.email.attachment.select_file,Chọn tập tin,Select file,0
 jsmessages,oro.email.emailtemplate.apply_template_confirmation_content,Nội dung nội dung sẽ được thay thế bằng mẫu. Bạn có chắc muốn tiếp tục?,The body content will be replaced by a template. Are you sure you want to proceed?,0
 jsmessages,oro.email.emailtemplate.apply_template_confirmation_title,Áp dụng xác nhận mẫu,Apply Template Confirmation,0
-jsmessages,oro.email.emailtemplate.cannot_insert_variable,"Không thể chèn biến, vui lòng đặt con trỏ vào chủ đề hoặc nội dung của mẫu.","Cannot insert variable, please put the cursor into the subject or the content of the template.",0
+jsmessages,oro.email.emailtemplate.cannot_insert_variable,"Không thể chèn biến, vui lòng đặt con trỏ vào tiêu đề hoặc nội dung của mẫu.","Cannot insert variable, please put the cursor into the subject or the content of the template.",0
 jsmessages,oro.email.emailtemplate.change_entity_confirmation,Dữ liệu mẫu có thể chứa các biến liên quan đến thực thể được chọn trước đó. Bạn có muốn xóa tất cả dữ liệu mẫu không?,The template data can contain variables related to the previous selected entity. Do you want to clear all template data?,0
 jsmessages,oro.email.emailtemplate.load_failed,Đã xảy ra lỗi trong khi tải mẫu.,Error occured while loading template.,0
 jsmessages,oro.email.emailtemplate.reference_title,{{ variable_label }}. Nhấp để chuyển đến các biến có liên quan.,{{ variable_label }}. Click to go to related variables.,0
@@ -5313,7 +5313,7 @@ jsmessages,oro.email.recent_emails_widget.description,Tiện ích này cho phép
 jsmessages,oro.email.recent_emails_widget.forward,Phía trước,Forward,0
 jsmessages,oro.email.recent_emails_widget.mailbox_folder,Thư mục hộp thư,Mailbox Folder,0
 jsmessages,oro.email.recent_emails_widget.mark_visible_read.label,Đánh dấu có thể nhìn thấy là đã đọc,Mark Visible as Read,0
-jsmessages,oro.email.recent_emails_widget.no_subject,không chủ đề,no subject,0
+jsmessages,oro.email.recent_emails_widget.no_subject,không tiêu đề,no subject,0
 jsmessages,oro.email.recent_emails_widget.reply,Đáp lại,Reply,0
 jsmessages,oro.email.recent_emails_widget.reply_all,Trả lời tất cả,Reply All,0
 jsmessages,oro.email.recent_emails_widget.settings,Những chỉnh sửa công cụ email gần đây,Recent Emails Widget Settings,0
@@ -5391,7 +5391,7 @@ jsmessages,oro.form.inlineEditing.multi_checkbox_editor.filter.placeholder,Lọc
 jsmessages,oro.form.inlineEditing.saving_progress,Chỉnh sửa nội dòng đang được lưu,Inline edits are being saved,0
 jsmessages,oro.form.inlineEditing.successMessage,Bản ghi đã được cập nhật thành công,Record has been successfully updated,0
 jsmessages,oro.form.new,Mới,New,0
-jsmessages,oro.hangoutscall.log_call_form.field_subject.label,Chủ đề,Subject,0
+jsmessages,oro.hangoutscall.log_call_form.field_subject.label,Tiêu đề,Subject,0
 jsmessages,oro.hangoutscall.log_call_form.field_subject.notes,Biình luận thêm,Additional comments,0
 jsmessages,oro.hangoutscall.log_call_form.title,Thông tin cuộc gọi CRM,CRM Call Information,0
 jsmessages,oro.hangoutscall.messages.connection_error,Không thể bắt đầu phiên Google Hangout. Lỗi kết nối API Google.,Cannot start a Google Hangout session. Google API connection error.,0
@@ -6020,7 +6020,7 @@ messages,oro.activitylist.pagination.newer,Mới hơn,Newer,0
 messages,oro.activitylist.pagination.older,Cũ hơn,Older,0
 messages,oro.activitylist.related_activity_class.label,Kiểu hoạt động liên quan,Related activity class,0
 messages,oro.activitylist.related_activity_id.label,ID hoạt động liên quan,Related activity id,0
-messages,oro.activitylist.subject.label,Tên (Subject),Subject,0
+messages,oro.activitylist.subject.label,Tiêu đề,Subject,0
 messages,oro.activitylist.system_configuration.activity_list.label,Danh sách hoạt động,Activity lists,0
 messages,oro.activitylist.system_configuration.email_threads.use_threads_in_activities.choices.non_threaded.label,Không có luồng,Non-Threaded,0
 messages,oro.activitylist.system_configuration.email_threads.use_threads_in_activities.choices.threaded.label,Có luồng,Threaded,0
@@ -6458,7 +6458,7 @@ messages,oro.call.phone_number.description,Số điện thoại mà cuộc gọi
 messages,oro.call.phone_number.label,Số điện thoại,Phone number,0
 messages,oro.call.sections.general,Chung,General,0
 messages,oro.call.subject.description,Xác định cuộc gọi là gì.,Defines what the call was about.,0
-messages,oro.call.subject.label,Môn học,Subject,0
+messages,oro.call.subject.label,Tiêu đề,Subject,0
 messages,oro.call.update_call,Cập nhật nhật ký {{ entity }},Update {{ entity }} log,0
 messages,oro.call.update_log_call,Cập nhật cuộc gọi,Update call,0
 messages,oro.call.view,Xem nhật ký cuộc gọi,View call log,0
@@ -6523,7 +6523,7 @@ messages,oro.campaign.emailcampaign.sender_name.label,Tên người gửi,Sender
 messages,oro.campaign.emailcampaign.sent.label,Gởi,Sent,0
 messages,oro.campaign.emailcampaign.sent_at.label,Đã gửi vào,Sent At,0
 messages,oro.campaign.emailcampaign.stats.abuse.label,Lạm dụng,Abuse,0
-messages,oro.campaign.emailcampaign.stats.bounce.label,Tung lên,Bounce,0
+messages,oro.campaign.emailcampaign.stats.bounce.label,Hỏng,Bounce,0
 messages,oro.campaign.emailcampaign.stats.click.label,Nhấp chuột,Click,0
 messages,oro.campaign.emailcampaign.stats.open.label,Mở,Open,0
 messages,oro.campaign.emailcampaign.stats.unsubscribe.label,Hủy đăng ký,Unsubscribe,0
@@ -6539,7 +6539,7 @@ messages,oro.campaign.emailcampaign.transport_settings.label,Cài đặt Vận c
 messages,oro.campaign.emailcampaign.updated_at.label,Cập nhật lúc,Updated At,0
 messages,oro.campaign.emailcampaignstatistics.abuse_count.label,Tổng số lạm dụng,Abuse Count,0
 messages,oro.campaign.emailcampaignstatistics.block.label,Thống kê chiến dịch email,Email Campaign Statistics,0
-messages,oro.campaign.emailcampaignstatistics.bounce_count.label,Số lần trả lại,Bounce Count,0
+messages,oro.campaign.emailcampaignstatistics.bounce_count.label,Số lần hỏng,Bounce Count,0
 messages,oro.campaign.emailcampaignstatistics.click_count.label,Số lần nhấp,Click Count,0
 messages,oro.campaign.emailcampaignstatistics.created_at.label,Được tạo lúc,Created At,0
 messages,oro.campaign.emailcampaignstatistics.email_campaign.label,Chiến dịch email,Email Campaign,0
@@ -6645,7 +6645,7 @@ messages,oro.case.caseentity.source.label,Nguồn,Source,0
 messages,oro.case.caseentity.status.description,Giai đoạn hiện tại của công việc về vụ án.,The current phase of work on the case.,0
 messages,oro.case.caseentity.status.label,Trạng thái,Status,0
 messages,oro.case.caseentity.subject.description,Tiêu đề hoặc mô tả ngắn về vấn đề.,The short title or description of the issue.,0
-messages,oro.case.caseentity.subject.label,Môn học,Subject,0
+messages,oro.case.caseentity.subject.label,Tiêu đề,Subject,0
 messages,oro.case.casemailboxprocesssettings.assign_to.label,Giao cho,Assign To,0
 messages,oro.case.casemailboxprocesssettings.entity_label,Cài đặt quy trình hộp thư thoại,Case Mailbox Process Settings,0
 messages,oro.case.casemailboxprocesssettings.entity_plural_label,Cài đặt quy trình hộp thư thoại,Case Mailbox Process Settings,0
@@ -7354,7 +7354,7 @@ messages,oro.dotmailer.activity.email.label,E-mail,Email,0
 messages,oro.dotmailer.activity.entity_label,dotmailer Hoạt động,dotmailer Activity,0
 messages,oro.dotmailer.activity.entity_plural_label,dotmailer Các hoạt động,dotmailer Activities,0
 messages,oro.dotmailer.activity.first_open_ip.label,IP mở đầu tiên,First Open Ip,0
-messages,oro.dotmailer.activity.hard_bounced.label,Khó nảy lên,Hard bounced,0
+messages,oro.dotmailer.activity.hard_bounced.label,Hỏng nặng,Hard bounced,0
 messages,oro.dotmailer.activity.id.label,ID,Id,0
 messages,oro.dotmailer.activity.num_clicks.label,Số nhấp chuột,Clicks Number,0
 messages,oro.dotmailer.activity.num_estimated_forwards.label,Con số chuyển tiếp ước tính,Estimated Forwards Number,0
@@ -7363,7 +7363,7 @@ messages,oro.dotmailer.activity.num_opens.label,Sổ đã mở,Opens Number,0
 messages,oro.dotmailer.activity.num_page_views.label,Số lượt xem trang,Page Views Number,0
 messages,oro.dotmailer.activity.num_replies.label,Số trả lời,Replies Number,0
 messages,oro.dotmailer.activity.owner.label,Chủ nhân,Owner,0
-messages,oro.dotmailer.activity.soft_bounced.label,Nảy nhẹ,Soft Bounced,0
+messages,oro.dotmailer.activity.soft_bounced.label,Hỏng nhẹ,Soft Bounced,0
 messages,oro.dotmailer.activity.unsubscribed.label,Đã hủy đăng ký,Unsubscribed,0
 messages,oro.dotmailer.addressbook.address_book_contacts.label,Danh bạ địa chỉ,Address Book Contacts,0
 messages,oro.dotmailer.addressbook.address_book_contacts_exports.label,Xuất danh sách liên hệ trong danh bạ,Address Book Contacts Export,0
@@ -7443,7 +7443,7 @@ messages,oro.dotmailer.campaign.plain_text_content.label,Nội dung văn bản t
 messages,oro.dotmailer.campaign.reply_action.label,Hành động hồi đáp,Reply Action,0
 messages,oro.dotmailer.campaign.reply_to_address.label,Địa chỉ hồi đáp,Reply To Address,0
 messages,oro.dotmailer.campaign.status.label,Trạng thái,Status,0
-messages,oro.dotmailer.campaign.subject.label,Chủ đề,Subject,0
+messages,oro.dotmailer.campaign.subject.label,Tiêu đề,Subject,0
 messages,oro.dotmailer.campaignsummary.campaign.label,Chiến dịch,Campaign,0
 messages,oro.dotmailer.campaignsummary.channel.label,Tích hợp,Integration,0
 messages,oro.dotmailer.campaignsummary.date_sent.label,Ngày gửi,Date sent,0
@@ -7454,7 +7454,7 @@ messages,oro.dotmailer.campaignsummary.num_clicks.label,Số nhấp chuột,Clic
 messages,oro.dotmailer.campaignsummary.num_delivered.label,Số đã gửi,Delivered number,0
 messages,oro.dotmailer.campaignsummary.num_estimated_forwards.label,Số chuyển tiếp ước tính,Estimated forwards number,0
 messages,oro.dotmailer.campaignsummary.num_forwards.label,Số chuyển tiếp,Forwards number,0
-messages,oro.dotmailer.campaignsummary.num_hard_bounces.label,Số nảycứng,Hard Bounces number,0
+messages,oro.dotmailer.campaignsummary.num_hard_bounces.label,Số hỏng nặng,Hard Bounces number,0
 messages,oro.dotmailer.campaignsummary.num_isp_complaints.label,Số khiếu nại Isp,Isp Complaints number,0
 messages,oro.dotmailer.campaignsummary.num_mail_blocks.label,Số khối thư (Mail Block),Mail Blocks number,0
 messages,oro.dotmailer.campaignsummary.num_opens.label,Số lượt đã mở,Opens number,0
@@ -7462,31 +7462,31 @@ messages,oro.dotmailer.campaignsummary.num_page_views.label,Số lượt xem tra
 messages,oro.dotmailer.campaignsummary.num_recipients_clicked.label,Số người nhấp vào,Recipients Clicked number,0
 messages,oro.dotmailer.campaignsummary.num_replies.label,Số trả lời,Replies number,0
 messages,oro.dotmailer.campaignsummary.num_sent.label,Số đã gửi,Sent number,0
-messages,oro.dotmailer.campaignsummary.num_soft_bounces.label,Số nảy mềm,Soft bounces number,0
+messages,oro.dotmailer.campaignsummary.num_soft_bounces.label,Số hỏng nhẹ,Soft bounces number,0
 messages,oro.dotmailer.campaignsummary.num_text_clicks.label,Số nhấp vào văn bản,Text Clicks number,0
 messages,oro.dotmailer.campaignsummary.num_text_delivered.label,Số văn bản đã gửi,Text Delivered number,0
 messages,oro.dotmailer.campaignsummary.num_text_estimated_forwards.label,Số chuyển tiếp văn bản ước tính,Text Estimated forwards number,0
 messages,oro.dotmailer.campaignsummary.num_text_forwards.label,Số chuyển tiếp văn bản,Text Forwards number,0
-messages,oro.dotmailer.campaignsummary.num_text_hard_bounces.label,Số văn bản nảy cứng,Text Hard Bounces number,0
+messages,oro.dotmailer.campaignsummary.num_text_hard_bounces.label,Số văn bản hỏng nặng,Text Hard Bounces number,0
 messages,oro.dotmailer.campaignsummary.num_text_isp_complaints.label,Số văn bản khiếu nại Isp ,Text Isp Complaints number,0
 messages,oro.dotmailer.campaignsummary.num_text_mail_blocks.label,Số khối thư văn bản,Text Mail Blocks number,0
 messages,oro.dotmailer.campaignsummary.num_text_opens.label,Số mở văn bản,Text Opens number,0
 messages,oro.dotmailer.campaignsummary.num_text_page_views.label,Số lượt xem trang văn bản,Text Page Views number,0
 messages,oro.dotmailer.campaignsummary.num_text_replies.label,Số trả lời văn bản,Text Replies number,0
 messages,oro.dotmailer.campaignsummary.num_text_sent.label,Số văn bản đã gửi,Text Sent number,0
-messages,oro.dotmailer.campaignsummary.num_text_soft_bounces.label,Số nảy mềm văn bản,Text Soft bounces number,0
+messages,oro.dotmailer.campaignsummary.num_text_soft_bounces.label,Số văn bản hỏng nhẹ,Text Soft bounces number,0
 messages,oro.dotmailer.campaignsummary.num_text_unsubscribes.label,Số văn bản bỏ đăng ký,Text Unsubscribed number,0
 messages,oro.dotmailer.campaignsummary.num_total_clicks.label,Tổng số lần nhấp,Total Clicks number,0
 messages,oro.dotmailer.campaignsummary.num_total_delivered.label,Tổng số đã giao,Total Delivered number,0
 messages,oro.dotmailer.campaignsummary.num_total_estimated_forwards.label,Tổng số chuyển tiếp ước tính,Total Estimated Forwards number,0
-messages,oro.dotmailer.campaignsummary.num_total_hard_bounces.label,Tổng số nảy cứng,Total Hard Bounces number,0
+messages,oro.dotmailer.campaignsummary.num_total_hard_bounces.label,Tổng số hỏng nặng,Total Hard Bounces number,0
 messages,oro.dotmailer.campaignsummary.num_total_isp_complaints.label,Tổng số khiếu nại ISP,Total ISP Complaints number,0
 messages,oro.dotmailer.campaignsummary.num_total_mail_blocks.label,Tổng số khối Mail,Total Mail Blocks number,0
 messages,oro.dotmailer.campaignsummary.num_total_opens.label,Tổng số lượt mở,Total Opens number,0
 messages,oro.dotmailer.campaignsummary.num_total_page_views.label,Tổng số lượt xem trang,Total Page Views number,0
 messages,oro.dotmailer.campaignsummary.num_total_replies.label,Tổng số lượt trả lời,Total Replies number,0
 messages,oro.dotmailer.campaignsummary.num_total_sent.label,Tổng số đã gửi,Total Sent number,0
-messages,oro.dotmailer.campaignsummary.num_total_soft_bounces.label,Tổng số nảy mềm,Total Soft Bounces number,0
+messages,oro.dotmailer.campaignsummary.num_total_soft_bounces.label,Tổng số hỏng nhẹ,Total Soft Bounces number,0
 messages,oro.dotmailer.campaignsummary.num_total_unique_opens.label,Tổng số lần mở duy nhất,Total Unique Opens number,0
 messages,oro.dotmailer.campaignsummary.num_total_unsubscribes.label,Tổng số hủy đăng ký,Total Unsubscribes number,0
 messages,oro.dotmailer.campaignsummary.num_unique_opens.label,Số lần mở duy nhất,Unique Opens number,0
@@ -7495,10 +7495,10 @@ messages,oro.dotmailer.campaignsummary.num_unsubscribes.label,Số hủy đăng 
 messages,oro.dotmailer.campaignsummary.owner.label,Chủ nhân,Owner,0
 messages,oro.dotmailer.campaignsummary.percentage_clicks_to_opens.label,Số nhấp chuột để mở tỷ lệ phần trăm,Clicks to Opens percentage,0
 messages,oro.dotmailer.campaignsummary.percentage_delivered.label,Tỷ lệ đã phân phối,Delivered percentage,0
-messages,oro.dotmailer.campaignsummary.percentage_hard_bounces.label,Tỷ lệ phần trăm nảy cứng,Percentage Hard Bounces,0
+messages,oro.dotmailer.campaignsummary.percentage_hard_bounces.label,Tỷ lệ phần trăm hỏng nặng,Percentage Hard Bounces,0
 messages,oro.dotmailer.campaignsummary.percentage_opens.label,Tỷ lệ phần trăm mở,Percentage Opens,0
 messages,oro.dotmailer.campaignsummary.percentage_replies.label,Tỷ lệ phần trăm hồi đáp,Percentage Replies,0
-messages,oro.dotmailer.campaignsummary.percentage_soft_bounces.label,Tỷ lệ phần trăm nảy mềm,Percentage Soft Bounces,0
+messages,oro.dotmailer.campaignsummary.percentage_soft_bounces.label,Tỷ lệ phần trăm hỏng nhẹ,Percentage Soft Bounces,0
 messages,oro.dotmailer.campaignsummary.percentage_unique_opens.label,Tỷ lệ phần trăm mở duy nhất,Percentage Unique Opens,0
 messages,oro.dotmailer.campaignsummary.percentage_unsubscribes.label,Tỷ lệ phần trăm hủy đăng ký,Percentage Unsubscribes,0
 messages,oro.dotmailer.campaignsummary.percentage_users_clicked.label,Phần trăm người dùng đã nhấp,Percentage User Clicked,0
@@ -7626,49 +7626,49 @@ messages,oro.dotmailer.datafieldmappingconfig.validation.incompatible_types_bool
 messages,oro.dotmailer.datafieldmappingconfig.validation.incompatible_types_date,"Ánh xạ cho trường ""%datafield%"" phải thuộc loại datetime","Mapping for field ""%datafield%"" must be of datetime type",0
 messages,oro.dotmailer.datafieldmappingconfig.validation.incompatible_types_numeric,"Ánh xạ cho trường ""%datafield%"" phải thuộc loại số","Mapping for field ""%datafield%"" must be of numeric type",0
 messages,oro.dotmailer.datafieldmappingconfig.validation.incompatible_types_string,"Ánh xạ cho trường ""%datafield%"" phải được chuyển đổi thành chuỗi","Mapping for field ""%datafield%"" must be convertable to string",0
-messages,oro.dotmailer.datafieldmappingconfig.validation.multiple,Một số trường thực thể có thể được ánh xạ chỉ tới Trường dữ liệu của chuỗi kiểu,Several entity fields can be mapped only to the Data Field of type string,0
-messages,oro.dotmailer.emailcampaign.click_to_open.label,Tỷ lệ nhấp để mở,Click to open rate,0
-messages,oro.dotmailer.emailcampaign.click_to_open.tooltip,Tỷ lệ nhấp để mở - số liệu chính cho biết số lần nhấp qua được tạo bởi chiến dịch của bạn dưới dạng phần trăm trong tổng số người nhận đã mở nó. Lọc các liên hệ được nhấp bằng liên kết để xác định các liên kết thành công nhất và để theo dõi.,"Click to open rate - a key metric showing the number of click-throughs generated by your campaign as a percentage of the total number of recipients who opened it. Filter contacts that clicked by link to determine the most successful links, and for follow-up.",0
+messages,oro.dotmailer.datafieldmappingconfig.validation.multiple,Một số trường thực thể có thể được ánh xạ chỉ tới Trường dữ liệu của kiểu chuỗi,Several entity fields can be mapped only to the Data Field of type string,0
+messages,oro.dotmailer.emailcampaign.click_to_open.label,Tỷ lệ nhấp mở,Click to open rate,0
+messages,oro.dotmailer.emailcampaign.click_to_open.tooltip,Tỷ lệ nhấp mở - số liệu chính cho biết số lần nhấp qua được tạo bởi chiến dịch của bạn dưới dạng phần trăm trong tổng số người nhận đã mở nó. Lọc các liên hệ được nhấp bằng liên kết để xác định các liên kết thành công nhất và để theo dõi.,"Click to open rate - a key metric showing the number of click-throughs generated by your campaign as a percentage of the total number of recipients who opened it. Filter contacts that clicked by link to determine the most successful links, and for follow-up.",0
 messages,oro.dotmailer.emailcampaign.clicks.label,Số lần nhấp,Clicks,0
 messages,oro.dotmailer.emailcampaign.clicks.tooltip,Số lần một liên kết trong chiến dịch được nhấp vào.,Number of times a link in the campaign was clicked.,0
 messages,oro.dotmailer.emailcampaign.emailsSent.label,Email đã gửi,Emails Sent,0
 messages,oro.dotmailer.emailcampaign.emailsSent.tooltip,Email đã gửi,Emails Sent,0
-messages,oro.dotmailer.emailcampaign.engagement.label,Hôn ước,Engagement,0
-messages,oro.dotmailer.emailcampaign.estimatedForwards.label,Dự kiến chuyển tiếp,Estimated forwards,0
-messages,oro.dotmailer.emailcampaign.estimatedForwards.tooltip,Tiền đạo ước tính - chi tiết về các địa chỉ liên hệ đã xem chiến dịch của bạn và những người dường như đã chuyển tiếp nó cho người khác.,"Estimated forwards - details of contacts that have viewed your campaign, and who appear to have forwarded it to others.",0
-messages,oro.dotmailer.emailcampaign.forwards.label,Tiền đạo,Forwards,0
+messages,oro.dotmailer.emailcampaign.engagement.label,Tiếp cận,Engagement,0
+messages,oro.dotmailer.emailcampaign.estimatedForwards.label,Ước lượng gửi tiếp,Estimated forwards,0
+messages,oro.dotmailer.emailcampaign.estimatedForwards.tooltip,Ước lượng gửi tiếp - chi tiết về các địa chỉ liên hệ đã xem chiến dịch của bạn và những người dường như đã chuyển tiếp nó cho người khác.,"Estimated forwards - details of contacts that have viewed your campaign, and who appear to have forwarded it to others.",0
+messages,oro.dotmailer.emailcampaign.forwards.label,Gửi tiếp,Forwards,0
 messages,oro.dotmailer.emailcampaign.forwards.tooltip,Số lần email được chuyển tiếp đến một người bạn.,Number of times email was forwarded to a friend.,0
-messages,oro.dotmailer.emailcampaign.hardBounces.label,Khó bị trả lại,Hard Bounces,0
-messages,oro.dotmailer.emailcampaign.hardBounces.tooltip,Địa chỉ email không gửi được vĩnh viễn,Permanently undeliverable email addresses,0
-messages,oro.dotmailer.emailcampaign.hardBouncesPercentage.label,"Khó bị trả lại, %","Hard Bounces, %",0
-messages,oro.dotmailer.emailcampaign.hardBouncesPercentage.tooltip,Phần trăm địa chỉ email trong chiến dịch khó trả về.,Percent of email addresses in campaign that hard bounced.,0
-messages,oro.dotmailer.emailcampaign.integration.label,dotmailer Integration,dotmailer Integration,0
+messages,oro.dotmailer.emailcampaign.hardBounces.label,Email hỏng nặng,Hard Bounces,0
+messages,oro.dotmailer.emailcampaign.hardBounces.tooltip,Địa chỉ email vĩnh viễn không thể gửi được,Permanently undeliverable email addresses,0
+messages,oro.dotmailer.emailcampaign.hardBouncesPercentage.label,"Email hỏng nặng, %","Hard Bounces, %",0
+messages,oro.dotmailer.emailcampaign.hardBouncesPercentage.tooltip,Phần trăm địa chỉ email hỏng nặng trong chiến dịch.,Percent of email addresses in campaign that hard bounced.,0
+messages,oro.dotmailer.emailcampaign.integration.label,Tích hợp dotmailer,dotmailer Integration,0
 messages,oro.dotmailer.emailcampaign.interaction.label,Sự tương tác,Interaction,0
 messages,oro.dotmailer.emailcampaign.isp_complaints.label,Khiếu nại về ISP,ISP Complaints,0
 messages,oro.dotmailer.emailcampaign.isp_complaints.tooltip,Số lượng người liên hệ đã gửi khiếu nại spam qua nhà cung cấp dịch vụ internet của họ.,Number of contacts who've submitted spam complaints via their internet service provider.,0
 messages,oro.dotmailer.emailcampaign.negative.label,Tiêu cực,Negative,0
-messages,oro.dotmailer.emailcampaign.nonOpeners.label,Không mở,Non openers,0
-messages,oro.dotmailer.emailcampaign.nonOpeners.tooltip,Không mở - Danh sách liên hệ không mở email của bạn.,Non openers - Contacts that didn&#39;t open your email.,0
-messages,oro.dotmailer.emailcampaign.opens.label,Mở,Opens,0
+messages,oro.dotmailer.emailcampaign.nonOpeners.label,Người không mở thư,Non openers,0
+messages,oro.dotmailer.emailcampaign.nonOpeners.tooltip,Người không mở thư - Danh sách liên hệ không mở email của bạn.,Non openers - Contacts that didn&#39;t open your email.,0
+messages,oro.dotmailer.emailcampaign.opens.label,Người mở thư,Opens,0
 messages,oro.dotmailer.emailcampaign.opens.tooltip,Số lần chiến dịch được mở.,Number of times the campaign was opened.,0
 messages,oro.dotmailer.emailcampaign.page_views.label,Lượt xem trang,Page views,0
 messages,oro.dotmailer.emailcampaign.page_views.tooltip,"Lượt xem trang - khi bạn đã cài đặt tập lệnh theo dõi trang trên trang web của mình, tính năng này theo dõi hoạt động của người nhận trên trang web của bạn sau khi họ đã nhấp qua từ chiến dịch của bạn.","Page views - once you have installed the page tracking script on your website, this feature tracks recipients&#39; activity on your website after they have clicked through from your campaign.",0
-messages,oro.dotmailer.emailcampaign.percentageDelivered.label,"Đã giao hàng, %","Delivered, %",0
-messages,oro.dotmailer.emailcampaign.percentageDelivered.tooltip,Tổng số phần trăm được phân phối.,Total delivered percentage.,0
+messages,oro.dotmailer.emailcampaign.percentageDelivered.label,"Đã gửi, %","Delivered, %",0
+messages,oro.dotmailer.emailcampaign.percentageDelivered.tooltip,Phần trăm tổng số đã gửi,Total delivered percentage.,0
 messages,oro.dotmailer.emailcampaign.percentageUniqueOpens.label,"Số lần mở duy nhất, %","Unique opens, %",0
-messages,oro.dotmailer.emailcampaign.percentageUniqueOpens.tooltip,Tổng số duy nhất mở tỷ lệ phần trăm.,Unique total opens percentage.,0
+messages,oro.dotmailer.emailcampaign.percentageUniqueOpens.tooltip,Phần trăm số lần mở duy nhất,Unique total opens percentage.,0
 messages,oro.dotmailer.emailcampaign.positive.label,Tích cực,Positive,0
 messages,oro.dotmailer.emailcampaign.replies_percentage.label,"Trả lời, %","Replies, %",0
 messages,oro.dotmailer.emailcampaign.replies_percentage.tooltip,"Trả lời, %","Replies, %",0
-messages,oro.dotmailer.emailcampaign.softBounces.label,Bounce mềm,Soft Bounces,0
-messages,oro.dotmailer.emailcampaign.softBounces.tooltip,Bounce mềm - địa chỉ email tạm thời không gửi được,Soft bounces - temporarily undeliverable email addresses,0
-messages,oro.dotmailer.emailcampaign.softBouncesPercentage.label,"Soft Bounces, %","Soft Bounces, %",0
-messages,oro.dotmailer.emailcampaign.softBouncesPercentage.tooltip,Phần trăm địa chỉ email trong chiến dịch mềm bị trả về.,Percent of email addresses in campaign that soft bounced.,0
-messages,oro.dotmailer.emailcampaign.statistics.label,dotmailer Thống kê,dotmailer Statistics,0
-messages,oro.dotmailer.emailcampaign.total_replies.label,Tổng số câu trả lời,Total replies,0
-messages,oro.dotmailer.emailcampaign.total_replies.tooltip,Trả lời - xem các câu trả lời nhận được do kết quả chiến dịch của bạn được lưu trữ trong phần báo cáo (lưu ý rằng các câu trả lời này cũng được chuyển tiếp đến địa chỉ bạn chọn nếu bạn đã định cấu hình).,Replies - view the replies received as a result of your campaign is stored in the reports section (note that these are also forwarded to an address of your choice if you have this configured).,0
-messages,oro.dotmailer.emailcampaign.totalDelivered.label,Đã giao hàng,Delivered,0
-messages,oro.dotmailer.emailcampaign.totalDelivered.tooltip,Tổng số được phân phối.,Total delivered.,0
+messages,oro.dotmailer.emailcampaign.softBounces.label,Email hỏng nhẹ,Soft Bounces,0
+messages,oro.dotmailer.emailcampaign.softBounces.tooltip,Email hỏng nhẹ - địa chỉ email tạm thời không gửi được,Soft bounces - temporarily undeliverable email addresses,0
+messages,oro.dotmailer.emailcampaign.softBouncesPercentage.label,"Email hỏng nhẹ, %","Soft Bounces, %",0
+messages,oro.dotmailer.emailcampaign.softBouncesPercentage.tooltip,Phần trăm địa chỉ email trong chiến dịch bị hỏng nhẹ.,Percent of email addresses in campaign that soft bounced.,0
+messages,oro.dotmailer.emailcampaign.statistics.label,Thống kê dotmailer,dotmailer Statistics,0
+messages,oro.dotmailer.emailcampaign.total_replies.label,Tổng số trả lời,Total replies,0
+messages,oro.dotmailer.emailcampaign.total_replies.tooltip,Số trả lời - xem các trả lời nhận được do kết quả chiến dịch của bạn được lưu trữ trong phần báo cáo (lưu ý rằng các câu trả lời này cũng được chuyển tiếp đến địa chỉ bạn chọn nếu bạn đã định cấu hình).,Replies - view the replies received as a result of your campaign is stored in the reports section (note that these are also forwarded to an address of your choice if you have this configured).,0
+messages,oro.dotmailer.emailcampaign.totalDelivered.label,Đã gửi,Delivered,0
+messages,oro.dotmailer.emailcampaign.totalDelivered.tooltip,Tổng số đã gửi,Total delivered.,0
 messages,oro.dotmailer.emailcampaign.transport.dotmailer,dotmailer,dotmailer,0
 messages,oro.dotmailer.emailcampaign.unique_opens.label,Số lần mở duy nhất,Unique Opens,0
 messages,oro.dotmailer.emailcampaign.unique_opens.tooltip,Số lần chiến dịch được mở bởi người dùng duy nhất.,Number of times the campaign was opened by unique user.,0
@@ -7676,11 +7676,11 @@ messages,oro.dotmailer.emailcampaign.unsubscribes.label,Hủy đăng ký,Unsubsc
 messages,oro.dotmailer.emailcampaign.unsubscribes.tooltip,Số lượng địa chỉ email trong chiến dịch đã hủy đăng ký.,Number of email addresses in campaign that unsubscribed.,0
 messages,oro.dotmailer.emailcampaign.unsubscribesPercentage.label,"Hủy đăng ký,%","Unsubscribes, %",0
 messages,oro.dotmailer.emailcampaign.unsubscribesPercentage.tooltip,Phần trăm địa chỉ email trong chiến dịch đã hủy đăng ký.,Percent of email addresses in campaign that unsubscribed.,0
-messages,oro.dotmailer.emailcampaign.user_clicks.label,Số lần nhấp người nhận,Recipient clicks,0
+messages,oro.dotmailer.emailcampaign.user_clicks.label,Số lần người nhận nhấp ,Recipient clicks,0
 messages,oro.dotmailer.emailcampaign.user_clicks.tooltip,Người dùng duy nhất nhấp qua.,Unique user click through.,0
-messages,oro.dotmailer.emailcampaign.user_clicks_percentage.label,"Số lần nhấp người nhận, %","Recipient clicks, %",0
-messages,oro.dotmailer.emailcampaign.user_clicks_percentage.tooltip,"Số lần nhấp qua người dùng duy nhất, %","Unique user click through, %",0
-messages,oro.dotmailer.emailcampaign.views_and_forwards.label,Lượt xem và tiền đạo,Views and forwards,0
+messages,oro.dotmailer.emailcampaign.user_clicks_percentage.label,"Số lần người nhận nhấp, %","Recipient clicks, %",0
+messages,oro.dotmailer.emailcampaign.user_clicks_percentage.tooltip,"Số lần người dùng duy nhất nhấp qua, %","Unique user click through, %",0
+messages,oro.dotmailer.emailcampaign.views_and_forwards.label,Lượt xem và lượt chuyển tiếp,Views and forwards,0
 messages,oro.dotmailer.emailcampaign.views_and_forwards.tooltip,Lượt xem &amp; chuyển tiếp - tổng số lần chiến dịch của bạn đã được xem. Đây có thể là cùng một người nhận mở chiến dịch nhiều lần hoặc bởi bạn bè và đồng nghiệp mà nó được chuyển tiếp.,Views &amp; forwards - the total number of times your campaign has been viewed. These could be the same recipient opening the campaign multiple times or by friends and colleagues to which it was forwarded.,0
 messages,oro.dotmailer.form.client_id.tooltip,"Để đăng ký sử dụng OAuth, bạn sẽ cần phải có giấy phép doanh nghiệp dotmailer và liên hệ với người quản lý tài khoản dotmailer của bạn.",To register to use OAuth you will need to be on an dotmailer Enterprise licence and to contact your dotmailer account manager.,0
 messages,oro.dotmailer.form.custom_domain.tooltip,https://r1-app.dotmailer.com/ được sử dụng theo mặc định,https://r1-app.dotmailer.com/ is used by default,0
@@ -7688,14 +7688,14 @@ messages,oro.dotmailer.form.password.tooltip,Mật khẩu người dùng API.,AP
 messages,oro.dotmailer.form.username.tooltip,Người dùng API.,API User.,0
 messages,oro.dotmailer.handler.default_value_not_match,Giá trị mặc định không khớp với loại của trường.,Default value doesn't match the field's type.,0
 messages,oro.dotmailer.handler.unable_to_create_field,Không thể tạo trường trong dotmailer.,Failed to create field in dotmailer.,0
-messages,oro.dotmailer.import_not_exported_contact.job,Lỗi xuất nhập khẩu từ dotmailer,Import Export faults from dotmailer,0
+messages,oro.dotmailer.import_not_exported_contact.job,Lỗi xuất nhập từ dotmailer,Import Export faults from dotmailer,0
 messages,oro.dotmailer.integration.check_connection.label,Kiểm tra kết nối,Check Connection,0
 messages,oro.dotmailer.integration.choose_connection.label,Kết nối,Connection,0
 messages,oro.dotmailer.integration.connect.label,Kết nối,Connect,0
 messages,oro.dotmailer.integration.connection.label,Email Studio,Email Studio,0
 messages,oro.dotmailer.integration.connection_successful.label,Kết nối thành công!,Connection successful!,0
 messages,oro.dotmailer.integration.disconnect.label,Ngắt kết nối,Disconnect,0
-messages,oro.dotmailer.integration.label,Hội nhập,Integration,0
+messages,oro.dotmailer.integration.label,Tích hợp,Integration,0
 messages,oro.dotmailer.integration.messsage.enter_client_id_client_key,"Vui lòng nhập Client ID và Khóa Ứng dụng cho <a href=""%update_url%""> tích hợp </a> của bạn","Please enter Client ID and Client Key for your <a href=""%update_url%"">integration</a>",0
 messages,oro.dotmailer.integration.messsage.incorrect_callback_url,URL gọi lại không chính xác,Incorrect callback URL,0
 messages,oro.dotmailer.integration.messsage.unable_to_connect,Không thể kết nối với dotmailer,Unable to connect to dotmailer,0
@@ -7718,9 +7718,9 @@ messages,oro.email.accept_language_header.label,Chấp nhận ngôn ngữ,Accept
 messages,oro.email.action.message.error,Đồng bộ hóa email không thành công.,Email sync failed.,0
 messages,oro.email.action.message.processing,"Đồng bộ hóa email đã bắt đầu. Vui lòng đợi, lưới sẽ được cập nhật sau khi hoàn thành ...","Email sync has started. Please wait, the grid will be updated after it is complete...",0
 messages,oro.email.action.message.success,Hoàn tất đồng bộ hóa email.,Email sync completed.,0
-messages,oro.email.action.processing,Chế biến,Processing,0
+messages,oro.email.action.processing,Đang xử lý,Processing,0
 messages,oro.email.action.sync,Đồng bộ hóa email,Sync emails,0
-messages,oro.email.attachment.copy_to_record,Sao chép để ghi,Copy to Record,0
+messages,oro.email.attachment.copy_to_record,Sao chép để ghi (Copy to Record),Copy to Record,0
 messages,oro.email.attachment.download_all,Tải về,Download,0
 messages,oro.email.attachment.save,Tải về,Download,0
 messages,oro.email.attachment.select_file,Chọn tập tin,Select file,0
@@ -7762,42 +7762,42 @@ messages,oro.email.datagrid.emailtemplate.action.update,Cập nhật,Update,0
 messages,oro.email.datagrid.emailtemplate.filter.entityName.empty,khỏi,None,0
 messages,oro.email.datagrid.emailtemplate.filter.type.html,Html,Html,0
 messages,oro.email.datagrid.emailtemplate.filter.type.txt,Văn bản thô,Plain text,0
-messages,oro.email.datagrid.emailtemplate.page_size.all,Tất cả các,All,0
-messages,oro.email.datagrid.emailtemplate.view.all_templates,Tất cả các,All,0
+messages,oro.email.datagrid.emailtemplate.page_size.all,Tất cả,All,0
+messages,oro.email.datagrid.emailtemplate.view.all_templates,Tất cả,All,0
 messages,oro.email.datagrid.emailtemplate.view.system_templates,Chỉ hệ thống,System only,0
 messages,oro.email.datagrid.filters.new,Email chưa đọc,Unread emails,0
 messages,oro.email.datagrid.mailbox.view,Hộp thư: %mailbox%,Mailbox: %mailbox%,0
-messages,oro.email.datagrid.mark.success_message,"{0} Không có pháp nhân nào được đánh dấu|{1} Một pháp nhân đã được đánh dấu |]1,Inf[ %count% thực thể đã được đánh dấu","{0} No entities were marked|{1} One entity was marked|]1,Inf[ %count% entities were marked",0
+messages,oro.email.datagrid.mark.success_message,"{0} Không có thực thể nào được đánh dấu|{1} Một thực thể đã được đánh dấu |]1,Inf[ %count% thực thể đã được đánh dấu","{0} No entities were marked|{1} One entity was marked|]1,Inf[ %count% entities were marked",0
 messages,oro.email.date.label,Ngày,Date,0
 messages,oro.email.date_time.label,Ngày giờ,Date/Time,0
-messages,oro.email.email_body.label,Thân hình,Body,0
+messages,oro.email.email_body.label,Nội dung,Body,0
 messages,oro.email.email_users.label,Email người dùng,User Emails,0
-messages,oro.email.emailtemplate.action.clone,Sao chép,Clone,0
+messages,oro.email.emailtemplate.action.clone,Nhân bản,Clone,0
 messages,oro.email.emailtemplate.action.preview,Xem trước,Preview,0
 messages,oro.email.emailtemplate.app_full_name,Tên đầy đủ của ứng dụng,Full name of application,0
 messages,oro.email.emailtemplate.app_short_name,Tên viết tắt của ứng dụng,Short name of application,0
 messages,oro.email.emailtemplate.app_url,URL ứng dụng,Application URL,0
 messages,oro.email.emailtemplate.clone_entity,Sao chép mẫu email,Clone email template,0
 messages,oro.email.emailtemplate.content.label,Nội dung,Content,0
-messages,oro.email.emailtemplate.current_date,Ngay hiện tại,Current date,0
+messages,oro.email.emailtemplate.current_date,Ngày hiện tại,Current date,0
 messages,oro.email.emailtemplate.current_datetime,Ngày và giờ hiện tại,Current date & time,0
 messages,oro.email.emailtemplate.current_time,Thời điểm hiện tại,Current time,0
 messages,oro.email.emailtemplate.edit_entity,"Chỉnh sửa mẫu email ""%name%""","Edit email template ""%name%""",0
 messages,oro.email.emailtemplate.entity_description,Trình bày mẫu email,Represent email template,0
 messages,oro.email.emailtemplate.entity_label,Mẫu email,Email Template,0
-messages,oro.email.emailtemplate.entity_name.label,Tên pháp nhân,Entity name,0
+messages,oro.email.emailtemplate.entity_name.label,Tên thực thể,Entity name,0
 messages,oro.email.emailtemplate.entity_name.tooltip,Chọn một thực thể mẫu này liên quan đến hoặc giữ nó trống nếu mẫu này không liên quan đến bất kỳ thực thể nào.,Choose an entity this template is related to or keep it empty if this template is not related to any entity.,0
-messages,oro.email.emailtemplate.entity_plural_label,mẫu thư điện tử,Email Templates,0
+messages,oro.email.emailtemplate.entity_plural_label,Mẫu thư điện tử,Email Templates,0
 messages,oro.email.emailtemplate.id.label,ID,Id,0
 messages,oro.email.emailtemplate.is_editable.label,Có thể chỉnh sửa,Is editable,0
-messages,oro.email.emailtemplate.is_system.label,Hệ thống,Is system,0
+messages,oro.email.emailtemplate.is_system.label,Thuộc Hệ thống,Is system,0
 messages,oro.email.emailtemplate.name.label,Tên mẫu,Template name,0
 messages,oro.email.emailtemplate.organization.label,Cơ quan,Organization,0
-messages,oro.email.emailtemplate.organization_name,Tên tổ chức của người dùng đã đăng nhập,Organization name of logged in user,0
+messages,oro.email.emailtemplate.organization_name,Tên cơ quan của người dùng đã đăng nhập,Organization name of logged in user,0
 messages,oro.email.emailtemplate.owner.label,Chủ nhân,Owner,0
 messages,oro.email.emailtemplate.parent.label,Cha mẹ,Parent,0
 messages,oro.email.emailtemplate.siganture,Chữ ký (| oro_html_strip_tags phải được loại bỏ để cho phép sử dụng chế độ xem html của nó),Signature (|oro_html_strip_tags should be removed to allow usage of it's html view),0
-messages,oro.email.emailtemplate.subject.label,Môn học,Subject,0
+messages,oro.email.emailtemplate.subject.label,Tiêu đề,Subject,0
 messages,oro.email.emailtemplate.translations.label,Bản dịch,Translations,0
 messages,oro.email.emailtemplate.type.label,Kiểu,Type,0
 messages,oro.email.emailtemplate.user_first_name,Tên đầu tiên của người dùng đã đăng nhập,First name of logged in user,0
@@ -7810,14 +7810,14 @@ messages,oro.email.emailtemplate.variables.url.create.label,Trang tạo đối t
 messages,oro.email.emailtemplate.variables.url.index.label,Trang lưới thực thể,Entity Grid Page,0
 messages,oro.email.emailtemplate.variables.url.update.label,Trang cập nhật thực thể,Entity Update Page,0
 messages,oro.email.emailtemplate.variables.url.view.label,Trang xem thực thể,Entity View Page,0
-messages,oro.email.emailtemplate.visible.label,Có thể nhìn thấy,Visible,0
+messages,oro.email.emailtemplate.visible.label,Thaấy được,Visible,0
 messages,oro.email.emailuser.email.label,E-mail,Email,0
 messages,oro.email.emailuser.entity_label,Quan hệ người dùng email,Email-User Relation,0
 messages,oro.email.emailuser.entity_plural_label,Quan hệ người dùng email,Email-User Relations,0
 messages,oro.email.emailuser.folder.label,Thư mục,Folder,0
 messages,oro.email.emailuser.folders.label,Thư mục,Folders,0
 messages,oro.email.emailuser.id.label,ID,Id,0
-messages,oro.email.emailuser.mailbox_owner.label,Chủ sở hữu hộp thư,Mailbox Owner,0
+messages,oro.email.emailuser.mailbox_owner.label,Chủ nhân hộp thư,Mailbox Owner,0
 messages,oro.email.emailuser.organization.label,Cơ quan,Organization,0
 messages,oro.email.emailuser.origin.label,Xuất xứ email,Email Origin,0
 messages,oro.email.emailuser.owner.label,Chủ sở hữu người dùng,User Owner,0
@@ -7835,12 +7835,12 @@ messages,oro.email.folder_type.inbox,Hộp thư đến,Inbox,0
 messages,oro.email.folder_type.label,Loại thư mục,Folder type,0
 messages,oro.email.folder_type.other,Khác,Other,0
 messages,oro.email.folder_type.sent,Gởi,Sent,0
-messages,oro.email.folder_type.spam,RAC,Spam,0
+messages,oro.email.folder_type.spam,Spam,Spam,0
 messages,oro.email.folder_type.trash,Rác,Trash,0
 messages,oro.email.folders.label,Thư mục,Folders,0
 messages,oro.email.folders.tooltip,"Nếu một thư mục bị hủy, tất cả dữ liệu được lưu trong thư mục đó sẽ bị xóa","If a folder is uncheked, all the data saved in it will be deleted",0
 messages,oro.email.forbidden,Hành động bị cấm,Action forbidden,0
-messages,oro.email.form.add_signature,Thêm ngôn ngữ,Add Signature,0
+messages,oro.email.form.add_signature,Thêm chữ ký,Add Signature,0
 messages,oro.email.form.attach,Đính kèm,Attach,0
 messages,oro.email.form.attach_file,Đính kèm tệp,Attach file,0
 messages,oro.email.form.choose_template,Chọn một mẫu,Choose a Template,0
@@ -7852,7 +7852,7 @@ messages,oro.email.form.tooltip.attachment_sync.enable,Bật tải tệp đính 
 messages,oro.email.form.tooltip.attachment_sync.max_size,"Kích thước tệp đính kèm đồng bộ hóa tối đa, Mb. Các tệp đính kèm có kích thước vượt quá sẽ không được tải xuống. Để bỏ kích thước được đặt thành 0.","Maximum sync attachment size, Mb. Attachments with exceeding size will not be downloaded. To unlimit size set to 0.",0
 messages,oro.email.form.tooltip.attachment_sync.preview_limit,Giới hạn để hiển thị bản xem trước cho tệp đính kèm (hình thu nhỏ cho hình ảnh và biểu tượng tệp lớn cho các tệp khác). Đặt thành 0 để chỉ xem danh sách có tên tệp.,Limit to show preview for attachments (thumbnail for images and a big file icon for other files). Set to 0 to see a list with file names only.,0
 messages,oro.email.form.upload,Tải lên,Upload,0
-messages,oro.email.forward,Phía trước,Forward,0
+messages,oro.email.forward,Chuyển tiếp,Forward,0
 messages,oro.email.forwarded_message,tin nhắn đã được chuyển tiếp,Forwarded message,0
 messages,oro.email.from_email_address.label,Từ,From,0
 messages,oro.email.from_name.label,Từ,From,0
@@ -7860,9 +7860,9 @@ messages,oro.email.handler.attempt_save_system_template,"Việc ghi đè các m�
 messages,oro.email.handler.recipient_can_not_be_empty,Người nhận không được để trống,Recipient can not be empty,0
 messages,oro.email.handler.sender_can_not_be_empty,Người gửi không được để trống,Sender can not be empty,0
 messages,oro.email.handler.unable_to_send_email,Không thể gửi email.,Unable to send the email.,0
-messages,oro.email.head.label,Là Trưởng,Is Head,0
+messages,oro.email.head.label,Là Head,Is Head,0
 messages,oro.email.id.label,ID,Id,0
-messages,oro.email.imap.folder.checkAll,Tất cả các,All,0
+messages,oro.email.imap.folder.checkAll,Tất cả,All,0
 messages,oro.email.importance.label,Tầm quan trọng,Importance,0
 messages,oro.email.internal_date.label,Ngày nội bộ,Internal date,0
 messages,oro.email.load_more_emails,%quantity% tin nhắn cũ hơn,%quantity% older messages,0
@@ -7906,7 +7906,7 @@ messages,oro.email.notification.menu_item.hint,Email gần đây,Recent Emails,0
 messages,oro.email.notification.new_email,Bạn có một email mới,You have a new email,0
 messages,oro.email.parent_message_header,Vào %date% %user% đã viết:,On %date% %user% wrote:,0
 messages,oro.email.received_at.label,Đã nhận tại,Received at,0
-messages,oro.email.recent_emails_widget.no_subject,không có chủ đề,no subject,0
+messages,oro.email.recent_emails_widget.no_subject,không có tiêu đề,no subject,0
 messages,oro.email.recipients.label,Người nhận,Recipients,0
 messages,oro.email.refs.label,Tham khảo tiêu đề,References Header,0
 messages,oro.email.reply,Đáp lại,Reply,0
@@ -7920,8 +7920,8 @@ messages,oro.email.show_details.tooltip,Hiển thị chi tiết,Show details,0
 messages,oro.email.status.label,Trạng thái,Status,0
 messages,oro.email.status.read.label,Đọc,Read,0
 messages,oro.email.status.unread.label,Chưa đọc,Unread,0
-messages,oro.email.subject.label,Môn học,Subject,0
-messages,oro.email.subject.no_subject.label,(không có chủ đề),(no subject),0
+messages,oro.email.subject.label,Tiêu đề,Subject,0
+messages,oro.email.subject.no_subject.label,(không có tiêu đề),(no subject),0
 messages,oro.email.system_configuration.attachment_configuration.label,Tệp đính kèm,Attachments,0
 messages,oro.email.system_configuration.attachment_configuration.link_to_scope.choices.auto.label,Tự động,Auto,0
 messages,oro.email.system_configuration.attachment_configuration.link_to_scope.choices.manual.label,Hướng dẫn,Manual,0
@@ -7934,9 +7934,9 @@ messages,oro.email.system_configuration.email_autocomplete_configuration.label,T
 messages,oro.email.system_configuration.email_autocomplete_configuration.minimum_input_length.label,Số lượng ký tự tối thiểu để tự động hoàn thành,Minumum number of characters for autocomplete,0
 messages,oro.email.system_configuration.email_configuration,Cấu hình email,Email Configuration,0
 messages,oro.email.system_configuration.email_settings,Cài đặt email,Email Settings,0
-messages,oro.email.system_configuration.email_threads.label,Chủ đề email,Email Threads,0
-messages,oro.email.system_configuration.email_threads.use_threads.choices.non_threaded.label,Không được tạo luồng,Non-Threaded,0
-messages,oro.email.system_configuration.email_threads.use_threads.choices.threaded.label,Threaded,Threaded,0
+messages,oro.email.system_configuration.email_threads.label,Luồng email,Email Threads,0
+messages,oro.email.system_configuration.email_threads.use_threads.choices.non_threaded.label,Không có luồng,Non-Threaded,0
+messages,oro.email.system_configuration.email_threads.use_threads.choices.threaded.label,Có luồng,Threaded,0
 messages,oro.email.system_configuration.email_threads.use_threads.label,Hiển thị các cuộc hội thoại qua email dưới dạng,Display email conversations as,0
 messages,oro.email.system_configuration.feature_enabled.label,Bật email người dùng,Enable User Emails,0
 messages,oro.email.system_configuration.mailbox_configuration.add_mailbox.label,Thêm hộp thư,Add Mailbox,0
@@ -7947,7 +7947,7 @@ messages,oro.email.system_configuration.sanitize_html.label,Bật trình lọc H
 messages,oro.email.system_configuration.sanitize_html.tooltip,Vô hiệu hóa trình lọc HTML sẽ cho phép người dùng dán bất kỳ mã HTML nào vào mẫu hoặc trình chỉnh sửa nội dung email mà không cần xoá thẻ.,Disabling HTML purifier will allow users to paste any HTML code into template or email body editor without tag stripping.,0
 messages,oro.email.system_configuration.show_recent_emails_in_user_bar.label,Hiển thị các email gần đây,Show recent emails,0
 messages,oro.email.system_configuration.signature_configuration.append_signature.choices.auto.label,Tự động,Auto,0
-messages,oro.email.system_configuration.signature_configuration.append_signature.choices.manual.label,Hướng dẫn,Manual,0
+messages,oro.email.system_configuration.signature_configuration.append_signature.choices.manual.label,Thủ công,Manual,0
 messages,oro.email.system_configuration.signature_configuration.append_signature.label,Thêm chữ ký vào nội dung email,Append signature to email body,0
 messages,oro.email.system_configuration.signature_configuration.label,Chữ ký,Signature,0
 messages,oro.email.system_configuration.signature_configuration.signature.label,Nội dung chữ ký,Signature Content,0
@@ -7956,11 +7956,11 @@ messages,oro.email.system_configuration.smtp_settings.encryption.label,Mã hóa,
 messages,oro.email.system_configuration.smtp_settings.encryption.none.label,khỏi,None,0
 messages,oro.email.system_configuration.smtp_settings.encryption.ssl.label,SSL,SSL,0
 messages,oro.email.system_configuration.smtp_settings.encryption.tls.label,TLS,TLS,0
-messages,oro.email.system_configuration.smtp_settings.host.label,Máy chủ lưu trữ,Host,0
+messages,oro.email.system_configuration.smtp_settings.host.label,Máy chủ,Host,0
 messages,oro.email.system_configuration.smtp_settings.label,Cài đặt SMTP,SMTP Settings,0
 messages,oro.email.system_configuration.smtp_settings.password.label,Mật khẩu,Password,0
-messages,oro.email.system_configuration.smtp_settings.port.label,Hải cảng,Port,0
-messages,oro.email.system_configuration.smtp_settings.username.label,Tên người dùng,Username,0
+messages,oro.email.system_configuration.smtp_settings.port.label,Cổng,Port,0
+messages,oro.email.system_configuration.smtp_settings.username.label,Tên đăng nhập,Username,0
 messages,oro.email.system_configuration.template_configuration.label,HTML trong các mẫu,HTML in templates,0
 messages,oro.email.template.label,Áp dụng mẫu,Apply template,0
 messages,oro.email.the_email_was_sent,Email đã được gửi,The email was sent,0
@@ -7991,13 +7991,13 @@ messages,oro.embeddedform.owner.label,Cơ quan,Organization,0
 messages,oro.embeddedform.success_message.default,Biểu mẫu đã được gửi thành công,Form has been submitted successfully,0
 messages,oro.embeddedform.success_message.description,Thông báo này sẽ xuất hiện sau khi gửi biểu mẫu.<br /> Sử dụng <strong>{back_link|Back link text}</strong> trình giữ chỗ để thêm liên kết quay lại biểu mẫu.,This message will appear after submitting the form.<br />Use <strong>{back_link|Back link text}</strong> placeholder to add back link to form.,0
 messages,oro.embeddedform.success_message.label,Gửi tin thành công,Success message,0
-messages,oro.embeddedform.tabs.iframe.label,Mã khung nội tuyến,Iframe code,0
+messages,oro.embeddedform.tabs.iframe.label,Mã khung nội tuyến (Iframe),Iframe code,0
 messages,oro.embeddedform.tabs.inline.description,Lưu ý: Việc sử dụng phương pháp nhúng này sẽ ảnh hưởng đến CSS của trang web của bạn. Bạn có thể cần phải thay đổi CSS biểu mẫu. <br /> Bạn cũng nên kiểm tra phần Tên miền được phép và thêm tất cả các miền đã biết đang lưu trữ biểu mẫu của bạn.,Note: Using this method of embedding will interfere with your site's CSS. You might need to change the form CSS.<br /> You should also check the Allowed Domains section and add all known domains that are hosting your form.,0
 messages,oro.embeddedform.tabs.inline.label,Mã nội tuyến,Inline code,0
 messages,oro.embeddedform.title.label,Chức vụ,Title,0
 messages,oro.entity.controller.message.access_denied,Bạn không có quyền truy cập để chỉnh sửa tên trường này,You does not have access to edit this field name,0
-messages,oro.entity.controller.message.exactly_field_not_found,không được thành lập trong thực thể,is not founded in entity,0
-messages,oro.entity.controller.message.field_not_found,Tên trường không được thiết lập trong thực thể,Field Name is not founded in entity,0
+messages,oro.entity.controller.message.exactly_field_not_found,không tìm thấy trong thực thể,is not founded in entity,0
+messages,oro.entity.controller.message.field_not_found,Tên trường không tìm thấy trong thực thể,Field Name is not founded in entity,0
 messages,oro.entity.controller.message.saved,Đã lưu thực thể,Entity saved,0
 messages,oro.entity.datagrid.assigned,Giao,Assigned,0
 messages,oro.entity.entity_config.datagrid.field.items.is_visible,Thêm vào cài đặt lưới,Add to grid settings,0
@@ -8014,7 +8014,7 @@ messages,oro.entity.entity_config.entity.entity.items.plural_label,Nhãn số nh
 messages,oro.entity.entity_config.entity.field.items.description,Mô tả,Description,0
 messages,oro.entity.entity_config.entity.field.items.description.tooltip,"Khi được điền, mô tả sẽ được sử dụng làm chú giải công cụ trường trên biểu mẫu thực thể","When filled in, description will be used as a field tooltip on entity forms",0
 messages,oro.entity.entity_config.entity.field.items.label,Nhãn,Label,0
-messages,oro.entity.entity_config.entity.field.items.label.tooltip,"Để giữ nội dung thuộc tính không được gắn nhãn trên Cửa hàng Mặt tiền, hãy thêm tiền tố vào văn bản nhãn có dấu gạch dưới (ví dụ: Đánh giá _Video, _Img Mặt trước, _Img Chế độ xem hiếm).","To keep the attribute content unlabeled on the Front Store, prefix the label text with an underscore (e.g. _Video Review, _Img Front View, _Img Rare View).",0
+messages,oro.entity.entity_config.entity.field.items.label.tooltip,"Để giữ nội dung thuộc tính không được gắn nhãn trên Cửa hàng Mặt tiền, hãy thêm tiền tố vào văn bản nhãn có dấu gạch dưới (ví dụ: Đánh giá _Video, _Img Mặt trước, _Img Chế độ ít xem).","To keep the attribute content unlabeled on the Front Store, prefix the label text with an underscore (e.g. _Video Review, _Img Front View, _Img Rare View).",0
 messages,oro.entity.entity_config.form.field.items.is_enabled,Hiển thị trên biểu mẫu,Show on form,0
 messages,oro.entity.entity_config.view.field.items.is_displayable,Hiển thị trên chế độ xem,Show on view,0
 messages,oro.entity.entity_config.view.field.items.priority,Sự ưu tiên,Priority,0
@@ -8403,7 +8403,7 @@ messages,oro.form.icon_select.comments-alt,nhận xét alt,comments alt,0
 messages,oro.form.icon_select.compass,la bàn,compass,0
 messages,oro.form.icon_select.credit-card,thẻ tín dụng,credit card,0
 messages,oro.form.icon_select.crop,mùa vụ,crop,0
-messages,oro.form.icon_select.dashboard,bảng điều khiển,dashboard,0
+messages,oro.form.icon_select.dashboard,trang tổng quan,dashboard,0
 messages,oro.form.icon_select.desktop,máy tính để bàn,desktop,0
 messages,oro.form.icon_select.download,tải về,download,0
 messages,oro.form.icon_select.download-alt,tải xuống alt,download alt,0
@@ -9813,7 +9813,7 @@ messages,oro.mailchimp.campaign.forwards.label,Tiền đạo,Forwards,0
 messages,oro.mailchimp.campaign.forwards_opens.label,Tiền đạo mở,Forwards Opens,0
 messages,oro.mailchimp.campaign.from_email.label,Từ email,From Email,0
 messages,oro.mailchimp.campaign.from_name.label,Từ tên,From Name,0
-messages,oro.mailchimp.campaign.hard_bounces.label,Khó bị trả lại,Hard Bounces,0
+messages,oro.mailchimp.campaign.hard_bounces.label,Hỏng nặng,Hard Bounces,0
 messages,oro.mailchimp.campaign.id.label,ID,Id,0
 messages,oro.mailchimp.campaign.last_open_date.label,Ngày mở cuối cùng,Last Open Date,0
 messages,oro.mailchimp.campaign.opens.label,Mở,Opens,0
@@ -9821,10 +9821,10 @@ messages,oro.mailchimp.campaign.origin_id.label,Id gốc,Origin Id,0
 messages,oro.mailchimp.campaign.owner.label,Chủ nhân,Owner,0
 messages,oro.mailchimp.campaign.recipient_likes.label,Người nhận thích,Recipient Likes,0
 messages,oro.mailchimp.campaign.send_time.label,Gửi thời gian,Send Time,0
-messages,oro.mailchimp.campaign.soft_bounces.label,Bounce mềm,Soft Bounces,0
+messages,oro.mailchimp.campaign.soft_bounces.label,Hỏng nhẹ,Soft Bounces,0
 messages,oro.mailchimp.campaign.static_segment.label,Phân đoạn tĩnh,Static Segment,0
 messages,oro.mailchimp.campaign.status.label,Trạng thái,Status,0
-messages,oro.mailchimp.campaign.subject.label,Môn học,Subject,0
+messages,oro.mailchimp.campaign.subject.label,Tiêu đề,Subject,0
 messages,oro.mailchimp.campaign.subscribers_list.label,Danh sách người đăng ký,Subscribers List,0
 messages,oro.mailchimp.campaign.syntax_errors.label,Lỗi cú pháp,Syntax Errors,0
 messages,oro.mailchimp.campaign.template.label,Bản mẫu,Template,0
@@ -9898,8 +9898,8 @@ messages,oro.mailchimp.emailcampaign.emailsSent.label,Email đã gửi,Emails Se
 messages,oro.mailchimp.emailcampaign.emailsSent.tooltip,Email đã gửi,Emails Sent,0
 messages,oro.mailchimp.emailcampaign.forwards.label,Tiền đạo,Forwards,0
 messages,oro.mailchimp.emailcampaign.forwards.tooltip,Số lần email được chuyển tiếp đến một người bạn.,Number of times email was forwarded to a friend.,0
-messages,oro.mailchimp.emailcampaign.hardBounces.label,Khó bị trả lại,Hard Bounces,0
-messages,oro.mailchimp.emailcampaign.hardBounces.tooltip,Số lượng địa chỉ email trong chiến dịch khó trả về.,Number of email addresses in campaign that hard bounced.,0
+messages,oro.mailchimp.emailcampaign.hardBounces.label,Hỏng nặng,Hard Bounces,0
+messages,oro.mailchimp.emailcampaign.hardBounces.tooltip,Số lượng địa chỉ email hỏng nặng trong chiến dịch.,Number of email addresses in campaign that hard bounced.,0
 messages,oro.mailchimp.emailcampaign.integration.label,Tích hợp MailChimp,MailChimp Integration,0
 messages,oro.mailchimp.emailcampaign.integration.placeholder,Chọn tích hợp MailChimp,Choose MailChimp integration,0
 messages,oro.mailchimp.emailcampaign.list.placeholder,Chọn danh sách MailChimp,Choose MailChimp list,0
@@ -9909,8 +9909,8 @@ messages,oro.mailchimp.emailcampaign.opens.tooltip,Số lần chiến dịch đ�
 messages,oro.mailchimp.emailcampaign.positive.label,Tích cực,Positive,0
 messages,oro.mailchimp.emailcampaign.sendTime.label,Gửi thời gian,Send Time,0
 messages,oro.mailchimp.emailcampaign.sendTime.tooltip,Số lượng chiến dịch địa chỉ email đã được gửi đến.,Number of email addresses campaign was sent to.,0
-messages,oro.mailchimp.emailcampaign.softBounces.label,Bounce mềm,Soft Bounces,0
-messages,oro.mailchimp.emailcampaign.softBounces.tooltip,Số lượng địa chỉ email trong chiến dịch mềm bị trả lại.,Number of email addresses in campaign that soft bounced.,0
+messages,oro.mailchimp.emailcampaign.softBounces.label,Hỏng nhẹ,Soft Bounces,0
+messages,oro.mailchimp.emailcampaign.softBounces.tooltip,Số lượng địa chỉ email hỏng nhẹ trong chiến dịch.,Number of email addresses in campaign that soft bounced.,0
 messages,oro.mailchimp.emailcampaign.start_receive_activities.label,Bật Cập nhật hoạt động,Enable Activities Update,0
 messages,oro.mailchimp.emailcampaign.statistics.label,Thống kê Mailchimp,Mailchimp Statistics,0
 messages,oro.mailchimp.emailcampaign.status.label,Trạng thái,Status,0
@@ -10042,7 +10042,7 @@ messages,oro.mailchimp.subscriberslist.created_at.label,Được tạo lúc,Crea
 messages,oro.mailchimp.subscriberslist.default_from_email.label,Mặc định từ email,Default From Email,0
 messages,oro.mailchimp.subscriberslist.default_from_name.label,Tên mặc định,Default From Name,0
 messages,oro.mailchimp.subscriberslist.default_language.label,Ngôn ngữ mặc định,Default Language,0
-messages,oro.mailchimp.subscriberslist.default_subject.label,Chủ đề mặc định,Default Subject,0
+messages,oro.mailchimp.subscriberslist.default_subject.label,Tiêu đề mặc định,Default Subject,0
 messages,oro.mailchimp.subscriberslist.email_type_option.label,Tùy chọn loại email,Email Type Option,0
 messages,oro.mailchimp.subscriberslist.entity_label,Danh sách người đăng ký MailChimp,MailChimp Subscribers List,0
 messages,oro.mailchimp.subscriberslist.entity_plural_label,Danh sách người đăng ký MailChimp,MailChimp Subscribers Lists,0
@@ -10119,13 +10119,13 @@ messages,oro.marketingactivity.related_campaign_id.label,Id chiến dịch có l
 messages,oro.marketingactivity.sections.marketingactivities,Hoạt động tiếp thị,Marketing Activity,0
 messages,oro.marketingactivity.summary.click.label,Nhấp chuột,Click,0
 messages,oro.marketingactivity.summary.forward.label,Phía trước,Forward,0
-messages,oro.marketingactivity.summary.hard_bounce.label,Khó trả lại,Hard Bounce,0
+messages,oro.marketingactivity.summary.hard_bounce.label,Hỏng nặng,Hard Bounce,0
 messages,oro.marketingactivity.summary.label,Tóm tắt hoạt động tiếp thị,Marketing Activity Summary,0
 messages,oro.marketingactivity.summary.open.label,Mở,Open,0
 messages,oro.marketingactivity.summary.send.label,Gửi,Send,0
-messages,oro.marketingactivity.summary.soft_bounce.label,Soft Bounce,Soft Bounce,0
+messages,oro.marketingactivity.summary.soft_bounce.label,Hỏng nhẹ,Soft Bounce,0
 messages,oro.marketingactivity.summary.unsubscribe.label,Hủy đăng ký,Unsubscribe,0
-messages,oro.marketingactivity.type.description,"Loại hoạt động tiếp thị (nhấp, mở, gửi, hủy đăng ký, soft_bunce, hard_bounce).","The marketing activity type (click, open, send, unsubscribe, soft_bunce, hard_bounce).",0
+messages,oro.marketingactivity.type.description,"Loại hoạt động tiếp thị (nhấp, mở, gửi, hủy đăng ký, hỏng nặng, hỏng nhẹ).","The marketing activity type (click, open, send, unsubscribe, soft_bunce, hard_bounce).",0
 messages,oro.marketingactivity.type.label,Kiểu,Type,0
 messages,oro.marketingactivity.view_campaign.label,Xem chiến dịch,View Campaign,0
 messages,oro.marketinglist.action.remove,Tẩy,Remove,0
@@ -10361,7 +10361,7 @@ messages,oro.notification.massnotification.sender.label,Từ,From,0
 messages,oro.notification.massnotification.status.failed,Thất bại,Failed,0
 messages,oro.notification.massnotification.status.label,Trạng thái,Status,0
 messages,oro.notification.massnotification.status.success,Sự thành công,Success,0
-messages,oro.notification.massnotification.subject.label,Môn học,Subject,0
+messages,oro.notification.massnotification.subject.label,Tiêu đề,Subject,0
 messages,oro.notification.menu.emailnotification_list.description,Danh sách thông báo qua email,List of email notifications,0
 messages,oro.notification.system_configuration.email_notification_sender_email,Email người gửi,Sender Email,0
 messages,oro.notification.system_configuration.email_notification_sender_name,Tên người gửi,Sender Name,0
@@ -10440,14 +10440,14 @@ messages,oro.query_designer.aggregates.identifier.Count.hint,Số hạng mục,N
 messages,oro.query_designer.aggregates.identifier.Count.name,Đếm,Count,0
 messages,oro.query_designer.aggregates.marketing_activity_type.ClickCount.hint,Số lượng mục 'click',Number of 'click' items,0
 messages,oro.query_designer.aggregates.marketing_activity_type.ClickCount.name,Số lần nhấp,Click Count,0
-messages,oro.query_designer.aggregates.marketing_activity_type.HardBounceCount.hint,Số lượng mục 'nảy cứng',Number of 'hard bounce' items,0
-messages,oro.query_designer.aggregates.marketing_activity_type.HardBounceCount.name,Số lượng nảy cứng,Hard Bounce Count,0
+messages,oro.query_designer.aggregates.marketing_activity_type.HardBounceCount.hint,Số lượng mục hỏng nặng,Number of 'hard bounce' items,0
+messages,oro.query_designer.aggregates.marketing_activity_type.HardBounceCount.name,Số lượng hỏng nặng,Hard Bounce Count,0
 messages,oro.query_designer.aggregates.marketing_activity_type.OpenCount.hint,Số lượng mục 'mở',Number of 'open' items,0
 messages,oro.query_designer.aggregates.marketing_activity_type.OpenCount.name,Số lượng mở,Open Count,0
 messages,oro.query_designer.aggregates.marketing_activity_type.SendCount.hint,Số lượng các mục 'gửi',Number of 'send' items,0
 messages,oro.query_designer.aggregates.marketing_activity_type.SendCount.name,Gửi số lượng,Send Count,0
-messages,oro.query_designer.aggregates.marketing_activity_type.SoftBounceCount.hint,Số mục 'nảy mềm',Number of 'soft bounce' items,0
-messages,oro.query_designer.aggregates.marketing_activity_type.SoftBounceCount.name,Số lượng nảy mềm,Soft Bounce Count,0
+messages,oro.query_designer.aggregates.marketing_activity_type.SoftBounceCount.hint,Số mục hỏng nhẹ,Number of 'soft bounce' items,0
+messages,oro.query_designer.aggregates.marketing_activity_type.SoftBounceCount.name,Số lượng hỏng nhẹ,Soft Bounce Count,0
 messages,oro.query_designer.aggregates.marketing_activity_type.UnsubscribeCount.hint,Số lượng mục 'hủy đăng ký',Number of 'unsubscribe' items,0
 messages,oro.query_designer.aggregates.marketing_activity_type.UnsubscribeCount.name,Số đăng ký hủy đăng ký,Unsubscribe Count,0
 messages,oro.query_designer.aggregates.number.Avg.hint,Giá trị trung bình,Average of values,0
@@ -10528,7 +10528,7 @@ messages,oro.reminder.sender.label,Người gửi,Sender,0
 messages,oro.reminder.sent_at.label,Đã gửi vào,Sent At,0
 messages,oro.reminder.start_at.label,Bắt đầu lúc,Start At,0
 messages,oro.reminder.state.label,Tiểu bang,State,0
-messages,oro.reminder.subject.label,Môn học,Subject,0
+messages,oro.reminder.subject.label,Tiêu đề,Subject,0
 messages,oro.report.action.view_sql.label,Xem truy vấn SQL của một báo cáo / phân đoạn,View SQL query of a report/segment,0
 messages,oro.report.chart_options.label,Tùy chọn biểu đồ,Chart Options,0
 messages,oro.report.datagrid.column.entity,Thực thể,Entity,0
@@ -11192,7 +11192,7 @@ messages,oro.task.saved_message,Đã lưu tác vụ,Task saved,0
 messages,oro.task.status.description,"Trạng thái của bản ghi (Mở, Đang tiến hành hoặc Đã đóng).","The status of the record (Open, In progress or Closed).",0
 messages,oro.task.status.label,Trạng thái,Status,0
 messages,oro.task.subject.description,Tóm tắt ngắn gọn về hồ sơ công việc.,Short summary of the task record.,0
-messages,oro.task.subject.label,Môn học,Subject,0
+messages,oro.task.subject.label,Tiêu đề,Subject,0
 messages,oro.task.task_priority.description,"Ưu tiên được đặt cho tác vụ (Thấp, Bình thường, Cao).","The priority set for the task (Low, Normal, High).",0
 messages,oro.task.task_priority.label,Sự ưu tiên,Priority,0
 messages,oro.task.taskpriority.entity_description,"Ưu tiên được đặt cho tác vụ (Thấp, Bình thường, Cao).","The priority set for the task (Low, Normal, High).",0
@@ -11996,7 +11996,7 @@ messages,oro.zendesk.ticket.requester.label,Người yêu cầu,Requester,0
 messages,oro.zendesk.ticket.status.description,Trạng thái vé Zendesk.,A Zendesk ticket status.,0
 messages,oro.zendesk.ticket.status.label,Trạng thái,Status,0
 messages,oro.zendesk.ticket.subject.description,"Một mô tả ngắn gọn, đơn dòng về vé Zendesk là gì.","A short, single line description of what is a Zendesk ticket about.",0
-messages,oro.zendesk.ticket.subject.label,Môn học,Subject,0
+messages,oro.zendesk.ticket.subject.label,Tiều đề,Subject,0
 messages,oro.zendesk.ticket.submitter.description,Một người dùng Zendesk đã tạo một vé.,A Zendesk user who created a ticket.,0
 messages,oro.zendesk.ticket.submitter.label,Người nộp,Submitter,0
 messages,oro.zendesk.ticket.type.description,Một loại vé Zendesk.,A Zendesk ticket type.,0
@@ -12149,7 +12149,7 @@ messages,Start Date,Ngày bắt đầu,Start Date,0
 messages,Status,Trạng thái,Status,0
 messages,Step,Bậc thang,Step,0
 messages,Step information saved,Đã lưu thông tin bước,Step information saved,0
-messages,Subject,Môn học,Subject,0
+messages,Subject,Tiêu đề,Subject,0
 messages,Submit,Gửi đi,Submit,0
 messages,System,Hệ thống,System,0
 messages,There are no transitions yet.,Chưa có chuyển tiếp nào.,There are no transitions yet.,0
