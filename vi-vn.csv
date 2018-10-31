@@ -5965,7 +5965,7 @@ messages,oro.account.widgets.magento_channel,Kênh Magento,Magento Channel,0
 messages,oro.action.clone,Sao chép,Clone,0
 messages,oro.action.clone.error,Nhân bản sao chép không thành công.,Cloning entity failed.,0
 messages,oro.action.clone.label,Bản sao của {label},Copy of {label},0
-messages,oro.action.clone.success,Pháp nhân nhân bản thành công.,Entity cloned successfully.,0
+messages,oro.action.clone.success,Thực thể nhân bản thành công.,Entity cloned successfully.,0
 messages,oro.action.clone_entity,Sao chép,Clone,0
 messages,oro.action.delete,Xóa bỏ,Delete,0
 messages,oro.action.delete_confirm,Bạn có chắc chắn muốn xóa %entityLabel% này không?,Are you sure you want to delete this %entityLabel%?,0
@@ -8079,7 +8079,7 @@ messages,oro.entity_config.controller.attribute_family.message.update,Đã cập
 messages,oro.entity_config.controller.config_entity.message.saved,Đã lưu thực thể,Entity saved,0
 messages,oro.entity_config.controller.config_entity.message.update,Đã cập nhật giản đồ,Schema updated,0
 messages,oro.entity_config.controller.config_field.message.saved,Đã lưu trường,Field saved,0
-messages,oro.entity_config.entity.information.label,Thông tin pháp nhân,Entity Information,0
+messages,oro.entity_config.entity.information.label,Thông tin thực thể,Entity Information,0
 messages,oro.entity_config.entity.plural_label,Thực thể,Entities,0
 messages,oro.entity_config.entity.unique.label,Khóa duy nhất,Unique Keys,0
 messages,oro.entity_config.entity_config.attribute.field.items.enabled,Đã bật,Enabled,0
@@ -8116,7 +8116,7 @@ messages,oro.entity_config.menu.entity_management.label,Quản lý thực thể,
 messages,oro.entity_config.sections.attribute_family.attributes,Thuộc tính,Attributes,0
 messages,oro.entity_config.sections.attribute_family.settings,Cài đặt,Settings,0
 messages,oro.entity_extend.action.apply_attribute_schema_changes,Áp dụng thay đổi thuộc tính,Apply attributes changes,0
-messages,oro.entity_extend.action.apply_changes,Áp dụng các thay đổi về entityconfig,Apply entityconfig changes,0
+messages,oro.entity_extend.action.apply_changes,Áp dụng các thay đổi về cấu hình thực thể,Apply entityconfig changes,0
 messages,oro.entity_extend.action.config_entity_grid.create,Tạo thực thể tùy chỉnh,Create custom entity,0
 messages,oro.entity_extend.action.config_entity_grid.remove,Xóa thực thể tùy chỉnh,Remove custom entity,0
 messages,oro.entity_extend.action.config_entity_grid.unique,Các khóa duy nhất của thực thể duy nhất,Unique entity unique keys,0
@@ -8136,14 +8136,14 @@ messages,oro.entity_extend.controller.config_field.message.restored,Đã khôi p
 messages,oro.entity_extend.controller.config_field.message.saved,Đã lưu trường,Field saved,0
 messages,oro.entity_extend.datagrid.dictionary.filter.empty,khỏi,None,0
 messages,oro.entity_extend.datagrid.enum.filter.empty,khỏi,None,0
-messages,oro.entity_extend.entity_config.extend.entity.grid_action.remove,Tẩy,Remove,0
+messages,oro.entity_extend.entity_config.extend.entity.grid_action.remove,Loại bỏ,Remove,0
 messages,oro.entity_extend.entity_config.extend.entity.grid_action.restore,Khôi phục,Restore,0
 messages,oro.entity_extend.entity_config.extend.entity.items.is_deleted,Đã xóa,Deleted,0
 messages,oro.entity_extend.entity_config.extend.entity.items.is_extend,Mở rộng,Is Extend,0
 messages,oro.entity_extend.entity_config.extend.entity.items.owner,Kiểu,Type,0
 messages,oro.entity_extend.entity_config.extend.entity.items.state,Trạng thái lược đồ,Schema status,0
 messages,oro.entity_extend.entity_config.extend.entity.layout_action.create_entity,Tạo thực thể,Create entity,0
-messages,oro.entity_extend.entity_config.extend.field.grid_action.remove,Tẩy,Remove,0
+messages,oro.entity_extend.entity_config.extend.field.grid_action.remove,Loại bỏ,Remove,0
 messages,oro.entity_extend.entity_config.extend.field.grid_action.restore,Khôi phục,Restore,0
 messages,oro.entity_extend.entity_config.extend.field.items.bidirectional,Hai chiều,Bidirectional,0
 messages,oro.entity_extend.entity_config.extend.field.items.is_deleted,Đã xóa,Deleted,0
@@ -8155,7 +8155,7 @@ messages,oro.entity_extend.entity_config.extend.field.items.state,Trạng thái 
 messages,oro.entity_extend.entity_config.extend.field.layout_action.create_field,Tạo trường,Create field,0
 messages,oro.entity_extend.entity_config.extend.field.layout_action.manage_unique_keys,Quản lý khóa duy nhất,Manage unique keys,0
 messages,oro.entity_extend.entity_config.extend.field.layout_action.update_schema,Cập nhật lược đồ,Update schema,0
-messages,oro.entity_extend.entity_config.search.entity.items.searchable.tooltip,Thực thể sẽ xuất hiện trong kết quả tìm kiếm sau khi hoàn thành công việc reindex có thể mất chút thời gian.,The entity will appear in search results after the completion of reindex job that might take some time.,0
+messages,oro.entity_extend.entity_config.search.entity.items.searchable.tooltip,Thực thể sẽ xuất hiện trong kết quả tìm kiếm sau khi hoàn thành công việc đánh lại chỉ mục (reindex) có thể mất chút thời gian.,The entity will appear in search results after the completion of reindex job that might take some time.,0
 messages,oro.entity_extend.entity_config.search.field.items.searchable,Có thể tìm kiếm,Searchable,0
 messages,oro.entity_extend.entity_config.search.field.items.searchable.tooltip,Trường sẽ xuất hiện trong kết quả tìm kiếm sau khi hoàn thành công việc reindex có thể mất chút thời gian.,The field will appear in search results after the completion of reindex job that might take some time.,0
 messages,oro.entity_extend.entity_config.search.field.items.title_field,Tiêu đề kết quả tìm kiếm (không được chấp nhận),The search result title (deprecated),0
@@ -8169,8 +8169,8 @@ messages,oro.entity_extend.enum_options.tooltip,Một số tùy chọn có thể
 messages,oro.entity_extend.enum_public,Công cộng,Public,0
 messages,oro.entity_extend.enum_public.tooltip,Bộ tùy chọn công khai có thể được sử dụng lại trong các thực thể khác.,Public option sets can be reused in other entities.,0
 messages,oro.entity_extend.form.data_type.array,Nhị phân (Mảng),Binary (Array),0
-messages,oro.entity_extend.form.data_type.bigint,BigInt,BigInt,0
-messages,oro.entity_extend.form.data_type.boolean,Boolean,Boolean,0
+messages,oro.entity_extend.form.data_type.bigint,Số nguyên (lớn),BigInt,0
+messages,oro.entity_extend.form.data_type.boolean,Có/Không,Boolean,0
 messages,oro.entity_extend.form.data_type.choose_value,Chọn loại trường ...,Choose a field type...,0
 messages,oro.entity_extend.form.data_type.currency,Tiền tệ,Currency,0
 messages,oro.entity_extend.form.data_type.date,Ngày,Date,0
@@ -8179,7 +8179,7 @@ messages,oro.entity_extend.form.data_type.decimal,Thập phân,Decimal,0
 messages,oro.entity_extend.form.data_type.duration,Thời lượng,Duration,0
 messages,oro.entity_extend.form.data_type.enum,Lựa chọn,Select,0
 messages,oro.entity_extend.form.data_type.file,Tập tin,File,0
-messages,oro.entity_extend.form.data_type.float,Phao,Float,0
+messages,oro.entity_extend.form.data_type.float,Số thập phân,Float,0
 messages,oro.entity_extend.form.data_type.html_escaped,HTML,HTML,0
 messages,oro.entity_extend.form.data_type.image,Hình ảnh,Image,0
 messages,oro.entity_extend.form.data_type.integer,Số nguyên,Integer,0
@@ -8197,11 +8197,11 @@ messages,oro.entity_extend.form.data_type.percent,Phần trăm,Percent,0
 messages,oro.entity_extend.form.data_type.ref-many,Quan hệ hệ thống,System relation,0
 messages,oro.entity_extend.form.data_type.ref-one,Quan hệ hệ thống,System relation,0
 messages,oro.entity_extend.form.data_type.simple_array,Nhị phân (mảng đơn giản),Binary (Simple array),0
-messages,oro.entity_extend.form.data_type.smallint,SmallInt,SmallInt,0
+messages,oro.entity_extend.form.data_type.smallint,Số nguyên (nhỏ),SmallInt,0
 messages,oro.entity_extend.form.data_type.string,Chuỗi,String,0
 messages,oro.entity_extend.form.data_type.text,Bản văn,Text,0
 messages,oro.entity_extend.form.data_type.time,Thời gian,Time,0
-messages,oro.entity_extend.form.data_type_group.fields,Lĩnh vực,Fields,0
+messages,oro.entity_extend.form.data_type_group.fields,Trường,Fields,0
 messages,oro.entity_extend.form.data_type_group.relations,Quan hệ,Relations,0
 messages,oro.entity_extend.form.field_name.label,Tên trường,Field name,0
 messages,oro.entity_extend.form.key.label,Khóa,Key,0
@@ -8252,21 +8252,21 @@ messages,oro.entityconfig.attribute.entity.attributefamily.attribute_groups.labe
 messages,oro.entityconfig.attribute.entity.attributefamily.code.description,Mã của họ thuộc tính.,The code of the attribute family.,0
 messages,oro.entityconfig.attribute.entity.attributefamily.code.label,Mã số,Code,0
 messages,oro.entityconfig.attribute.entity.attributefamily.entity_class.description,Lớp thực thể của họ thuộc tính.,The entity class of the attribute family.,0
-messages,oro.entityconfig.attribute.entity.attributefamily.entity_class.label,AttributeFamily,AttributeFamily,0
+messages,oro.entityconfig.attribute.entity.attributefamily.entity_class.label,Họ thuộc tính,AttributeFamily,0
 messages,oro.entityconfig.attribute.entity.attributefamily.entity_description,"Họ sản phẩm là tập hợp các <a href=""https://www.oroinc.com/doc/orocommerce/current/user-guide/products/product-families#products-product-families"">thuộc tính sản phẩm</a> đủ để lưu trữ thông tin đầy đủ về các sản phẩm có loại tương tự (ví dụ: thuộc tính TV và thuộc tính áo phông). Trong họ sản phẩm, các thuộc tính được tổ chức thành các nhóm thuộc tính được hiển thị dưới dạng các phần có tiêu đề trên cửa hàng phía trước OroCommerce.","A product family is a set of the <a href=""https://www.oroinc.com/doc/orocommerce/current/user-guide/products/product-families#products-product-families"">product attributes</a> that are enough to store complete information about the products of a similar type (e.g., TV attributes vs T-shirts attributes). In the product family, attributes are organized into attribute groups that are displayed as titled sections on the OroCommerce front store.",0
 messages,oro.entityconfig.attribute.entity.attributefamily.entity_label,Họ sản phẩm,Product Family,0
 messages,oro.entityconfig.attribute.entity.attributefamily.entity_plural_label,Họ sản phẩm,Product Families,0
 messages,oro.entityconfig.attribute.entity.attributefamily.id.label,ID,ID,0
 messages,oro.entityconfig.attribute.entity.attributefamily.image.description,Hình ảnh của họ thuộc tính.,The image of the attribute family.,0
 messages,oro.entityconfig.attribute.entity.attributefamily.image.label,Hình ảnh,Image,0
-messages,oro.entityconfig.attribute.entity.attributefamily.is_enabled.description,Một lá cờ cho biết liệu họ thuộc tính có sẵn hay không.,A flag that says if the attribute family is available or not.,0
+messages,oro.entityconfig.attribute.entity.attributefamily.is_enabled.description,Một cờ cho biết liệu họ thuộc tính có sẵn hay không.,A flag that says if the attribute family is available or not.,0
 messages,oro.entityconfig.attribute.entity.attributefamily.is_enabled.label,Được kích hoạt,Is enabled,0
 messages,oro.entityconfig.attribute.entity.attributefamily.labels.description,Nhãn của họ thuộc tính.,The labels of the attribute family.,0
 messages,oro.entityconfig.attribute.entity.attributefamily.labels.label,Nhãn,Labels,0
 messages,oro.entityconfig.attribute.entity.attributefamily.organization.label,Cơ quan,Organization,0
 messages,oro.entityconfig.attribute.entity.attributefamily.owner.label,Chủ nhân,Owner,0
 messages,oro.entityextend.enums.lead_source.entity_description,Trình bày danh sách tất cả các nguồn khách hàng tiềm năng,Represents a list of all lead sources,0
-messages,oro.entityextend.enums.lead_source.entity_label,Nguôn dân,Lead Source,0
+messages,oro.entityextend.enums.lead_source.entity_label,Nguồn khách hàng tiềm năng,Lead Source,0
 messages,oro.entityextend.enums.lead_source.entity_plural_label,Nguồn khách hàng tiềm năng,Lead Sources,0
 messages,oro.entityextend.enumvalue.default.description,Xác định xem tùy chọn này có được chọn theo mặc định cho các bản ghi mới hay không,Determines if this option is selected by default for new records,0
 messages,oro.entityextend.enumvalue.default.label,Mặc định,Is Default,0
@@ -8281,7 +8281,7 @@ messages,oro.filter.form.label_date_part.day,ngày trong tháng,day of month,0
 messages,oro.filter.form.label_date_part.dayofweek,ngày trong tuần,day of week,0
 messages,oro.filter.form.label_date_part.dayofyear,ngày trong năm,day of year,0
 messages,oro.filter.form.label_date_part.month,tháng,month,0
-messages,oro.filter.form.label_date_part.quarter,phần tư,quarter,0
+messages,oro.filter.form.label_date_part.quarter,quý,quarter,0
 messages,oro.filter.form.label_date_part.source,nguồn,source,0
 messages,oro.filter.form.label_date_part.value,giá trị,value,0
 messages,oro.filter.form.label_date_part.week,tuần,week,0
@@ -8346,37 +8346,37 @@ messages,oro.form.color.bold_blue,Màu xanh đậm,Bold blue,0
 messages,oro.form.color.bold_green,Màu xanh đậm,Bold green,0
 messages,oro.form.color.bold_red,Đỏ đậm,Bold red,0
 messages,oro.form.color.custom,Tự phối màu...,Custom color...,0
-messages,oro.form.color.gray,Xám,Gray,0
-messages,oro.form.color.green,màu xanh lá,Green,0
-messages,oro.form.color.orange,trái cam,Orange,0
+messages,oro.form.color.gray,Màu xám,Gray,0
+messages,oro.form.color.green,Màu xanh lá,Green,0
+messages,oro.form.color.orange,Màu cam,Orange,0
 messages,oro.form.color.purple,Màu tím,Purple,0
 messages,oro.form.color.red,Màu đỏ,Red,0
 messages,oro.form.color.turquoise,Màu ngọc lam,Turquoise,0
 messages,oro.form.color.yellow,Màu vàng,Yellow,0
-messages,oro.form.custom_value,Tập quán,Custom,0
+messages,oro.form.custom_value,Tùy biến,Custom,0
 messages,oro.form.icon_select.adjust,điều chỉnh,adjust,0
 messages,oro.form.icon_select.anchor,mỏ neo,anchor,0
 messages,oro.form.icon_select.archive,lưu trữ,archive,0
 messages,oro.form.icon_select.asterisk,dấu hoa thị,asterisk,0
-messages,oro.form.icon_select.ban-circle,cấm vòng tròn,ban circle,0
+messages,oro.form.icon_select.ban-circle,vòng tròn cấm,ban circle,0
 messages,oro.form.icon_select.bar-chart,biểu đồ thanh,bar chart,0
 messages,oro.form.icon_select.barcode,mã vạch,barcode,0
 messages,oro.form.icon_select.beaker,cốc thủy tinh,beaker,0
 messages,oro.form.icon_select.beer,bia,beer,0
 messages,oro.form.icon_select.bell,chuông,bell,0
-messages,oro.form.icon_select.bell-alt,chuông alt,bell alt,0
-messages,oro.form.icon_select.bolt,chớp,bolt,0
-messages,oro.form.icon_select.book,sách,book,0
+messages,oro.form.icon_select.bell-alt,chuông khác,bell alt,0
+messages,oro.form.icon_select.bolt,sấm chớp,bolt,0
+messages,oro.form.icon_select.book,cuốn sách,book,0
 messages,oro.form.icon_select.bookmark,đánh dấu trang,bookmark,0
 messages,oro.form.icon_select.bookmark-empty,dấu trang trống,bookmark empty,0
 messages,oro.form.icon_select.briefcase,cái cặp,briefcase,0
-messages,oro.form.icon_select.bug,lỗi,bug,0
-messages,oro.form.icon_select.building,Tòa nhà,building,0
-messages,oro.form.icon_select.bullhorn,bullhorn,bullhorn,0
-messages,oro.form.icon_select.bullseye,bullseye,bullseye,0
+messages,oro.form.icon_select.bug,lỗi bọ,bug,0
+messages,oro.form.icon_select.building,tòa nhà,building,0
+messages,oro.form.icon_select.bullhorn,cái loa tay,bullhorn,0
+messages,oro.form.icon_select.bullseye,hồng tâm,bullseye,0
 messages,oro.form.icon_select.calendar,lịch,calendar,0
 messages,oro.form.icon_select.calendar-empty,lịch trống,calendar empty,0
-messages,oro.form.icon_select.camera,Máy ảnh,camera,0
+messages,oro.form.icon_select.camera,máy ảnh,camera,0
 messages,oro.form.icon_select.camera-retro,máy ảnh retro,camera retro,0
 messages,oro.form.icon_select.certificate,chứng chỉ,certificate,0
 messages,oro.form.icon_select.check,kiểm tra,check,0
@@ -8389,58 +8389,58 @@ messages,oro.form.icon_select.cloud,đám mây,cloud,0
 messages,oro.form.icon_select.cloud-download,tải xuống đám mây,cloud download,0
 messages,oro.form.icon_select.cloud-upload,tải lên đám mây,cloud upload,0
 messages,oro.form.icon_select.code,mã,code,0
-messages,oro.form.icon_select.code-fork,mã ngã ba,code fork,0
+messages,oro.form.icon_select.code-fork,mã tách ra,code fork,0
 messages,oro.form.icon_select.coffee,cà phê,coffee,0
 messages,oro.form.icon_select.cog,răng cưa,cog,0
 messages,oro.form.icon_select.cogs,bánh răng,cogs,0
-messages,oro.form.icon_select.collapse,sự sụp đổ,collapse,0
-messages,oro.form.icon_select.collapse-alt,sụp đổ alt,collapse alt,0
-messages,oro.form.icon_select.collapse-top,thu gọn đầu,collapse top,0
+messages,oro.form.icon_select.collapse,thu vào,collapse,0
+messages,oro.form.icon_select.collapse-alt,thu vào khác,collapse alt,0
+messages,oro.form.icon_select.collapse-top,thu vào đầu,collapse top,0
 messages,oro.form.icon_select.comment,bình luận,comment,0
-messages,oro.form.icon_select.comment-alt,nhận xét alt,comment alt,0
+messages,oro.form.icon_select.comment-alt,bình luận khác,comment alt,0
 messages,oro.form.icon_select.comments,bình luận,comments,0
-messages,oro.form.icon_select.comments-alt,nhận xét alt,comments alt,0
+messages,oro.form.icon_select.comments-alt,bình luận khác,comments alt,0
 messages,oro.form.icon_select.compass,la bàn,compass,0
 messages,oro.form.icon_select.credit-card,thẻ tín dụng,credit card,0
-messages,oro.form.icon_select.crop,mùa vụ,crop,0
+messages,oro.form.icon_select.crop,xén,crop,0
 messages,oro.form.icon_select.dashboard,trang tổng quan,dashboard,0
 messages,oro.form.icon_select.desktop,máy tính để bàn,desktop,0
 messages,oro.form.icon_select.download,tải về,download,0
-messages,oro.form.icon_select.download-alt,tải xuống alt,download alt,0
+messages,oro.form.icon_select.download-alt,tải về khác,download alt,0
 messages,oro.form.icon_select.edit,chỉnh sửa,edit,0
-messages,oro.form.icon_select.edit-sign,chỉnh sửa dấu hiệu,edit sign,0
+messages,oro.form.icon_select.edit-sign,dấu hiệu chỉnh sửa,edit sign,0
 messages,oro.form.icon_select.ellipsis-horizontal,dấu ba chấm ngang,ellipsis horizontal,0
-messages,oro.form.icon_select.ellipsis-vertical,hình elip dọc,ellipsis vertical,0
+messages,oro.form.icon_select.ellipsis-vertical,dấu ba chấm dọc,ellipsis vertical,0
 messages,oro.form.icon_select.envelope,phong bì,envelope,0
-messages,oro.form.icon_select.envelope-alt,phong bì alt,envelope alt,0
+messages,oro.form.icon_select.envelope-alt,phong bì khác,envelope alt,0
 messages,oro.form.icon_select.eraser,cục gôm,eraser,0
 messages,oro.form.icon_select.exchange,"trao đổi, giao dịch",exchange,0
 messages,oro.form.icon_select.exclamation,cảm thán,exclamation,0
 messages,oro.form.icon_select.exclamation-sign,dấu chấm than,exclamation sign,0
 messages,oro.form.icon_select.expand,mở rộng,expand,0
-messages,oro.form.icon_select.expand-alt,mở rộng alt,expand alt,0
-messages,oro.form.icon_select.external-link,Liên kết bên ngoài,external link,0
+messages,oro.form.icon_select.expand-alt,mở rộng khác,expand alt,0
+messages,oro.form.icon_select.external-link,liên kết bên ngoài,external link,0
 messages,oro.form.icon_select.external-link-sign,dấu hiệu liên kết bên ngoài,external link sign,0
 messages,oro.form.icon_select.eye-close,mắt nhắm,eye close,0
 messages,oro.form.icon_select.eye-open,mắt mở,eye open,0
 messages,oro.form.icon_select.facetime-video,video thời gian,facetime video,0
-messages,oro.form.icon_select.female,giống cái,female,0
+messages,oro.form.icon_select.female,nữ giới,female,0
 messages,oro.form.icon_select.fighter-jet,máy bay chiến đấu phản lực,fighter jet,0
 messages,oro.form.icon_select.film,phim ảnh,film,0
 messages,oro.form.icon_select.filter,bộ lọc,filter,0
 messages,oro.form.icon_select.fire,ngọn lửa,fire,0
 messages,oro.form.icon_select.fire-extinguisher,bình cứu hỏa,fire extinguisher,0
 messages,oro.form.icon_select.flag,cờ,flag,0
-messages,oro.form.icon_select.flag-alt,cờ alt,flag alt,0
-messages,oro.form.icon_select.flag-checkered,cờ rô,flag checkered,0
+messages,oro.form.icon_select.flag-alt,cờ khác,flag alt,0
+messages,oro.form.icon_select.flag-checkered,cờ ca rô,flag checkered,0
 messages,oro.form.icon_select.folder-close,thư mục đóng,folder close,0
-messages,oro.form.icon_select.folder-close-alt,thư mục đóng alt,folder close alt,0
+messages,oro.form.icon_select.folder-close-alt,thư mục đóng khác,folder close alt,0
 messages,oro.form.icon_select.folder-open,thư mục mở,folder open,0
-messages,oro.form.icon_select.folder-open-alt,thư mục mở alt,folder open alt,0
+messages,oro.form.icon_select.folder-open-alt,thư mục mở khác,folder open alt,0
 messages,oro.form.icon_select.food,món ăn,food,0
 messages,oro.form.icon_select.frown,nhăn mặt,frown,0
-messages,oro.form.icon_select.gamepad,gamepad,gamepad,0
-messages,oro.form.icon_select.gear,Hộp số,gear,0
+messages,oro.form.icon_select.gamepad,tay bấm game,gamepad,0
+messages,oro.form.icon_select.gear,bánh răng,gear,0
 messages,oro.form.icon_select.gears,bánh răng,gears,0
 messages,oro.form.icon_select.gift,quà tặng,gift,0
 messages,oro.form.icon_select.glass,ly,glass,0
@@ -8454,38 +8454,38 @@ messages,oro.form.icon_select.home,nhà,home,0
 messages,oro.form.icon_select.inbox,hộp thư đến,inbox,0
 messages,oro.form.icon_select.info,thông tin,info,0
 messages,oro.form.icon_select.info-sign,dấu hiệu thông tin,info sign,0
-messages,oro.form.icon_select.key,Khóa,key,0
+messages,oro.form.icon_select.key,khóa,key,0
 messages,oro.form.icon_select.keyboard,bàn phím,keyboard,0
 messages,oro.form.icon_select.laptop,máy tính xách tay,laptop,0
 messages,oro.form.icon_select.leaf,lá,leaf,0
 messages,oro.form.icon_select.legal,hợp pháp,legal,0
-messages,oro.form.icon_select.lemon,Chanh,lemon,0
+messages,oro.form.icon_select.lemon,chanh,lemon,0
 messages,oro.form.icon_select.level-down,hạ cấp,level down,0
 messages,oro.form.icon_select.level-up,lên cấp,level up,0
 messages,oro.form.icon_select.lightbulb,bóng đèn,lightbulb,0
-messages,oro.form.icon_select.list-alt,danh sách alt,list alt,0
+messages,oro.form.icon_select.list-alt,danh sách khác,list alt,0
 messages,oro.form.icon_select.location-arrow,mũi tên vị trí,location arrow,0
-messages,oro.form.icon_select.lock,Khóa,lock,0
+messages,oro.form.icon_select.lock,khóa,lock,0
 messages,oro.form.icon_select.magic,ma thuật,magic,0
 messages,oro.form.icon_select.magnet,nam châm,magnet,0
 messages,oro.form.icon_select.mail-forward,thư chuyển tiếp,mail forward,0
 messages,oro.form.icon_select.mail-reply,thư trả lời,mail reply,0
 messages,oro.form.icon_select.mail-reply-all,thư trả lời tất cả,mail reply all,0
-messages,oro.form.icon_select.male,Nam giới,male,0
+messages,oro.form.icon_select.male,nam giới,male,0
 messages,oro.form.icon_select.map-marker,điểm đánh dấu bản đồ,map marker,0
-messages,oro.form.icon_select.meh,meh,meh,0
+messages,oro.form.icon_select.meh,chán,meh,0
 messages,oro.form.icon_select.microphone,micrô,microphone,0
 messages,oro.form.icon_select.microphone-off,tắt micrô,microphone off,0
 messages,oro.form.icon_select.minus,dấu trừ,minus,0
 messages,oro.form.icon_select.minus-sign,dấu trừ,minus sign,0
-messages,oro.form.icon_select.minus-sign-alt,dấu trừ,minus sign alt,0
+messages,oro.form.icon_select.minus-sign-alt,dấu trừ khác,minus sign alt,0
 messages,oro.form.icon_select.mobile-phone,điện thoại di động,mobile phone,0
 messages,oro.form.icon_select.money,tiền bạc,money,0
 messages,oro.form.icon_select.moon,mặt trăng,moon,0
 messages,oro.form.icon_select.move,di chuyển,move,0
-messages,oro.form.icon_select.music,Âm nhạc,music,0
+messages,oro.form.icon_select.music,âm nhạc,music,0
 messages,oro.form.icon_select.off,tắt,off,0
-messages,oro.form.icon_select.ok,được,ok,0
+messages,oro.form.icon_select.ok,ok,ok,0
 messages,oro.form.icon_select.ok-circle,vòng tròn ok,ok circle,0
 messages,oro.form.icon_select.ok-sign,dấu hiệu ok,ok sign,0
 messages,oro.form.icon_select.pencil,bút chì,pencil,0
@@ -8495,7 +8495,7 @@ messages,oro.form.icon_select.picture,hình ảnh,picture,0
 messages,oro.form.icon_select.plane,máy bay,plane,0
 messages,oro.form.icon_select.plus,thêm,plus,0
 messages,oro.form.icon_select.plus-sign,dấu cộng,plus sign,0
-messages,oro.form.icon_select.plus-sign-alt,dấu cộng,plus sign alt,0
+messages,oro.form.icon_select.plus-sign-alt,dấu cộng khác,plus sign alt,0
 messages,oro.form.icon_select.power-off,tắt nguồn,power off,0
 messages,oro.form.icon_select.print,in,print,0
 messages,oro.form.icon_select.pushpin,đinh ghim,pushpin,0
@@ -8511,7 +8511,7 @@ messages,oro.form.icon_select.remove,tẩy,remove,0
 messages,oro.form.icon_select.remove-circle,xóa vòng kết nối,remove circle,0
 messages,oro.form.icon_select.remove-sign,xóa biển báo,remove sign,0
 messages,oro.form.icon_select.reorder,sắp xếp lại,reorder,0
-messages,oro.form.icon_select.reply,Đáp lại,reply,0
+messages,oro.form.icon_select.reply,đáp lại,reply,0
 messages,oro.form.icon_select.reply-all,trả lời tất cả,reply all,0
 messages,oro.form.icon_select.resize-horizontal,thay đổi kích thước ngang,resize horizontal,0
 messages,oro.form.icon_select.resize-vertical,thay đổi kích thước dọc,resize vertical,0
@@ -8521,7 +8521,7 @@ messages,oro.form.icon_select.rocket,tên lửa,rocket,0
 messages,oro.form.icon_select.rss,rss,rss,0
 messages,oro.form.icon_select.rss-sign,dấu hiệu rss,rss sign,0
 messages,oro.form.icon_select.screenshot,ảnh chụp màn hình,screenshot,0
-messages,oro.form.icon_select.search,Tìm kiếm,search,0
+messages,oro.form.icon_select.search,tìm kiếm,search,0
 messages,oro.form.icon_select.share,chia sẻ,share,0
 messages,oro.form.icon_select.share-alt,chia sẻ alt,share alt,0
 messages,oro.form.icon_select.share-sign,dấu hiệu chia sẻ,share sign,0
@@ -8535,23 +8535,23 @@ messages,oro.form.icon_select.sitemap,sơ đồ trang web,sitemap,0
 messages,oro.form.icon_select.smile,nụ cười,smile,0
 messages,oro.form.icon_select.sort,sắp xếp,sort,0
 messages,oro.form.icon_select.sort-by-alphabet,sắp xếp theo bảng chữ cái,sort by alphabet,0
-messages,oro.form.icon_select.sort-by-alphabet-alt,sắp xếp theo bảng chữ cái alt,sort by alphabet alt,0
+messages,oro.form.icon_select.sort-by-alphabet-alt,sắp xếp theo bảng chữ cái khác,sort by alphabet alt,0
 messages,oro.form.icon_select.sort-by-attributes,sắp xếp theo thuộc tính,sort by attributes,0
-messages,oro.form.icon_select.sort-by-attributes-alt,sắp xếp theo thuộc tính alt,sort by attributes alt,0
+messages,oro.form.icon_select.sort-by-attributes-alt,sắp xếp theo thuộc tính khác,sort by attributes alt,0
 messages,oro.form.icon_select.sort-by-order,sắp xếp theo thứ tự,sort by order,0
-messages,oro.form.icon_select.sort-by-order-alt,sắp xếp theo thứ tự alt,sort by order alt,0
-messages,oro.form.icon_select.sort-down,sắp xếp,sort down,0
-messages,oro.form.icon_select.sort-up,sắp xếp,sort up,0
-messages,oro.form.icon_select.spinner,spinner,spinner,0
+messages,oro.form.icon_select.sort-by-order-alt,sắp xếp theo thứ tự khác,sort by order alt,0
+messages,oro.form.icon_select.sort-down,sắp xếp trên xuống,sort down,0
+messages,oro.form.icon_select.sort-up,sắp xếp dưới lên,sort up,0
+messages,oro.form.icon_select.spinner,con xoay,spinner,0
 messages,oro.form.icon_select.star,ngôi sao,star,0
-messages,oro.form.icon_select.star-empty,sao trống,star empty,0
-messages,oro.form.icon_select.star-half,sao một nửa,star half,0
-messages,oro.form.icon_select.star-half-empty,sao nửa trống,star half empty,0
-messages,oro.form.icon_select.star-half-full,sao một nửa đầy đủ,star half full,0
-messages,oro.form.icon_select.subscript,chỉ số,subscript,0
+messages,oro.form.icon_select.star-empty,ngôi sao trống,star empty,0
+messages,oro.form.icon_select.star-half,ngôi sao một nửa,star half,0
+messages,oro.form.icon_select.star-half-empty,ngôi sao nửa trống,star half empty,0
+messages,oro.form.icon_select.star-half-full,ngôi sao một nửa đầy đủ,star half full,0
+messages,oro.form.icon_select.subscript,chỉ số dưới dòng,subscript,0
 messages,oro.form.icon_select.suitcase,va li,suitcase,0
 messages,oro.form.icon_select.sun,mặt trời,sun,0
-messages,oro.form.icon_select.superscript,siêu văn bản,superscript,0
+messages,oro.form.icon_select.superscript,chỉ số trên dòng,superscript,0
 messages,oro.form.icon_select.tablet,máy tính bảng,tablet,0
 messages,oro.form.icon_select.tag,nhãn,tag,0
 messages,oro.form.icon_select.tags,thẻ,tags,0
@@ -8567,17 +8567,17 @@ messages,oro.form.icon_select.tint,màu sắc,tint,0
 messages,oro.form.icon_select.trash,rác,trash,0
 messages,oro.form.icon_select.trophy,chiếc cúp,trophy,0
 messages,oro.form.icon_select.truck,xe tải,truck,0
-messages,oro.form.icon_select.umbrella,ô,umbrella,0
+messages,oro.form.icon_select.umbrella,ô dù,umbrella,0
 messages,oro.form.icon_select.unchecked,không được đánh dấu,unchecked,0
 messages,oro.form.icon_select.unlock,mở khóa,unlock,0
-messages,oro.form.icon_select.unlock-alt,mở khóa alt,unlock alt,0
+messages,oro.form.icon_select.unlock-alt,mở khóa khác,unlock alt,0
 messages,oro.form.icon_select.upload,tải lên,upload,0
-messages,oro.form.icon_select.upload-alt,tải lên alt,upload alt,0
+messages,oro.form.icon_select.upload-alt,tải lên khác,upload alt,0
 messages,oro.form.icon_select.user,người dùng,user,0
 messages,oro.form.icon_select.volume-down,giảm âm lượng,volume down,0
-messages,oro.form.icon_select.volume-off,giảm âm lượng,volume off,0
+messages,oro.form.icon_select.volume-off,tắt tiếng,volume off,0
 messages,oro.form.icon_select.volume-up,tăng âm lượng,volume up,0
-messages,oro.form.icon_select.warning-sign,Dấu hiệu cảnh báo,warning sign,0
+messages,oro.form.icon_select.warning-sign,dấu hiệu cảnh báo,warning sign,0
 messages,oro.form.icon_select.wrench,cờ lê,wrench,0
 messages,oro.form.icon_select.zoom-in,phóng to,zoom in,0
 messages,oro.form.icon_select.zoom-out,thu nhỏ,zoom out,0
@@ -8625,9 +8625,9 @@ messages,oro.grid.system_configuration.fields.full_screen_layout_enabled.tooltip
 messages,oro.grid.system_configuration.groups.grid_settings.title,Cài đặt lưới dữ liệu,Data Grid settings,0
 messages,oro.grid.system_configuration.groups.look_and_feel.title,Thiết lập hiển thị,Display Settings,0
 messages,oro.hangoutscall.call.hangouts_call,Cuộc gọi Hangouts,Hangouts call,0
-messages,oro.hangoutscall.label,Đi chơi,Hangout,0
-messages,oro.hangoutscall.system_configuration.fields.enable_google_hangouts_for_email.label,Bật cho email,Enable for Emails,0
-messages,oro.hangoutscall.system_configuration.fields.enable_google_hangouts_for_phone.label,Bật cho điện thoại,Enable for Phones,0
+messages,oro.hangoutscall.label,Hangouts,Hangout,0
+messages,oro.hangoutscall.system_configuration.fields.enable_google_hangouts_for_email.label,Bật email,Enable for Emails,0
+messages,oro.hangoutscall.system_configuration.fields.enable_google_hangouts_for_phone.label,Bật điện thoại,Enable for Phones,0
 messages,oro.hangoutscall.system_configuration.groups.google_hangouts_settings.title,Google Hangouts,Google Hangouts,0
 messages,oro.imap.configuration.account_type.gmail,Gmail,Gmail,0
 messages,oro.imap.configuration.account_type.label,Kiểu tài khoản,Account Type,0
@@ -8678,14 +8678,14 @@ messages,oro.importexport.export.popup.options.label,Dữ liệu đã xuất,Exp
 messages,oro.importexport.export.processor,Bộ xử lý,Processor,0
 messages,oro.importexport.export_template.label,Xuất mẫu,Export template,0
 messages,oro.importexport.import.alert,"%added% %entities% đã được thêm, %updated% %entities% đã được cập nhật","%added% %entities% were added, %updated% %entities% were updated",0
-messages,oro.importexport.import.columns_notice,Tệp chỉ được phân tách bằng dấu phẩy. Các tệp chứa các trình tách khác sẽ bị từ chối.,The file must be comma-separated only. Files containing other separators will be rejected.,0
+messages,oro.importexport.import.columns_notice,Tệp chỉ được phân tách bằng dấu phẩy. Các tệp chứa các dấu phân tách khác sẽ bị từ chối.,The file must be comma-separated only. Files containing other separators will be rejected.,0
 messages,oro.importexport.import.download_error_log,Nhật ký lỗi,Error log,0
 messages,oro.importexport.import.entity,Nhập %entityName%,Import %entityName%,0
 messages,oro.importexport.import.entity_validation,Nhập xác thực %entityName%,Import %entityName% Validation,0
 messages,oro.importexport.import.error,Đã xảy ra lỗi khi nhập tệp.,Errors occurred during file import.,0
 messages,oro.importexport.import.error %number%,Lỗi trong hàng #%number%.,Error in row #%number%.,0
 messages,oro.importexport.import.errors.access_denied_entity,"Quyền truy cập bị từ chối đối với thực thể ""%entity_name%""","Access denied to entity ""%entity_name%""",0
-messages,oro.importexport.import.errors.access_denied_property_entity,"Quyền truy cập bị từ chối vào thuộc tính %property_name% của pháp nhân ""%entity_name%""","Access denied to property %property_name% of entity ""%entity_name%""",0
+messages,oro.importexport.import.errors.access_denied_property_entity,"Quyền truy cập bị từ chối vào thuộc tính %property_name% của thực thể ""%entity_name%""","Access denied to property %property_name% of entity ""%entity_name%""",0
 messages,oro.importexport.import.errors.not_found_entity,"Không tìm thấy pháp nhân ""%entity_name%""","Not found entity ""%entity_name%""",0
 messages,oro.importexport.import.errors.wrong_owner,Bạn không có quyền truy cập để đặt chủ sở hữu đã cho,You have no access to set given owner,0
 messages,oro.importexport.import.errors_found,Lỗi được tìm thấy: %errors%,Errors found: %errors%,0
@@ -8696,7 +8696,7 @@ messages,oro.importexport.import.oro_contact.add,Thêm vào,Add,0
 messages,oro.importexport.import.oro_contact.add_or_replace,Thêm và thay thế,Add and Replace,0
 messages,oro.importexport.import.oro_translation_translation.add_or_replace,Thêm và thay thế,Add and Replace,0
 messages,oro.importexport.import.oro_translation_translation.reset,Đặt lại và thêm,Reset and Add,0
-messages,oro.importexport.import.postponed_rows,Đã có %postponedRows% không thể được xử lý.,There were %postponedRows% rows that could not be proccessed.,0
+messages,oro.importexport.import.postponed_rows,Đã có %postponedRows% dòng không thể được xử lý.,There were %postponedRows% rows that could not be proccessed.,0
 messages,oro.importexport.import.strategy,Chiến lược,Strategy,0
 messages,oro.importexport.import.strategy.tooltip,<b>Chiến lược Thêm và thay thế</b> sẽ ghi đè dữ liệu hiện có bằng dữ liệu mới từ tệp được nhập.,<b>Add and Replace</b> strategy overrides the existing data with the new one from the imported file.,0
 messages,oro.importexport.import.success,Tệp đã được nhập thành công.,File was successfully imported.,0
@@ -8801,11 +8801,11 @@ messages,oro.layout.system_configuration.fields.debug_developer_toolbar.tooltip,
 messages,oro.layout.system_configuration.groups.development_layout_settings.title,Bố cục,Layouts,0
 messages,oro.layout.system_configuration.groups.development_settings.title,Cài đặt phát triển,Development Settings,0
 messages,oro.locale.address_format.region_name_type.area,khu vực,area,0
-messages,oro.locale.address_format.region_name_type.county,quận,county,0
+messages,oro.locale.address_format.region_name_type.county,huyện,county,0
 messages,oro.locale.address_format.region_name_type.department,bộ phận,department,0
-messages,oro.locale.address_format.region_name_type.district,huyện,district,0
+messages,oro.locale.address_format.region_name_type.district,quận,district,0
 messages,oro.locale.address_format.region_name_type.do_si,do_si,do_si,0
-messages,oro.locale.address_format.region_name_type.island,Đảo,island,0
+messages,oro.locale.address_format.region_name_type.island,đảo,island,0
 messages,oro.locale.address_format.region_name_type.parish,giáo xứ,parish,0
 messages,oro.locale.address_format.region_name_type.prefecture,quận,prefecture,0
 messages,oro.locale.address_format.region_name_type.province,tỉnh,province,0
@@ -8824,7 +8824,7 @@ messages,oro.locale.form.tooltip.format_address_by_address_country,"Khi tùy ch�
 messages,oro.locale.form.tooltip.language,Chọn ngôn ngữ hệ thống từ danh sách các bản dịch đã cài đặt (xem System &rarr; Localization &rarr; Languages).,Select the system language from the list of the installed translations (see System &rarr; Localization &rarr; Languages).,0
 messages,oro.locale.form.tooltip.languages,Chọn ngôn ngữ có thể được sử dụng để dịch các mẫu email.,Select the languages that can be used to translate email templates.,0
 messages,oro.locale.form.tooltip.locale,"Lựa chọn miền địa phương ảnh hưởng đến định dạng số, địa chỉ, tên và ngày tháng.","Locale selection affects the formatting of numbers, addresses, names, and dates.",0
-messages,oro.locale.form.tooltip.location," Nếu tùy chọn Định dạng địa chỉ cho mỗi quốc gia bị tắt hoặc không có định dạng theo quốc gia cụ thể, địa chỉ sẽ được định dạng theo các quy tắc của vị trí chính."," If Format address per country option is disabled, or there is no country-specific formatting, the addresses will be formatted according to the rules of primary location.",0
+messages,oro.locale.form.tooltip.location,"Nếu tùy chọn Định dạng địa chỉ cho mỗi quốc gia bị tắt hoặc không có định dạng theo quốc gia cụ thể, địa chỉ sẽ được định dạng theo các quy tắc của vị trí chính."," If Format address per country option is disabled, or there is no country-specific formatting, the addresses will be formatted according to the rules of primary location.",0
 messages,oro.locale.form.tooltip.quarter_start,Đặt ngày khi quý đầu tiên của năm bắt đầu.,Set the date when the first quarter of the year starts.,0
 messages,oro.locale.form.tooltip.temperature_unit,Chọn đơn vị nhiệt độ. Cài đặt này sẽ được áp dụng cho thời tiết trên bản đồ.,Select the temperature unit. This settings will be applied for the weather on the map.,0
 messages,oro.locale.form.tooltip.timezone,Chọn múi giờ của vị trí của bạn. Tất cả các ngày và giờ sẽ được hiển thị trong múi giờ đã chỉ định.,Select the timezone of your location. All dates and times will be displayed in the specified timezone.,0
@@ -8989,11 +8989,11 @@ messages,oro.magento.cart.is_guest.label,Là khách,Is guest,0
 messages,oro.magento.cart.items_count.description,Số lượng của từng mặt hàng trong giỏ hàng Magento.,The quantity of each item in a Magento shopping cart.,0
 messages,oro.magento.cart.items_count.label,Số mục,Items count,0
 messages,oro.magento.cart.items_qty.description,Số lượng mặt hàng khác nhau trong giỏ hàng Magento.,The number of various items in a Magento shopping cart.,0
-messages,oro.magento.cart.items_qty.label,Hạng mục qty,Items qty,0
+messages,oro.magento.cart.items_qty.label,Số lượng mặt hàng,Items qty,0
 messages,oro.magento.cart.last_name.description,Họ của một khách hàng Magento đã tạo ra một giỏ hàng.,The last name of a Magento customer who created a cart.,0
 messages,oro.magento.cart.last_name.label,Họ,Last name,0
 messages,oro.magento.cart.notes.description,Thông tin bổ sung mà khách hàng có thể để lại cho giỏ hàng Magento.,Additional information that a customer can leave for a Magento shopping cart.,0
-messages,oro.magento.cart.notes.label,Ý kiến ​​khác,Additional comments,0
+messages,oro.magento.cart.notes.label,Ý kiến khác,Additional comments,0
 messages,oro.magento.cart.opportunity.description,Cơ hội mà một giỏ hàng Magento đã được chuyển đổi.,The opportunity to which a Magento shopping cart was converted.,0
 messages,oro.magento.cart.opportunity.label,Cơ hội,Opportunity,0
 messages,oro.magento.cart.organization.label,Cơ quan,Organization,0
@@ -9081,7 +9081,7 @@ messages,oro.magento.cartaddress.street2.label,Đường phố 2,Street 2,0
 messages,oro.magento.cartaddress.updated.description,Ngày và giờ khi địa chỉ giỏ hàng Magento được cập nhật lần cuối.,The date and time when the Magento cart address was last updated.,0
 messages,oro.magento.cartaddress.updated.label,Cập nhật tại,Updated at,0
 messages,oro.magento.cartitem.cart.description,Giỏ hàng Magento mà một mặt hàng Magento thuộc về.,The Magento shopping cart to which a Magento cart item belongs.,0
-messages,oro.magento.cartitem.cart.label,xe đẩy,Cart,0
+messages,oro.magento.cartitem.cart.label,Giỏ hàng,Cart,0
 messages,oro.magento.cartitem.channel.description,Việc tích hợp thông qua đó thông tin về một mặt hàng giỏ mua hàng Magento được nhận.,The integration via which information about a Magento shopping cart item is received.,0
 messages,oro.magento.cartitem.channel.label,Hội nhập,Integration,0
 messages,oro.magento.cartitem.custom_price.description,Số tiền giá tùy chỉnh được chỉ định cho một mặt hàng giỏ hàng Magento.,The custom price amount specified for a Magento shopping cart item.,0
@@ -9144,7 +9144,7 @@ messages,oro.magento.cartstatus.name.label,Tên,Name,0
 messages,oro.magento.channel_type.magento.label,Magento,Magento,0
 messages,oro.magento.channel_type.magento2.label,Magento 2,Magento 2,0
 messages,oro.magento.communications,Truyền thông,Communications,0
-messages,oro.magento.connector.cart.initial.label,Đầu nối ban đầu,Initial Cart connector,0
+messages,oro.magento.connector.cart.initial.label,Đầu nối Giỏ hàng ban đầu,Initial Cart connector,0
 messages,oro.magento.connector.cart.label,Kết nối giỏ hàng,Cart connector,0
 messages,oro.magento.connector.credit_memo.initial.label,Đầu ghi nhớ tín dụng ban đầu,Initial Credit Memo connector,0
 messages,oro.magento.connector.credit_memo.label,Đầu ghi thẻ tín dụng,Credit Memo connector,0
@@ -9175,7 +9175,7 @@ messages,oro.magento.creditmemo.adjustment_negative.label,Số tiền phí đi�
 messages,oro.magento.creditmemo.adjustment_positive.description,Số tiền hoàn trả điều chỉnh.,Adjustment refund amount.,0
 messages,oro.magento.creditmemo.adjustment_positive.label,Số tiền hoàn trả điều chỉnh,Adjustment refund amount,0
 messages,oro.magento.creditmemo.channel.description,Việc tích hợp thông qua đó thông tin về một bản ghi nhớ tín dụng Magento được nhận.,The integration via which information about a Magento credit memo is received.,0
-messages,oro.magento.creditmemo.channel.label,Hội nhập,Integration,0
+messages,oro.magento.creditmemo.channel.label,Tích hợp,Integration,0
 messages,oro.magento.creditmemo.created_at.description,Ngày và thời gian ghi nhớ tín dụng Magento đã được tạo.,The date and time Magento credit memo was created.,0
 messages,oro.magento.creditmemo.created_at.label,Được tạo lúc,Created At,0
 messages,oro.magento.creditmemo.customer_bal_total_refunded.description,Số tiền được hoàn lại từ số dư của khách hàng,The amount refunded from customer's balance,0
@@ -9199,7 +9199,7 @@ messages,oro.magento.creditmemo.invoice_id.label,ID hóa đơn,Invoice ID,0
 messages,oro.magento.creditmemo.items.description,Các mục được chỉ định cho một bản ghi nhớ tín dụng Magento.,The items specified for a Magento credit memo.,0
 messages,oro.magento.creditmemo.items.label,Mục ghi nhớ tín dụng,Credit Memo Items,0
 messages,oro.magento.creditmemo.order.description,Thứ tự Magento mà thư báo ghi có được tạo ra.,Magento order for which the credit memo was created.,0
-messages,oro.magento.creditmemo.order.label,Gọi món,Order,0
+messages,oro.magento.creditmemo.order.label,Đặt hàng,Order,0
 messages,oro.magento.creditmemo.organization.label,Cơ quan,Organization,0
 messages,oro.magento.creditmemo.origin_id.description,ID ghi nhớ tín dụng ở phía Magento.,Credit memo ID on the Magento side.,0
 messages,oro.magento.creditmemo.origin_id.label,ID gốc,Origin ID,0
@@ -9333,7 +9333,7 @@ messages,oro.magento.customer.sync_state.label,Trạng thái đồng bộ hóa,S
 messages,oro.magento.customer.synced_at.description,Ngày và giờ của đồng bộ hóa khách hàng Magento cuối cùng.,The date and time of the last Magento customer synchronization.,0
 messages,oro.magento.customer.synced_at.label,Đồng bộ hóa lần cuối lúc,Last Synced At,0
 messages,oro.magento.customer.vat.description,Số thuế VAT / VAT của khách hàng Magento.,A Magento customer TAX/VAT number.,0
-messages,oro.magento.customer.vat.label,Thùng thuế,Tax/Vat,0
+messages,oro.magento.customer.vat.label,Thuế/VAT,Tax/Vat,0
 messages,oro.magento.customer.website.description,Trang web thông qua đó thông tin về một khách hàng Magento được nhận.,The website via which information about a Magento customer is received.,0
 messages,oro.magento.customer.website.label,Trang mạng,Website,0
 messages,oro.magento.customer_information,thông tin khách hàng,Customer Information,0
@@ -9410,7 +9410,7 @@ messages,oro.magento.datagrid.columns.first_name,Tên đầu tiên,First Name,0
 messages,oro.magento.datagrid.columns.gift_message,Tin nhắn quà tặng,Gift message,0
 messages,oro.magento.datagrid.columns.grand_total,Tổng cộng,Grand Total,0
 messages,oro.magento.datagrid.columns.group,Nhóm,Group,0
-messages,oro.magento.datagrid.columns.increment_id,Gọi món #,Order #,0
+messages,oro.magento.datagrid.columns.increment_id,Đặt hàng #,Order #,0
 messages,oro.magento.datagrid.columns.is_subscriber.label,Là người đăng ký,Is Subscriber,0
 messages,oro.magento.datagrid.columns.is_subscriber.no,Không,No,0
 messages,oro.magento.datagrid.columns.is_subscriber.unknown,Không xác định,Not defined,0
@@ -9519,9 +9519,9 @@ messages,oro.magento.order.addresses.description,Thu thập các địa chỉ đ
 messages,oro.magento.order.addresses.label,Địa chỉ,Addresses,0
 messages,oro.magento.order.b2c_flow_order_follow_up.step.label,Bậc thang,Step,0
 messages,oro.magento.order.cart.description,Giỏ hàng từ đó một đơn hàng Magento được tạo ra.,The cart from which a Magento order was created.,0
-messages,oro.magento.order.cart.label,xe đẩy,Cart,0
+messages,oro.magento.order.cart.label,Giỏ hàng,Cart,0
 messages,oro.magento.order.channel.description,Việc tích hợp thông qua đó thông tin về một trật tự Magento được nhận.,The integration via which information about a Magento order is received.,0
-messages,oro.magento.order.channel.label,Hội nhập,Integration,0
+messages,oro.magento.order.channel.label,Tiích hợp,Integration,0
 messages,oro.magento.order.coupon_code.description,Mã phiếu giảm giá được thêm vào một đơn hàng Magento cụ thể.,The coupon code added to a specific Magento order.,0
 messages,oro.magento.order.coupon_code.label,Mã giảm giá,Coupon code,0
 messages,oro.magento.order.credit_memos.description,Thu thập bản ghi nhớ tín dụng cho một đơn đặt hàng Magento.,Collection of Credit Memos for a Magento order.,0
@@ -9551,7 +9551,7 @@ messages,oro.magento.order.id.label,ID,Id,0
 messages,oro.magento.order.imported_at.description,Ngày và giờ khi bản ghi được nhập.,The date and time when the record was imported.,0
 messages,oro.magento.order.imported_at.label,Đã nhập,Imported At,0
 messages,oro.magento.order.increment_id.description,ID gia tăng được chỉ định cho một đơn đặt hàng Magento.,The increment ID specified for a Magento order.,0
-messages,oro.magento.order.increment_id.label,Gọi món #,Order #,0
+messages,oro.magento.order.increment_id.label,Đặt hàng #,Order #,0
 messages,oro.magento.order.is_guest.description,Xác định liệu khách hàng Magento có tạo đơn đặt hàng là khách hay người dùng đã đăng ký hay không.,Defines whether a Magento customer who create an order is a guest or a registered user.,0
 messages,oro.magento.order.is_guest.label,Là khách,Is Guest,0
 messages,oro.magento.order.is_guest.no,Không,No,0
@@ -9560,7 +9560,7 @@ messages,oro.magento.order.is_virtual.description,Xác định xem mục giỏ M
 messages,oro.magento.order.is_virtual.label,Là ảo,Is virtual,0
 messages,oro.magento.order.items.description,Các mục được chỉ định cho một đơn đặt hàng Magento.,The items specified for a Magento order.,0
 messages,oro.magento.order.items.label,Đặt hàng,Order items,0
-messages,oro.magento.order.items_qty.label,Hạng mục qty,Items qty,0
+messages,oro.magento.order.items_qty.label,SL hạng mục,Items qty,0
 messages,oro.magento.order.last_name.description,Họ của một khách hàng Magento được chỉ định theo thứ tự Magento.,The last name of a Magento customer that is specified in the Magento order.,0
 messages,oro.magento.order.last_name.label,Họ,Last name,0
 messages,oro.magento.order.notes.description,Thông tin bổ sung mà khách hàng có thể để lại cho một đơn đặt hàng Magento.,Additional information that a customer can leave for a Magento order.,0
@@ -9652,7 +9652,7 @@ messages,oro.magento.orderaddress.region_text.label,Tiểu bang,State,0
 messages,oro.magento.orderaddress.street.description,Đường được chỉ định trong địa chỉ đơn hàng Magento.,The street specified in the Magento order address.,0
 messages,oro.magento.orderaddress.street.label,đường phố,Street,0
 messages,oro.magento.orderaddress.types.description,"Các loại địa chỉ (cho dù đó là địa chỉ thanh toán, địa chỉ giao hàng hoặc cả hai) được định cấu hình cho địa chỉ đơn đặt hàng Magento.","The address types (whether it is a billing address, shipping address, or both) configured for the Magento order address.",0
-messages,oro.magento.orderaddress.types.label,Các loại,Types,0
+messages,oro.magento.orderaddress.types.label,Loại,Types,0
 messages,oro.magento.orderitem.channel.description,Việc tích hợp thông qua đó thông tin về một mục Magento được nhận.,The integration via which information about a Magento order item is received.,0
 messages,oro.magento.orderitem.channel.label,Hội nhập,Integration,0
 messages,oro.magento.orderitem.discount_amount.description,Số tiền chiết khấu được chỉ định cho một mục đặt hàng Magento.,The discount amount specified for a Magento order item.,0
@@ -9660,18 +9660,18 @@ messages,oro.magento.orderitem.discount_amount.label,Số tiền giảm giá,Dis
 messages,oro.magento.orderitem.discount_percent.description,Phần trăm chiết khấu được chỉ định cho một mục đặt hàng Magento.,The discount percent specified for a Magento order item.,0
 messages,oro.magento.orderitem.discount_percent.label,Phần trăm giảm giá,Discount percent,0
 messages,oro.magento.orderitem.entity_description,Các vật phẩm mà một thứ Magento chứa.,The items that a Magento order contains.,0
-messages,oro.magento.orderitem.entity_label,Magento Order Item,Magento Order Item,0
-messages,oro.magento.orderitem.entity_plural_label,Magento Order Items,Magento Order Items,0
-messages,oro.magento.orderitem.id.label,Id mục giỏ hàng,Cart item id,0
+messages,oro.magento.orderitem.entity_label,Mục đơn hàng Magento,Magento Order Item,0
+messages,oro.magento.orderitem.entity_plural_label,Mục đơn hàng Magento,Magento Order Items,0
+messages,oro.magento.orderitem.id.label,Id món hàng trong giỏ,Cart item id,0
 messages,oro.magento.orderitem.is_virtual.description,Xác định liệu mục Magento có là ảo không.,Defines whether the Magento order item is virtual.,0
 messages,oro.magento.orderitem.is_virtual.label,Là ảo,Is virtual,0
 messages,oro.magento.orderitem.name.description,Tên được chỉ định cho một mục đặt hàng Magento.,The name specified for a Magento order item.,0
 messages,oro.magento.orderitem.name.label,Tên,Name,0
 messages,oro.magento.orderitem.order.description,Thứ tự mà một mặt hàng Magento cụ thể thuộc về.,The order to which a specific Magento order item belongs.,0
-messages,oro.magento.orderitem.order.label,Gọi món,Order,0
+messages,oro.magento.orderitem.order.label,Đặt hàng,Order,0
 messages,oro.magento.orderitem.origin_id.description,ID mục đơn hàng Magento ở phía Magento.,The Magento order item ID on the Magento side.,0
 messages,oro.magento.orderitem.origin_id.label,Id mục đơn đặt hàng gốc,Origin order item id,0
-messages,oro.magento.orderitem.original_price.description,Giá gốc của một đơn đặt hàng Magento trước bất kỳ phép tính nào (ví dụ: giá đặc biệt).,The original price of a Magento order item before any calculations (e.g. special prices).,0
+messages,oro.magento.orderitem.original_price.description,Giá gốc của một đơn đặt hàng Magento trước bất kỳ tính toán nào (ví dụ: giá đặc biệt).,The original price of a Magento order item before any calculations (e.g. special prices).,0
 messages,oro.magento.orderitem.original_price.label,Giá gốc,Original price,0
 messages,oro.magento.orderitem.owner.label,Chủ nhân,Owner,0
 messages,oro.magento.orderitem.price.description,Giá của đơn đặt hàng bao gồm giá đặc biệt nhưng trước khi tính thuế.,The order item price including special prices but before calculating taxes.,0
@@ -9693,17 +9693,17 @@ messages,oro.magento.orderitem.tax_percent.label,Phần trăm thuế,Tax percent
 messages,oro.magento.orderitem.weight.description,Giá trị trọng lượng được chỉ định cho một mục đặt hàng Magento.,The value of weight specified for a Magento order item.,0
 messages,oro.magento.orderitem.weight.label,Cân nặng,Weight,0
 messages,oro.magento.ordernote.channel.description,Việc tích hợp thông qua đó thông tin về một mục Magento được nhận.,The integration via which information about a Magento order item is received.,0
-messages,oro.magento.ordernote.channel.label,Hội nhập,Integration,0
+messages,oro.magento.ordernote.channel.label,Tích hợp,Integration,0
 messages,oro.magento.ordernote.created_at.description,Ngày và thời gian một ghi chú thứ tự Magento đã được tạo ra.,The date and time a Magento order note was created.,0
 messages,oro.magento.ordernote.created_at.label,Được tạo lúc,Created At,0
 messages,oro.magento.ordernote.entity_description,Một lưu ý được thêm bởi một quản trị cửa hàng cho một đơn đặt hàng ở phía Magento.,A note added by a store admin to an order on the Magento side.,0
-messages,oro.magento.ordernote.entity_label,Magento Order Note,Magento Order Note,0
-messages,oro.magento.ordernote.entity_plural_label,Ghi chú đặt hàng Magento,Magento Order Notes,0
+messages,oro.magento.ordernote.entity_label,Ghi chú đơn hàng Magento,Magento Order Note,0
+messages,oro.magento.ordernote.entity_plural_label,Ghi chú đơn hàng Magento,Magento Order Notes,0
 messages,oro.magento.ordernote.id.label,ID,Id,0
 messages,oro.magento.ordernote.message.description,Thông báo ghi chú đơn đặt hàng,Order note message,0
 messages,oro.magento.ordernote.message.label,Thông điệp,Message,0
 messages,oro.magento.ordernote.order.description,Thứ tự mà một ghi chú đơn hàng Magento cụ thể thuộc về.,The order to which a specific Magento order note belongs.,0
-messages,oro.magento.ordernote.order.label,Gọi món,Order,0
+messages,oro.magento.ordernote.order.label,Đơn hàng,Order,0
 messages,oro.magento.ordernote.organization.label,Cơ quan,Organization,0
 messages,oro.magento.ordernote.origin_id.description,ID ghi chú Magento được chỉ định ở phía Magento.,The Magento note ID specified on the Magento side.,0
 messages,oro.magento.ordernote.origin_id.label,Id gốc,Origin Id,0
@@ -9712,7 +9712,7 @@ messages,oro.magento.ordernote.updated_at.description,Ngày và giờ ghi chú �
 messages,oro.magento.ordernote.updated_at.label,Cập nhật tại,Updated At,0
 messages,oro.magento.ping_site_error,Không thể tải biểu mẫu,Unable to load form,0
 messages,oro.magento.product.channel.description,Việc tích hợp thông qua đó thông tin về một sản phẩm Magento được nhận.,The integration via which information about a Magento product is received.,0
-messages,oro.magento.product.channel.label,Hội nhập,Integration,0
+messages,oro.magento.product.channel.label,Tích hợp,Integration,0
 messages,oro.magento.product.cost.description,Chi phí của một sản phẩm Magento.,The cost of a Magento product.,0
 messages,oro.magento.product.cost.label,Giá cả,Cost,0
 messages,oro.magento.product.entity_description,Các sản phẩm Magento đại diện cho hàng hóa ở phía Magento.,Magento products represent goods on the Magento side.,0
@@ -9725,7 +9725,7 @@ messages,oro.magento.product.origin_id.description,Magento oproduct ID ở phía
 messages,oro.magento.product.origin_id.label,Id gốc,Origin Id,0
 messages,oro.magento.product.price.description,Giá được chỉ định cho một sản phẩm Magento.,The price specified for a Magento product.,0
 messages,oro.magento.product.price.label,Giá bán,Price,0
-messages,oro.magento.product.sku.description,Một đơn vị lưu trữ chứng khoán được thể hiện bằng mã nhận dạng duy nhất cho phép theo dõi sản phẩm Magento.,A stock keeping unit represented by a unique identification code that allows to track a Magento product.,0
+messages,oro.magento.product.sku.description,Một đơn vị lưu kho được thể hiện bằng mã nhận dạng duy nhất cho phép theo dõi sản phẩm Magento.,A stock keeping unit represented by a unique identification code that allows to track a Magento product.,0
 messages,oro.magento.product.sku.label,Sku,Sku,0
 messages,oro.magento.product.special_price.description,Giá đặc biệt được chỉ định cho sản phẩm Magento.,The special price specified for a Magento product.,0
 messages,oro.magento.product.special_price.label,Giá đặc biệt,Special price,0
@@ -9734,8 +9734,8 @@ messages,oro.magento.product.type.label,Loại sản phẩm,Product type,0
 messages,oro.magento.product.websites.description,Các trang web thông qua đó thông tin về một sản phẩm Magento được nhận.,The websites via which information about a Magento product is received.,0
 messages,oro.magento.product.websites.label,Trang web,Websites,0
 messages,oro.magento.recent_purchases.label,Mua Magento,Magento Purchases,0
-messages,oro.magento.store.channel.description,Việc tích hợp thông qua đó thông tin về một cửa hàng Magento được nhận.,The integration via which information about a Magento store is received.,0
-messages,oro.magento.store.channel.label,Hội nhập,Integration,0
+messages,oro.magento.store.channel.description,Cách tích hợp mà thông qua đó nhận được thông tin về một cửa hàng Magento.,The integration via which information about a Magento store is received.,0
+messages,oro.magento.store.channel.label,Tích hợp,Integration,0
 messages,oro.magento.store.code.description,Mã được gán cho một cửa hàng Magento.,A code assigned to a Magento store.,0
 messages,oro.magento.store.code.label,Mã số,Code,0
 messages,oro.magento.store.entity_description,Một cửa hàng Magento đại diện cho một trang web bằng phương tiện mà hàng hóa được bán và mua bởi khách hàng Magento.,A Magento store represents a website by means of which goods are sold and bought by Magento customers.,0
@@ -9751,7 +9751,7 @@ messages,oro.magento.store.website.description,Trang web được chỉ định 
 messages,oro.magento.store.website.label,Trang mạng,Website,0
 messages,oro.magento.transport.rest.label,REST API,REST API,0
 messages,oro.magento.transport.soap.label,API SOAP v2,SOAP v2 API,0
-messages,oro.magento.website.channel.description,Việc tích hợp thông qua đó thông tin về một trang web Magento được nhận.,The integration via which information about a Magento website is received.,0
+messages,oro.magento.website.channel.description,Cách tích hợp mà thông qua đó nhận được thông tin về một trang web Magento.,The integration via which information about a Magento website is received.,0
 messages,oro.magento.website.channel.label,Tích hợp,Integration,0
 messages,oro.magento.website.code.description,Mã được gán cho trang web Magento.,A code assigned to a Magento website.,0
 messages,oro.magento.website.code.label,Mã số,Code,0
@@ -9808,9 +9808,9 @@ messages,oro.mailchimp.campaign.email_campaign.label,Chiến dịch email,Email 
 messages,oro.mailchimp.campaign.emails_sent.label,Email đã gửi,Emails Sent,0
 messages,oro.mailchimp.campaign.entity_label,Chiến dịch MailChimp,MailChimp Campaign,0
 messages,oro.mailchimp.campaign.entity_plural_label,Chiến dịch MailChimp,MailChimp Campaigns,0
-messages,oro.mailchimp.campaign.facebook_likes.label,Facebook thích,Facebook Likes,0
-messages,oro.mailchimp.campaign.forwards.label,Tiền đạo,Forwards,0
-messages,oro.mailchimp.campaign.forwards_opens.label,Tiền đạo mở,Forwards Opens,0
+messages,oro.mailchimp.campaign.facebook_likes.label,Facebook likes,Facebook Likes,0
+messages,oro.mailchimp.campaign.forwards.label,Chuyển tiếp,Forwards,0
+messages,oro.mailchimp.campaign.forwards_opens.label,Chuyển tiếp được mở,Forwards Opens,0
 messages,oro.mailchimp.campaign.from_email.label,Từ email,From Email,0
 messages,oro.mailchimp.campaign.from_name.label,Từ tên,From Name,0
 messages,oro.mailchimp.campaign.hard_bounces.label,Hỏng nặng,Hard Bounces,0
@@ -9819,8 +9819,8 @@ messages,oro.mailchimp.campaign.last_open_date.label,Ngày mở cuối cùng,Las
 messages,oro.mailchimp.campaign.opens.label,Mở,Opens,0
 messages,oro.mailchimp.campaign.origin_id.label,Id gốc,Origin Id,0
 messages,oro.mailchimp.campaign.owner.label,Chủ nhân,Owner,0
-messages,oro.mailchimp.campaign.recipient_likes.label,Người nhận thích,Recipient Likes,0
-messages,oro.mailchimp.campaign.send_time.label,Gửi thời gian,Send Time,0
+messages,oro.mailchimp.campaign.recipient_likes.label,Lượt người nhận thích,Recipient Likes,0
+messages,oro.mailchimp.campaign.send_time.label,Thời gian gửi,Send Time,0
 messages,oro.mailchimp.campaign.soft_bounces.label,Hỏng nhẹ,Soft Bounces,0
 messages,oro.mailchimp.campaign.static_segment.label,Phân đoạn tĩnh,Static Segment,0
 messages,oro.mailchimp.campaign.status.label,Trạng thái,Status,0
@@ -9828,9 +9828,9 @@ messages,oro.mailchimp.campaign.subject.label,Tiêu đề,Subject,0
 messages,oro.mailchimp.campaign.subscribers_list.label,Danh sách người đăng ký,Subscribers List,0
 messages,oro.mailchimp.campaign.syntax_errors.label,Lỗi cú pháp,Syntax Errors,0
 messages,oro.mailchimp.campaign.template.label,Bản mẫu,Template,0
-messages,oro.mailchimp.campaign.tests_remain.label,Xét nghiệm còn lại,Tests Remain,0
+messages,oro.mailchimp.campaign.tests_remain.label,Kiểm tra còn lại,Tests Remain,0
 messages,oro.mailchimp.campaign.tests_sent.label,Kiểm tra đã gửi,Tests Sent,0
-messages,oro.mailchimp.campaign.title.label,Chức vụ,Title,0
+messages,oro.mailchimp.campaign.title.label,Tiêu đề,Title,0
 messages,oro.mailchimp.campaign.type.label,Kiểu,Type,0
 messages,oro.mailchimp.campaign.unique_clicks.label,Số nhấp chuột duy nhất,Unique Clicks,0
 messages,oro.mailchimp.campaign.unique_likes.label,Số lượt thích duy nhất,Unique Likes,0
@@ -9888,15 +9888,15 @@ messages,oro.mailchimp.controller.email_campaign.receive_activities.disabled.mes
 messages,oro.mailchimp.controller.email_campaign.receive_activities.enabled.message,Đã bật hoạt động chiến dịch MailChimp được kết nối,Receiving of connected MailChimp campaign activities enabled,0
 messages,oro.mailchimp.emailcampaign.abuseReports.label,Báo cáo lạm dụng,Abuse Reports,0
 messages,oro.mailchimp.emailcampaign.abuseReports.tooltip,Số lượng địa chỉ email trong chiến dịch đã báo cáo chiến dịch lạm dụng.,Number of email addresses in campaign that reported campaign for abuse.,0
-messages,oro.mailchimp.emailcampaign.activity_update_state.disabled,Tàn tật,Disabled,0
+messages,oro.mailchimp.emailcampaign.activity_update_state.disabled,Đã tắt,Disabled,0
 messages,oro.mailchimp.emailcampaign.activity_update_state.enabled,Đã bật,Enabled,0
 messages,oro.mailchimp.emailcampaign.activity_update_state.expired,Đã hết hạn,Expired,0
-messages,oro.mailchimp.emailcampaign.activity_update_state.label,Cập nhật hoạt động,Activities Update,0
+messages,oro.mailchimp.emailcampaign.activity_update_state.label,Các hoạt động cập nhật,Activities Update,0
 messages,oro.mailchimp.emailcampaign.clicks.label,Số lần nhấp,Clicks,0
 messages,oro.mailchimp.emailcampaign.clicks.tooltip,Số lần một liên kết trong chiến dịch được nhấp vào.,Number of times a link in the campaign was clicked.,0
 messages,oro.mailchimp.emailcampaign.emailsSent.label,Email đã gửi,Emails Sent,0
 messages,oro.mailchimp.emailcampaign.emailsSent.tooltip,Email đã gửi,Emails Sent,0
-messages,oro.mailchimp.emailcampaign.forwards.label,Tiền đạo,Forwards,0
+messages,oro.mailchimp.emailcampaign.forwards.label,Chuyển tiếp,Forwards,0
 messages,oro.mailchimp.emailcampaign.forwards.tooltip,Số lần email được chuyển tiếp đến một người bạn.,Number of times email was forwarded to a friend.,0
 messages,oro.mailchimp.emailcampaign.hardBounces.label,Hỏng nặng,Hard Bounces,0
 messages,oro.mailchimp.emailcampaign.hardBounces.tooltip,Số lượng địa chỉ email hỏng nặng trong chiến dịch.,Number of email addresses in campaign that hard bounced.,0
@@ -9907,7 +9907,7 @@ messages,oro.mailchimp.emailcampaign.negative.label,Tiêu cực,Negative,0
 messages,oro.mailchimp.emailcampaign.opens.label,Mở,Opens,0
 messages,oro.mailchimp.emailcampaign.opens.tooltip,Số lần chiến dịch được mở.,Number of times the campaign was opened.,0
 messages,oro.mailchimp.emailcampaign.positive.label,Tích cực,Positive,0
-messages,oro.mailchimp.emailcampaign.sendTime.label,Gửi thời gian,Send Time,0
+messages,oro.mailchimp.emailcampaign.sendTime.label,Thời gian gửi,Send Time,0
 messages,oro.mailchimp.emailcampaign.sendTime.tooltip,Số lượng chiến dịch địa chỉ email đã được gửi đến.,Number of email addresses campaign was sent to.,0
 messages,oro.mailchimp.emailcampaign.softBounces.label,Hỏng nhẹ,Soft Bounces,0
 messages,oro.mailchimp.emailcampaign.softBounces.tooltip,Số lượng địa chỉ email hỏng nhẹ trong chiến dịch.,Number of email addresses in campaign that soft bounced.,0
@@ -9928,10 +9928,10 @@ messages,oro.mailchimp.extendedmergevar.id.label,ID,Id,0
 messages,oro.mailchimp.extendedmergevar.label.label,Nhãn,Label,0
 messages,oro.mailchimp.extendedmergevar.name.label,Tên,Name,0
 messages,oro.mailchimp.extendedmergevar.required.label,Bắt buộc,Is Required,0
-messages,oro.mailchimp.extendedmergevar.state.label,Tiểu bang,State,0
+messages,oro.mailchimp.extendedmergevar.state.label,Trạng thái,State,0
 messages,oro.mailchimp.extendedmergevar.static_segment.label,Phân đoạn tĩnh,Static Segment,0
 messages,oro.mailchimp.extendedmergevar.tag.label,Nhãn,Tag,0
-messages,oro.mailchimp.form.activity_update_interval.tooltip,Phải nhận được các hoạt động của chiến dịch email dài bao lâu.,How long email capaign activities should be received.,0
+messages,oro.mailchimp.form.activity_update_interval.tooltip,Thời lượng cho các hoạt động trong chiến dịch email nên được nhận. ,How long email capaign activities should be received.,0
 messages,oro.mailchimp.form.api_key.tooltip,"Khóa API MailChimp. <br/><a href=""http://kb.mailchimp.com/accounts/management/about-api-keys"" target=""_blank"" class=""no-hash"">About API Keys</a>","MailChimp API Key. <br/><a href=""http://kb.mailchimp.com/accounts/management/about-api-keys"" target=""_blank"" class=""no-hash"">About API Keys</a>",0
 messages,oro.mailchimp.integration_transport.activity_update_interval.choice.1month,1 tháng,1 month,0
 messages,oro.mailchimp.integration_transport.activity_update_interval.choice.1week,1 tuần,1 week,0
@@ -9944,8 +9944,8 @@ messages,oro.mailchimp.integration_transport.api_key.check.label,Kiểm tra kế
 messages,oro.mailchimp.integration_transport.api_key.label,Mã API,API Key,0
 messages,oro.mailchimp.integration_transport.label,MailChimp,MailChimp,0
 messages,oro.mailchimp.mailchimptransport.api_key.label,Mã API,API Key,0
-messages,oro.mailchimp.mailchimptransport.entity_label,MailChimp Transport,MailChimp Transport,0
-messages,oro.mailchimp.mailchimptransport.entity_plural_label,MailChimp Transports,MailChimp Transports,0
+messages,oro.mailchimp.mailchimptransport.entity_label,Vận chuyển MailChimp,MailChimp Transport,0
+messages,oro.mailchimp.mailchimptransport.entity_plural_label,Vận chuyển MailChimp,MailChimp Transports,0
 messages,oro.mailchimp.mailchimptransport.id.label,ID,Id,0
 messages,oro.mailchimp.mailchimptransportsettings.channel.label,Kênh,Channel,0
 messages,oro.mailchimp.mailchimptransportsettings.entity_label,Cài đặt vận chuyển MailChimp,MailChimp Transport Settings,0
@@ -9995,13 +9995,13 @@ messages,oro.mailchimp.memberactivity.entity_label,Hoạt động thành viên M
 messages,oro.mailchimp.memberactivity.entity_plural_label,Các hoạt động của thành viên MailChimp,MailChimp Member Activities,0
 messages,oro.mailchimp.memberactivity.id.label,ID,Id,0
 messages,oro.mailchimp.memberactivity.ip.label,IP,IP,0
-messages,oro.mailchimp.memberactivity.member.label,Hội viên,Member,0
+messages,oro.mailchimp.memberactivity.member.label,Thành viên,Member,0
 messages,oro.mailchimp.memberactivity.owner.label,Chủ nhân,Owner,0
 messages,oro.mailchimp.memberactivity.url.label,URL,URL,0
 messages,oro.mailchimp.memberextendedmergevar.entity_label,Thành viên mở rộng Merge Var,Member Extended Merge Var,0
 messages,oro.mailchimp.memberextendedmergevar.entity_plural_label,Thành viên mở rộng Merge Var,Member Extended Merge Var,0
 messages,oro.mailchimp.memberextendedmergevar.id.label,ID,Id,0
-messages,oro.mailchimp.memberextendedmergevar.member.label,Hội viên,Member,0
+messages,oro.mailchimp.memberextendedmergevar.member.label,Thành viên,Member,0
 messages,oro.mailchimp.memberextendedmergevar.merge_var_values.label,Thành viên Hợp nhất Giá trị Var,Member Merge Var Values,0
 messages,oro.mailchimp.memberextendedmergevar.state.label,Tiểu bang,State,0
 messages,oro.mailchimp.memberextendedmergevar.static_segment.label,Phân đoạn tĩnh,Static Segment,0
@@ -10009,13 +10009,13 @@ messages,oro.mailchimp.staticsegment.channel.label,Kênh,Channel,0
 messages,oro.mailchimp.staticsegment.created_at.label,Được tạo lúc,Created At,0
 messages,oro.mailchimp.staticsegment.entity_label,Phân đoạn tĩnh MailChimp,MailChimp Static Segment,0
 messages,oro.mailchimp.staticsegment.entity_plural_label,Phân đoạn tĩnh MailChimp,MailChimp Static Segments,0
-messages,oro.mailchimp.staticsegment.extended_merge_vars.label,Vge Merge mở rộng,Extended Merge Vars,0
+messages,oro.mailchimp.staticsegment.extended_merge_vars.label,Mở rộng Merge Vars,Extended Merge Vars,0
 messages,oro.mailchimp.staticsegment.id.label,ID,Id,0
 messages,oro.mailchimp.staticsegment.last_reset.label,Đặt lại lần cuối,Last Reset,0
 messages,oro.mailchimp.staticsegment.last_synced.label,Đồng bộ hóa lần cuối,Last Synced,0
 messages,oro.mailchimp.staticsegment.marketing_list.label,Danh sách tiếp thị,Marketing List,0
 messages,oro.mailchimp.staticsegment.member_count.label,Số lượng thành viên,Member Count,0
-messages,oro.mailchimp.staticsegment.members.label,Các thành viên,Members,0
+messages,oro.mailchimp.staticsegment.members.label,Thành viên,Members,0
 messages,oro.mailchimp.staticsegment.name.label,Tên,Name,0
 messages,oro.mailchimp.staticsegment.origin_id.label,Id gốc,Origin Id,0
 messages,oro.mailchimp.staticsegment.owner.label,Chủ nhân,Owner,0
@@ -10068,16 +10068,16 @@ messages,oro.mailchimp.subscriberslist.unsubscribe_count.label,Số lượng ch�
 messages,oro.mailchimp.subscriberslist.unsubscribe_count_since_send.label,Số lượng chưa đăng ký kể từ khi gửi,Unsubscribed Count Since Send,0
 messages,oro.mailchimp.subscriberslist.updated_at.label,Cập nhật tại,Updated At,0
 messages,oro.mailchimp.subscriberslist.use_awesome_bar.label,Sử dụng Awesome Bar,Use Awesome Bar,0
-messages,oro.mailchimp.subscriberslist.visibility.label,Hiển thị,Visibility,0
+messages,oro.mailchimp.subscriberslist.visibility.label,Thaấy được,Visibility,0
 messages,oro.mailchimp.subscriberslist.web_id.label,Id web,Web Id,0
-messages,oro.mailchimp.syncstatus.in_progress,Trong tiến trình,In Progress,0
+messages,oro.mailchimp.syncstatus.in_progress,Đang tiến hành,In Progress,0
 messages,oro.mailchimp.syncstatus.list_is_connected.lebel,"Danh sách này được liên kết với phân đoạn ""%segment%"" của danh sách Mailchimp ""%list%"". Ngày đồng bộ hóa lần cuối: %synced%. Trạng thái đồng bộ hóa: %status%.","This list is linked to ""%segment%"" segment of ""%list%"" Mailchimp List. Last synchronization date: %synced%. Synchronization status: %status%.",0
 messages,oro.mailchimp.syncstatus.not_synced,Chưa được đồng bộ hóa,Not Synced,0
 messages,oro.mailchimp.syncstatus.scheduled,Đã lên lịch để đồng bộ hóa,Scheduled for Sync,0
 messages,oro.mailchimp.syncstatus.scheduled_by_change,Đã lên lịch để đồng bộ hóa,Scheduled for Sync,0
 messages,oro.mailchimp.syncstatus.synced,Cập nhật,Up to date,0
 messages,oro.mailchimp.template.active.label,Hoạt động,Active,0
-messages,oro.mailchimp.template.category.label,thể loại,Category,0
+messages,oro.mailchimp.template.category.label,Phân loại,Category,0
 messages,oro.mailchimp.template.channel.label,Kênh,Channel,0
 messages,oro.mailchimp.template.created_at.label,Được tạo lúc,Created At,0
 messages,oro.mailchimp.template.entity_label,Mẫu MailChimp,MailChimp Template,0
@@ -10101,7 +10101,7 @@ messages,oro.marketingactivity.entity_class.description,Lớp học của hoạt
 messages,oro.marketingactivity.entity_class.label,Lớp thực thể,Entity Class,0
 messages,oro.marketingactivity.entity_description,"Hồ sơ thống kê hoạt động tiếp thị trong bối cảnh (ví dụ: đơn đặt hàng, người dùng của khách hàng).","The record of marketing activity statistics in context (e.g. orders, customer users).",0
 messages,oro.marketingactivity.entity_id.description,Số nhận dạng duy nhất của hoạt động tiếp thị.,The unique identifier of the marketing activity.,0
-messages,oro.marketingactivity.entity_id.label,ID phap nhân,Entity Id,0
+messages,oro.marketingactivity.entity_id.label,ID thực thể,Entity Id,0
 messages,oro.marketingactivity.entity_label,Hoạt động tiếp thị,Marketing Activity,0
 messages,oro.marketingactivity.entity_plural_label,Hoạt động tiếp thị,Marketing Activities,0
 messages,oro.marketingactivity.event_date.label,Ngày tổ chức sự kiện,Event Date,0
@@ -10118,7 +10118,7 @@ messages,oro.marketingactivity.related_campaign_id.description,ID của chiến 
 messages,oro.marketingactivity.related_campaign_id.label,Id chiến dịch có liên quan,Related Campaign Id,0
 messages,oro.marketingactivity.sections.marketingactivities,Hoạt động tiếp thị,Marketing Activity,0
 messages,oro.marketingactivity.summary.click.label,Nhấp chuột,Click,0
-messages,oro.marketingactivity.summary.forward.label,Phía trước,Forward,0
+messages,oro.marketingactivity.summary.forward.label,Chuyển tiếp,Forward,0
 messages,oro.marketingactivity.summary.hard_bounce.label,Hỏng nặng,Hard Bounce,0
 messages,oro.marketingactivity.summary.label,Tóm tắt hoạt động tiếp thị,Marketing Activity Summary,0
 messages,oro.marketingactivity.summary.open.label,Mở,Open,0
@@ -10128,7 +10128,7 @@ messages,oro.marketingactivity.summary.unsubscribe.label,Hủy đăng ký,Unsubs
 messages,oro.marketingactivity.type.description,"Loại hoạt động tiếp thị (nhấp, mở, gửi, hủy đăng ký, hỏng nặng, hỏng nhẹ).","The marketing activity type (click, open, send, unsubscribe, soft_bunce, hard_bounce).",0
 messages,oro.marketingactivity.type.label,Kiểu,Type,0
 messages,oro.marketingactivity.view_campaign.label,Xem chiến dịch,View Campaign,0
-messages,oro.marketinglist.action.remove,Tẩy,Remove,0
+messages,oro.marketinglist.action.remove,Loại bỏ,Remove,0
 messages,oro.marketinglist.action.subscribe,Theo dõi,Subscribe,0
 messages,oro.marketinglist.action.unremove,Hoàn tác xóa,Undo remove,0
 messages,oro.marketinglist.action.unsubscribe,Hủy đăng ký,Unsubscribe,0
@@ -10172,14 +10172,14 @@ messages,oro.marketinglist.marketing_list_removed_items.label,Danh sách tiếp 
 messages,oro.marketinglist.marketing_list_unsubscribed_items.label,Danh sách tiếp thị Các mục chưa đăng ký,Marketing List Unsubscribed Items,0
 messages,oro.marketinglist.marketinglistitem.contacted_times.label,Thời gian liên hệ,Contacted Times,0
 messages,oro.marketinglist.marketinglistitem.created_at.label,Được tạo lúc,Created At,0
-messages,oro.marketinglist.marketinglistitem.entity_id.label,ID phap nhân,Entity Id,0
+messages,oro.marketinglist.marketinglistitem.entity_id.label,ID thực thể,Entity Id,0
 messages,oro.marketinglist.marketinglistitem.entity_label,Mục danh sách tiếp thị,Marketing List Item,0
 messages,oro.marketinglist.marketinglistitem.entity_plural_label,Mục danh sách tiếp thị,Marketing List Items,0
 messages,oro.marketinglist.marketinglistitem.id.label,ID,Id,0
 messages,oro.marketinglist.marketinglistitem.last_contacted_at.label,Liên hệ lần cuối lúc,Last Contacted At,0
 messages,oro.marketinglist.marketinglistitem.marketing_list.label,Danh sách tiếp thị,Marketing List,0
 messages,oro.marketinglist.marketinglistremoveditem.created_at.label,Được tạo lúc,Created At,0
-messages,oro.marketinglist.marketinglistremoveditem.entity_id.label,ID phap nhân,Entity Id,0
+messages,oro.marketinglist.marketinglistremoveditem.entity_id.label,ID thực thể,Entity Id,0
 messages,oro.marketinglist.marketinglistremoveditem.entity_label,Danh sách tiếp thị đã xóa mục,Marketing List Removed Item,0
 messages,oro.marketinglist.marketinglistremoveditem.entity_plural_label,Danh sách tiếp thị bị xóa,Marketing List Removed Items,0
 messages,oro.marketinglist.marketinglistremoveditem.id.label,ID,Id,0
@@ -10189,9 +10189,9 @@ messages,oro.marketinglist.marketinglisttype.entity_plural_label,Các loại dan
 messages,oro.marketinglist.marketinglisttype.label.label,Nhãn,Label,0
 messages,oro.marketinglist.marketinglisttype.name.label,Tên,Name,0
 messages,oro.marketinglist.marketinglistunsubscribeditem.created_at.label,Được tạo lúc,Created At,0
-messages,oro.marketinglist.marketinglistunsubscribeditem.entity_id.label,ID phap nhân,Entity Id,0
-messages,oro.marketinglist.marketinglistunsubscribeditem.entity_label,Danh sách tiếp thị Mục chưa đăng ký,Marketing List Unsubscribed Item,0
-messages,oro.marketinglist.marketinglistunsubscribeditem.entity_plural_label,Danh sách tiếp thị Các mục chưa đăng ký,Marketing List Unsubscribed Items,0
+messages,oro.marketinglist.marketinglistunsubscribeditem.entity_id.label,ID thực thể,Entity Id,0
+messages,oro.marketinglist.marketinglistunsubscribeditem.entity_label,Mục hủy đăng ký trong sanh sách tiếp thị,Marketing List Unsubscribed Item,0
+messages,oro.marketinglist.marketinglistunsubscribeditem.entity_plural_label,Mục hủy đăng ký trong sanh sách tiếp thị,Marketing List Unsubscribed Items,0
 messages,oro.marketinglist.marketinglistunsubscribeditem.id.label,ID,Id,0
 messages,oro.marketinglist.marketinglistunsubscribeditem.marketing_list.label,Danh sách tiếp thị,Marketing List,0
 messages,oro.marketinglist.name.label,Tên,Name,0
@@ -10200,7 +10200,7 @@ messages,oro.marketinglist.owner.label,Chủ nhân,Owner,0
 messages,oro.marketinglist.refresh_list,Làm mới danh sách,Refresh List,0
 messages,oro.marketinglist.segment,Danh sách tiếp thị %name% phân khúc,Marketing List %name% segment,0
 messages,oro.marketinglist.segment.label,Phân đoạn,Segment,0
-messages,oro.marketinglist.type.dynamic,Năng động,Dynamic,0
+messages,oro.marketinglist.type.dynamic,Động,Dynamic,0
 messages,oro.marketinglist.type.label,Kiểu,Type,0
 messages,oro.marketinglist.type.manual,Hướng dẫn,Manual,0
 messages,oro.marketinglist.type.static,Theo yêu cầu,On demand,0
@@ -10218,12 +10218,12 @@ messages,oro.message_queue_job.grid.columns.unique,Độc nhất,Unique,0
 messages,oro.message_queue_job.header.child_jobs,Danh sách công việc trẻ em,Child Jobs List,0
 messages,oro.message_queue_job.header.interrupted,Bị gián đoạn,Interrupted,0
 messages,oro.message_queue_job.header.lastActiveAt,Hoạt động lần cuối lúc,Last Active At,0
-messages,oro.message_queue_job.header.name,"Tên công việc%""","Job ""%name%""",0
+messages,oro.message_queue_job.header.name,"Việc ""%name%""","Job ""%name%""",0
 messages,oro.message_queue_job.header.root_jobs,Danh sách công việc,Jobs List,0
 messages,oro.message_queue_job.header.startedAt,Bắt đầu vào lúc,Started At,0
 messages,oro.message_queue_job.header.stoppedAt,Đã dừng ở,Stopped At,0
 messages,oro.message_queue_job.header.unique,Độc nhất,Unique,0
-messages,oro.message_queue_job.menu.label,Việc làm,Jobs,0
+messages,oro.message_queue_job.menu.label,Việc,Jobs,0
 messages,oro.message_queue_job.menu.shortcut.description,Danh sách công việc hàng đợi tin nhắn,List of Message Queue Jobs,0
 messages,oro.message_queue_job.menu.shortcut.label,Danh sách công việc,Jobs List,0
 messages,oro.message_queue_job.no_alive_consumers,Ứng dụng không được cấu hình đúng (người tiêu dùng tin nhắn không có sẵn). Hãy liên hệ với quản trị hệ thống.,The application is not configured properly (message consumers are not available). Please contact the system administrator.,0
@@ -10251,12 +10251,12 @@ messages,oro.navigation.menuupdate.acl_resource_id.label,Id tài nguyên ACL,ACL
 messages,oro.navigation.menuupdate.active.label,Hoạt động,Active,0
 messages,oro.navigation.menuupdate.custom.label,Là tùy chỉnh,Is Custom,0
 messages,oro.navigation.menuupdate.delete,Xóa bỏ,Delete,0
-messages,oro.navigation.menuupdate.deleted_message,Đã xóa thành công mục menu. Vui lòng% reload_link% trang để xem các thay đổi được áp dụng.,Menu item successfully deleted. Please %reload_link% the page to see the changes applied.,0
+messages,oro.navigation.menuupdate.deleted_message,Đã xóa thành công mục menu. Vui lòng %reload_link% trang để xem các thay đổi được áp dụng.,Menu item successfully deleted. Please %reload_link% the page to see the changes applied.,0
 messages,oro.navigation.menuupdate.description.label,Mô tả,Description,0
 messages,oro.navigation.menuupdate.descriptions.label,Mô tả,Description,0
-messages,oro.navigation.menuupdate.divider,Dải phân cách,Divider,0
-messages,oro.navigation.menuupdate.divider.label,Divider,Is Divider,0
-messages,oro.navigation.menuupdate.divider_created,Đã tạo bộ chia. Vui lòng %reload_link% trang để xem các thay đổi được áp dụng.,Divider created. Please %reload_link% the page to see the changes applied.,0
+messages,oro.navigation.menuupdate.divider,Gạch phân tách,Divider,0
+messages,oro.navigation.menuupdate.divider.label,Là gạch  phân tách,Is Divider,0
+messages,oro.navigation.menuupdate.divider_created,Đã tạo gạch phân tách. Vui lòng %reload_link% trang để xem các thay đổi được áp dụng.,Divider created. Please %reload_link% the page to see the changes applied.,0
 messages,oro.navigation.menuupdate.edit_menus,Chỉnh sửa menu,Edit Menus,0
 messages,oro.navigation.menuupdate.entity_label,Mục menu,Menu Item,0
 messages,oro.navigation.menuupdate.entity_plural_label,Mục menu,Menu Item,0
@@ -10302,7 +10302,7 @@ messages,oro.note.attachment.description,Tệp được đính kèm vào ghi ch�
 messages,oro.note.attachment.label,Tập tin đính kèm,Attachment,0
 messages,oro.note.enabled,Bật ghi chú,Enable notes,0
 messages,oro.note.entity_description,Thông tin bổ sung mà người dùng có thể để lại về bản ghi thực thể.,Additional information that a user can leave about an entity record.,0
-messages,oro.note.entity_label,chú thích,Note,0
+messages,oro.note.entity_label,Ghi chú,Note,0
 messages,oro.note.entity_plural_label,Ghi chú,Notes,0
 messages,oro.note.id.label,ID,Id,0
 messages,oro.note.message.description,Văn bản ghi chú.,The note text.,0
@@ -10315,7 +10315,7 @@ messages,oro.note.note_update,Cập nhật {{ entity }},Update {{ entity }},0
 messages,oro.note.note_updated_by,"được thêm bởi {{ user }}, được cập nhật bởi {{ editor }}","added by {{ user }}, updated by {{ editor }}",0
 messages,oro.note.organization.label,Cơ quan,Organization,0
 messages,oro.note.owner.label,Được tạo bởi,Created By,0
-messages,oro.note.save.label,Tiết kiệm,Save,0
+messages,oro.note.save.label,Lưu,Save,0
 messages,oro.note.target.description,Bản ghi thực thể mà ghi chú đã được thực hiện. Ghi chú được hiển thị trên trang xem của hồ sơ này.,The entity record that the note was made about. The note is displayed on the view page of this record.,0
 messages,oro.note.target.label,Mục tiêu,Target,0
 messages,oro.note.updated_by.description,Người dùng cập nhật hồ sơ ghi chú lần cuối.,The user who last updated the note record.,0
@@ -10335,7 +10335,7 @@ messages,oro.notification.emailnotification.edit_entity,Chỉnh sửa quy tắc 
 messages,oro.notification.emailnotification.email.label,E-mail,Email,0
 messages,oro.notification.emailnotification.entity_description,Trình bày thông báo qua email,Represent email notification,0
 messages,oro.notification.emailnotification.entity_label,Quy tắc thông báo,Notification Rule,0
-messages,oro.notification.emailnotification.entity_name.label,Tên pháp nhân,Entity name,0
+messages,oro.notification.emailnotification.entity_name.label,Tên thực thể,Entity name,0
 messages,oro.notification.emailnotification.entity_name.tooltip,"Chỉ những thực thể có sẵn mẫu mới được liệt kê. Nếu bạn không thấy thực thể mình muốn trong danh sách này, trước tiên hãy tạo <a href=""url"" target=""_blank""> mẫu thông báo </a> cho thực thể đó.","Only entities that have templates available are listed. If you don't see an entity you want in this list, please create <a href=""url"" target=""_blank"">a notification template</a> for it first.",0
 messages,oro.notification.emailnotification.entity_plural_label,Quy tắc thông báo,Notification Rules,0
 messages,oro.notification.emailnotification.event.label,Tên sự kiện,Event name,0
@@ -10360,7 +10360,7 @@ messages,oro.notification.massnotification.scheduled_at.label,Đã lên lịch v
 messages,oro.notification.massnotification.sender.label,Từ,From,0
 messages,oro.notification.massnotification.status.failed,Thất bại,Failed,0
 messages,oro.notification.massnotification.status.label,Trạng thái,Status,0
-messages,oro.notification.massnotification.status.success,Sự thành công,Success,0
+messages,oro.notification.massnotification.status.success,Thành công,Success,0
 messages,oro.notification.massnotification.subject.label,Tiêu đề,Subject,0
 messages,oro.notification.menu.emailnotification_list.description,Danh sách thông báo qua email,List of email notifications,0
 messages,oro.notification.system_configuration.email_notification_sender_email,Email người gửi,Sender Email,0
@@ -10414,7 +10414,7 @@ messages,oro.organization.name.label,Tên,Name,0
 messages,oro.organization.users.description,Những người dùng có quyền truy cập vào một tổ chức.,The users who have access to an organization.,0
 messages,oro.organization.users.label,Người dùng,Users,0
 messages,oro.platform.acl.action.system_info.label,Truy cập thông tin hệ thống,Access system information,0
-messages,oro.platform.caption.oro,Chuyến bay tới Oro,Oro Packages,0
+messages,oro.platform.caption.oro,Các gói Oro,Oro Packages,0
 messages,oro.platform.caption.thirdParty,Gói bên thứ 3,3rd Party Packages,0
 messages,oro.platform.no_packages,Không có gói nào được cài đặt,There are no installed packages,0
 messages,oro.platform.package.license,Giấy phép,License,0
@@ -10521,8 +10521,8 @@ messages,oro.reminder.method.label,phương pháp,Method,0
 messages,oro.reminder.processor.email.label,E-mail,Email,0
 messages,oro.reminder.processor.web_socket.label,Tin nhắn flash,Flash message,0
 messages,oro.reminder.recipient.label,Người nhận,Recipient,0
-messages,oro.reminder.related_entity_class_name.label,Tên pháp nhân có liên quan,Related entity name,0
-messages,oro.reminder.related_entity_id.label,Id pháp nhân có liên quan,Related entity id,0
+messages,oro.reminder.related_entity_class_name.label,Tên thực thể có liên quan,Related entity name,0
+messages,oro.reminder.related_entity_id.label,Id thực thể có liên quan,Related entity id,0
 messages,oro.reminder.reminder_template.due_message,đang bắt đầu lúc,is starting at,0
 messages,oro.reminder.sender.label,Người gửi,Sender,0
 messages,oro.reminder.sent_at.label,Đã gửi vào,Sent At,0
@@ -11137,7 +11137,7 @@ messages,oro.tag.system_configuration.groups.tag_settings.title,Cài đặt th�
 messages,oro.tag.tagging.alias.label,Bí danh,Alias,0
 messages,oro.tag.tagging.entity_description,Thể hiện gắn thẻ,Represent tagging,0
 messages,oro.tag.tagging.entity_label,Gắn thẻ,Tagging,0
-messages,oro.tag.tagging.entity_name.label,Tên pháp nhân,Entity name,0
+messages,oro.tag.tagging.entity_name.label,Tên thực thể,Entity name,0
 messages,oro.tag.tagging.entity_plural_label,Taggings,Taggings,0
 messages,oro.tag.tagging.id.label,ID,Id,0
 messages,oro.tag.tagging.label,Gắn thẻ,Tagging,0
@@ -11454,7 +11454,7 @@ messages,oro.ui.http_codes.409,Cuộc xung đột,Conflict,0
 messages,oro.ui.http_codes.410,Không còn,Gone,0
 messages,oro.ui.http_codes.411,Độ dài bắt buộc,Length Required,0
 messages,oro.ui.http_codes.412,Điều kiện tiên quyết không thành công,Precondition Failed,0
-messages,oro.ui.http_codes.413,Pháp nhân yêu cầu quá lớn,Request Entity Too Large,0
+messages,oro.ui.http_codes.413,Thực thể yêu cầu quá lớn,Request Entity Too Large,0
 messages,oro.ui.http_codes.414,URI yêu cầu quá dài,Request-URI Too Long,0
 messages,oro.ui.http_codes.415,Loại phương tiện không được hỗ trợ,Unsupported Media Type,0
 messages,oro.ui.http_codes.416,Phạm vi yêu cầu không hài lòng,Requested Range Not Satisfiable,0
