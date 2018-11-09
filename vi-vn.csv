@@ -5187,7 +5187,7 @@ jsmessages,oro.dataaudit.data_audit_condition.value_that,giá trị mà,value th
 jsmessages,oro.datagrid.action.delete_grid_view,Xóa bỏ,Delete,0
 jsmessages,oro.datagrid.action.discard_grid_view_changes,Loại bỏ những thay đổi,Discard changes,0
 jsmessages,oro.datagrid.action.rename_grid_view,Đổi tên,Rename,0
-jsmessages,oro.datagrid.action.save_grid_view,Tiết kiệm,Save,0
+jsmessages,oro.datagrid.action.save_grid_view,Lưu,Save,0
 jsmessages,oro.datagrid.action.save_grid_view_as,Lưu thành,Save As,0
 jsmessages,oro.datagrid.action.set_as_default_grid_view,Đặt làm mặc định,Set as default,0
 jsmessages,oro.datagrid.action.share_grid_view,Chia sẻ với người khác,Share With Others,0
@@ -5503,7 +5503,7 @@ jsmessages,oro.role.capability_block.no_capabilities_available,Nhóm này không
 jsmessages,oro.role.capability_block.select_all,Chọn tất cả,Select All,0
 jsmessages,oro.role.content_outdated,"Vai trò hiện tại đã được cập nhật. Vui lòng <a href=""#"" onclick=""window.location.reload(false);return false;""> làm mới trang </a> để xem các thay đổi mới","The current role has been updated. Please, <a href=""#"" onclick=""window.location.reload(false);return false;"">refresh the page</a> to view new changes",0
 jsmessages,oro.role.tabs.all.label,Tất cả,All,0
-jsmessages,oro.role.tabs.system_capabilities.label,Khả năng của hệ thống,System Capabilities,0
+jsmessages,oro.role.tabs.system_capabilities.label,Hệ thống,System Capabilities,0
 jsmessages,oro.sales.email.error.delete.more_one,"Địa chỉ email không bị xóa, khách hàng tiềm năng có nhiều địa chỉ email, không thể đặt địa chỉ email chính mới.","Email address was not deleted, the lead has more than one email addresses, can't set the new primary.",0
 jsmessages,oro.sales.form.add_new_customer,Thêm mới {{ account }},Add new {{ account }},0
 jsmessages,oro.sales.form.new_customer,Mới,New,0
@@ -6907,7 +6907,7 @@ messages,oro.contact.group.manage,Quản lý nhóm,Manage groups,0
 messages,oro.contact.group.organization.label,Cơ quan,Organization,0
 messages,oro.contact.group.owner.label,Chủ nhân,Owner,0
 messages,oro.contact.groups.description,Các nhóm liên hệ mà người liên hệ thuộc về.,Contact groups the contact belongs to.,0
-messages,oro.contact.groups.label,Các nhóm,Groups,0
+messages,oro.contact.groups.label,Nhóm,Groups,0
 messages,oro.contact.id.label,ID,Id,0
 messages,oro.contact.import.strategy.tooltip,<b> Thêm và thay thế chiến lược </b> thêm thông tin liên hệ mới từ tệp đã nhập và cập nhật tệp hiện có. <br> <b> Thêm chiến lược </b> không thay đổi các bản ghi hiện có. Tất cả các địa chỉ liên lạc được thêm vào dưới dạng bản ghi mới cho phép các bản sao.,<b>Add and Replace</b> strategy adds new contact information from the imported file and updates the existing one. <br> <b>Add strategy</b> does not change existing records. All contacts are added as new records allowing duplicates.,0
 messages,oro.contact.job_title.description,Chức vụ của người liên lạc trong tổ chức của họ.,Job title of the contact person within their organization.,0
@@ -10490,7 +10490,7 @@ messages,oro.query_designer.datagrid.column.sorting,Sắp xếp,Sorting,0
 messages,oro.query_designer.filter.boolean.select_value.label,Chọn giá trị,Select Value,0
 messages,oro.query_designer.form.action.add,Thêm vào,Add,0
 messages,oro.query_designer.form.action.cancel,Hủy bỏ,Cancel,0
-messages,oro.query_designer.form.action.save,Tiết kiệm,Save,0
+messages,oro.query_designer.form.action.save,Lưu,Save,0
 messages,oro.query_designer.form.choose_function,khỏi,None,0
 messages,oro.query_designer.form.choose_sorting,khỏi,None,0
 messages,oro.query_designer.form.column,Cột,Column,0
@@ -11007,7 +11007,7 @@ messages,oro.sales.opportunityclosereason.entity_plural_label,Lý do kết thúc
 messages,oro.sales.opportunityclosereason.label.description,Nhãn cho bản ghi lý do kết thúc cơ hội,The label of the opportunity close reason record.,0
 messages,oro.sales.opportunityclosereason.label.label,Nhãn,Label,0
 messages,oro.sales.opportunityclosereason.name.label,Tên,Name,0
-messages,oro.sales.privilege.category.sales_data.label,Dữ liệu bán hàng,Sales Data,0
+messages,oro.sales.privilege.category.sales_data.label,Bán hàng,Sales Data,0
 messages,oro.sales.salesfunnel.data_channel.label,Kênh,Channel,0
 messages,oro.sales.salesfunnel.datagrid.delete,Xóa bỏ,Delete,0
 messages,oro.sales.salesfunnel.datagrid.update,Cập nhật,Update,0
@@ -11573,7 +11573,7 @@ messages,oro.user.google_id.description,ID google của người dùng được 
 messages,oro.user.google_id.label,ID Google,Google ID,0
 messages,oro.user.group.entity_description,"Một tập hợp người dùng được hợp nhất bởi một hoặc nhiều thông số. Thay vì chỉ định từng người dùng một, bạn có thể chỉ định nhóm người dùng trong bộ lọc và quy tắc thông báo.","A set of users consolidated by one or more parameters. Instead of specifying each user one by one, you can specify a user group in filters and notification rules.",0
 messages,oro.user.group.entity_label,Nhóm,Group,0
-messages,oro.user.group.entity_plural_label,Các nhóm,Groups,0
+messages,oro.user.group.entity_plural_label,Nhóm,Groups,0
 messages,oro.user.group.has_group.label,Có nhóm,Has group,0
 messages,oro.user.group.id.description,Số nhận dạng duy nhất của bản ghi nhóm người dùng,The unique identifier of a user group record,0
 messages,oro.user.group.id.label,ID,Id,0
@@ -11584,7 +11584,7 @@ messages,oro.user.group.owner.label,Chủ nhân,Owner,0
 messages,oro.user.group.roles.description,Các vai trò được gán cho nhóm người dùng. Hiện tại không được hỗ trợ và sẽ bị xóa.,The roles assigned to the user group. Currently is not supported and will be removed.,0
 messages,oro.user.group.roles.label,Vai trò,Roles,0
 messages,oro.user.groups.description,Các nhóm mà người dùng thuộc về.,The groups that the user belongs to.,0
-messages,oro.user.groups.label,Các nhóm,Groups,0
+messages,oro.user.groups.label,Nhóm,Groups,0
 messages,oro.user.id.label,ID,Id,0
 messages,oro.user.image.tooltip,"Hình đại diện phải ở định dạng BMP, JPEG hoặc PNG và tệp phải nhỏ hơn %file_size% kích thước","The avatar must be in BMP, JPEG or PNG formats, and the file must be less than %file_size% in size",0
 messages,oro.user.imap_configuration.label,Cài đặt đồng bộ hóa email,Email synchronization settings,0
@@ -11885,7 +11885,7 @@ messages,oro.workflow.workflowdefinition.exclusive_record_groups.label,Nhóm b�
 messages,oro.workflow.workflowdefinition.form.replace_message,Tùy chọn bạn có thể chọn quy trình công việc bị hủy kích hoạt. Việc hủy kích hoạt sẽ đặt lại dữ liệu luồng công việc của các luồng công việc đã chọn.,Optionally you may select workflows to be deactivated. Deactivation will reset workflow data of selected workflows.,0
 messages,oro.workflow.workflowdefinition.form.workflow_to_deactivation_message,Các quy trình công việc sau đây sẽ bị vô hiệu hóa tự động theo cài đặt nhóm công việc độc quyền:,The following workflows will be deactivated automatically according to the exclusive workflow group settings:,0
 messages,oro.workflow.workflowdefinition.grid.label,Tên luồng công việc,Workflow Name,0
-messages,oro.workflow.workflowdefinition.groups.label,Các nhóm,Groups,0
+messages,oro.workflow.workflowdefinition.groups.label,Nhóm,Groups,0
 messages,oro.workflow.workflowdefinition.label.label,Tên,Name,0
 messages,oro.workflow.workflowdefinition.name.description,Tên của quy trình làm việc,The name of the workflow,0
 messages,oro.workflow.workflowdefinition.name.label,Mã số,Code,0
@@ -12131,10 +12131,10 @@ messages,Reset workflow data,Đặt lại dữ liệu luồng công việc,Reset
 messages,resetting.flash.success,Mật khẩu đã được đặt lại thành công,The password has been successfully reset,0
 messages,Restored,Yêu cầu cập nhật,Requires update,0
 messages,Return to Login,Trở về trang đăng nhập,Return to Login,0
-messages,Save,Tiết kiệm,Save,0
+messages,Save,Lưu,Save,0
 messages,Save and Close,Lưu và đóng,Save and Close,0
 messages,Save and New,Lưu và mới,Save and New,0
-messages,Saving...,Tiết kiệm...,Saving...,0
+messages,Saving...,Đang lưu …,Saving...,0
 messages,Search,Tìm kiếm,Search,0
 messages,Search results,Kết quả tìm kiếm,Search results,0
 messages,Send,Gửi,Send,0
